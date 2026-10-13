@@ -1,0 +1,2262 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+
+I.     GENERAL INFORMATION
+
+       Device Generic Name:                      Tricuspid Valve Repair Device, Percutaneously
+                                                 Delivered
+
+       Device Trade Name:                        TriClip G4 System
+
+       Device Procode:                           NPS
+
+       Applicant Name and Address:               Abbott Medical
+                                                 177 County Road B East
+                                                 St. Paul, MN 55117 USA
+
+       Date of Panel Recommendation:             February 13, 2024
+
+       Premarket Approval Application            P230007
+       (PMA) Number:
+
+       Date of FDA Notice of Approval:           April 1, 2024
+
+       Breakthrough Device:                      Granted breakthrough device status on November
+                                                 19, 2020, because the device can provide for more
+                                                 effective treatment of an irreversibly debilitating
+                                                 disease; as well as represents a breakthrough
+                                                 technology, offers significant advantages over
+                                                 existing approved or cleared alternatives, and is in
+                                                 the best interest of patients.
+
+II.    INDICATIONS FOR USE
+
+       The TriClip G4 System is indicated for improving quality of life and functional status in
+       patients with symptomatic severe tricuspid regurgitation despite optimal medical therapy,
+       who are at intermediate or greater risk for surgery and in whom transcatheter edge-to-edge
+       valve repair is clinically appropriate and is expected to reduce tricuspid regurgitation severity
+       to moderate or less, as determined by a multidisciplinary heart team.
+
+III.   CONTRAINDICATIONS
+
+       The TriClip G4 System is contraindicated in patients with the following conditions:
+           Intolerance, including allergy or untreatable hypersensitivity, to procedural
+              anticoagulation.
+           Untreatable hypersensitivity to implant components (nickel-titanium alloy,
+           cobalt-chromium alloy).
+           Active endocarditis or other active infections of the tricuspid valve.
+
+
+                         PMA P230007: FDA Summary of Safety and Effectiveness Data                1 of 51
+IV.   WARNINGS AND PRECAUTIONS
+
+      The warnings and precautions can be found in the TriClip G4 System labeling.
+
+V.    DEVICE DESCRIPTION
+
+      The TriClip G4 System is designed to repair the native tricuspid valve without open heart
+      surgery by grasping and bringing together (coapting) the tricuspid valve leaflets to reduce
+      tricuspid regurgitation (TR). The device, as shown in Figure 1, is composed of the TriClip
+      Steerable Guide Catheter (SGC), the TriClip G4 Delivery System (TDS), and Accessories.
+
+
+
+
+Figure 1. TriClip G4 System and Stabilizer Accessory.
+
+      TriClip Steerable Guide Catheter
+      The TriClip Steerable Guide Catheter’s primary function is to access the right atrium,
+      maneuver to the target location above the tricuspid valve and position the TriClip G4 Delivery
+      System.
+
+      TriClip G4 Delivery System
+      The TriClip G4 Delivery System (TDS) is used to deliver, position, and place the implant of
+      the TriClip G4 System on the tricuspid valve leaflets. The TDS is comprised of the Delivery
+      Catheter, the Steerable Sleeve, a handle, and the TriClip G4 Implant. The user interface on
+      the TDS allows for the adjustment of the implant to the desired position for implantation,
+      which are open, closed or inverted.
+
+
+
+
+                       PMA P230007: FDA Summary of Safety and Effectiveness Data              2 of 51
+       The Delivery Catheter controls the actuation and deployment of the TriClip G4 Implant. The
+       Delivery Catheter is controlled using the Arm Positioner, Gripper Levers, Actuator Knob, and
+       Lock Lever.
+
+       The Steerable Sleeve facilitates the navigation and positioning of the TriClip G4 Implant in
+       the appropriate location above the tricuspid valve.
+
+       The Implant grasps and coapts the tricuspid valve leaflets resulting in fixed approximation of
+       the leaflets throughout the cardiac cycle. It is available in four sizes (NT, XT, NTW, XTW)
+       and can be locked, unlocked, and repeatedly opened and closed to allow for repositioning of
+       the implant to the target location.
+
+       $FFHVVRULHVௗ
+       The Accessories are intended to support the TriClip G4 System during the procedure. The
+       Accessories consist of the Stabilizer, the Support Plate, and the Lift. The Lift and the Support
+       Plate are used outside of the sterile field to provide a stable platform during the procedure.
+       The Stabilizer is used in the sterile field to support and position the TriClip Steerable Guide
+       Catheter and the TriClip G4 Delivery System during the procedure.
+
+VI.    ALTERNATIVE PRACTICES AND PROCEDURES
+
+       There are alternative TR treatments including medical therapy, surgery, and transcatheter
+       tricuspid valve replacement. Each alternative has its own advantages and disadvantages. A
+       patient should discuss these alternatives with his/her physician to select the treatment that best
+       meets expectations and lifestyle.
+
+VII.   MARKETING HISTORY
+
+       The TriClip G4 System is commercially available in the European Union, Argentina,
+       Australia, Canada, Colombia, Costa Rica, Ecuador, Indonesia, Israel, Lebanon, Malaysia,
+       Mexico, New Zealand, Russia, Saudi Arabia, Singapore, Taiwan, Thailand, Turkey, and
+       United Kingdom. The device has not been withdrawn from marketing for any reason related
+       to its safety or effectiveness.
+
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+       Below is a list of the potential adverse effects (e.g., complications) associated with the use of
+       the TriClip G4 System.
+
+        x   Allergic reactions or hypersensitivity to x         Nausea or vomiting
+            latex, contrast agent, anaesthesia, device x        Pain
+            materials and drug reactions to            x        Pericardial effusion
+            anticoagulation, or antiplatelet drugs     x        Stroke/cerebrovascular accident (CVA)
+        x   Additional treatment or surgery due to              and transient ischemic attack (TIA)
+            device-related complications               x        System organ failure:
+        x   Bleeding                                                   o Cardio-respiratory arrest
+
+
+
+                         PMA P230007: FDA Summary of Safety and Effectiveness Data                 3 of 51
+          x   Blood disorders (including                                o Worsening heart failure
+              coagulopathy, hemolysis, and heparin                      o Pulmonary congestion
+              induced thrombocytopenia (HIT))                           o Respiratory dysfunction, failure,
+          x   Cardiac arrhythmias (including                                or atelectasis
+              conduction disorders, atrial arrhythmias,                 o Renal insufficiency or failure
+              ventricular arrhythmias)                                  o Cardiogenic or anaphylactic
+          x   Cardiac ischemic conditions (including                        shock
+              myocardial infarction, myocardial         x        Thrombosis
+              ischemia, unstable angina, and stable     x        Tricuspid valve complications, which may
+              angina                                             complicate or prevent later surgical repair,
+          x   Cardiac perforation                                including:
+          x   Cardiac tamponade                                         o Chordal entanglement or rupture
+          x   Chest pain                                                o Single leaflet device attachment
+          x   Death                                                         (SLDA)
+          x   Dyspnea                                                   o Dislodgement of previously
+                                                                            implanted devices
+          x   Edema
+                                                                        o Tissue damage
+          x   Embolization (device or components of
+                                                                        o Tricuspid valve stenosis
+              the device)
+                                                                        o Worsening, persistent or
+          x   Endocarditis
+                                                                            residual tricuspid regurgitation
+          x   Fever or hyperthermia                     x        Vascular access complications which may
+          x   Fluoroscopy and transesophageal                    require additional intervention, including:
+              echocardiogram (TEE)-related                              o Wound dehiscence,
+              complications:                                            o Bleeding at the access site
+                     o Skin injury or tissue changes                    o Arteriovenous fistula,
+                         due to exposure to ionizing                        pseudoaneurysm, aneurysm,
+                         radiation                                          dissection, perforation or
+                     o Esophageal irritation                                rupture, vascular occlusion
+                     o Esophageal perforation                           o Embolism (air, thrombus)
+                     o Gastrointestinal bleeding                        o Peripheral nerve injury
+          x   Hypotension or hypertension               x        Venous thrombosis (including deep vein
+          x   Infection including:                               thrombosis) and thromboembolism
+                     o Septicemia                                (including pulmonary embolism)
+
+         For specific adverse events that occurred in the clinical study, please see Section X below.
+
+IX.      SUMMARY OF NONCLINICAL STUDIES
+
+A. Laboratory Studies
+
+      Nonclinical laboratory studies on the TriClip G4 System were performed in accordance with, but
+      not limited to, ISO 5910:2018, Cardiovascular implants and extracorporeal systems - Cardiac
+      valve repair devices, along with relevant FDA guidance documents.
+
+
+
+
+                          PMA P230007: FDA Summary of Safety and Effectiveness Data                4 of 51
+  1. Biocompatibility
+
+      Biocompatibility of the TriClip G4 System was assessed in accordance with ISO 10993-1,
+      Biological Evaluation of Medical Devices - Part 1: Evaluation and testing within a risk
+      management process, and the FDA Guidance for Industry and Food and Drug Administration
+      Staff, Use of International Standard ISO 10993-1, Biological evaluation of medical devices –
+      Part 1: Evaluation and testing within a risk management process. The required testing for
+      each component was determined based on the nature and duration of body contact per ISO
+      10993-1. The test articles consisted of patient-contacting device components after exposure
+      to all manufacturing processes, including sterilization.
+
+      Testing to support the TriClip G4 implant was leveraged from the commercially available
+      MitraClip G4 implant testing. The TriClip G4 implant is identical to the MitraClip G4 implant
+      in formulation, geometry, sterilization, and manufacturing processes. The biocompatibility
+      test results to support the TriClip G4 implant are summarized in Table 1.
+
+           Table 1. Summary of TriClip G4 Clip Biocompatibility Assessment
+  Biological Effect per
+                                      Test Method                                  Results
+      ISO10993-1
+Cytotoxicity                Colony assay                        Non-cytotoxic
+Sensitization               Guinea pig maximization             Non-sensitizing
+Irritation/Intracutaneous
+                          Intracutaneous reactivity             Non-irritating
+Reactivity
+                          Material-mediated rabbit
+Pyrogenicity                                                    Non-pyrogenic
+                          pyrogen
+                                                                No biologically significant signs of
+                            Acute Systemic Toxicity
+                                                                systemic toxicity
+Systemic Toxicity
+                            Subchronic Systemic                 No biologically significant signs of
+                            Toxicity                            systemic toxicity
+                            Implant 13 Weeks - IM               Non-irritant
+                            Implant 4 Weeks - IM                Slight local irritant
+                                                        Local tissue inflammatory or tissue
+Implantation                                            toxicity response (e.g., degenerative
+                                                        or necrotic changes) to the test
+                            Implant 13 Weeks - IM
+                                                        article in all animals was
+                                                        significantly stronger with test
+                                                        articles than negative control
+                            Implant Toxicity 4 Weeks - Non-irritant, and no patterns of
+                            IM                          systemic toxicity
+Implant Toxicity
+                            Implant Toxicity 13 Weeks - Non-irritant, and no patterns of
+                            IM                          systemic toxicity
+
+
+
+
+                       PMA P230007: FDA Summary of Safety and Effectiveness Data                5 of 51
+  Biological Effect per
+                                      Test Method                                  Results
+      ISO10993-1
+
+                            Hemolysis – Direct Contact
+                                                                Non-Hemolytic
+                            and Extract
+
+                            Complement Activation               Equivalent to comparison and/or
+                            Assay – SC5b-9                      reference material
+                                                                Clotting time greater than or not
+                                                                statistically significantly lower than
+                            Prothrombin Time                    the clotting time of the negative
+Hemocompatibility                                               control and negative reference
+                                                                control
+                                                                Clotting time greater than or not
+                                                                statistically significantly lower than
+                            Partial Thromboplastin
+                                                                the clotting time of the negative
+                            Time
+                                                                control and negative reference
+                                                                control
+                                                                The mean percentage value of the
+                            Platelet & Leukocyte                platelet cell counts was within 80 to
+                                                                120% of the negative control
+                            Ames – Bacterial Reverse            No biologically significant increases
+                            Mutation                            in reversion rates
+Genotoxicity                In vitro Mouse Lymphoma             Non-genotoxic, non-clastogenic
+                                                                No biologically significant increases
+                            Chromosomal Aberration
+                                                                in aberrations rates
+                            In vivo Mouse micronucleus Non-mutagenic
+
+      Testing to support the TriClip G4 delivery system was leveraged from the commercially
+      available MitraClip G4 delivery system testing. The TriClip G4 delivery system is similar to
+      the MitraClip G4 delivery system in terms of formulation, geometry, sterilization, and
+      manufacturing processes, and minor differences are not expected to impact the
+      biocompatibility device profile. The biocompatibility test results to support the TriClip G4
+      delivery system are summarized in Table 2.
+
+Table 2. Summary of TriClip G4 TDS (excluding Clip), TriClip G4 Delivery Catheter, and
+               Steerable Guide Catheter Biocompatibility Assessment
+  Biological Effect per
+                                     Test Method                                   Results
+      ISO10993-1
+                            Cytotoxicity – MEM
+Cytotoxicity                                                   Non-cytotoxic
+                            Elution Assay
+                            Cytotoxicity – Colony              Non-cytotoxic
+
+
+
+                       PMA P230007: FDA Summary of Safety and Effectiveness Data                 6 of 51
+  Biological Effect per
+                                      Test Method                                   Results
+      ISO10993-1
+                             Assay
+Sensitization                Sensitization – Guinea Pig
+                                                                Non-sensitizing
+                             Maximization
+Irritation                   Irritation –Intracutaneous
+                                                                Non-irritant
+                             Reactivity
+Pyrogenicity                 Material-Mediated Pyrogen Non-pyrogenic
+                                                                No biologically significant signs of
+Systemic Toxicity            Acute Systemic Toxicity
+                                                                systemic toxicity
+                             Hemolysis – Direct Contact
+                                                        Non-Hemolytic
+                             and Extract
+                             Complement Activation      Equivalent to comparison and/or
+                             Assay – SC5b-9             reference material
+                                                        Clotting time greater than or not
+Hemocompatibility                                       statistically significantly lower than
+                             Partial Thromboplastin
+                                                        the clotting time of the negative
+                             Time
+                                                        control and negative reference
+                                                        control
+                                                        The mean percentage value of the
+                             Platelet & Leukocyte       platelet cell counts was within 80 to
+                                                        120% of the negative control
+
+
+   2. Bench Testing
+
+      A summary of the bench testing results is provided in Table 3.
+
+                   Table 3. Summary of TriClip G4 System Bench Testing
+      Test                          Purpose                                         Results
+Catheter            Quantitatively assess the dimensions         Steerable Guide Catheter, Dilator,
+dimensions          (lengths, outer diameters, inner             Steerable Sleeve, Delivery catheter
+                    diameters) of the Steerable Guide            and Clip dimensions met all design
+                    Catheter (SGC), Dilator, Steerable           requirements and acceptance criteria.
+                    Sleeve, Delivery Catheter and Clip
+Curves and          Quantitatively assess curve                  All curves met design requirements
+Steering            positioning and steerability of the          and acceptance criteria.
+Performance         SGC and Sleeve curves
+
+                    Confirm the Clip is able to open, lock
+                                                                 Tested Clip Delivery Systems met all
+                    and unlock, maintain the locked
+Clip Reliability                                                 reliability requirements and
+                    position, and raise and lower Grippers
+                                                                 acceptance criteria.
+                    the required number of times under
+
+
+                        PMA P230007: FDA Summary of Safety and Effectiveness Data                7 of 51
+      Test                       Purpose                                         Results
+                 simulated use conditions
+
+
+
+Delivery         Quantitatively assess the stability of
+                                                              The Delivery Catheter met all design
+Catheter         the Delivery Catheter during Clip
+                                                              requirements and acceptance criteria.
+Stability        positioning
+
+                 Quantitatively assess the forces on the
+Clip                                                     All deployment forces met all design
+                 system when the Clip is deployed from
+Deployment                                               requirements and acceptance criteria.
+                 the catheter
+
+                 Quantitatively assess the tensile       All bonds met all tensile strength
+Tensile
+                 strength of the SGC, Dilator, Steerable design requirements and acceptance
+Strengths
+                 Sleeve and Delivery Catheter bonds      criteria.
+
+                 Quantitatively assess the torsional     All bonds met all torsional strength
+Torsional
+                 strength of the SGC, Dilator, Steerable design requirements and acceptance
+Strengths
+                 Sleeve and Delivery Catheter bonds      criteria.
+Delivery         Quantitatively assess the forces
+                                                              The Delivery Catheter met all design
+Catheter         delivered to the by the catheter during
+                                                              requirements and acceptance criteria.
+Functionality    actuation of the Clip and deployment
+                                                              The catheters met all design
+Hemostasis       Confirm the catheters do not leak
+                                                              requirements and acceptance criteria.
+Clip             Quantitatively assess the forces             The Clip met all design requirements
+Functionality    required to operate the Clip                 and acceptance criteria.
+                 Evaluate the size and count of               Size and count of particulate
+Particulate      particulate generated by the TriClip         generated were within acceptable
+                 System                                       limits.
+                                                              Worst-case tricuspid valve loading
+                 Determine mechanical stress/strain
+                                                              conditions for TriClip G4 were
+Clip Finite      during worst-case in vivo loading
+                                                              derived, and no implant structural
+Element          conditions of the tricuspid valve.
+                                                              component fractures were predicted at
+Analysis         Results are used to assess the fatigue
+                                                              600 million cycles of life under worst-
+                 life of the device
+                                                              case valvular loading conditions.
+                                                              Worst-case fatigue loading conditions
+                                                              were conservatively applied during
+                                                              accelerated Clip durability testing. All
+Clip Fatigue     Assess durability of the Clip with in        tested Clips remained locked, resisted
+Resistance       vitro long-term benchtop testing             opening, and were free of any
+                                                              fractures throughout 15 years (600
+                                                              million cycles) of applied worst-case
+                                                              cardiac loading cycles.
+Clip Corrosion   Evaluate Clip corrosion resistance           Acceptable corrosion resistance was
+
+
+
+                     PMA P230007: FDA Summary of Safety and Effectiveness Data                  8 of 51
+      Test                         Purpose                                         Results
+Resistance                                                      demonstrated per ASTM F2129 with
+                                                                breakdown potential (Eb) and
+                                                                breakdown gap (Eb-Er) test results
+                                                                that exceeded recommended
+                                                                acceptability thresholds from the
+                                                                literature.
+                   Evaluate magnetic resonance imaging
+                                                           The TriClip G4 implants were
+MRI                (MRI) safety and compatibility of the
+                                                           determined to be Magnetic Resonance
+Compatibility      implant and ensure that the implant can
+                                                           Conditional under the conditions
+Testing            be safely scanned at 1.5 Tesla
+                                                           listed in the device labeling.
+                   and 3.0 Tesla field strengths
+
+  3. Sterilization
+
+      The TriClip G4 System (TriClip G4 Delivery System and TriClip Steerable Guide Catheter)
+      and the Silicone Pad and Fasteners are sterilized via ethylene oxide (EtO) in accordance with
+      EN ISO 11135-1:2014, Sterilization of health care products – Ethylene oxide – Requirements
+      for development, validation and routine control of a sterilization process for medical devices.
+      The validated EtO sterilization process demonstrated a minimum Sterility Assurance Level
+      (SAL) of 10-6.
+
+      The TriClip G4 Stabilizer, Lift, and Support Plate are provided separately as non-sterile and
+      must be cleaned, disinfected, and/or sterilized prior to each use.
+
+  4. Packaging and Shelf-Life
+
+      The TriClip G4 System is provided to the end user in two packages, one for the TriClip G4
+      Delivery System and one for the TriClip Steerable Guide Catheter. The TriClip G4 Delivery
+      System and TriClip Steerable Guide Catheter are individually packaged. The Silicone Pad
+      and Fasteners are single use components and are included in the TriClip SGC packaging.
+
+      The TriClip G4 Delivery System and TriClip Steerable Guide Catheter packaging systems
+      both include a thermoformed internal tray and lid. The device is placed in the tray, and the
+      tray/lid is individually pouched in a Tyvek/Nylon pouch and heat sealed. The sealed pouch is
+      placed in a shelf carton. The Stabilizer, Lift, and Support Plate are provided separately.
+
+      The packaging validation for the sterile components of the TriClip G4 system was conducted
+      per EN ISO 11607-1:2020, Packaging for terminally sterilized medical devices – Part 1:
+      Requirements for materials, sterile barrier systems and packaging systems and EN ISO
+      11607-2:2020, Packaging for terminally sterilized medical devices – Part 2: Validation
+      requirements for forming, sealing and assembly processes. The packaging validation
+      demonstrated that the packaging system was able to maintain a sterile barrier after exposure
+      to temperature, distribution conditioning, and accelerated aging.
+
+
+
+
+                       PMA P230007: FDA Summary of Safety and Effectiveness Data               9 of 51
+       The shelf life is 12 months for the TriClip G4 Delivery System and 18 months for the TriClip
+       SGC as demonstrated by packaging integrity and product functional testing on aged samples.
+
+B. Animal Studies
+
+   The TriClip G4 System underwent Good Laboratory Practice-compliant preclinical in vivo
+   evaluations in a porcine model as summarized in Table 4. Preclinical testing of the TriClip G4
+   System was conducted through 90 days. Evaluation through 20 weeks was leveraged from
+   previous studies of the MitraClip implant through at least 20 weeks, which demonstrated that the
+   device is well encapsulated and endothelialized by 90 days. The TriClip implant is identical to the
+   MitraClip implant in formulation, geometry, sterilization, and manufacturing processes.
+
+                    Table 4: Summary of TriClip G4 Animal Studies
+  Chronic 30-Day and 90-Day Study
+  Sample size /         15 adult pigs (to achieve a sample size of at least N=6 animals at 30
+  animal model          days and N=6 at 90 days that reach the terminal time point)
+  Test articles         15 MitraClip NT clips (delivered on the tricuspid valve repair system)
+                        The animals in the 90-day group had a sedated follow up at the 30-day
+                        time point. At both the follow up and termination procedures
+  Technique             echocardiography and fluoroscopy was performed. At the designated
+                        time point (either 30 or 90 days), the animals were euthanized and sent
+                        to necropsy for gross evaluation and tissue harvest.
+                        The purpose of this study was to demonstrate the safety of the TriClip
+                        implant at 30 Day (±2 days) and 90 Day (±2 days) post implant. The
+                        objective was to demonstrate safety through systemic and histological
+  Objective             evaluation. Endpoints included:
+                            - Overall animal health (moribundity)
+                            - Device deployment and hemodynamics
+                            - Tissue response to the device
+                        There was one procedural death, one early termination, and one early
+  Results               death. The pre-determined safety endpoints acceptance criteria were
+                        met for all 12 animals (both the 30-day and the 90-day test groups).
+                        There were no observed clinically relevant adverse gross or
+                        histological changes in the myocardium or tricuspid valves attributed
+                        to the test article. Although there were two early deaths in the study
+  Conclusion            (one death prior to the early termination and one early termination), no
+                        definite cause of death was determined and, in both cases, tissue
+                        responses to the clips were typical for the time points and appeared
+                        unrelated to the cause of death.
+
+
+
+
+                        PMA P230007: FDA Summary of Safety and Effectiveness Data              10 of 51
+X.   SUMMARY OF PRIMARY CLINICAL STUDY
+
+     The applicant performed a clinical study, the TRILUMINATE Pivotal trial (NCT03904147),
+     to establish a reasonable assurance of safety and effectiveness of the TriClip G4 System for
+     patients with symptomatic severe TR despite optimal medical therapy (OMT). The study was
+     conducted under IDE# G170118. Data from this clinical study were the basis for the PMA
+     approval decision. A summary of the clinical study is presented below.
+
+     The TriClip System and TriClip G4 System (a next-generation system) were used in the
+     TRILUMINATE Pivotal trial. Minor design changes were made to the TriClip G4 Delivery
+     System compared to the TriClip Delivery System, but the same TriClip Steerable Guide
+     Catheter was used with both generations. The TriClip G4 System added two additional clip
+     sizes compared to the TriClip system, resulting in a total of four clip length and width options
+     with similar designs and no difference in materials or principle of operation. The minor
+     changes and additional implant sizes were not anticipated to impact TRILUMINATE Pivotal
+     trial outcomes.
+
+A.   Study Design
+
+     The TRILUMINATE Pivotal trial was a prospective, multicenter, randomized (1:1),
+     controlled clinical trial designed to test the superiority of transcatheter tricuspid repair using
+     the TriClip device plus OMT (device group) vs. OMT alone (control group) in subjects with
+     severe symptomatic TR who were determined by the site’s local heart team to be at
+     intermediate or greater risk for mortality or morbidity with open heart surgery. In addition to
+     the Randomized Cohort, the trial also included a Single-Arm Cohort. After being enrolled
+     into the trial, subjects were assigned to a cohort based on the following criteria:
+
+         x   Randomized Cohort: High likelihood that the TriClip could reduce TR to moderate or
+             less (i.e., less than or equal to grade 2).
+         x   Single-Arm Cohort: High likelihood that the TriClip could reduce TR by at least 1
+             grade but a low likelihood that TR will be reduced to moderate or less.
+
+     This determination was based on multiple considerations, including but not limited to:
+
+         x   Baseline TR severity
+         x   The presence of cardiovascular implantable electronic device (CIED) leads across the
+             tricuspid valve
+         x   The coaptation gap width
+
+     A Cardiac Computed Tomography/Magnetic Resonance Imaging (CT/MRI) imaging sub-
+     study (referred to as imaging sub-study) was conducted for a maximum of 100 subjects to
+     provide insights into cardiac reverse remodeling and quantitative measurements to assess TR
+     severity and the effect of TR changes on clinical endpoints.
+
+     The TRILUMINATE Pivotal trial utilized: an independent Eligibility Committee (EC), which
+     confirmed that the subject met enrollment criteria, assessed anatomic suitability for the
+
+
+
+                       PMA P230007: FDA Summary of Safety and Effectiveness Data                11 of 51
+       TriClip device, and assigned eligible patients to the Randomized or Single-Arm Cohort; an
+       Echocardiography Core Laboratory (ECL), which reviewed screening echocardiography
+       images to confirm patient eligibility and assessed TR severity, right ventricular
+       measurements, and other measures at baseline and follow-up; a Clinical Events Committee
+       (CEC), which adjudicated all adverse events per pre-established definitions; and a Data
+       Monitoring Committee (DMC), which monitored the safety of subjects throughout trial. The
+       study was unblinded except for the research staff administering Kansas City Cardiomyopathy
+       Questionnaire (KCCQ), 6-minute walk test, SF-36, and New York Heart Association
+       (NYHA) functional classification assessments.
+
+       The trial was to enroll up to 550 patients in the Randomized Cohort and up to 200 patients in
+       the Single-Arm Cohort. Up to 3 roll-in patients per implanter could be enrolled at sites with
+       implanters who did not have prior or recent experience using the TriClip device.
+
+1.   Clinical Inclusion and Exclusion Criteria
+
+     Enrollment in the TRILUMINATE Pivotal trial was limited to patients who met the following
+     inclusion criteria:
+        x In the judgment of the site local heart team, subject has been adequately treated per
+            applicable standards (including medical management) and stable for at least 30 days as
+            follows:
+                o Optimized medical therapy for TR treatment (e.g., with diuretics)
+                o Medical and/or device therapy for mitral regurgitation, atrial fibrillation, coronary
+                     artery disease and heart failure
+            The EC confirmed that the subject has been adequately treated medically.
+        x Subject was symptomatic with severe TR despite optimal medical ± device treatment. TR
+            severity was determined by the assessment of a qualifying transthoracic echocardiogram
+            (TTE) and confirmed by the ECL. The ECL also requested a transoesophageal
+            echocardiogram (TEE) to confirm TR etiology. Note: If any cardiac procedure(s) occurred
+            after eligibility was determined, TR severity was re-assessed 30 days after the cardiac
+            procedure(s).
+        x The site heart team cardiac surgeon concurred that the patient was at intermediate or
+            greater estimated risk for mortality or morbidity with tricuspid valve surgery.
+        x NYHA Functional Class II, III or ambulatory class IV
+        x In the judgment of the TriClip implanting Investigator, femoral vein access was feasible
+            and could accommodate a 25 Fr catheter.
+        x $JH\HDUVDWWLPHRIFRQVHQW
+        x Subject provided written informed consent prior to any trial related procedure.
+
+     Patients were not permitted to be enrolled in the TRILUMINATE Pivotal trial if they met any of
+     the following exclusion criteria:
+         x Systolic pulmonary artery pressure (sPAP) >70 mmHg or fixed pre-capillary pulmonary
+              hypertension as assessed by right heart catheterization (RHC).
+         x Severe uncontrolled hypertension: Systolic blood pressure 6%3 PP+JDQGRU
+             diastolic blood pressure '%3 PP+J .
+         x Prior tricuspid valve procedure that would interfere with placement of the TriClip device.
+
+
+
+                         PMA P230007: FDA Summary of Safety and Effectiveness Data              12 of 51
+x   Indication for left-sided heart intervention (e.g., for severe aortic stenosis, severe mitral
+    regurgitation) or pulmonary valve correction in the prior 60 days. Note: Patients with
+    concomitant mitral and tricuspid valve disease had option of undergoing MR treatment
+    and waiting 60 days prior to being reassessed for the trial.
+x   Pacemaker or ICD leads that would prevent appropriate placement of the TriClip device.
+x   Tricuspid valve stenosis, dHILQHGDVDWULFXVSLGYDOYHRULILFHRIFP2 and/or a mean
+    JUDGLHQWPP+JDVPHDVXUHGE\WKH(&/.
+x   Left ventricular ejection fraction (L9() 
+x   Tricuspid valve leaflet anatomy which may preclude clip implantation, proper device
+    positioning on the leaflets or sufficient reduction in TR. This may include:
+        o Evidence of calcification in the grasping area.
+        o Presence of a severe coaptation defect (> 2cm) of the tricuspid leaflets.
+        o Severe leaflet defect(s) preventing proper device placement.
+        o Ebstein Anomaly - Identified by having a normal annulus position while the
+            valve leaflets are attached to the right ventricular walls and interventricular
+            septum.
+x   Tricuspid valve anatomy not evaluable by TTE and TEE.
+x   Active endocarditis or active rheumatic heart disease or leaflets degenerated from
+    rheumatic disease (i.e., noncompliant, perforated).
+x   MI or known unstable angina within prior 30 days.
+x   Percutaneous coronary intervention within prior 30 days.
+x   Hemodynamic instability defined as systolic blood pressure (SBP) <90 mmHg with or
+    without afterload reduction, cardiogenic shock or the need for inotropic support or intra-
+    aortic balloon pump or other hemodynamic support device.
+x   Cerebrovascular accident (CVA) within the prior 90 days.
+x   Chronic dialysis.
+x   Bleeding disorders or hypercoagulable state.
+x   Active peptic ulcer or active gastrointestinal (GI) bleeding.
+x   Contraindication, allergy, or hypersensitivity to dual antiplatelet and anticoagulant
+    therapy.
+    Note: Contraindication to either antiplatelet or anticoagulant therapy (individually not
+    both therapies) was not an exclusion criterion.
+x   Ongoing infection requiring antibiotic therapy (if temporary illness, patients could enroll
+    30 days after discontinuation of antibiotics with no active infection).
+x   Known allergy or hypersensitivity to device materials.
+x   Evidence of intracardiac, inferior vena cava (IVC), or femoral venous mass, thrombus,
+    or vegetation.
+x   Life expectancy of less than 12 months.
+x   Subject currently participating in another clinical trial that had not yet reached its primary
+    endpoint.
+x   Subject currently participating in another clinical investigation for valvular heart
+    disease(s).
+x   Pregnant or nursing subjects and those who planned pregnancy during the clinical
+    investigation follow-up period. Female subjects of child-bearing potential were required
+    to have a negative pregnancy test done within 7 days of the baseline visit per site standard
+
+
+
+                 PMA P230007: FDA Summary of Safety and Effectiveness Data                 13 of 51
+           test. Female patients of childbearing potential instructed to use safe contraception (e.g.,
+           intrauterine devices, hormonal contraceptives: contraceptive pills, implants, transdermal
+           patches hormonal vaginal devices, injections with prolonged release). It was accepted, in
+           certain cases, to include subjects having a sterilized regular partner or subjects using a
+           double barrier contraceptive method.
+       x   Presence of other anatomic or comorbid conditions, or other medical, social, or
+           psychological conditions that, in the investigator’s opinion, could limit the subject’s
+           ability to participate in the clinical investigation or to comply with follow-up
+           requirements, or impact the scientific soundness of the clinical investigation results.
+
+2. Follow-up Schedule
+
+   All subjects were required to have a treatment visit within 14 days of randomization (within 14
+   days of the baseline visit for Single-Arm Cohort subjects). At this visit, device group patients
+   underwent the TriClip procedure, and control group patients were seen by a heart failure
+   specialist and underwent a physical exam, including vital signs, cardiac health status, and
+   evaluation of heart failure medications.
+
+   The follow-up time points were at 30 days, 6 months, and 12 months from the date of the
+   treatment visit and will continue annually through 5 years. The device group patients were also
+   assessed at hospital discharge.
+
+   Baseline and follow-up visit assessments included physical assessments, medical history
+   laboratory tests, imaging studies, and health status surveys. Adverse events and complications
+   were recorded at all visits.
+
+3. Statistical Analysis Populations
+
+   The analysis populations for the TRILUMINATE Pivotal trial are shown in Table 5.
+
+
+
+
+                       PMA P230007: FDA Summary of Safety and Effectiveness Data               14 of 51
+                               Table 5: Statistical Analysis Populations
+      Analysis
+                                                            Definition
+     Population
+Randomized Cohort
+Intent-to-Treat (ITT) All patients randomized in the trial.
+As-Treated (AT)          ITT patients grouped by treatment received.*
+                         ITT patients who received assigned randomized treatment according to
+Per Protocol (PP)
+                         protocol and followed all major study requirements.
+Attempted                Patients randomized to the device group with an attempted TriClip
+Procedure (AP)           procedure (i.e., femoral vein puncture performed).
+Single-Arm Cohort
+Attempted                Patients with an attempted TriClip procedure (i.e., femoral vein
+Procedure (AP)           puncture performed).
+*
+ Patients randomized to the device group who died or had heart failure hospitalization prior to the
+TriClip procedure were considered to be in the Control group regardless of randomization. Patients
+randomized to the device group who died or had heart failure hospitalization after (but not prior to) a
+TriClip procedure are considered to be in the device group regardless of randomization. Patients who
+did not experience death or heart failure hospitalization at any time during follow-up were assigned to
+the group that constituted >50% of their follow-up duration.
+
+4. Randomized Cohort Clinical Endpoints
+
+    Primary Endpoint
+
+    The primary safety and effectiveness endpoint was a hierarchical composite of the following
+    components at 12 months:
+
+      1. Time to all-cause death or tricuspid valve surgery
+      2. Number of heart failure (HF) hospitalizations
+      3. An iPSURYHPHQWRISRLQWVLQ.&&4score from baseline
+
+    The hypothesis for the primary endpoint was as follows:
+
+      H0: None of the components are different between the Treatment and Control group
+      H1: At least one component is different between the Treatment and Control group
+
+    The alternative hypothesis that the device group was superior to the control group in at least one
+    component of the primary endpoint was tested using the Finkelstein-Schoenfeld methodology
+    (Finkelstein et al. 1999)1 at a two-sided significance level of 5%.
+
+    A sample size of 350 randomized patients was simulated to provide approximately 83% power
+    to reject the null hypothesis at a two-sided significance level of 5%.
+
+    The 350 randomized ITT patients was defined as the Primary Analysis Population.
+
+
+
+                         PMA P230007: FDA Summary of Safety and Effectiveness Data                 15 of 51
+      As a supplementary analysis, the win-ratio method (Pocock et al. 2012)2 was used to evaluate
+      the treatment effect of the composite endpoint. In this analysis, each pair of patients from the
+      device group and the control group were compared in the order of the hierarchy defined above,
+      and the win ratio was defined as the number of winners divided by the number of losers in the
+      device group.
+
+      An adaptive design with sample size re-estimation was planned when the first 150 randomized
+      patients completed the 12-month follow-up visit. At that time, an independent statistician was
+      unblinded to the interim data and calculated the conditional power for the primary endpoint. The
+      interim analysis concluded that the original 350-patient sample size would provide adequate
+      power to assess the primary endpoint.
+
+      Secondary Endpoints
+
+      Four powered secondary safety and effectiveness endpoints were assessed hierarchically at 12
+      months (see Table 6)
+
+  Table 6. Ordered List of Secondary Endpoints for Hierarchical Testing (Randomized
+                                       Cohort)
+             Secondary                                                            Analysis Significance
+Order                             Null and Alternative Hypotheses
+             Endpoint                                                            Population   Level
+           Freedom from
+           MAEs at 30                   ‫ܪ‬଴ : ܲ஽ (‫ )ݏܧܣܯ‬൑ 90%                                     2.5%
+  1                                                                                     AP
+           days post-                   ‫ܪ‬ଵ : ܲ஽ (‫ > )ݏܧܣܯ‬90%                                  (one-sided)
+           procedure
+           Change in
+           KCCQ score           ‫ܪ‬଴ : ߤ஽ (ο‫ )ܳܥܥܭ‬െ ߤ஼ (ο‫ = )ܳܥܥܭ‬0                                  5%
+  2                                                                                     ITT
+           at 12 months         ‫ܪ‬ଵ : ߤ஽ (ο‫ )ܳܥܥܭ‬െ ߤ஼ (ο‫ ് )ܳܥܥܭ‬0                              (two-sided)
+           over baseline
+           TR reduction
+           to moderate or       ‫ܪ‬଴ : ܲ஽ (ܴܶ ൑ 2) െ ܲ஼ (ܴܶ ൑ 2) = 0                                5%
+  3                                                                                     ITT
+           less at 30-day       ‫ܪ‬ଵ : ܲ஽ (ܴܶ ൑ 2) െ ܲ஼ (ܴܶ ൑ 2) ് 0                            (two-sided)
+           visit
+           Change in
+           6MWD at 12          ‫ܪ‬଴ : ߤ஽ (ο6‫ )ܦܹܯ‬െ ߤ஼ (ο6‫ = )ܦܹܯ‬0                                   5%
+  4                                                                                     ITT
+           months over         ‫ܪ‬ଵ : ߤ஽ (ο6‫ )ܦܹܯ‬െ ߤ஼ (ο6‫ ് )ܦܹܯ‬0                               (two-sided)
+           baseline
+MAEs: major adverse events, including cardiovascular mortality, new onset renal failure, endocarditis
+requiring surgery, and non-elective cardiovascular surgery for TriClip device-related adverse events
+post-index procedure; KCCQ: Kansas City Cardiomyopathy Questionnaire; 6MWD: 6-minute walk
+distance; AP: attempted procedure; ITT: intent-to-treat; H0: null hypothesis; H1: alternative hypothesis;
+PD(MAEs): proportion of TriClip patients free from MAEs; ȝD ¨.&&4 DQGȝC ¨.&&4 PHDQ.&&4
+score change in TriClip and control patients; PD 75 DQGPC 75 SURSRUWLRQRI7UL&OLSDQGFRQWURO
+
+
+
+
+                            PMA P230007: FDA Summary of Safety and Effectiveness Data               16 of 51
+SDWLHQWVZLWKPRGHUDWH75ȝD ¨0:' PHDQ0:'FKDQJHLQ7UL&OLSDQGFRQWUROSDWLHQWV
+
+    Additional Outcomes
+
+    Additional outcomes assessed for the Randomized Cohort included the following:
+
+      x   Technical success at exit from procedure room: alive with successful access, delivery and
+          retrieval of the device delivery system, and deployment and correct positioning of a clip,
+          and no need for additional unplanned or emergency surgery or re-intervention related to
+          the device or access procedure
+      x   Device success at 30-days post-procedure: alive with original intended clip(s) in place,
+          and no additional surgical or interventional procedures related to access or device since
+          FRPSOHWLRQRIWKHRULJLQDOSURFHGXUHDQGLQWHQGHGSHUIRUPDQFHRIWKHFOLS V  LH
+          grade improvement in TR severity, no embolization, single leaflet device attachment,
+          absence of para-device complications)
+      x   Procedural success at 30-days post-procedure: device success, and no device- or
+          procedure-related serious adverse event
+      x   Echocardiographic parameters of tricuspid valve and cardiac function
+      x   Clinical and functional parameters
+
+5. Single-Arm Cohort Clinical Endpoints
+
+    Primary Endpoint
+
+    The primary safety and effectiveness endpoint was survival at 12 months plus a KCCQ score
+    LPSURYHPHQWRISRLQWVFRPSDUHGWREDVHOLQH, tested in the AP population.
+
+    The null (‫ܪ‬଴ ) and alternative (‫ܪ‬ଵ ) hypotheses for the primary endpoint were as follows:
+
+      ‫ܪ‬଴ : ܲ஽ ൑ 30%
+      ‫ܪ‬ଵ : ܲ஽ > 30%
+
+    where 30% was a performance goal based on the expected TriClip patient survival rate and the
+    KCCQ result observed in the COAPT trial control group (NCT01626079; Stone et al. 2018)3. A
+    sample size of 100 patients was estimated to provide 90% power to reject the null hypothesis at
+    a one-sided significance level of 2.5%.
+
+    Secondary Endpoints
+
+    Five powered secondary safety and effectiveness endpoints were assessed hierarchically at 12
+    months (see Table 7).
+
+
+
+
+                        PMA P230007: FDA Summary of Safety and Effectiveness Data               17 of 51
+Table 7. Ordered List of Secondary Endpoints for Hierarchical Testing – Single-Arm Cohort.
+             Secondary                                            Analysis Significance
+ Order                        Null and Alternative Hypotheses
+             Endpoint                                            Population      Level
+             TR reduction by
+             at least one grade        ‫ܪ‬଴ : ܲ஽ (οܴܶ ൒ 1) ൑ 50%                                 2.5%
+      1                                                                                AP
+             at 30 days post-          ‫ܪ‬ଵ : ܲ஽ (οܴܶ ൒ 1) > 50%                              (one-sided)
+             procedure
+             Freedom from
+                                         ‫ܪ‬଴ : ܲ஽ (‫ )ݏܧܣܯ‬൑ 80%                                  2.5%
+      2      MAEs at 30 days                                                           AP
+                                         ‫ܪ‬ଵ : ܲ஽ (‫ > )ݏܧܣܯ‬80%                               (one-sided)
+             post-procedure
+             Change in
+             6MWD at 12                   ‫ܪ‬଴ : ߤ஽ (ο6‫ )ܦܹܯ‬൑ 0                                  2.5%
+      3                                                                                AP
+             months over                  ‫ܪ‬ଵ : ߤ஽ (ο6‫ > )ܦܹܯ‬0                               (one-sided)
+             baseline
+             Freedom from all-
+             cause mortality
+                                       ‫ܪ‬଴ : ܲ஽ (ܵ‫ )݈ܽݒ݅ݒݎݑ‬൑ 65%                                2.5%
+      4      and tricuspid                                                             AP
+                                       ‫ܪ‬ଵ : ܲ஽ (ܵ‫ > )݈ܽݒ݅ݒݎݑ‬65%                             (one-sided)
+             valve surgery at
+             12 months
+             Recurrent HF
+                                       ‫ܪ‬଴ : ߣ஽ (ܴܲ‫ )ܧ‬൑ ߣ஽ (ܱܲܵܶ)                               2.5%
+      5      hospitalizations at                                                       AP
+                                       ‫ܪ‬ଵ : ߣ஽ (ܴܲ‫ߣ > )ܧ‬஽ (ܱܲܵܶ)                            (one-sided)
+             12 months
+ TR: tricuspid regurgitation; MAEs: major adverse events, including cardiovascular mortality, new
+ onset renal failure, endocarditis requiring surgery, and non-elective cardiovascular surgery for TriClip
+ device-related adverse events post-index procedure; 6MWD: 6-minute walk distance; AP: attempted
+ procedure; HF: heart failure; H0: null hypothesis; H1: alternative hypothesis; PD ¨75 SURSRUWLRQRI
+ TriClip patients with TR reduction by at least 1 grade; PD(MAEs): probability of freedom from any
+ MAE; ȝD ¨0:D): mean 6MWD change; ȜD(PRE) and ȜD(POST): annualized event rates for
+ recurrent HF hospitalizations within 12 months pre- and post-procedure.
+
+ B.       Accountability of PMA Cohort
+
+          The database for this PMA included data collected through April 24, 2023. A total of 936
+          eligible patients were enrolled between August 21, 2019 and June 29, 2022 at 68
+          investigational sites in the US, Canada, and Europe. Of these patients, 901 were approved by
+          the Eligibility Committee and were randomized or had an attempted procedure, including 141
+          in the Roll-in Cohort, 572 in the Randomized Cohort, and 188 in the Single-Arm Cohort.
+          Patient accountability is shown in Figure 2. As planned, the primary endpoint analysis was
+          performed on the first 350 patients (296 in the US, 38 in Canada, and 16 in Europe) in the
+          Randomized Cohort and the first 100 patients with an attempted procedure in the Single-Arm
+          Cohort.
+
+
+
+
+                           PMA P230007: FDA Summary of Safety and Effectiveness Data               18 of 51
+Figure 2. Patient Accountability.
+
+
+      At the time of database lock, of the Randomized Cohort patients eligible for the for the 1-year
+      visit, 100% in the device group and 99% in the control group completed the visit (Table 8,
+      Figure 3.) In the single-arm cohort, 96% of eligible patients completed the 1-year visit (Figure
+      4).
+
+
+
+
+                       PMA P230007: FDA Summary of Safety and Effectiveness Data               19 of 51
+                                                Table 8. Visit Compliance.
+                                         Device Group           Control Group                                               Single-Arm Cohort
+
+
+
+
+                            Expected Visits
+
+
+
+
+                                                                            Expected Visits
+
+
+
+
+                                                                                                                            Expected Visits
+                                              Actual Visits
+
+
+
+
+                                                                                              Actual Visits
+
+
+
+
+                                                                                                                                              Actual Visits
+                                                              Compliance1
+
+
+
+
+                                                                                                              Compliance1
+
+
+
+
+                                                                                                                                                                Compliance1
+           Visit
+
+
+
+Baseline                    175               175             N/A           175               175             N/A           100               100              N/A
+Index Procedure or
+                            172               172             100%          174               174             100%          100               100             100%
+Treatment Visit
+Discharge
+                            172               172             100%              -                 -              -          100               100             100%
+(Device group only)
+30-Day Visit                170               168             99%           172               162             94%           97                96              99%
+6-Month Visit               157               155             99%           158               155             98%           90                89              99%
+12-Month Visit              152               152             100%          152               150             99%           84                81              96%
+                      2
+Overall Follow-up           823               819             99%           656               641             98%           471               466             99%
+1
+    Compliance calculated as Actual/Expected, where Expected excludes subject withdrawal.
+2
+    Overall follow-up includes discharge through 12-month visit (excludes baseline visit).
+
+
+
+
+                            PMA P230007: FDA Summary of Safety and Effectiveness Data                                                                         20 of 51
+Figure 3. Disposition of Subjects – Randomized Cohort.
+
+
+
+
+               PMA P230007: FDA Summary of Safety and Effectiveness Data   21 of 51
+Figure 4. Disposition of Subjects – Single Arm Cohort.
+
+
+
+
+                     PMA P230007: FDA Summary of Safety and Effectiveness Data   22 of 51
+C.     Study Population Demographics and Baseline Characteristics
+
+       Patient demographics and baseline characteristics for the primary analysis population of the
+       Randomized Cohort and Single-Arm Cohort are shown in Table 9.
+
+       In both the randomized and single-arm cohorts, the majority of patients were Caucasian and
+       just over half were female. Over 90% of Randomized Cohort patients had functional TR and
+       atrial fibrillation, and most patients were in NYHA functional class II/III with an average
+       KCCQ score in the mid-50s. Torrential TR was present in approximately half of the patients
+       in both the device and control groups. Medication use at baseline was similar between the two
+       randomized groups. In all, demographics and baseline characteristics were similar between
+       Randomized Cohort Device and Control groups.
+
+       Compared to the Randomized Cohort, a higher proportion of Single-Arm Cohort patients had
+       torrential TR (74.0% vs. 50.9%), CIED-related TR (5.1% vs. 0%), a pacemaker or
+       defibrillator (35.0% vs. 16.0%), and larger coaptation gaps (7.4 ± 2.7 vs. 5.5 ± 1.8 mm). Some
+       baseline covariate differences were expected between the Randomized and Single-Arm
+       cohorts as TR severity and complex tricuspid anatomy were considered when assigning
+       patients to each cohort.
+
+     Table 9. Demographics and Baseline Characteristics – Primary Analysis Population.
+                                                 Summary Statistic*
+   Demographics and Baseline        Randomized Cohort (N=350)           Single-Arm
+        Characteristics                Device            Control           Cohort
+                                      (N=175)            (N=175)          (N=100)
+Demographics
+Age                                        78.0 ± 7.4 (175)       77.8 ± 7.2 (175)   80.4 ± 6.2 (100)
+Sex
+ Male                                       44.0% (77/175)        46.3% (81/175)     47.0% (47/100)
+ Female                                     56.0% (98/175)        53.7% (94/175)     53.0% (53/100)
+Race
+ Caucasian                                 85.1% (149/175)        81.7% (143/175)    87.0% (87/100)
+ Black/African American                      4.0% (7/175)          5.7% (10/175)      7.0% (7/100)
+ Asian                                       4.0% (7/175)           4.0% (7/175)      3.0% (3/100)
+ American Indian/Alaska Native               0.6% (1/175)           0.0% (0/175)      0.0% (0/100)
+ Native Hawaiian/Pacific Islander            0.0% (0/175)           0.0% (0/175)      0.0% (0/100)
+ Declined or unable to disclose             6.3% (11/175)          8.6% (15/175)      3.0% (3/100)
+Ethnicity
+ Hispanic or Latino                          2.9% (5/175)           5.1% (9/175)      4.0% (4/100)
+ Not Hispanic or Latino                    93.1% (163/175)        87.4% (153/175)    94.0% (94/100)
+
+
+
+                        PMA P230007: FDA Summary of Safety and Effectiveness Data               23 of 51
+ Declined/unknown                           4.0% (7/175)          7.4% (13/175)      2.0% (2/100)
+                               2
+Body mass index (BMI, kg/m )              27.0 ± 5.8 (175)       26.9 ± 5.2 (175)   26.3 ± 5.3 (100)
+Medical history
+Atrial fibrillation                       87.4% (153/175)        93.1% (163/175)    93.0% (93/100)
+Chronic obstructive pulmonary
+                                           10.9% (19/175)        13.7% (24/175)     22.0% (22/100)
+disease
+CRT/CRT-D/ICD/permanent
+                                           16.0% (28/175)        13.7% (24/175)     35.0% (35/100)
+pacemaker
+Dyslipidemia                              66.9% (117/175)        52.6% (92/175)     64.0% (64/100)
+Hypertension                              81.1% (142/175)        80.6% (141/175)    83.0% (83/100)
+Liver disease                              6.3% (11/175)          9.1% (16/175)      3.0% (3/100)
+Renal disease                              35.4% (62/175)        35.4% (62/175)     36.0% (36/100)
+Peripheral vascular disease                9.1% (16/175)         10.3% (18/175)     11.0% (11/100)
+Prior aortic valve intervention            15.4% (27/175)        15.4% (27/175)     11.0% (11/100)
+Prior mitral valve intervention            25.7% (45/175)        24.0% (42/175)     36.0% (36/100)
+Echocardiography measurements
+TR severity
+ Trace                                      0.0% (0/173)           0.0% (0/165)       0.0% (0/96)
+ Mild                                       0.0% (0/173)           0.0% (0/165)       0.0% (0/96)
+ Moderate                                   2.3% (4/173)           1.2% (2/165)       0.0% (0/96)
+ Severe grade 3 (severe)                   25.4% (44/173)        29.7% (49/165)       9.4% (9/96)
+ Severe grade 4 (massive)                  21.4% (37/173)        18.2% (30/165)     16.7% (16/96)
+ Severe grade 5 (torrential)               50.9% (88/173)        50.9% (84/165)     74.0% (71/96)
+TR etiology
+ Functional                               94.8% (165/174)        92.9% (158/170)    85.9% (85/99)
+ Degenerative                               2.3% (4/174)           1.2% (2/170)       5.1% (5/99)
+ Mixed                                      2.9% (5/174)          5.9% (10/170)       4.0% (4/99)
+ Pacer-related                              0.0% (0/174)           0.0% (0/170)       5.1% (5/99)
+Coaptation gap (mm)                       5.5 ± 1.8 (137)         5.2 ± 1.7 (142)    7.4 ± 2.7 (75)
+Health status
+                                             56.0 ± 23.4            54.1 ± 24.2
+ KCCQ overall summary score                                                         54.5 ± 22.6 (99)
+                                                (175)                  (174)
+                                            240.5 ± 117.1         253.6 ± 129.1      237.7 ± 120.4
+ 6MWD (m)
+                                                (164)                 (169)              (97)
+ NYHA functional class
+   Class I                                  0.0% (0/175)           0.0% (0/175)      0.0% (0/100)
+
+
+
+                       PMA P230007: FDA Summary of Safety and Effectiveness Data               24 of 51
+   Class II                                  40.6% (71/175)        44.6% (78/175)    41.0% (41/100)
+   Class III                                57.1% (100/175)        52.0% (91/175)     53.0% (53/100
+   Class IV                                   2.3% (4/175)           3.4% (6/175)     6.0% (6/100)
+Medication use
+ Beta-blockers                              72.6% (127/175)        73.1% (128/175)   74.0% (74/100)
+ ACE-I or ARBs                               42.3% (74/175)        45.1% (79/175)    41.0% (41/100)
+ Vasodilators                                10.9% (19/175)        12.0% (21/175)    12.0% (12/100)
+ Diuretics                                  97.1% (170/175)        98.9% (173/175)   98.0% (98/100)
+CRT: cardiac resynchronization therapy; CRT-D: cardiac resynchronization therapy defibrillator; ICD:
+implantable cardioverter-defibrillator; KCCQ: Kansas City Cardiomyopathy Questionnaire; 6MWD: 6-
+minute walk distance; NYHA: New York Heart Association; ACE-I: angiotensin-converting enzyme 1;
+ARBs: angiotensin receptor blockers.
+*
+  Continuous measures – Mean ± standard deviation (total no.); Categorical measures - % (no./total no.)
+
+
+
+D.     Safety and Effectiveness Results
+
+       The analysis of safety and effectiveness were primarily based on the Randomized Cohort of
+       350 patients available for the 12-month evaluation. The key safety outcomes for this study
+       included mortality, need for tricuspid valve surgery, and major adverse event rates as assessed
+       by the primary and secondary endpoints. All CEC-adjudicated adverse effects are reported in
+       Table 13 for the Randomized Cohort and Table 23 for the Single-Arm Cohort. The key
+       effectiveness outcomes included number of heart-failure hospitalizations, improvement in
+       KCCQ score, TR reduction and 6-minute walk distance (6MWD) as assessed by the primary
+       and secondary endpoints and summarized below.
+
+       1. Primary Endpoint – Randomized Cohort
+
+           The Randomized Cohort primary safety and effectiveness endpoint analysis results are
+           shown in Table 10. The Finkelstein-Schoenfeld test statistic result was 2.16 with a 2-
+           sided p-value of 0.0311, which is less than the pre-specified two-sided significance
+           level of 0.05. Thus, the primary endpoint was met indicating the device group was
+           superior to the control group.
+
+            Table 10. Primary Analysis Result – Randomized Cohort ITT Population.
+       Primary Endpoint      Test Statistic p-Value    Significance Level    Result
+                                            (2-sided)      (2-sided)
+     Finkelstein-Schoenfeld      2.16         0.0311          0.05         Superiority
+     analysis                                                             endpoint met
+
+           The supplemental win ratio analysis is shown in Figure 5. The win ratio of the device
+           group vs. the control group was 1.44 (95% confidence interval of 1.03 - 2.08). The
+           number of wins in the device group and control group were similar for death or TV
+           surgery, and there were slightly more wins in the control group for heart failure
+
+
+                         PMA P230007: FDA Summary of Safety and Effectiveness Data               25 of 51
+         hospitalization (6% in the device group vs 10% in the control group). The primary
+         endpoint success was driven by KCCQ score improvement of at least 15 points, which
+         had 21% wins in the device group and 7% wins in the control group.
+
+
+
+
+  Figure 5. Win Ratio Analysis of the Randomized Cohort Primary Endpoint – ITT
+  Population. TV: tricuspid valve; HFH: heart failure hospitalization; KCCQ-OS: Kansas
+  City Cardiomyopathy Questionnaire Overall Summary Score.
+
+
+      2. Secondary Endpoint – Randomized Cohort
+
+         The results of the powered secondary safety and effectiveness endpoints are shown in
+         Table 11. The endpoints of freedom from major adverse events (MAEs) at 30 days
+         post-procedure, change in KCCQ score at 12 months vs. baseline, and TR reduction to
+         moderate or less at 30 days were met. There was a numerically smaller reduction in
+         6MWD at 12 months in the device group vs. the control group (-8.12 vs. -25.17 meters),
+         but the difference was not statistically significant, and standard deviations were large.
+         Therefore, the 6MWD endpoint was not met.
+
+Table 11. Summary of Powered Secondary Endpoint Results – Randomized Cohort ITT
+                              Population (Paired).
+            Secondary           Summary Statistics
+Order                                                      p-Value     Result
+            Endpoint        Device Arm     Control Arm
+        Freedom from
+                                     98.3%
+  1     MAEs at 30 days                                       -            < 0.0001   Endpoint met
+                                [96.3%, 100%]*
+        post-procedure
+        Change in KCCQ
+  2     score at 12 months        12.34 (1.75)†         0.61 (1.75)†       < 0.0001   Endpoint met
+        over baseline
+
+
+
+                      PMA P230007: FDA Summary of Safety and Effectiveness Data              26 of 51
+         TR reduction to
+                                           87.0%                  5.4%
+  3      moderate or less at                                                      <0.0001   Endpoint met
+                                         (141/162)‡             (8/147)‡
+         30-day visit
+         Change in 6MWD at
+                                                                                             Endpoint
+  4      12 months over                -8.12 (10.50)†       -25.17 (10.31)†       0.2482
+                                                                                              not met
+         baseline‫( ۅ‬meters)
+MAEs: major adverse events, including cardiovascular mortality, new onset renal failure, endocarditis
+requiring surgery, and non-elective cardiovascular surgery for TriClip device-related adverse events
+post-index procedure; TR: tricuspid regurgitation; KCCQ: Kansas City Cardiomyopathy
+Questionnaire; 6MWD: 6-minute walk distance.
+*
+  Kaplan-Meier estimate [95% confidence interval]
+†
+  Least square means (standard error) from analysis of covariance (ANCOVA) model
+‡
+  % (no./total no.)
+‫ۅ‬
+  A KCCQ overall score of 0 and a 6MWD of 0 meter were imputed for subjects who had a heart failure
+related cardiovascular death or tricuspid valve surgery prior to 12 months.
+
+          The individual MAE component rates at 30 days are shown in Table 12. Of the MAEs,
+          one case of new onset renal failure was adjudicated as procedure-related but not device-
+          related. A second new onset renal failure case and the one cardiovascular mortality
+          were adjudicated as neither procedure nor device related.
+
+Table 12. Results of Individual MAE Components at 30 Days – Randomized Cohort AP
+                                    Population.
+                          MAE Component                  Event Rate*
+               Cardiovascular mortality                                      0.6% (1/172)
+               New onset renal failure                                       1.2% (2/172)
+               Endocarditis requiring surgery                                 0% (0/172)
+               Non-elective cardiovascular surgery for
+               TriClip device-related adverse events post                     0% (0/172)
+               index procedure
+               *
+                   % (no./total no.)
+
+      3. Adverse Events – Randomized Cohort
+
+          CEC-adjudicated adverse events through 12 months (unless otherwise noted) are shown in
+          Table 13 for the Randomized Cohort. Rates of HF hospitalizations, cardiovascular
+          mortality, and tricuspid valve reintervention at 12 months as well as major bleeding and
+          new onset renal failure at 30 days were numerically higher in the device group vs. the
+          control group.
+
+
+
+
+                            PMA P230007: FDA Summary of Safety and Effectiveness Data              27 of 51
+Table 13. CEC-Adjudicated Adverse Events through 12 Months – Randomized Cohort ITT
+                                    Population.
+                                                                         Summary Statistics
+                         Event                                    Device Arm             Control Arm
+                                                                   (N=175)                 (N=175)
+All-cause mortality                                         8.6% (15, 15, 0, 0, 1)*    7.4% (13, 13, 0)†
+    Cardiovascular (VARC II definition)                      6.3% (11, 11, 0, 0, 0)      4.6% (8, 8, 0)
+     Heart failure-related                                    4.0% (7, 7, 0, 0, 0)       2.9% (5, 5, 0)
+     Non-heart failure-related                                2.3% (4, 4, 0, 0, 0)       1.7% (3, 3, 0)
+    Non-cardiovascular (VARC II definition)                   2.3% (4, 4, 0, 0, 1)       2.9% (5, 5, 0)
+Hospitalization                                            36.0% (111, 63, 2, 7, 2) 34.3% (100, 60, 0)
+    Heart failure hospitalization                           14.9% (35, 26, 1, 2, 0)     11.4% (8, 20, 0)
+    Other cardiovascular hospitalization                     9.1% (17, 16, 1, 5, 0)     9.1% (21, 16, 0)
+    Non-cardiovascular hospitalization                      21.7% (59, 38, 0, 0, 2)    21.1% (51, 37, 0)
+Tricuspid valve surgery                                       1.7% (3, 3, 2, 2, 0)       3.4% (6, 6, 0)
+Tricuspid valve intervention‡                                 2.3% (4, 4, 3, 4, 0)       1.7% (3, 3, 0)
+0DMRUEOHHGLQJ %$5&D ‫ۅ‬                                   5.7% (10, 10, 0, 3, 0)      1.7% (3, 3, 0)
+New onset renal failure‫ۅ‬                                      2.3% (4, 4, 0, 1, 0)       0.6% (1, 1, 0)
+Transient ischemic attack (TIA)                               0.6% (1, 1, 0, 0, 0)       0.0% (0, 0, 0)
+Stroke (VARC II definition)                                   1.7% (3, 3, 0, 0, 0)       1.7% (4, 3, 0)
+Myocardial infarction (VARC II definition)‫ۅ‬                   0.0% (0, 0, 0, 0, 0)       0.0% (0, 0, 0)
+Endocarditis requiring surgery‫ۅ‬                               0.0% (0, 0, 0, 0, 0)       0.0% (0, 0, 0)
+Non-elective cardiovascular surgery for
+TriClip-related adverse event post index                      0.0% (0, 0, 0, 0, 0)       0.0% (0, 0, 0)
+procedure‫ۅ‬
+Cardiogenic shock                                             0.0% (0, 0, 0, 0, 0)       0.6% (1, 1, 0)
+*
+  Event rate (no. of events, no. of subjects, no. of device-related events, number of procedure-related
+events, number of COVID-19-related events); event rate = no./total no. Number of COVID-19-related
+events includes related or possibly related events; this excludes events with unknown relatedness.
+†
+  Event rate (no. of events, no. of subjects, number of COVID-19-related events).
+‡
+  Tricuspid valve intervention includes reintervention for device group and first intervention for control
+group.
+‫ۅ‬
+  Per the study CEC charter, myocardial infarction, bleeding, new onset renal failure, endocarditis
+requiring surgery, and non-elective cardiovascular surgery for TriClip-related adverse event post index
+
+
+
+                           PMA P230007: FDA Summary of Safety and Effectiveness Data                  28 of 51
+procedure were adjudicated up to 30 days post treatment visit for the device and control groups.
+VARC: Valve Academic Research Consortium; BARC: Bleeding Academic Research Consortium; TIA:
+transient ischemic attack.
+
+          Table 14 provides site-reported procedure- or device-related serious adverse events from
+          the treatment visit through 1 year. Procedure- or device-related serious adverse events
+          occurred in 3.5% (6/172) of subjects.
+
+        Table 14. Listing of Site-reported Procedure/Device Related Serious Adverse Events
+          from treatment visit through 1 Year (Primary Analysis Population) (Attempted
+                                    Procedure Population, n=172)
+                  Subject                                    Description
+                                       Access site bleeding
+                     1                 Hypotension with tachycardia secondary to acute
+                                       blood loss
+                     2                 Access site complication
+                                       Access site complication – thrombin injection for
+                                       pseudoaneurysm
+                     3
+                                       Access site complication – surgical repair of
+                                       pseudoaneurysm
+                     4                 TV surgery due to unsuccessful TriClip procedure
+                     5                 Re-intervention due to SLDA
+                     6                 Heart failure due to volume overload
+
+       4. Other Randomized Cohort Observations
+
+          Procedural Endpoints:
+
+          Technical success was achieved in 98.8% of TriClip subjects, device success in 88.9%,
+          and procedural success in 87.0% (see Table 15).
+
+         Table 4. Results of Procedural Endpoints – Randomized Cohort AP Population.
+                              Endpoints                        Results
+           Technical success (at exit from procedure room)              98.8% (170/172)
+           Device success (at 30 days post-procedure)                   88.9% (144/162)
+           Procedural success (at 30 days post-procedure)               87.0% (141/162)
+
+          Technical success was not achieved in 2 subjects due to inability to successfully deploy
+          the TriClip device. Device success could not be evaluated in 10 subjects due to missing
+          TR grade assessment. In addition, device success was not achieved in 18 subjects due
+          to single leaflet device attachment (n=11), no reduction in TR (n=3),
+          surgery/intervention within 30 days post procedure (n=3), and death within 30 days
+          post procedure (n=1). Procedural success was not achieved in the same 18 subjects in
+          whom device success was not achieved and in 3 additional subjects who experienced a
+
+
+
+                       PMA P230007: FDA Summary of Safety and Effectiveness Data           29 of 51
+  device- or procedure-related site-reported serious adverse event: single leaflet device
+  attachment (n=1; not confirmed by the ECL), ruptured chordae (n=1), and access site
+  complication (n=1).
+
+  Procedural Data:
+
+  The TriClip procedure was performed under general anesthesia with echocardiographic
+  (TEE) and fluoroscopic guidance. Procedural data for the Randomized Cohort AP
+  Population is shown in Table 16. The TriClip was successfully implanted in 170 of the
+  172 (98.8%) subjects with an attempted procedure in the Randomized Cohort, with
+  approximately 85% of subjects receiving two or three TriClip devices.
+
+                       Table 16. Procedural Data – AP Population
+                                        Randomized Cohort (Device Group)
+Procedural Data
+                                                      (N=172)
+Number of clips implanted                                  2.2 ± 0.7 (172)
+ 0 clips                                                    1.2% (2/172)
+ 1 clip                                                    10.5% (18/172)
+ 2 clips                                                  61.0% (105/172)
+ 3 clips                                                   24.4% (42/172)
+ 4 clips                                                    2.9% (5/172)
+Device used
+ TriClip (first-generation)                                47.1% (81/172)
+ TriClip G4                                                52.9% (91/172)
+Total procedure time (min)                               151.0 ± 71.7 (171)
+Device time (min)                                         89.7 ± 66.4 (168)
+Fluoroscopy exposure (min)                                31.9 ± 23.5 (171)
+*Continuous measures – Mean ± standard deviation (total no.); Categorical
+measures - % (no./total no.)
+
+  TR Severity:
+
+  TR severity for the Randomized Cohort ITT Population is shown in Figure 6 . In the
+  device group, the proportion of subjects with greater than moderate TR was 97% at
+  baseline, which decreased to 13% at 30 days and 12% at 12 months. In the control group,
+  TR severity was greater than moderate in 99% of subjects at baseline and remained greater
+  than moderate in 95% of subjects at 30 days and 92% at 12 months.
+
+
+
+
+                 PMA P230007: FDA Summary of Safety and Effectiveness Data          30 of 51
+                                             Trace/Mild       Moderate       Severe        Massive    Torrential
+                          100%                                2%
+                                               11%           9%
+
+                          80%
+                                  51%                                                     51%         50%
+                                                                                                                     56%
+                                                             38%
+    Percent of Patients
+
+
+
+
+                                               37%
+                          60%
+
+
+                          40%     21%                                                     18%         22%
+                                                                                                                     17%
+                                               50%           50%
+                          20%                                                                                        19%
+                                  25%                                                     30%         23%
+                                                                                                                    3%
+                           0%      2%                                                                 4%                 5%
+                                 Baseline     30 Days     12 Months                     Baseline     30 Days       12 Months
+                                 (N=173)      (N=162)      (N=144)                      (N=165)      (N=147)        (N=144)
+
+                                              Device                                                 Control
+                                                             1RWH9DOXHVDUHQRWODEHOHG
+
+
+Figure 6. TR Severity Visit – Randomized Cohort ITT Population (Unpaired).
+
+
+                           KCCQ Score:
+
+                           KCCQ scores and score changes through 12 months are shown in Figure 7 for the
+                           Randomized Cohort ITT Population. On average, the KCCQ score increased by 15.2
+                           points in the device group vs. 4.8 points in the control group through 12 months.
+
+
+
+
+                                        PMA P230007: FDA Summary of Safety and Effectiveness Data                        31 of 51
+      A KCCQ Score
+
+
+
+
+      B KCCQ Score Change
+
+
+
+
+Figure 7. KCCQ Score by Visit – Randomized Cohort ITT Population
+(Unpaired). The error bars are standard deviations.
+
+
+
+           PMA P230007: FDA Summary of Safety and Effectiveness Data   32 of 51
+         Association between KCCQ Score and TR:
+
+         Post hoc analyses were performed to investigate the associations between KCCQ score
+         changes and TR severity and between KCCQ score changes and TR severity changes at
+         12 months. These analyses were conducted to provide evidence that the KCCQ score
+         improvement observed in the study was not solely the result of a placebo effect. The
+         associations are shown in Figure 8. Lower TR severity and greater TR severity reductions
+         were generally associated with greater KCCQ score improvements.
+
+A KCCQ Score Change vs. TR Grade                     B KCCQ Score Change vs. TR Grade Change
+
+
+
+
+Figure 8. Association between KCCQ Score and TR at 12 Months. The error bars are
+standard deviations.
+
+
+
+         SF-36 Score:
+
+         SF-36 scores through 12 months are shown in Figure 9 for the Randomized Cohort ITT
+         Population. The mean physical component score increased by about 5 points through
+         12 months compared to the baseline in the device group, while remaining mostly
+         unchanged from baseline through 12 months in the control group. A similar trend was
+         seen in the mental component score. In some studies, SF-36 score changes similar to
+         the changes observed in the device group have been interpreted as clinically significant.
+
+
+
+
+                        PMA P230007: FDA Summary of Safety and Effectiveness Data          33 of 51
+A Physical Component
+
+
+
+
+B Mental Component
+
+
+
+
+Figure 9. SF-36 Score by Visit – Randomized Cohort
+ITT Population (Unpaired). The error bars are standard
+deviations.
+
+
+
+
+     PMA P230007: FDA Summary of Safety and Effectiveness Data   34 of 51
+        NYHA Functional Class:
+
+        The results for NYHA classification by visit are shown in Figure 10 for the
+        Randomized Cohort ITT Population. At baseline, 59% of subjects in the device group
+        and 55% in the control group were in NYHA III/IV. At 12 months, fewer device
+        subjects were in NYHA III/IV than the control subjects (16% vs. 40%).
+
+
+
+
+Figure 10. NYHA Functional Class by Visit – Randomized Cohort ITT Population
+(Unpaired).
+
+        Echocardiographic Parameters:
+
+        PISA EROA, PISA regurgitant volume, and vena contracta width all showed
+        substantial decreases from baseline to 12 months in the device group and were
+        minimally changed in the control group (Table 17). There were no notable changes in
+        cardiac size or function in either treatment group at 12 months. Right atrial volume,
+        which would be expected to decrease as a result of reduced TR due to reverse
+        remodeling, showed an unexpected small increase in the device group.
+
+
+
+
+                    PMA P230007: FDA Summary of Safety and Effectiveness Data         35 of 51
+Table 17. Results of Echocardiographic Endpoints – Randomized Cohort ITT Population
+                                   (Paired Analysis).
+  Echocardiographic
+                                Device Arm            Control Arm      Difference
+ Endpoint Change from
+                                  (N=175)               (N=175)        [95% CI]*
+ Baseline to 12 Months
+¨Tricuspid annulus diameter (end-diastole, apical 4Ch, cm)
+      Mean ± SD (n)             -0.09 ± 0.64 (140)           -0.11 ± 0.74 (135)
+                                                                                        0.02
+      Median (Q1, Q3)           -0.10 (-0.50, 0.30)          -0.17 (-0.50, 0.30)
+                                                                                    [-0.14, 0.19]
+      Range (min, max)             (-1.46, 1.39)                (-3.90, 2.02)
+                  2
+¨PISA EROA (cm )
+      Mean ± SD (n)             -0.44 ± 0.33 (115)           -0.04 ± 0.31 (127)
+                                                                                        -0.40
+      Median (Q1, Q3)          -0.42 (-0.56, -0.26)          0.00 (-0.16, 0.12)
+                                                                                    [-0.48, -0.32]
+      Range (min, max)             (-2.33, 0.25)                (-1.25, 0.80)
+¨PISA regurgitant volume calculation (mL)
+      Mean ± SD (n)           -33.84 ± 20.48 (115)          -1.99 ± 23.56 (127)
+                                                                                        -31.85
+      Median (Q1, Q3)        -33.20 (-44.90, -21.40)       -1.30 (-12.40, 10.21)
+                                                                                   [-37.43, -26.28]
+      Range (min, max)           (-105.20, 12.11)             (-115.90, 67.80)
+¨Vena contracta width (SL, 4Ch view, cm)
+      Mean ± SD (n)             -0.52 ± 0.48 (139)           0.03 ± 0.44 (136)
+                                                                                        -0.54
+      Median (Q1, Q3)          -0.48 (-0.77, -0.26)          0.00 (-0.30, 0.32)
+                                                                                    [-0.65, -0.43]
+      Range (min, max)             (-3.00, 0.97)                (-1.10, 1.40)
+¨RV end diastolic diameter – mid (4Ch, cm)
+      Mean ± SD (n)             -0.18 ± 0.73 (140)           -0.02 ± 0.85 (134)
+                                                                                        -0.17
+      Median (Q1, Q3)           -0.20 (-0.60, 0.20)          0.10 (-0.50, 0.50)
+                                                                                    [-0.36, 0.02]
+      Range (min, max)             (-1.90, 2.80)                (-2.20, 2.90)
+¨RV end diastolic diameter – base (4Ch, cm)
+      Mean ± SD (n)             -0.21 ± 0.71 (142)           -0.12 ± 0.76 (134)
+                                                                                        -0.09
+      Median (Q1, Q3)           -0.15 (-0.70, 0.20)          -0.10 (-0.60, 0.40)
+                                                                                    [-0.26, 0.08]
+      Range (min, max)             (-2.40, 2.70)                (-2.00, 1.90)
+¨Right atrial volume (single plane Simpson’s, mL)
+      Mean ± SD (n)             7.78 ± 55.92 (140)          -2.13 ± 54.14 (136)
+                                                                                         9.91
+      Median (Q1, Q3)          8.17 (-22.48, 28.25)        -4.35 (-29.90, 21.90)
+                                                                                    [-3.13, 22.95]
+      Range (min, max)           (-122.03, 276.20)           (-154.44, 181.20)
+¨RV fractional area change (%)
+      Mean ± SD (n)             -0.73 ± 8.16 (133)           -0.52 ± 7.38 (125)         -0.21
+
+
+
+                      PMA P230007: FDA Summary of Safety and Effectiveness Data                 36 of 51
+      Median (Q1, Q3)             -0.50 (-6.40, 3.90)          -1.00 (-5.80, 3.90)   [-2.12, 1.69]
+      Range (min, max)              (-27.90, 21.22)             (-18.70, 23.00)
+¨LV end diastolic volume (mL)
+      Mean ± SD (n)               3.91 ± 25.02 (129)          -4.80 ± 23.49 (114)
+                                                                                         8.70
+      Median (Q1, Q3)            3.30 (-12.90, 16.30)         -4.98 (-16.80, 9.70)
+                                                                                     [2.57, 14.84]
+      Range (min, max)              (-70.30, 94.50)             (-83.20, 52.70)
+¨LV end systolic volume (mL)
+      Mean ± SD (n)               2.31 ± 15.28 (129)          -2.93 ± 12.52 (114)
+                                                                                          5.24
+      Median (Q1, Q3)             0.82 (-4.80, 8.80)           -2.95 (-9.50, 4.20)
+                                                                                      [1.72, 8.75]
+      Range (min, max)              (-37.00, 85.50)             (-65.34, 23.80)
+¨RV TAPSE (cm)
+      Mean ± SD (n)               -0.13 ± 0.45 (141)           0.00 ± 0.48 (132)
+                                                                                         -0.13
+      Median (Q1, Q3)             -0.10 (-0.43, 0.10)          0.01 (-0.20, 0.30)
+                                                                                     [-0.24, -0.02]
+      Range (min, max)               (-1.40, 1.00)                (-2.27, 1.00)
+¨Cardiac output (L/min)
+      Mean ± SD (n)               -0.05 ± 1.89 (136)           0.03 ± 1.40 (131)
+                                                                                         -0.07
+      Median (Q1, Q3)             -0.14 (-0.98, 0.63)          -0.04 (-0.88, 0.86)
+                                                                                     [-0.47, 0.33]
+      Range (min, max)               (-4.98, 14.95)               (-3.42, 4.10)
+¨LVOT Doppler stroke volume (mL)
+      Mean ± SD (n)              -1.58 ± 17.62 (138)          -1.93 ± 16.48 (133)
+                                                                                         0.35
+      Median (Q1, Q3)            -2.04 (-11.00, 7.80)         -1.50 (-11.73, 4.40)
+                                                                                     [-3.73, 4.43]
+      Range (min, max)              (-49.50, 65.00)             (-40.60, 51.70)
+¨Inferior vena cava diameter (cm)
+      Mean ± SD (n)               -0.09 ± 0.56 (135)           -0.01 ± 0.56 (136)
+                                                                                         -0.08
+      Median (Q1, Q3)             -0.04 (-0.48, 0.34)          0.00 (-0.34, 0.32)
+                                                                                     [-0.21, 0.05]
+      Range (min, max)               (-1.80, 1.16)                (-1.90, 1.80)
+¨Tricuspid valve diastolic mean gradient (CW, mmHg)
+      Mean ± SD (n)               1.15 ± 1.28 (136)            0.07 ± 0.58 (126)
+                                                                                          1.08
+      Median (Q1, Q3)              0.86 (0.32, 1.89)           0.02 (-0.31, 0.43)
+                                                                                      [0.84, 1.32]
+      Range (min, max)               (-2.80, 7.32)                (-1.11, 1.60)
+PISA: proximal isovelocity surface area (a method for estimating regurgitant volume); EROA: effective
+regurgitant orifice area; RV: right ventricular; LV: left ventricular: TAPSE: tricuspid annular plane
+systolic excursion (a measure of the RV apex to-base shortening and RV systolic function); LVOT: left
+ventricular outflow tract.
+SD: standard deviation; CI: confidence interval. The CIs were calculated without multiplicity
+adjustment. The adjusted CIs could be wider than presented here.
+*
+  By normal approximation.
+
+
+
+                        PMA P230007: FDA Summary of Safety and Effectiveness Data              37 of 51
+5. 1-Year Outcomes for All Available Subjects in the Randomized Cohort
+
+   The trial used an adaptive design with sample size re-estimation for the Randomized
+   Cohort. The pre-specified sample size re-estimation occurred once the first 150
+   randomized subjects completed 12-month follow-up, while the trial was still enrolling.
+   The trial continued to randomize subjects until the sample size re-estimation analysis was
+   completed and indicated that no further subject enrollment was necessary, by which point
+   572 subjects were randomized at 68 sites. Fifty-six subjects (29 Device, 26 Control) were
+   pending 12-month follow-up visits at the time of data analysis.
+
+   The win ratio analysis result for all available randomized subjects was 1.53 (Figure 11),
+   which is slightly greater than the win-ratio result for the Primary Analysis Population
+   (1.44, Figure 4). The number of device wins and control wins for death or TV surgery
+   continued to be similar between treatment groups for all available randomized subjects.
+   While there were more control group wins for heart failure hospitalizations in the win
+   ratio analysis for the Primary Analysis Population, the number of device group wins and
+   control group wins for heart failure hospitalizations were similar for all available subjects.
+   The win ratio continued to be driven by KCCQ score improvement, and the data for all
+   available subjects support the Primary Analysis Population analysis.
+
+
+
+
+   Figure 11. Win Ratio Analysis for All Available Subjects – Randomized Cohort
+   ITT Population. HFH: heart failure hospitalization; KCCQ-OS: Kansas City
+   Cardiomyopathy Questionnaire overall summary score; CI: confidence interval. The
+   CI was calculated without multiplicity adjustment. The adjusted CI could be wider
+   than presented here.
+
+
+
+
+                 PMA P230007: FDA Summary of Safety and Effectiveness Data                38 of 51
+           Components of the primary endpoint for the Primary Analysis Population and Full
+           Randomized Cohort are provided in Table 18.
+
+  Table 18. Primary Endpoint Components – Primary Analysis Population and Full
+                                    Randomized Cohort
+                                           Primary Analysis   Full Randomized
+                                              Population            Cohort
+              Component                         (N=350)            (N=572)
+                                           Device     Control Device    Control
+                                          (N=175)    (N=175) (N=285) (N=287)
+ All-cause mortality or TV surgery at
+                                           9.4%       10.6%   9.9%       9.7%
+ 12 months, Kaplan-Meier (%)1
+ Rate of heart failure hospitalizations,
+                                           0.22        0.17   0.17       0.19
+ per patient-year2
+ Proportion with KCCQ-OS
+                                           50%         26%    50%        26%
+ LPSURYHPHQWSRLQWVDWPRQWKV
+ 1
+     Kaplan-Meier estimate with Log-rank test
+ 2
+     Normal approximation for differences in Binomial proportions
+
+           Secondary endpoints were consistent in the Primary Analysis Population and Full
+           Randomized cohorts as summarized in Table 19. Device subjects experienced a larger
+           improvement in 6MWD than Control subjects in the Full Randomized Cohort than in the
+           Primary Analysis Population.
+
+Table 19. Secondary Endpoints – Primary Analysis Population and Full Randomized
+                                    Cohort
+                                      Primary Analysis         Full Randomized
+                                          Population                 Cohort
+        Secondary Endpoints                 (N=350)                 (N=572)
+                                      Device       Control    Device      Control
+                                     (N=175)       (N=175) (N=285) (N=287)
+Freedom from MAE at 30 days           98.3%            -       98.9%           -
+Moderate or less TR at 30 days        87.0%          5.4%      88.9%        5.3%
+Change from Baseline to 12 months
+KCCQ-OS (imputeda, ANCOVA),
+                                    12.3 ± 1.8 0.6 ± 1.8 11.5 ± 1.6 -0.5 ± 1.6
+Mean ± SE
+Between-group difference, Mean                11.7                    11.9
+[95% CI]b                                  [6.9, 16.6]             [7.4, 16.4]
+KCCQ-OS (complete-case paired),
+                                    15.2 ± 22.3 4.8 ± 18.3 15.2 ± 22.8 4.2 ± 18.9
+Mean ± SD
+Between-group difference, Mean                10.4                    11.0
+[95% CI]                                   [5.7, 15.1]             [6.9, 15.2]
+6MWD (imputeda, ANCOVA), Mean
+                                    -8.1 ± 10.5 -25.2 ± 10.3 -5.0 ± 8.7 -29.8 ± 8.4
+± SE
+Between-group difference, Mean                17.1                    24.8
+[95% CI]                                  [-12.0, 46.1]            [1.1, 48.6]
+
+
+                        PMA P230007: FDA Summary of Safety and Effectiveness Data      39 of 51
+    6MWD (complete-case paired), Mean                                              15.1 ±       -12.1 ±
+                                      11.5 ± 111.4 -8.7 ± 109.7
+    ± SD                                                                           103.4         102.0
+    Between-group difference, Mean               20.3                                       27.2
+    [95% CI]                                 [-7.2, 47.7]                                [5.5, 48.9]
+    a
+      Subjects who experienced HF-related death or had TV surgery prior to 12-month visit were
+    assigned 12-month KCCQ-OS or 6MWD of 0. Subjects who were unable to exercise due to
+    cardiac reasons were also assigned a 6MWD of 0 meters at 12-month follow-up.
+    Subjects who experienced hospitalization related to COVID-19 had their follow-up information
+    following the COVID-19 related hospitalization excluded.
+    b
+      CI: confidence interval. The CI was calculated without multiplicity adjustment. The adjusted CI
+    could be wider than presented here.
+
+
+              CEC-adjudicated adverse event rates through 12 months (unless otherwise noted) were
+              also consistent in the Primary Analysis Population and Full Randomized cohorts. Event
+              rates for the Full Randomized Cohort are summarized in Table 20.
+
+          Table 20. Selected CEC-Adjudicated Adverse Events through 12 Months – Full
+                              Randomized Cohort ITT Population.
+                                                                      Summary Statistics
+                         Event                                Device Arm                  Control Arm
+                                                               (N=285)*                    (N=287)†
+All-cause mortality                                      8.1% (23, 23, 0, 0, 1)          7.0% (20, 20, 0)
+        Cardiovascular (VARC II definition)              5.3% (15, 15, 0, 0, 0)          3.8% (11, 11, 0)
+         Heart failure-related                           3.9% (11, 11, 0, 0, 0)           2.8% (8, 8, 0)
+         Non-heart failure-related                        1.4% (4, 4, 0, 0, 0)            1.0% (3, 3, 0)
+        Non-cardiovascular (VARC II definition)           2.8% (8, 8, 0, 0, 1)            3.1% (9, 9, 0)
+Hospitalization                                        33.7% (161, 96, 2, 7, 9)         31.0% (155, 89, 0)
+        Heart failure hospitalization                   11.2% (44, 32, 1, 2, 0)         11.8% (48, 34, 0)
+        Other cardiovascular hospitalization             7.7% (23, 22, 1, 5, 0)          7.0% (25, 20, 0)
+        Non-cardiovascular hospitalization              22.8% (94, 65, 0, 0, 9)         19.5% (82, 56, 0)
+Tricuspid valve surgery                                   1.8% (5, 5, 2, 2, 0)            2.4% (7, 7, 0)
+Tricuspid valve intervention‡                             2.5% (7, 7, 5, 7, 0)            1.0% (3, 3, 0)
+0DMRUEOHHGLQJ %$5&D ‫ۅ‬                                3.2% (9, 9, 0, 3, 0)            1.7% (5, 5, 0)
+New onset renal failure‫ۅ‬                                  0.7% (2, 2, 0, 1, 0)            0.3% (1, 1, 0)
+*
+ Event rate (no. of events, no. of subjects, no. of device-related events, number of procedure-related
+events, number of COVID-19-related events); event rate = no./total no. Number of COVID-19-
+related events includes related or possibly related events; this excludes events with unknown
+relatedness.
+
+
+
+                            PMA P230007: FDA Summary of Safety and Effectiveness Data                      40 of 51
+ †
+   Event rate (no. of events, no. of subjects, number of COVID-19-related events).
+ ‡
+   Tricuspid valve intervention includes reintervention for device group and first intervention for
+ control group.
+ ‫ۅ‬
+   Per the study CEC charter bleeding and new onset renal failure were adjudicated up to 30 days post
+ treatment visit for the device and control groups.
+ VARC: Valve Academic Research Consortium; BARC: Bleeding Academic Research Consortium
+
+
+      6. Single-Arm Cohort Results
+
+          Primary Endpoint:
+
+          There were 100 subjects with an attempted TriClip procedure in the Single-Arm
+          Cohort. The primary analysis was performed on 91 subjects, which excluded subjects
+          who withdrew (n=1), died or were hospitalized due to COVID-19 (n=2), or missed the
+          12-month visit or did not complete the 12-month KCCQ assessment (n=6). The results
+          of the primary analysis are shown in Table 19. Fifteen (15) subjects died prior to 12
+          months, 34 had a KCCQ score improvement of <10 points, and 42 survived with a
+          .&&4VFRUHLPSURYHPHQWRISRLQWVDWPRQWKV7KHSURSRUWLRQRIsubjects who
+          survived and experienced at least a 10-point improvement in KCCQ score at 12 months
+          from baseline was 46.2%, with a lower 98.75% confidence limit of 34.3%, which
+          exceeded the performance goal of 30%. Thus, the primary endpoint was met.
+
+                     Table 215. Primary Analysis Results – Single-Arm Cohort.
+     Primary                        Lower 98.75%      Performance
+                         Rate                                         P-value                Result
+     Endpoint                      Confidence Limit        Goal
+6XUYLYDOZLWK
+point improvement         46.2%                                                             Endpoint
+vs. baseline in                               34.3%                  30%            0.008
+                         (42/91)                                                              Met
+KCCQ score at 12
+months
+
+          Secondary Endpoint:
+
+          The results of the powered secondary endpoints for the Single-Arm Cohort are
+          summarized in Table 22. TR reduction by at least one grade at 30 days post-procedure
+          occurred in 98.9% of subjects, and freedom from MAEs at 30 days post-procedure
+          occurred in 100% of subjects; these endpoints were met. However, the improvement in
+          6MWD at 12 months from baseline (13.7±92.7) did not meet the performance goal, so
+          the endpoint was not met. As a result, the subsequent endpoints in the pre-defined
+          hierarchy (freedom from all-cause mortality or tricuspid valve surgery and recurrent
+          HF hospitalizations at 12 months post-procedure) were not hypothesis-tested.
+          Descriptively, the annualized HF hospitalization rates pre- and post-TriClip procedure
+          were generally similar.
+
+
+
+
+                        PMA P230007: FDA Summary of Safety and Effectiveness Data                41 of 51
+Table 226. Summary of Powered Secondary Endpoints – Single-Arm Cohort AP
+Population.
+ Order        Secondary Endpoint        Summary Statistics    p-Value    Result
+            TR reduction by at least one                                                        Endpoint
+    1                                                   98.9% (87/88)*            < 0.0001
+            grade at 30 days post-procedure                                                       met
+            Freedom from MAEs at 30 days                                                        Endpoint
+    2                                                    100% (99/99)*             <0.0001
+            post-procedure                                                                        met
+            Change in 6MWD at 12 months                13.7±92.7 (71)†                          Endpoint
+    3                                                                                  0.1090
+            from baseline (m)                        95% CI: [-8.3, 35.6]                        not met
+            Freedom from all-cause
+    4       mortality and tricuspid valve                83.7% (3.7%)‡                   -      Not tested
+            surgery at 12 months
+                                                        Pre-procedure:
+                                                       0.33 [0.23, 0.46]‫ۅ‬
+            Recurrent HF hospitalizations at
+    5                                                                                    -      Not tested
+            12 months (events/patient-year)
+                                                        Post-procedure:
+                                                       0.36 [0.26, 0.51]‫ۅ‬
+TR: tricuspid regurgitation; MAEs: major adverse events, including cardiovascular mortality, new onset
+renal failure, endocarditis requiring surgery, and non-elective cardiovascular surgery for TriClip device-
+related adverse events post-index procedure; 6MWD: 6-minute walk distance; HF: heart failure.
+CI: confidence interval. The CIs were calculated without multiplicity adjustment. The adjusted CIs could
+be wider than presented here.
+*
+  % (no./total no.)
+†
+  Mean ± standard deviation (total no.)
+‡
+  Kaplan-Meier estimate (standard error)
+‫ۅ‬
+  Annualized event rate [95% CI].
+
+            Safety Results:
+
+            CEC-adjudicated adverse event rates through 12 months are shown in Table 23. The
+            rates of all-cause mortality, cardiovascular mortality, and heart failure hospitalization
+            were approximately two-fold higher in the Single-Arm Cohort than in the device group
+            of the Randomized Cohort. Other event rates were comparable to the device group of
+            the Randomized Cohort.
+
+Table 237. CEC-Adjudicated Adverse Events through 12 Months – Single-Arm Cohort AP
+                                    Population.
+                                                                       Summary Statistics
+                           Event
+                                                                           N=100
+    All-cause mortality                                               15% (15, 15, 0, 0, 1)*
+        Cardiovascular (VARC II definition)                            11% (11, 11, 0, 0, 0)
+            Heart failure-related                                      10% (10, 10, 0, 0, 0)
+
+
+
+                           PMA P230007: FDA Summary of Safety and Effectiveness Data                 42 of 51
+        Non-heart failure-related                                   1% (1, 1, 0, 0, 0)
+    Non-cardiovascular (VARC II definition)                         4% (4, 4, 0, 0, 1)
+Hospitalization                                                   50% (85, 50, 5, 4, 1)
+    Heart failure hospitalization                                 24% (33, 24, 1, 0, 0)
+    Other cardiovascular hospitalization                          14% (17,14, 4, 3, 0)
+    Non-cardiovascular hospitalization                            26% (35, 26, 0, 1, 1)
+    Tricuspid valve surgery                                         2% (2, 2, 1, 0, 0)
+    Tricuspid valve intervention                                    7% (7, 7, 5, 4, 0)
+    Major bleeding (greater than BARC 3a)‫ۅ‬                          5% (5, 5, 0, 1, 0)
+    New onset renal failure‫ۅ‬                                        0% (0, 0, 0, 0, 0)
+    Transient ischemic attack (TIA)                                 1% (1, 1, 0, 0, 0)
+    Stroke (VARC II)                                                0% (0, 0, 0, 0, 0)
+    Myocardial infarction (VARC II
+                                                                    0% (0, 0, 0, 0, 0)
+    definition)‫ۅ‬
+    Endocarditis requiring surgery‫ۅ‬                                 0% (0, 0, 0, 0, 0)
+    Non-elective cardiovascular surgery for
+    TriClip-related adverse event post index                        0% (0, 0, 0, 0, 0)
+    procedure‫ۅ‬
+    Cardiogenic shock                                               1% (1, 1, 0, 1, 0)
+*
+  Event rate (no. of events, no. of subjects, no. of device-related events, number of procedure-
+related events, number of COVID-19-related events); event rate = no./total no. Number of
+COVID-19-related events includes related or possibly related events; this excludes events with
+unknown relatedness.
+‫ۅ‬
+  Per the study CEC charter, myocardial infarction, bleeding, new onset renal failure, endocarditis
+requiring surgery, and non-elective cardiovascular surgery for TriClip-related adverse event post
+index procedure were adjudicated up to 30 days post treatment visit for the device and control
+groups.
+VARC: Valve Academic Research Consortium; BARC: Bleeding Academic Research
+Consortium; TIA: transient ischemic attack.
+
+
+
+    7. Imaging Sub-study
+
+        A pre-planned exploratory imaging sub-study was conducted on a subset of subjects to
+        further investigate changes in TR, right ventricular size, and right ventricular function
+        and to gain additional insights into cardiac reverse remodeling. Ten (10) sites
+        participated, and site selection was based on MRI/CT imaging expertise, adequate
+        imaging equipment, and study enrollment. The imaging sub-study was to enroll 100
+
+
+
+                      PMA P230007: FDA Summary of Safety and Effectiveness Data                  43 of 51
+         subjects. A total of 82 subjects enrolled and completed baseline imaging as of April 23,
+         2023, with 44 subjects enrolled at a single site.
+
+         MRI and CT were performed at baseline and 30 days, and CT was performed at 12
+         months. TR parameters were only assessed with MRI. The 30-day cardiac MRI results
+         (Table 24) showed TR reduction in TriClip subjects consistent with the echocardiogram
+         results. In addition, there were general trends in right ventricular reverse remodeling in
+         TriClip subjects. However, the sample size was small, and there was large patient-to-
+         patient variability in the results. The long-term prognostic values of the observed
+         changes are unknown.
+
+                Table 248. Imaging Sub-Study: 30-Day Cardiac MRI Results.
+   Endpoint Change               Randomized Cohort            Single-Arm & Roll-in
+  from Baseline to 30       Device Arm       Control Arm             Cohorts
+        Days                  (N=27)            (N=26)               (N=12)
+¨TR volume (mL)
+      Mean ± SD (n)    -34.1 ± 28.2 (27)               3.2 ± 22.1 (24)             -39.0 ± 16.3 (10)
+      Median (Q1, Q3) -28.0 (-52.0, -10.0)            2.0 (-13.0, 11.5)           -43.0 (-46.0, -28.0)
+      Range (min,        (-100.0, 4.0)                  (-20.0, 84.0)                (-62.0, -9.0)
+      max)
+¨TR fraction (%)
+       Mean ± SD (n)         -27.8 ± 16.0 (27) -2.3 ± 21.2 (24)                    -29.1 ± 14.6 (10)
+       Median (Q1, Q3) -28.0 (-45.0, -13.8)     0.5 (-8.4, 6.0)                   -29.5 (-37.0, -18.0)
+       Range (min,              (-52.9, 9.4)     (-66.4, 60.2)                       (-56.3, -9.0)
+       max)
+¨Right atrial end diastolic volume (RAEDV, mL)
+       Mean ± SD (n)        -8.7 ± 23.1 (27)          -4.0 ± 38.5 (26)             -29.6 ± 27.8 (12)
+       Median (Q1, Q3)      -9.0 (-21.0, 8.0)        -3.0 (-16.0, 22.0)           -17.5 (-51.0, -5.5)
+       Range (min,            (-64.0, 37.0)            (-113.0, 63.0)                (-83.0, -2.0)
+       max)
+¨Right ventricular mass (g)
+       Mean ± SD (n)          -4.7 ± 5.2 (27)          0.0 ± 6.0 (25)               -7.2 ± 8.7 (11)
+       Median (Q1, Q3)        -5.0 (-9.0, 0.0)         1.0 (-4.0, 5.0)             -5.0 (-9.0, -1.0)
+       Range (min,              (-16.0, 4.0)           (-13.0, 10.0)                 (-32.0, -1.0)
+       max)
+¨Right ventricular ejection fraction (RVEF, %)
+      Mean ± SD (n)           -5.6 ± 6.6 (27)          0.6 ± 6.1 (25)               -9.2 ± 5.6 (11)
+      Median (Q1, Q3)        -6.0 (-11.0, 1.0)         1.0 (-1.0, 2.0)            -10.0 (-15.0, -6.0)
+      Range (min,               (-17.0, 5.0)            (-15.0, 17.0)                 (-16.0, 2.0)
+      max)
+¨Corrected RVEF (%)*
+       Mean ± SD (n)          8.4 ± 7.6 (27)           -0.2 ± 4.5 (24)              7.1 ± 9.3 (10)
+
+
+
+                      PMA P230007: FDA Summary of Safety and Effectiveness Data                      44 of 51
+       Median (Q1, Q3)        8.1 (4.0, 15.0)           0.0 (-2.6, 2.5)             8.5 (-1.0, 14.0)
+       Range (min,              (-8.2, 20.3)             (-12.0, 8.8)                (-10.9, 18.5)
+       max)
+¨Right ventricular free wall strain (%)
+      Mean ± SD (n)       -2.0 ± 4.5 (27)               1.2 ± 6.1 (25)              -2.7 ± 4.8 (10)
+      Median (Q1, Q3)     -1.0 (-5.0, 1.0)              0.0 (-3.0, 3.0)             -2.0 (-6.0, 2.0)
+      Range (min,           (-12.0, 6.0)                 (-8.0, 16.0)                 (-12.0, 3.0)
+      max)
+¨Pulmonary forward flow (mL)
+        Mean ± SD (n)          5.2 ± 13.0 (27)          0.3 ± 9.1 (24)             -1.8 ± 27.5 (11)
+        Median (Q1, Q3)        5.0 (-4.0, 14.0)         1.0 (-4.0, 5.0)            4.0 (-5.0, 10.0)
+        Range (min,             (-19.0, 41.0)            (-22.0, 19.0)               (-79.0, 29.0)
+        max)
+*
+ Corrected RVEF: provides a more accurate measurement of forward flow by subtracting regurgitant
+volume from the total stroke volume for a regurgitant valve.
+
+         The 12-month cardiac CT results are shown in Table 25. Similar to the cardiac MRI
+         results, general trends of right ventricular reverse remodeling were observed in TriClip
+         subjects. However, sample sizes were small, and there was large patient-to-patient
+         variability in the results. The long-term prognostic values of the observed changes are
+         unknown.
+
+              Table 25. Imaging Sub-Study: 12-Month Cardiac CT Results.
+     Endpoint Change               Randomized Cohort              Single-Arm &
+    from Baseline to 12      Device Group      Control Group     Roll-In Cohorts
+         Months                  (N=20)            (N=20)               (N=7)
+¨Right atrial end diastolic volume (RAEDV, mL)
+       Mean ± SD (n)            -19.5 ± 34.2 (20)    4.4 ± 35.5 (20)                 -3.3 ± 23.6 (7)
+       Median (Q1, Q3)         -18.0 (-31.5, -4.0) 5.0 (-14.0, 23.0)                4.0 (-28.0, 21.0)
+       Range (min,                 (-83.0, 45.0)      (-70.0, 99.0)                   (-33.0, 23.0)
+       max)
+¨Tricuspid valve annular area (mm2)
+       Mean ± SD (n)         -195.0 ± 197.1 (20)   -3.0 ± 142.8 (20)               -194.3 ± 119.7 (7)
+       Median (Q1, Q3)          -205.0 (-305.0, -     -20.0 (-70.0,                 -160.0 (-300.0, -
+                                       60.0)              60.0)                          130.0)
+       Range (min,
+                                  (-690.0, 90.0)    (-240.0, 390.0)                   (-360.0, 0.0)
+       max)
+¨Right ventricular end diastolic volume (RVEDV, mL)
+       Mean ± SD (n)            -35.8 ± 26.4 (20)   -1.0 ± 38.1 (20)                 -42.4 ± 33.5 (7)
+       Median (Q1, Q3)        -38.0 (-58.5, -18.5) -3.5 (-22.5, 12.5)              -37.0 (-56.0, -16.0)
+       Range (min,                  (-74.0, 8.0)      (-61.0, 68.0)                   (-103.0, 0.0)
+       max)
+
+
+
+                       PMA P230007: FDA Summary of Safety and Effectiveness Data                      45 of 51
+¨Right ventricular mass (g)
+       Mean ± SD (n)             -4.7 ± 4.9 (20)              1.4 ± 6.5 (20)           -3.6 ± 5.7 (7)
+       Median (Q1, Q3)          -3.5 (-6.5, -1.0)             1.5 (-4.5, 5.0)         -5.0 (-7.0, -2.0)
+       Range (min,                 (-16.0, 2.0)                (-10.0, 13.0)            (-10.0, 8.0)
+       max)
+¨Right ventricular ejection fraction (%)
+       Mean ± SD (n)             -6.9 ± 6.2 (20)              0.9 ± 5.2 (20)           -2.1 ± 7.0 (7)
+       Median (Q1, Q3)         -9.0 (-11.0, -2.0)             0.5 (-2.0, 4.0)         -2.0 (-8.0, 7.0)
+       Range (min,                 (-16.0, 5.0)                (-10.0, 11.0)            (-11.0, 7.0)
+       max)
+¨Right ventricular free wall strain (%)
+       Mean ± SD (n)             -4.2 ± 7.2 (18)             -1.3 ± 5.4 (19)          -1.3 ± 6.5 (7)
+       Median (Q1, Q3)          -3.5 (-8.0, 2.0)             -2.0 (-5.0, 3.0)         2.0 (-8.0, 3.0)
+       Range (min,
+                                   (-20.0, 5.0)                (-14.0, 10.0)            (-13.0, 4.0)
+       max)
+SD: standard deviation;
+
+     8. Subgroup Analyses
+
+         Pre-specified subgroup analyses were performed on the primary endpoint components at
+         12 months by sex (male vs. female), baseline TR grade (severe vs. greater than severe),
+         baseline NYHA functional class (I/II vs. III/IV), and TR etiology (primary vs. secondary).
+         Outcomes for each component of the primary endpoint were generally consistent across
+         subgroups except KCCQ score change by TR etiology. However, this is not considered a
+         qualitative interaction, as the device group had a higher proportion of subjects with a
+         .&&4 LPSURYHPHQW RI  SRLQWV YV WKH FRQWURO JURXS IRU ERWK WKH SULPDU\ DQG
+         secondary TR etiology subgroups.
+
+         The study was not specifically powered for race subgroup. However, a subgroup analysis
+         was also performed to investigate potential differences in outcomes based on race. The
+         number of non-Caucasians is too small to draw any conclusions (Table 26).
+
+          Table 26. Primary Endpoint Components of Safety and Effectiveness by Race
+                        All-Cause Mortality   Heart Failure            ǻKCCQ 15
+                                        §                    §
+           Race           or TV Surgery      Hospitalization             Points §
+                        Device     Control  Device      Control     Device     Control
+      American Indian
+      or Alaskan                0/1           0/0           0/1           0/0          0/1          0/0
+      Native
+      Asian                     0/7           1/7           1/7           0/7          2/7          4/9
+
+
+
+
+                          PMA P230007: FDA Summary of Safety and Effectiveness Data                    46 of 51
+       Black or African
+                              2/7           2/7           2/7           1/10         1/4        4/9
+       American
+       Native Hawaiian
+       or Other Pacific       0/0           0/0           0/0           0/0          0/0        0/0
+       Islander*
+       White                13/149        15/143        20/149        19/143        67/127    28/120
+
+       Not available†        1/11           0/15          3/11          0/15         3/8       5/13
+       KCCQ: Kansas City Cardiomyopathy
+       *No subjects in the race category enrolled.
+       †Europeans regulations did not allow the race information to be collected for subjects enrolled
+       in Germany.
+       § The numbers shown were no. of patients with events/total no. of patients.
+
+       9. Pediatric Extrapolation
+
+          In this premarket application, existing clinical data were not leveraged to support
+          approval of a pediatric patient population.
+
+XI.    FINANCIAL DISCLOSURE
+
+       The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+       applicants who submit a marketing application to include certain information concerning
+       the compensation to, and financial interests and arrangement of, any clinical investigator
+       conducting clinical studies covered by the regulation. The pivotal clinical study included
+       537 investigators of which none were full-time or part-time employees of the sponsor and
+       9 of investigators had disclosable financial interests/arrangements as defined in 21 CFR
+       54.2(a), (b), (c) and (f) and described below:
+
+          x    Compensation to the investigator for conducting the study where the value could
+               be influenced by the outcome of the study: None
+          x    Significant payment of other sorts: 9
+          x    Proprietary interest in the product tested held by the investigator: None
+          x    Significant equity interest held by investigator in sponsor of covered study: None
+
+       The applicant has adequately disclosed the financial interest/arrangements with clinical
+       investigators. Statistical analyses were conducted by FDA to determine whether the
+       financial interests/arrangements had any impact on the clinical study outcome. The
+       information provided does not raise any questions about the reliability of the data.
+
+XII.   PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+       A. Panel Meeting Recommendation
+
+
+
+
+                        PMA P230007: FDA Summary of Safety and Effectiveness Data                47 of 51
+        At an advisory meeting held on February 13, 2024, the Circulatory System Devices
+        Panel voted 14-0-0 (yes-no-abstain) that there is reasonable assurance the device is
+        safe, 12-2-0 that there is reasonable assurance that the device is effective, and 13-1-0
+        that the benefits of the device outweigh the risks in subjects who meet the criteria
+        specified in the proposed indication. The panel generally believed that the device was
+        safe and that the KCCQ score improvement was not solely due to placebo effect based
+        on the magnitude and durability of improvement and the association of KCCQ score
+        with TR reduction. Several panelists expressed concerns about identifying the correct
+        patient population that will benefit from the device. They emphasized the need for a
+        robust post approval study and training program. Information from this advisory
+        meeting can be found on FDA’s website at the following: February 13, 2024:
+        Circulatory System Devices Panel of the Medical Devices Advisory Committee
+        Meeting Announcement – 02/13/2024
+
+     B. FDA’s Post Panel Action
+
+        Comments from panel members made it clear that the panel believed that approval of
+        this device with a revised indication and robust postmarket evaluation would be
+        appropriate and in the interest of public health. FDA worked interactively with the
+        sponsor to revise the indications for use from what was presented at the February 13,
+        2024 panel meeting to the current indications for use and to develop a post-approval
+        study strategy to generate evidence to support: (1) longer-term durability and
+        generalizability of the treatment; (2) effectiveness of the training program; and (3)
+        further define the characteristics of the patient population that experiences a meaningful
+        clinical benefit.
+
+XIII. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+     E. Effectiveness Conclusions
+
+        In the TRILUMINATE Pivotal trial, the primary hierarchical composite endpoint of
+        all-cause death or tricuspid valve surgery, heart failure hospitalizations, and KCCQ
+        improvement of at least 15 points was met (p=0.03) indicating that the TriClip device
+        in addition to OMT is superior to OMT alone. The study results did not show a benefit
+        in mortality or TV surgery or number of heart failure hospitalizations with the TriClip
+        device. The primary endpoint success was driven by a clinically meaningful KCCQ
+        improvement, which may be susceptible to the placebo effect in an unblinded trial.
+        However, the durability of KCCQ improvement, association of KCCQ improvement
+        with TR grade and TR reduction, and the results of the exploratory imaging sub-study
+        provide evidence to support that the KCCQ improvement is not solely due to placebo
+        effect. TriClip was successfully implanted in 98.8% of subjects in the Device group.
+        TR reduction to moderate or less at 30 days was achieved in 87% of Device subjects
+        compared to 4.8% of Control subjects (p<0.0001).
+
+        The Single-Arm Cohort primary endpoint of survival with at least a 10-point
+        improvement in KCCQ score at 12 months was met with a rate of 46.2%. The lower
+
+
+
+                     PMA P230007: FDA Summary of Safety and Effectiveness Data             48 of 51
+   98.75% confidence limit of 34.3% exceeds the performance goal of 30% with a p-value
+   of 0.008. TR reduction by at least 1 grade was achieved in 98.9% of subjects.
+
+F. Safety Conclusions
+
+   The risks of the TriClip G4 System are based on nonclinical laboratory and animal
+   studies as well as data collected in a clinical study conducted to support PMA approval
+   as described above. The results from the nonclinical laboratory and animal studies
+   demonstrated that the TriClip G4 System met its pre-specified performance criteria and
+   is suitable for long-term implant.
+
+   The secondary endpoint in the TRILUMINATE Pivotal Trial of freedom from major
+   adverse events showed the rate of freedom from MAEs occurring after procedure
+   through 30 days was 98.3% with a lower 95% confidence limit of 96.3% which was
+   greater than the performance goal of 90% (p<0.0001); thus, the endpoint was met. CEC
+   adjudicated adverse events for subjects implanted with TriClip included mortality at 1
+   year (8.1%), heart failure hospitalization at 1 year (11.2%), tricuspid valve surgery at
+   1 year (1.8%), tricuspid valve intervention at 1 year (2.5%), major bleeding at 30 days
+   (3.9%), and new onset renal failure at 30 days (1.4%).
+
+   In the Single-Arm Cohort, the rate of freedom from MAEs at 30 days was 100%, which
+   exceeds the performance goal of 80% (p-value <0.0001). The CEC-adjudicated adverse
+   event rates were higher in the Single-Arm Cohort, including mortality at 1 year (15%),
+   heart failure hospitalization at 1 year (24%), and tricuspid valve intervention at 1 year
+   (7%), which is expected for the more advanced disease state of this cohort.
+
+   There were no occurrences of operative mortality, no device thrombus, and no device
+   embolization in the Randomized Cohort or the Single-Arm Cohort.
+
+G. Benefit-Risk Determination
+
+   The probable benefits of transcatheter edge-to-edge valve repair with the TriClip G4
+   system in subjects who meet the conditions in the indications for use include reduction
+   in TR and clinically meaningful improvements in quality of life and functional status
+   as measured by KCCQ.
+
+   The probable risks of the TriClip G4 system include MAEs such as cardiovascular
+   mortality, tricuspid valve surgery or re-intervention, heart failure hospitalization, major
+   bleeding, and new onset renal failure.
+
+   Patient perspectives considered during the review included patient reported outcomes
+   as measured by KCCQ and SF-36.
+
+   Given the available information, the data support that for the treatment of patients with
+   symptomatic, severe tricuspid valve regurgitation, whose symptoms and TR severity
+   persist despite being treated optimally with medical therapy, who are at intermediate
+
+
+
+                PMA P230007: FDA Summary of Safety and Effectiveness Data              49 of 51
+       or greater risk of mortality or morbidity with open heart surgery, and in whom the
+       TriClip device is expected to achieve a TR reduction of moderate or less, the probable
+       benefits outweigh the probable risks.
+
+    H. Overall Conclusions
+
+       The data in this application support the reasonable assurance of safety and effectiveness
+       of the TriClip G4 System when used in accordance with the indications for use.
+
+XIV. CDRH DECISION
+
+    CDRH issued an approval order on April 1, 2024. The final clinical conditions of approval
+    cited in the approval order are described below.
+
+    The applicant must conduct two post approval studies:
+
+       1. Continued Follow-up of the Premarket Cohort: The study will consist of all
+          living patients who were enrolled under the IDE, including the Continued Access
+          Protocol investigation. The objective of this study is to characterize the clinical
+          outcomes annually through 5 years post-procedure. Data will be collected per the
+          study protocol, including, but not limited to, adverse event data including deaths,
+          tricuspid valve reintervention, and heart failure related hospitalizations,
+          echocardiographic endpoints including tricuspid regurgitation severity grade,
+          Kansas City Cardiomyopathy Questionnaire (KCCQ) score, SF-36 score (1 and 2
+          years only), New York Heart Association (NYHA) classification, and 6-Minute
+          Walk Test (6MWT) distance. KCCQ score and TR severity grade will be collected
+          with a minimum of 75% completeness rate each year through 5 years.
+
+       2. Registry-Based Real-World Use Surveillance: The surveillance will be carried
+          out to assess the real-world performance of the TriClip G4 system and the clinical
+          outcomes of the device in patient populations underrepresented in the
+          TRILUMINATE Pivotal trial. It will involve all consecutive patients treated within
+          the first 2 years following device approval or a total of 5,000 consecutively treated
+          patients, whichever is greater, who are entered into the Society of Thoracic
+          Surgeons (STS)/American College of Cardiology (ACC) Transcatheter Valve
+          Therapy (TVT) Registry (enrollment period). For the first 1,000 consecutively
+          treated patients at a representative subset of sites (in terms of patient volume,
+          geographic location, and operator expertise), key data, including KCCQ score and
+          TR severity grade, will be collected with a minimum of 75% data completeness
+          through one (1) year. A minimum of 50% of this subset of sites will be new sites
+          that did not participate in the TRILUMINATE Pivotal trial. Data collection will
+          continue for underrepresented racial and ethnic groups (Black/African American,
+          Asian, American Indian/Alaskan Native, Native Hawaiian/Pacific Islander, and
+          Hispanic or Latino ethnicity) until each group has enrolled a minimum of 100
+          patients. All patients will be followed through 5 years post-procedure (follow-up
+          duration). The clinical data through one (1) year will be collected through the TVT
+
+
+
+                    PMA P230007: FDA Summary of Safety and Effectiveness Data            50 of 51
+             Registry. The follow-up data (including all-cause mortality, stroke, tricuspid valve
+             reintervention, and hospitalization) from year 2 through year 5 post-procedure will
+             be obtained through linking the TVT Registry data with the Centers for Medicare
+             and Medicaid Services (CMS) claims database.
+
+      The applicant’s manufacturing facilities have been inspected and found to be in compliance
+      with the device Quality System (QS) regulation (21 CFR 820).
+
+XV.   APPROVAL SPECIFICATIONS
+
+      Directions for use: See device labeling.
+
+      Hazards to Health from Use of the Device: See Indications, Contraindications,
+      Warnings, Precautions, and Adverse Events in the device labeling.
+
+      Post-approval Requirements and Restrictions: See approval order.
+
+XVI. REFERENCES
+
+      1. Finkelstein DM and Schoenfeld DA. Combining Mortality and Longitudinal
+         Measures in Clinical Trials. Stat Med 1999; 18:1341-54.
+
+      2. Pocock SJ, Ariti CA, Collieret TJ, et al. The Win Ratio: a New Approach to the
+         Analysis of Composite Endpoints in Clinical Trials Based on Clinical priorities. Eur
+         Heart J 2012; 33:176-82.
+
+      3. Stone GW, Lindenfeld J, Abraham WT, et al. Transcatheter Mitral-Valve Repair in
+         Patients with Heart Failure. N Engl J Med 2018; 379:2307-2318.
+
+
+
+
+                      PMA P230007: FDA Summary of Safety and Effectiveness Data           51 of 51
+

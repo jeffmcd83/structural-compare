@@ -1,0 +1,64 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Coronary Products Comparison Guide</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><meta name="theme-color" content="#111827">
+<link rel="preload" href="data/core.json?v=__VER__" as="fetch" crossorigin>
+<style>
+:root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
+*{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+header{background:#111827;color:#fff;padding:12px 18px;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+header h1{font-size:18px;margin:0}.pass{font-size:11px;color:#9aa3b2;margin-right:auto}
+select,input,button{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:8px}label.tg{display:flex;gap:6px;align-items:center;cursor:pointer}
+.bar{display:flex;flex-wrap:wrap;gap:10px;padding:12px 18px;align-items:flex-start}
+.pk{position:relative;flex:1 1 200px;max-width:280px}.pk input{width:100%}.pk .list{position:absolute;z-index:5;left:0;right:0;background:#fff;border:1px solid var(--line);border-radius:8px;max-height:280px;overflow:auto;display:none;box-shadow:0 6px 20px #0002}
+.pk .list div{padding:7px 10px;cursor:pointer}.pk .list div:hover{background:#eef2ff}.pk .list .dis{color:#aaa;cursor:not-allowed;background:#f6f6f6}.pk .list small{color:var(--mut)}.pk .x{position:absolute;right:6px;top:6px;border:0;background:none;cursor:pointer;color:var(--mut)}
+main{padding:0 18px 40px}table{width:100%;border-collapse:collapse;background:var(--card);border-radius:10px;overflow:hidden;table-layout:fixed}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left;word-wrap:break-word}th.a{width:22%;color:#475569;font-weight:600}
+tbody.sec tr:nth-child(even) td,tbody.sec tr:nth-child(even) th{background:#fafbfd}tr.d td{background:var(--diff)!important}
+tr.sh th{background:#e8edf5;cursor:pointer;font-size:13px}tr.sh th:before{content:'▾ '}tbody.col tr:not(.sh){display:none}tbody.col tr.sh th:before{content:'▸ '}
+.na{color:var(--mut)}.src{display:inline-block;margin-left:5px;width:16px;height:16px;border-radius:50%;background:#dbeafe;color:#1d4ed8;font-size:10px;text-align:center;line-height:16px;cursor:pointer;vertical-align:middle}
+.pop{position:fixed;z-index:9;max-width:380px;background:#111827;color:#fff;padding:10px 12px;border-radius:8px;font-size:12px;box-shadow:0 8px 24px #0004}.pop a{color:#93c5fd;word-break:break-all}
+.cat{max-height:5.6em;overflow:auto;font-size:12px}.rc{font-size:12px;margin-top:4px;border-left:3px solid #ef4444;padding-left:6px}
+.view{display:inline-flex}body.dsk main{overflow:auto;max-height:calc(100vh - 40px);padding:0;margin:0 18px 40px;border-radius:10px}body.dsk table{min-width:880px;overflow:visible;border-radius:0}body.dsk th.a{width:200px;position:sticky;left:0;z-index:2;background:#fff}body.dsk thead th{position:sticky;top:0;z-index:3;background:#fff;box-shadow:0 1px 0 var(--line)}body.dsk thead th.a{z-index:4}body.dsk tr.sh th{position:sticky;left:0}@media(max-width:720px){body.stk table,body.stk tbody,body.stk tr,body.stk td,body.stk th{display:block;width:100%!important}body.stk tr.sh th{position:sticky;top:0}body.stk td:before{content:attr(data-v);display:block;font-size:11px;color:var(--mut)}body.cmp th,body.cmp td{padding:5px 6px;font-size:12px}body.cmp th.a{width:30%}}
+.slot{background:#fafafa!important;border-left:1px dashed var(--line)}button.add{padding:4px 8px;font-size:12px;cursor:pointer;background:#eef2ff;border-color:#c7d2fe;color:#1d4ed8}.empty{padding:40px;text-align:center;color:var(--mut)}
+</style></head><body class="cmp">
+<header><h1>Structural Heart Comparison Guide</h1><span class="pass">Preview · pass __PASS__ · built __BUILT__</span>
+<select id="th" aria-label="Therapy"></select><select id="cat" aria-label="Category"></select>
+<label class="tg"><input type="checkbox" id="diff"> Differences only</label>
+<span class="view"><select id="vw" aria-label="View"><option value="cmp">Compact</option><option value="stk">Stacked</option><option value="dsk">Desktop</option></select></span></header>
+<div class="bar" id="pk"></div><main id="m"><div class="empty">Loading…</div></main>
+<script>
+const $=s=>document.querySelector(s);let D,RC=null,sel=[null,null,null,null],collapsed={};
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+fetch('data/core.json?v=__VER__').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
+ const cats=Object.keys(d.sect),TH=['Coronary','TAVI','Mitral TEER','Tricuspid TEER','Shared accessories'].filter(t=>cats.some(c=>(d.ther[c]||'Coronary')===t));
+ $('#th').innerHTML=TH.map(t=>`<option>${esc(t)}</option>`).join('');
+ const h=new URLSearchParams(location.hash.slice(1));const c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
+ $('#th').value=c0?(d.ther[c0]||'Coronary'):(h.get('t')&&TH.includes(h.get('t'))?h.get('t'):TH[0]);fillCats();if(c0)$('#cat').value=c0;
+ setCat(h.get('m')?h.get('m').split('~'):null)});
+function fillCats(){const t=$('#th').value;$('#cat').innerHTML=Object.keys(D.sect).filter(c=>(D.ther[c]||'Coronary')===t&&D.rows.some(r=>r.category===c)).map(c=>`<option>${esc(c)}</option>`).join('')}
+function rowsOf(c){return D.rows.filter(r=>r.category===c)}
+function setCat(pre){const R=rowsOf($('#cat').value);sel=[0,1,2,3].map(i=>{const m=pre&&pre[i];const r=m?R.find(x=>x.model===m):R[i];return r||null});sel=sel.map((r,i)=>r&&sel.indexOf(r)===i?r:null);pickers();render()}
+function pickers(){const R=rowsOf($('#cat').value);$('#pk').innerHTML=sel.map((s,i)=>`<div class="pk"><input placeholder="Search vendor/model…" data-i="${i}" value="${s?esc(s.model+' — '+s.manufacturer):''}"><button class="x" data-i="${i}" title="Clear">✕</button><div class="list"></div></div>`).join('');
+ document.querySelectorAll('.pk input').forEach(inp=>{const L=inp.parentNode.querySelector('.list');const show=()=>{const q=inp.value.toLowerCase().trim();const sh=R.filter(r=>!q||inp.value===(sel[inp.dataset.i]&&sel[inp.dataset.i].model+' — '+sel[inp.dataset.i].manufacturer)||(r.manufacturer+' '+r.model).toLowerCase().includes(q));
+  const used=sel.filter((x,j)=>x&&j!=inp.dataset.i);L.innerHTML=sh.map(r=>used.includes(r)?`<div class="na dis" title="Already selected">${esc(r.model)} <small>${esc(r.manufacturer)} · selected</small></div>`:`<div data-m="${esc(r.model)}" data-k="${R.indexOf(r)}">${esc(r.model)} <small>${esc(r.manufacturer)}</small></div>`).join('')||'<div class="na">No match</div>';L.style.display='block'};
+  inp.onfocus=()=>{inp.select();show()};inp.oninput=show;inp.onblur=()=>setTimeout(()=>L.style.display='none',150);
+  L.onmousedown=e=>{const m=e.target.closest('[data-m]');if(!m)return;const r=R[+m.dataset.k];if(sel.some((x,j)=>x===r&&j!=inp.dataset.i))return;sel[inp.dataset.i]=r;pickers();render()}});
+ document.querySelectorAll('.pk .x').forEach(b=>b.onclick=()=>{sel[b.dataset.i]=null;pickers();render()})}
+function cell(r,f){if(!r)return'';let v=r[f];if(v==null||v==='')return'<span class="na">—</span>';
+ let s=f==='catalog_numbers'?`<div class="cat">${esc(v)}</div>`:esc(v);const p=r._p&&r._p[f];if(p!=null)s+=`<span class="src" data-p="${p}">i</span>`;
+ if(f==='recalls'&&RC&&RC[r.model])s+=RC[r.model].map(x=>`<div class="rc"><b>${esc(x[0])}</b> ${esc(x[1])} · ${esc(x[2])}<br>${esc(x[3])}<br><small>Catalogs: ${esc(x[4])}</small></div>`).join('');return s}
+const isRep=r=>!!r&&!!r.reprocessed&&!/^no\b/i.test(String(r.reprocessed));const REPF=f=>/reprocess/i.test(f);
+function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='t='+encodeURIComponent($('#th').value)+'&c='+encodeURIComponent(c)+'&m='+encodeURIComponent(sel.map(s=>s?s.model:'').join('~'));
+ const R=rowsOf(c),diff=$('#diff').checked&&S.length>1,showRep=S.some(isRep);
+ let h='<table><thead><tr><th class="a">Attribute</th>'+sel.map((s,i)=>s?`<th>${esc(s.model)}<br><small class="na">${esc(s.manufacturer)}</small></th>`:`<th class="slot"><button class="add" data-i="${i}">+ Add device</button><br><small class="na">Empty slot ${i+1}</small></th>`).join('')+'</tr></thead>';
+ for(const [name,fs] of D.sect[c]){if(REPF(name)&&!showRep)continue;const F=fs.filter(f=>(R.some(r=>r[f]!=null&&r[f]!=='')||f==='recalls')&&(showRep||!REPF(f)));if(!F.length)continue;let b='';
+  for(const f of F){const vals=S.map(s=>s[f]??'');const d=new Set(vals).size>1;if(diff&&!d)continue;b+=`<tr class="${d&&S.length>1?'d':''}"><th class="a">${esc(D.labels[f]||f)}</th>`+sel.map(s=>s?`<td data-v="${esc(s.model)}">${cell(s,f)}</td>`:`<td class="slot" data-v="Empty slot"></td>`).join('')+'</tr>'}
+  if(b)h+=`<tbody class="sec ${collapsed[name]?'col':''}" data-s="${esc(name)}"><tr class="sh"><th colspan="${sel.length+1}">${esc(name)}</th></tr>${b}</tbody>`}
+ $('#m').innerHTML=h+'</table>'+(S.length?'':'<div class="empty">All slots empty — use “+ Add device” or the pickers above.</div>');
+ document.querySelectorAll('tr.sh').forEach(t=>t.onclick=()=>{const n=t.parentNode.dataset.s;collapsed[n]=!collapsed[n];t.parentNode.classList.toggle('col')});
+ document.querySelectorAll('button.add').forEach(b=>b.onclick=()=>{const i=document.querySelector(`.pk input[data-i="${b.dataset.i}"]`);i.scrollIntoView({block:'center'});i.focus()});
+ if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=__VER__').then(r=>r.json()).then(x=>{RC=x;render()})}
+document.addEventListener('click',e=>{document.querySelectorAll('.pop').forEach(p=>p.remove());const b=e.target.closest('.src');if(!b)return;const [t,u]=D.ps[b.dataset.p];const p=document.createElement('div');p.className='pop';
+ p.innerHTML=esc(t)+(u?`<br><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:'');document.body.appendChild(p);const r=b.getBoundingClientRect();p.style.left=Math.max(8,Math.min(innerWidth-390,r.left))+'px';p.style.top=(r.bottom+6)+'px';e.stopPropagation()});
+$('#th').onchange=()=>{fillCats();setCat()};$('#cat').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
+if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
+</script></body></html>
