@@ -1,0 +1,1389 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+
+I.   GENERAL INFORMATION
+
+     Device Generic Name: Left Atrial Appendage Closure System
+
+     Device Trade Name: WATCHMAN Left Atrial Appendage Closure Device with
+                        Delivery System
+
+                           WATCHMAN FLX Left Atrial Appendage Closure Device with
+                           Delivery System
+
+     Device Procode: NGV
+
+     Applicant’s Name and Address: Boston Scientific Corporation
+                                   Three Scimed Place
+                                   Maple Grove, MN 55311
+
+     Date(s) of Panel Recommendation: None
+
+     Premarket Approval Application (PMA) Number: P130013/S035
+
+     Date of FDA Notice of Approval: July 21, 2020
+
+     The original PMA (P130013) for the WATCHMAN Left Atrial Appendage (LAA)
+     Closure Device with Delivery System was approved on March 13, 2015. The device was
+     initially indicated to reduce the risk of thromboembolism from the left atrial appendage
+     (LAA) in patients with non-valvular atrial fibrillation who:
+          • Are at increased risk for stroke and systemic embolism based on CHADS2 or
+              CHA2DS2-VASc scores and are recommended for anticoagulation therapy;
+          • Are deemed by their physicians to be suitable for warfarin therapy; and
+          • Have an appropriate rationale to seek a non-pharmacologic alternative to warfarin
+              therapy, taking into account the safety and effectiveness of the device compared
+              to warfarin therapy.
+
+     The SSED to support the indication is available on the CDRH website and is incorporated
+     by reference here. https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130013b.pdf
+     The current supplement was submitted to include a modified version of the
+     WATCHMAN Left Atrial Appendage Closure Device with Delivery System referred to
+     as the WATCHMAN FLX Left Atrial Appendage Closure Device with Delivery System
+     and to expand the indication to include patients who are recommended and suitable for
+     anticoagulation therapy other than warfarin.
+
+
+
+
+                     PMA P130013/S035: FDA Summary of Safety and Effectiveness Data      1 of 30
+II.    INDICATIONS FOR USE
+
+       The WATCHMAN Device and WATCHMAN FLX Device are indicated to reduce the
+       risk of thromboembolism from the left atrial appendage in patients with non-valvular
+       atrial fibrillation who:
+           • Are at increased risk for stroke and systemic embolism based on CHADS2 or
+                CHA2DS2-VASc scores and are recommended for anticoagulation therapy;
+           • Are deemed by their physicians to be suitable for anticoagulation therapy; and
+           • Have an appropriate rationale to seek a non-pharmacologic alternative to
+                anticoagulation therapy, taking into account the safety and effectiveness of the
+                device compared to anticoagulation therapy.
+
+III.   CONTRAINDICATIONS
+
+       Do not use the WATCHMAN Device or the WATCHMAN FLX Device if:
+          • Intracardiac thrombus is present.
+          • An atrial septal defect repair or closure device or a patent foramen ovale repair or
+              closure device is present.
+          • The LAA anatomy will not accommodate a Closure Device.
+          • The patient has a known hypersensitivity to any portion of the device material or the
+              individual components (see Device Description section) such that the use of the
+              WATCHMAN Device or WATCHMAN FLX Device is contraindicated.
+          • Any of the customary contraindications for other percutaneous catheterization
+              procedure (e.g., patient size too small to accommodate TEE probe or required
+              catheters) or conditions (e.g., active infection, bleeding disorder) are present.
+          • There are contraindications to the use of anticoagulation therapy, aspirin, or P2Y12
+              inhibitor.
+
+IV.    WARNINGS AND PRECAUTIONS
+
+       The warnings and precautions can be found in the WATCHMAN LAA Closure Device with
+       Delivery System and WATCHMAN FLX LAA Closure Device with Delivery System
+       labeling.
+
+V.     DEVICE DESCRIPTION
+
+       There are two versions of the WATCHMAN devices: The WATCHMAN LAA Closure Device with
+       Delivery System and the The WATCHMAN FLX LAA Closure Device with Delivery System. Both
+       versions are described below.
+
+       A. WATCHMAN Closure Device with Delivery System
+
+       The WATCHMAN LAA Closure Device with Delivery System consists of:
+          • WATCHMAN LAA Closure Device (also referred to as “WATCHMAN Device”,
+            “WATCHMAN Closure Device”, “Device”, and “Implant”)
+
+
+
+
+                        PMA P130013/S035: FDA Summary of Safety and Effectiveness Data       2 of 30
+   •   WATCHMAN Delivery System (consisting of Delivery Catheter and loaded
+       Implant)
+
+The WATCHMAN Closure Device (implant) is a self-expanding nitinol (nickel-titanium
+alloy) structure with a polyethylene terephthalate (PET) porous membrane on the proximal
+face (see Figure 1). Fixation anchors are located on the outer edge of the frame struts to
+provide stabilization in situ (see Figure 2). The device is designed to be permanently
+implantable in the LAA for a non-surgical closure of the LAA to reduce the risk of
+thromboembolism from the LAA.
+
+
+
+
+ Figure 1: WATCHMAN Closure                     Figure 2: WATCHMAN® Closure Device
+ Device                                         In Situ at the Ostium of the LAA
+
+
+The WATCHMAN Closure Device is pre-loaded in a Delivery System which permits
+Closure Device placement in the left atrial appendage (LAA) via femoral venous access and
+interatrial septum crossing into the left atrium. The Delivery Catheter is a 12 Fr reinforced
+catheter with a distal radiopaque marker band for in situ visualization. Within the Delivery
+System is a threaded core wire which provides the mechanism for deployment and release or
+recapture of the Closure Device.
+
+The WATCHMAN LAA Closure Device with Delivery System is described in detail in the
+device description of the SSED available on the CDRH website and is incorporated by
+reference here. https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130013b.pdf
+
+B. WATCHMAN FLX Closure Device with Delivery System
+
+The WATCHMAN FLX LAA Closure Device with Delivery System consists of:
+   • WATCHMAN FLX LAA Closure Device (also referred to as “WATCHMAN FLX
+     Device”, “WATCHMAN FLX Closure Device”, “Device”, and “Implant”)
+   • WATCHMAN FLX Delivery System (consisting of Delivery Catheter and loaded
+     Implant)
+
+Like the WATCHMAN Closure Device described above, the WATCHMAN FLX Closure
+Device (implant) is a self-expanding nitinol (nickel-titanium alloy) structure with a
+polyethylene terephthalate (PET) porous membrane on the proximal face (see Figure 3).
+
+
+
+                 PMA P130013/S035: FDA Summary of Safety and Effectiveness Data        3 of 30
+Fixation anchors are located on the outer edge of the frame struts to provide stabilization in
+situ (see Figure 4). The shape of the WATCHMAN FLX Closure Device frame is different
+than the WATCHMAN Closure Device. The WATCHMAN FLX closure device frame is
+closed at both ends and has an extra row of anchors that are used to secure the
+WATCHMAN FLX Closure Device.
+
+
+
+
+ Figure 3: WATCHMAN FLX Closure                   Figure 4: WATCHMAN FLX™ Device
+ Device                                           In Situ at the Ostium of the LAA
+
+
+The WATCHMAN FLX Closure Device is pre-loaded into the WATCHMAN FLX
+Delivery System which permits Closure Device placement in the left atrial appendage
+(LAA) via femoral venous access and interatrial septum crossing into the left atrium. The
+WATCHMAN FLX Delivery Catheter is a 12 Fr reinforced catheter with a distal
+radiopaque marker band for in situ visualization. Within the WATCHMAN FLX Delivery
+System is a threaded core wire which provides the mechanism for deployment and release or
+recapture of the WATCHMAN FLX Closure Device.
+
+The WATCHMAN FLX Delivery System is based on the design of the WATCHMAN
+Delivery System. The WATCHMAN FLX Closure Device is fully recapturable and
+repositionble. This means even after the WATCHMAN FLX Closure Device is deployed
+from the WATCHMAN FLX Delivery System, the WATCHMAN FLX Closure Device
+can be completely pulled back (retracted) into the Delivery System during the procedure
+until the physician can place the WATCHMAN FLX Closure Device in the right location
+in the left atrial appendage.
+
+C. WATCHMAN and WATCHMAN FLX Device Sizing
+
+The WATCHMAN FLX Closure Device is also designed to occlude a wider size range of
+left atrial appendages than the WATCHMAN Closure Device as described in Table 1
+below. Appropriate WATCHMAN FLX Closure Device and WATCHMAN Closure
+Device sizing is determined by LAA measurements using fluoroscopy (fluoro) and
+echocardiographic guidance.
+Table 1: Device Sizing
+
+
+
+
+                 PMA P130013/S035: FDA Summary of Safety and Effectiveness Data          4 of 30
+         WATCHMAN               Max LAA                  WATCHMAN FLX                     Max LAA
+        Device Size (mm)       Ostium (mm)                Device Size (mm)               Ostium (mm)
+                21                 17 - 19                       20                       14.0 - 18.0
+                24                 20 - 22                       24                       16.8 - 21.6
+                27                 23 - 25                       27                       18.9 - 24.3
+                30                 26 - 28                       31                       21.7 - 27.9
+                33                 29 - 31                       35                       24.5 - 31.5
+
+
+VI.    ALTERNATIVE PRACTICES AND PROCEDURES
+
+       There are several other alternatives for reducing the risk of thromboembolism from the
+       left atrial appendage in patients with non-valvular atrial fibrillation.
+
+       Oral anticoagulants effectively reduce the risk of cardioembolic stroke and are the most
+       commonly used treatments in at-risk patients with non-valvular atrial fibrillation.
+
+       Certain surgical clips are indicated for the occlusion of the LAA under direct
+       visualization, in conjunction with other open cardiac surgical procedures.
+
+       An alternative to using a device for LAA closure is direct closure during open-heart
+       surgery (nearly always as an adjunct procedure to treat another primary cardiac
+       condition). LAA closure is commonly performed following or in tandem with an open
+       MAZE procedure for atrial fibrillation or other open heart procedures such as mitral
+       valve repair or replacement.
+
+       Each alternative has its own advantages and disadvantages. A patient should fully discuss
+       these alternatives with his/her physician to select the method that best meets expectations
+       and lifestyle.
+
+VII.   MARKETING HISTORY
+
+       The WATCHMAN Closure Device with Delivery System is commercially-available in
+       the following countries listed below:
+
+       Albania             Algeria                  Antigua / Barbuda         Argentina
+       Armenia             Aruba                    Australia                 Austria
+       Azerbaijan          Bahamas                  Bahrain                   Barbados
+       Belgium             Belize                   Bermuda                   Bolivia
+       Bonaire Saba        Brazil                   Brunei Darussalam         Bulgaria
+       Canada              Cayman Islands           Chile                     China
+       Colombia            Costa Rica               Croatia                   Curacao
+       Cyprus              Czech Republic           Denmark                   Dominican Republic
+       Dutch Antilles      Ecuador                  El Salvador               Estonia
+
+
+                        PMA P130013/S035: FDA Summary of Safety and Effectiveness Data              5 of 30
+Finland                 France                   Georgia                   Germany
+Great Britain           Greece                   Guam                      Guatemala
+Guyana                  Haiti                    Honduras                  Hong Kong
+Hungary                 Iceland                  India                     Indonesia
+Iran                    Iraq                     Ireland                   Israel
+Italy                   Japan                    Jamaica                   Jordan
+Kazakhstan              Kenya                    Kuwait                    Latvia
+Lebanon                 Libya                    Liechtenstein             Lithuania
+Luxembourg              Macau                    Malaysia                  Malta
+Martinique              Mexico                   Mongolia                  Morocco
+Myanmar                 Nepal                    Netherlands               New Zealand
+Norway                  Oman                     Pakistan                  Panama
+Paraguay                Peru                     Philippines               Poland
+Portugal                Qatar                    Romania                   Russian Federation
+Saudi Arabia            Serbia                   Singapore                 Slovakia
+Slovenia                South Africa             South Korea               Spain
+State of Palestine      Suriname                 Sweden                    Switzerland
+Taiwan                  Tajikistan               Thailand                  Trinidad, Tobago
+Tunisia                 Turkey                   United Arab               United States
+                                                 Emirates                  Venezuela
+                                                                           Yemen
+
+The WATCHMAN FLX Closure Device with Delivery System is commercially-available
+in the following countries listed below:
+
+Albania                        Dutch Antilles          Israel                  Netherlands
+Andorra                        Estonia                 Italy                   Norway
+Austria                        Finland                 Kosovo                  Poland
+Belgium                        France                  Kuwait                  Portugal
+Bulgaria                       Germany                 Latvia                  Romania
+Canada                         Great Britain           Liechtenstein           Singapore
+Costa Rica                     Greece                  Lithuania               Slovakia
+Croatia                        Hong Kong               Luxembourg              Slovenia
+Cyprus                         Hungary                 Macau                   Spain
+Czech Republic                 Iceland                 Malta                   Switzerland
+Denmark                        Ireland                 Malaysia                Sweden
+
+
+
+                     PMA P130013/S035: FDA Summary of Safety and Effectiveness Data             6 of 30
+     Neither WATCHMAN® nor WATCHMAN FLX™ have been withdrawn from
+     marketing for any reason related to its safety or effectiveness.
+
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+     Below is a list of the potential adverse effects (e.g., complications) associated with the
+     use of the device.
+         • Air embolism
+         • Airway trauma
+         • Allergic reaction to the contrast media, anesthetic, WATCHMAN implant
+             material, or medications
+         • Altered mental status
+         • Anemia requiring transfusion
+         • Anesthesia risks
+         • Angina
+         • Anoxic encephalopathy
+         • Arrhythmias
+         • Atrial septal defect
+         • Bruising, hematoma, or seroma near the catheter insertion site
+         • Cardiac perforation
+         • Chest pain/discomfort
+         • Confusion post procedure
+         • Congestive heart failure
+         • Contrast related nephropathy
+         • Cranial bleed
+         • Death
+         • Decreased hemoglobin
+         • Deep vein thrombosis
+         • Device embolism
+         • Device fracture
+         • Device thrombosis
+         • Edema
+         • Embolism
+         • Excessive bleeding
+         • Fever
+         • Fistula
+         • Groin pain
+         • Groin puncture bleed
+         • Hematuria
+         • Hemoptysis
+         • Hypotension
+         • Hypoxia
+         • Improper wound healing
+         • Inability to reposition, recapture, or retrieve the device
+
+
+
+                      PMA P130013/S035: FDA Summary of Safety and Effectiveness Data         7 of 30
+         •   Infection/pneumonia
+         •   Interatrial septum thrombus
+         •   Intratracheal bleeding
+         •   Major bleeding requiring transfusion
+         •   Misplacement of the device/improper seal of the appendage/movement of device
+             from appendage wall
+         •   Myocardial erosion
+         •   Nausea
+         •   Oral bleeding
+         •   Pericardial effusion/tamponade
+         •   Pleural effusion
+         •   Prolonged bleeding from a laceration
+         •   Pseudoaneurysm
+         •   Pulmonary edema
+         •   Renal failure
+         •   Respiratory insufficiency/failure
+         •   Stroke - Hemorrhagic
+         •   Stroke - Ischemic
+         •   Surgical removal of the device
+         •   TEE complications (e.g., throat pain, bleeding, esophageal trauma)
+         •   Thrombocytopenia
+         •   Thrombosis
+         •   Transient ischemic attack (TIA)
+         •   Valvular or vascular damage
+         •   Vasovagal reactions
+
+      For the specific adverse events that occurred in the clinical studies, please see Section X
+      below.
+
+IX.   SUMMARY OF NONCLINICAL STUDIES
+
+      A. Laboratory Studies
+
+      Nonclinical studies were not required to support the change in indication for the
+      WATCHMAN LAA Closure Device with Delivery System.
+
+      The following sections detail the nonclinical studies performed to support the modifications
+      to the WATCHMAN Closure Device nitinol structure and modifications to the
+      WATCHMAN Delivery System (referred to as the WATCHMAN FLX™ LAA Closure
+      Device with Delivery System). Testing was referenced from PMA submission P130013 for
+      those evaluations that could be leveraged from previous testing. A summary of previously
+      reported non-clinical studies can be found in the Summary of Safety and Effectiveness Data
+      (SSED) for the original PMA
+      (https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130013B.pdf).
+
+
+
+
+                       PMA P130013/S035: FDA Summary of Safety and Effectiveness Data        8 of 30
+           i. Biocompatibility
+         Biocompatibility testing of the WATCHMAN FLX LAA Closure Device with Delivery
+         System was conducted according to Good Laboratory Practices Regulations (21 CFR §
+         58) and ISO 10993-1: Biological Evaluation of Medical Devices: Evaluation and
+         Testing within a Risk Management Process (2016). According to ISO 10993, the
+         WATCHMAN FLX Delivery System is classified as a limited exposure (< 24 hours)
+         externally communicating, circulating blood contact device. The WATCHMAN FLX
+         Closure Device is classified as a long-term implantable device contacting blood for
+         >30 days.
+
+         The required testing for each component was determined based on the nature and
+         duration of body contact in accordance with ISO 10993-1:2018. All tests performed met
+         the requirements of ISO 10993-1: 2018. Summaries of the test results for the Closure
+         Device and Delivery System are provided in Table 2.
+
+         Table 2: List of Biocompatibility Tests
+Biologic Effect      Test Name/                               Implant       Delivery   Results
+                     Description                                            System
+Cytotoxicity         ISO 10993-5 MEM Elution Assay            X             X          Pass – non-
+                     with L-929 Mouse Fibroblast Cells                                 cytotoxic
+Sensitization        ISO 10993-10 Guinea Pig                  X             X          Pass – non-
+                     Maximization Sensitization Test                                   sensitizer
+Irritation           ISO 10993-10 Intracutaneous              X             X          Pass – non-irritant
+                     Reactivity Test
+Systemic Toxicity    ISO 10993-11 Acute Systemic              X             X          Pass - No evidence
+(Acute)              Injection Test                                                    of systemic toxicity
+Systemic Toxicity    ISO 10993-11 Systemic Toxicity           X             N/A        Pass - No evidence
+(Chronic)            Study Following Subcutaneous                                      of systemic toxicity
+                     Implantation 4 week and 13 week
+Materials Mediated   ISO 10993-11 Material                    X             X          Pass – non-pyrogeic
+Pyrogenicity         Medicated/Rabbit Pyrogen
+Genotoxicity         Ames and Mouse Lymphoma                  X             N/A        Pass - Non-
+                                                                                       mutagenic
+Hemocompatibility    ISO 10993-4 Hemolysis / Direct           X             X          Pass – non-
+                     and Extract, Complement                                           hemolytic
+                     Activation, PTT, In Vitro
+                     Hemocompatibility
+Chemical             Testing compared                         X             N/A        Pass
+Characterization     extractable/leachable profile
+                     between WATCHMAN and
+                     WATCHMAN FLX Implants
+Carcinogencity       Leveraged from WATCHMAN                  X             N/A        Pass
+Chronic Toxicicty    Leveraged from WATCHMAN                  X             N/A        Pass
+Nickel Elution       Evaluated nickel leach from nitinol      X             N/A        Pass
+Study                implant frame
+
+
+
+
+                      PMA P130013/S035: FDA Summary of Safety and Effectiveness Data              9 of 30
+ ii. Bench Testing
+
+In vitro engineering studies conducted on the WATCHMAN FLX LAA Closure Device
+with Delivery System are listed in Table 3. All testing was conducted in accordance
+with national and international standards and FDA guidance documents, as applicable.
+
+Table 3: Summary of WATCHMAN FLX Bench Testing
+         Test       Test Description                                                  Results
+ WATCHMAN FLX LAA Closure Device Testing
+ Implant Dimensions These tests quantitatively evaluate the                    Pass
+                    expansion of the frame to its final diameter
+                    and length required to oppose and seal the
+                    LAA ostium.
+ Implant Radial     This test quantitatively assessed the radial               Pass
+ Expansion Force    force of a properly constrained
+                    WATCHMAN FLX implant.
+
+ Implant Filtration       This test quantitatively assessed the flow           Pass
+                          rate and particle exclusion properties of the
+                          LAA implant filter.
+
+ Implant                  This test quantitatively assessed the force          Pass
+ Dislodgement Force       required to dislodge a properly sized and
+                          positioned WATCHMAN FLX implant.
+
+ Implant Deployment       This test quantitatively assessed the forces         Pass
+ and Recapture Force      required to deploy and recapture the LAA
+                          implant via the delivery system and access
+                          system.
+
+ Implant and delivery     This test quantitatively assessed the forces         Pass
+ system/access system     required to deploy and recapture the LAA
+ connection strength      implant via the delivery system and access
+                          system.
+
+ Finite Element           This test assessed the stress/strain levels in       Pass
+ Analysis (for            key areas of the implant
+ characterization)
+
+ Implant Durability       Implant Durability/Fatigue (Test articles            Pass
+                          were cycled up to the equivalent of 10
+                          years of use or 400,000,000 cycles) These
+                          tests quantitatively evaluate resistance to in-
+                          vivo fatigue-related damage.
+ Corrosion Resistance     These tests quantitatively evaluate the              Pass
+                          corrosion resistance of the implant.
+ MRI compatibility        This test assessed the conditions under              Pass
+ testing                  which the device may be scanned safely.
+                          Additional MRI information is provided
+                          below this table.
+
+
+
+              PMA P130013/S035: FDA Summary of Safety and Effectiveness Data                    10 of 30
+          Test        Test Description                                               Results
+ WATCHMAN FLX Delivery System Testing
+ Delivery System      This test quantitatively evaluated the length           Pass
+ Working Length       of the catheter and compatibility with
+                      required accessories.
+ Kink Resistance –    This test quantitatively evaluated the kink             Pass
+ Delivery System      resistance of the WATCHMAN FLX
+                      Delivery System shaft.
+ System Visualization This test evaluated the visualization factors           Pass
+                      of the implant and delivery system.
+ Delivery System      These tests quantitatively evaluated the force          Pass
+ Forces               required by the Delivery System.
+ Bond Tensile         These tests quantitatively evaluated the                Pass
+                      tensile forces for each bond within the
+                      Delivery System.
+ Leak Free Fluid      These tests quantitatively evaluated the                Pass
+ Conduit              Delivery System to ensure it remains leak
+                      free during clinical use and allows a flow
+                      rate at constant pressure.
+ Delivery System      This test qualitatively evaluated the                   Pass
+ Corrosion Resistance corrosion resistance of the Delivery
+                      System components.
+ Particulate Testing  Evaluated the particulate levels generated              Pass
+                      from the product with its accessories in a
+                      simulated use model
+ Delivery System      The test qualitatively evaluated for Delivery           Pass
+ Fatigue Resistance   System durability.
+
+Non-clinical testing has demonstrated the WATCHMAN FLX Closure Device is MR
+Conditional. A patient with the WATCHMAN FLX Closure Device can be scanned
+safely, immediately after placement of this implant, under the following conditions:
+
+       •   Static magnetic field of 3.0 Tesla or 1.5 Tesla
+       •   Maximum spatial gradient field of 2500 Gauss/cm
+       •   Maximum MR system reported, whole body averaged specific absorption
+           rate (SAR) of <2.0 W/kg (normal operating mode only)
+
+Under the scan conditions defined above, the WATCHMAN FLX Closure Device is
+expected to produce a maximum temperature rise of less than 3.0° C after 15 minutes of
+continuous scanning.
+
+In non-clinical testing, the image artifact caused by the device extends approximately
+8.4 mm from the WATCHMAN FLX Closure Device when imaged with a gradient
+echo pulse sequence and a 3-Tesla MRI system.
+
+
+
+
+             PMA P130013/S035: FDA Summary of Safety and Effectiveness Data                    11 of 30
+    iii. Sterilization
+
+   The WATCHMAN FLX Closure Device constrained in its Delivery System is sterilized
+   using a 100% gaseous ethylene oxide sterilization. The sterilization process has been
+   validated per ISO 11135:2014, “Sterilization of health care products -- Ethylene Oxide -
+   - Requirements for the development, validation, and routine control of a sterilization
+   process for medical devices.” Results from the sterilization studies demonstrate the
+   validated EO sterilization process provides a sterility assurance level (SAL) of at least
+   10-6. The amount of bacterial endotoxin was verified to be within the ANSI/AAMI ST72
+   specification limit.
+
+    iv. Packaging and Shelf Life
+
+   The WATCHMAN FLX Closure Device constrained in its Delivery System is placed
+   into a protective carrier tube, which is then placed into a thermoformed tray. The
+   thermoformed tray is then placed into a labeled Tyvek barrier bag, which is
+   subsequently heat-sealed. This bag, known as the pouch, serves as the sterile barrier for
+   the Delivery System to ensure sterility of the Delivery System is maintained. The sealed
+   pouch is placed in a labeled shelf carton.
+
+   Shelf life studies were conducted to establish a shelf life/expiration date for the
+   WATCHMAN FLX Closure Device with Delivery System. In addition, testing to
+   establish package integrity and functional testing of the WATCHMAN FLX Closure
+   Device with Delivery System was conducted on aged product to ensure that the device
+   continues to meet specifications throughout its shelf life. The data generated support a 3-
+   year shelf life for the WATCHMAN FLX Closure Device with Delivery System and the
+   product is labeled accordingly.
+
+B. Animal Studies
+
+   Because detailed arterial histopathology and histomorphometry data cannot be obtained
+   through human clinical studies, a series of animal studies were conducted to evaluate
+   safety, vascular compatibility, and acute product performance.
+
+   One chronic GLP study was conducted to assess the safety and vascular compatibility of
+   the WATCHMAN FLX Closure Device with Delivery System, and is summarized in
+   Table 4. The safety, vascular compatibility, and acute performance of WATCHMAN
+   FLX Closure Device were evaluated in the non-injured canine left atrial appendage
+   model. The chronic study was conducted in accordance with §21 CFR 58 (Good
+   Laboratory Practices (GLP)). A non-GLP acute usability study was also conducted to
+   evaluate the ease of device use and directions for use.
+
+
+
+
+                PMA P130013/S035: FDA Summary of Safety and Effectiveness Data         12 of 30
+Table 4: Summary of Animal Evaluations
+ Study                 Animals and Follow        Objectives                   Results
+                       up; Species/Strain
+ SR17-047G, A          6 animals;                To evaluate the              The WATCHMAN
+ Chronic GLP Study                               overall safety,              FLX Closure Device
+ to Evaluate Device    Follow up: implant, 7     functionality, and           met the requirements
+ Performance and       days, 14 days, 45         biologic response of         for establishing pre-
+ Chronic Biologic      days, 70 days and 90      the final version of         clinical safety and
+ Response Following    days;                     the WATCHMAN                 functionality with
+ WATCHMAN                                        FLX Device in a              regard to safe
+ FLX 2.0 in the        Canine/ Mongrel           canine LAA model at          implantation, not
+ Canine Left Atrial    Adult Male                Implant and at 45-           promoting thrombus
+ Appendage Model                                 and 90-days post-            formation,
+                                                 Implant.                     endothelialization,
+                                                                              implant integrity and
+                                                 Safety; ease of              tissue response.
+                                                 implantation;
+                                                 demonstrate that
+                                                 device does not
+                                                 promote organized
+                                                 thrombus 72 hrs post
+                                                 implant on atrial filter
+                                                 surface; assess level
+                                                 of endothelialization
+                                                 at 45 days; assess
+                                                 implant integrity and
+                                                 tissue response at 90
+                                                 days post implant
+ Report 92211711,      Canine;                   To assess the                No use errors
+ WATCHMAN              Acute study;              usability and                occurred and all users
+ FLX 2.0               5 physician users         directions for use in        were able to
+ Usability                                       an LAA model                 successfully implant
+ Summative                                                                    the device
+ Evaluation Report,
+ non-GLP
+
+
+The results of the study indicate an acceptable tissue healing response to the implanted
+WATCHMAN FLX Closure Device with Delivery System. Animal studies performed
+on the WATCHMAN Closure Device with Delivery Systemare relevant to the
+performance of the WATCHMAN FLX Closure Device with Delivery System due to
+the use of identical materials and substantially similar device designs. The
+WATCHMAN and WATCHMAN FLX Closure Devices promote endocardial
+overgrowth and seal the LAA from the left atrium within 45 days. There were no visible
+strut fractures, and the devices caused no significant effects on adjacent tissues. Device
+implantation procedural methods were reproducible and safe.
+
+
+
+
+             PMA P130013/S035: FDA Summary of Safety and Effectiveness Data                   13 of 30
+X.   SUMMARY OF PRIMARY CLINICAL STUDY(IES)
+
+     The applicant performed a clinical study to establish a reasonable assurance of safety and
+     effectiveness of transcatheter left atrial appendage closure with the WATCHMAN FLX
+     Closure Device with Delivery System for reducing the risk of thromboembolism from the
+     LAA in subjects with non-valvular atrial fibrillation who are eligible for direct oral
+     anticoagulation therapy but have a rationale to seek a non-pharmacologic alternative in
+     the US under IDE # G150200. Due to the similarities in the WATCHMAN Closure
+     Device with Delivery System and WATCHMAN FLX Closure Device with Delivery
+     System designs, the results of the PINNACLE FLX study are applicable to the
+     WATCHMAN Closure Device with Delivery System. Data from this clinical study were
+     the basis for the PMA approval decision. A summary of the clinical study is presented
+     below.
+
+     A. Study Design
+
+        Patients were treated between 07 May 2018 and 09 November 2018. The database
+        for this Panel Track Supplement reflected data collected through 22 January 2020 and
+        included 458 patients. There were 29 investigational sites in the United States.
+
+        The study is a prospective, non-randomzied, single-arm, open-label, mulit-center
+        investigation to establish the safety and effectiveness of the WATCHMAN FLX
+        Closure Device. The study enrolled subjects with non-valvular AF who are eligible
+        for long-term non-vitamin K antagonist anticoagulation therapy (NOAC) to reduce
+        the risk of stroke but have a rationale to seek a non-pharmacologic alternative. The
+        study success is based on meeting the predetermined performance goal for the
+        primary safety event rate at 7 days and effective LAA closure rate at one year. All
+        treated patients are followed for two years.
+
+        The study is also powered to investigate the occurrence of ischemic stroke or
+        systemic embolism at 24 months from the time of implant. The secondary endpoint
+        will be evaluated after all patients complete 2 years of follow-up.
+
+        The study utilized an independent Data Safety Monitoring Board (DSMB) to oversee
+        study progress and review clinical data and safety, an independent Clinical Events
+        Committee (CEC), and an independent Echocardiography Core Lab for the
+        interpretation of all echocardiographic data.
+
+        1. Clinical Inclusion and Exclusion Criteria
+            Enrollment in the PINNACLE FLX study was limited to patients who met the
+            following inclusion criteria
+
+            1. The subject is 18 years of age or older.
+            2. The subject has documented paroxysmal, persistent, permanent or long-
+               term/longstanding persistent non-valvular atrial fibrillation (i.e., the subject
+               has not been diagnosed with rheumatic mitral valvular heart disease).
+
+
+
+                     PMA P130013/S035: FDA Summary of Safety and Effectiveness Data         14 of 30
+3. The subject is eligible for the defined protocol pharmacologic regimen of
+   anticoagulation and antiplatelet therapy following WATCH WATCHMAN
+   FLX Closure Device implant.
+4. The subject is eligible to come off of anticoagulation therapy if the LAA is
+   sealed (i.e. the subject has no other conditions that would require long-term
+   anticoagulation therapy suggested by current standard medical practice).
+5. The subject has a calculated CHA2DS2-VASc score of 2 or greater for males
+   or 3 or greater for females.
+
+Patients were not permitted to enroll in the PINNACLE FLX study if they met
+any of the following exclusion criteria:
+1. The subject requires long-term anticoagulation therapy for reasons other than
+    AF-related stroke risk reduction.
+2. The subject is contraindicated for short-term anticoagulant therapy with
+    DOAC post-implant.
+3. The subject is contraindicated to aspirin and/or clopidogrel.
+4. The subject is indicated for long-term clopidogrel therapy or has taken
+    clopidogrel within 7 days prior to the WATCHMAN FLX Closure Device
+    implant.
+5. The subject had a prior stroke (of any cause, whether ischemic or
+    hemorrhagic) or transient ischemic attack (TIA) within the 90 days prior to
+    enrollment.
+6. The subject has a history of atrial septal repair or has an ASD/PFO device.
+7. The subject has implanted mechanical valve prosthesis in any position.
+8. The subject has New York Heart Association Class IV Congestive Heart
+    Failure at the time of enrollment.
+
+Echo Exclusion Criteria
+1. The subject has LVEF < 30%.
+2. The subject has intracardiac thrombus, LAA sludge (gelatinous, non-adherent,
+   intracavitary echo-density more layered than dense spontaneous echo contrast
+   (SEC) seen continuously throughout cardiac cycle) or dense SEC visualized
+   by TEE within 3 calendar days prior to implant.
+3. The subject has an existing pericardial effusion with a circumferential echo-
+   free space > 5mm, and/or the subject has signs/symptoms of acute or chronic
+   pericarditis, and/or there is evidence (clinically or echocardiographically) of
+   tamponade physiology.
+4. The subject has a high- risk patent foramen ovale (PFO) defined as an atrial
+   septal aneurysm (excursion > 15mm or length > 15mm) or a large shunt
+   (early, within 3 beats and/or substantial passage of bubbles).
+5. The subject has significant mitral valve stenosis (i.e., MV <1.5 cm2).
+6. The subject has complex atheroma with mobile plaque of the descending aorta
+   and/or aortic arch.
+7. The subject has a cardiac tumor
+
+
+
+
+         PMA P130013/S035: FDA Summary of Safety and Effectiveness Data     15 of 30
+             2. Follow-up Schedule
+                All patients were scheduled to return for follow-up examinations at 45 days, 6
+                months, 12 months, 18 months, and 24 months postoperatively. The key
+                timepoints and evaluations conducted at all time points are shown in Table 5.
+
+                 Adverse events and complications were recorded at all visits. The key timepoints
+                 are shown below in the tables summarizing safety and effectiveness.
+
+                                    Table 5: Data Collection Schedule
+                                                                          Follow-
+Procedure/Assessment        Enrollment    Implant                            up
+                                                                           Visits
+                                                      45-Day     6-Month 12 months 18 months 24 Month
+                                                      Office or   Office   Office Office Visit Office Visit
+                                                     Phone Visit   Visit    Visit
+ Informed consent form,
+ including informed             X
+ consent signature date
+ Demographics,
+ including age, gender,         X
+ and race and ethnicity
+ Physical exam
+                                X                         X            X           X             X           X
+ including vital signs
+ Medical history                X
+ Transthoracic
+                                X
+ echocardiogram (TTE)a
+ Transesophageal
+                               Xb            X            X            Xe          X
+ echocardiogram (TEE)
+ Brain Imaging                 Xc                        As           As           As            As          As
+ (MRI/CT)                                             requiredd    requiredd    requiredd     requiredd   requiredd
+ Anticoagulant and
+                                X                         X            X           X             X           X
+ antiplatelet medications
+ Modified Rankin Scale          X                         X            X           X             X           X
+ NIH Stroke Scale               X                         X                        X                         X
+ Device and implant                          X
+ details
+ Adverse event/ Device
+                                X            X            X            X           X             X           X
+ Deficiency monitoring
+aAn LVEF value obtained from a TTE performed within 90 days prior to enrollment may be used. If
+a significant cardiac event occurs after the TTE which causes a change in cardiac status [i.e., major
+Congestive Heart Failure (CHF) decompensation] the enrollment TTE must be repeated at
+enrollment
+b Within 3 calendar days prior to implant
+c Obtain MRI/CT required at baseline if subject had prior stroke or TIA. A MRI or CT performed
+within in 90 days prior to enrollment may be used.
+d Brain MRI or CT required if subject suffers stroke or TIA
+e Only required for subjects that did not have a seal at the 45-day visit
+
+
+
+
+                             PMA P130013/S035: FDA Summary of Safety and Effectiveness Data                  16 of 30
+3. Clinical Endpoints
+   With regards to safety, the primary safety endpoint was the occurrence of one of
+   the following events between the time of implant and within 7 days following the
+   procedure or by hospital discharge, whichever is later: all-cause death, ischemic
+   stroke, systemic embolism, or device or procedure related events requiring open
+   cardiac surgery or major endovascular intervention such as pseudoaneurysm
+   repair, AV fistula repair, or other major endovascular repair.
+
+   With regards to effectiveness, the primary effectiveness endpoint was the rate of
+   effective closure defined as any peri-device leak ≤ 5mm demonstrated by TEE at
+   12 months as assessed by the core lab.
+
+   Implant procedure success was defined as the successful delivery and release of a
+   WATCHMAN FLX device into the LAA. With regard to success/failure criteria,
+   each primary endpoint will be assessed compared to a performance goal. The
+   study is considered a success when both of the following criteria are met:
+
+   •   The primary safety endpoint event rate meets the prespecified performance goal
+       of 4.21%.
+
+       Hypotheses:
+
+       H0: Ps ≥ 4.21%
+       Ha: Ps < 4.21%
+       where Ps is the rate of subjects experiencing a safety endpoint event within 7
+       days or hospital discharge, whichever is later.
+       The null hypothesis will be rejected if the resulting p-value is less than 0.05.
+
+           and
+
+   •   The proportion of subjects with effective LAA closure at 12 months (the primary
+       effectiveness endpoint rate) meets the prespecified performance goal of 97%
+
+       Hypotheses:
+
+       H0: Pe1 ≤ 97.0%
+       Ha: Pe1 > 97.0%
+       where Pe1 is the Primary Effectiveness Endpoint rate.
+       The null hypothesis will be rejected if the resulting p-value is less than 0.05.
+
+
+
+
+             PMA P130013/S035: FDA Summary of Safety and Effectiveness Data          17 of 30
+      •   The secondary effectiveness endpoint (the occurrence of ischemic stroke or
+          systemic embolism at 24 months from the time of implant) meets the
+          prespecified performance goal of 8.7%.
+
+          Hypotheses:
+          H0: Pe2 ≥ 8.7%
+
+          H0: Pe2 < 8.7%
+
+          where Pe2 is the 2-year Kaplan-Meier rate of the Secondary Effectiveness
+          Endpoint.
+
+B. Accountability of PMA Cohort
+
+   At the time of database lock, 508 patients enrolled in the PMA study. Of these, 29
+   subjects failed the screening and 21 subjects met the clinical eligibility criteria but did
+   not undergo an implant. Of the remaining 458 subjects, there were 58 Roll-In
+   subjects and 400 Main Cohort subjects. The WATCHMAN FLX Closure Device was
+   successfully implanted in 395/400 (98.8%) subjects who underwent the implant
+   procedure.
+
+   At the time of database lock, of 400 Main Cohort patients enrolled in the PMA study,
+   88.8% (N=355) patients completed the 12-month follow-up visits and are available for
+   analysis. Table 6 shows an accounting of follow-up visit attendance. Subjects who
+   exited the study due to death or withdrawal were not counted as having expected visists
+   after the date of study exit.
+
+                            Table 6: Visit Compliance
+                                                        All Enrolled Subjects
+                               Visit                          (N=400)
+                 45-day                                    100.0% (400/400)
+                 6-month                                   96.1% (370/385)
+                 12-month                                  95.4% (355/372)
+                 18-month                                    91.5% (86/94)
+                 24-month                                         N/A
+                 Values presented are % (# visits observed/ # visits expected)
+
+
+   The analysis set for the primary safety analysis is the intent-to-treat analysis set,
+   including all 400 implanted or attempted subjects. The analysis set for the primary
+   effectiveness analysis includes 342 implanted subjects with a completed 12-month
+   TEE, and who have not had any LAA closure procedures other than the initial
+
+
+
+
+                PMA P130013/S035: FDA Summary of Safety and Effectiveness Data         18 of 30
+   WATCHMAN FLX Closure Device implant attempt. Roll-in subjects are excluded
+   from all primary analyses.
+C. Study Population Demographics and Baseline Parameters
+
+   The demographics of the study population are typical for a nonvalvular atrial
+   fibrillation study performed in the US. Patient demographics, AF-related stroke risk
+   factors, and bleeding risk factors are summarized in Table 7, Table 8, and Table 9,
+   respectively.
+
+              Table 7: PINNACLE FLX Baseline Demographics
+
+      Measure                                           Main Cohort (N=400)
+      Age                                                        73.8 ± 8.6 (400)
+                                                                   [44.0, 98.0]
+      Female Sex                                                 35.5% (142/400)
+      Race/Ethnicity
+            American Indian or Alaska native                       0.3% (1/382)
+            Asian                                                  0.5% (2/382)
+            Black or African heritage                             4.7% (18/382)
+            Caucasian                                            93.7% (358/382)
+            Hispanic or Latino                                    2.6% (10/382)
+            Native Hawaiian or other Pacific Islander              0.0% (0/382)
+            Other race                                             0.0% (0/382)
+      AF Pattern
+            Paroxysmal AF                                        51.8% (207/400)
+            Persistent AF                                        36.5% (146/400)
+            Permanent AF                                          10.5% (42/400)
+            Paced Rhythm                                           1.3% (5/400)
+
+
+    Table 8: PINNACLE FLX Baseline AF-related Stroke Risk Factors
+
+Risk Factor and Risk Score                                       Main Cohort (N=400)
+
+CHADS2 Score (Continuous)                                                         2.3 ± 1.2
+                                                                                    (400)
+                                                                                   [0, 6.0]
+CHA2DS2-VASc score                                                                 4.2±1.5
+                                                                                    (400)
+                                                                                  [2.0, 9.0]
+
+
+
+                 PMA P130013/S035: FDA Summary of Safety and Effectiveness Data                19 of 30
+    1                                                                              0.0%
+                                                                                  (0/400)
+    2                                                                         13.8% (55/400)
+    3                                                                         21.3% (85/400)
+    4                                                                        25.3% (101/400)
+    5                                                                         21.3% (85/400)
+    6                                                                         10.5% (42/400)
+    7                                                                           6.5% (26/400)
+    8                                                                              0.8%
+                                                                                  (3/400)
+    9                                                                              0.8%
+                                                                                  (3/400)
+History of CHF, LV Dysfunction, or Cardiomyopathy                            31.8% (127/400)
+Hypertension                                                                 85.8% (343/400)
+Age 65-74                                                                    35.8% (143/400)
+Age ≥75                                                                      50.5% (202/400)
+Diabetes                                                                     30.5% (122/400)
+Previous stroke, TIA, or TE                                                   22.3% (89/400)
+Vascular disease                                                             55.0% (220/400)
+Female Sex                                                                   35.5% (142/400)
+
+  Table 9: PINNACLE FLX Baseline HAS-BLED Score and Components
+
+Bleeding Risk Factor and Score                                 Main Cohort (N=400)
+
+HAS-BLED score                                                                  2.0±1.0
+                                                                                 (400)
+                                                                               [0.0, 5.0]
+    0                                                                            4.8%
+                                                                               (19/400)
+    1                                                                      27.5% (110/400)
+    2                                                                      37.5% (150/400)
+    3                                                                       22.0% (88/400)
+    4                                                                        8.0% (32/400)
+    5                                                                         0.3% (1/400)
+Uncontrolled hypertension, >160 mmHg systolic                                 1.5% (6/400)
+
+Abnormal renal function                                                     11.3% (45/400)
+Abnormal liver function                                                       1.3% (5/400)
+Previous stroke                                                             15.5% (62/400)
+
+
+
+                   PMA P130013/S035: FDA Summary of Safety and Effectiveness Data               20 of 30
+Prior major bleeding or predisposition to bleeding                       33.0% (132/400)
+
+Age ≥65                                                                  86.3% (345/400)
+Medication usage predisposing to bleeding                                47.3% (189/400)
+
+Alcohol use >8 drinks per week                                            5.8% (23/400)
+
+
+D. Safety and Effectiveness Results
+
+   1. Safety Results
+
+       Primary Safety Endpoint
+       The primary safety endpoint is the occurrence of one of the following events
+       between the time of implant and within 7 days following the procedure or by
+       hospital discharge, whichever is later: all-cause death, ischemic stroke, systemic
+       embolism, or device or procedure related events requiring open cardiac surgery or
+       major endovascular intervention such as pseudoaneurysm repair, AV fistula
+       repair, or other major endovascular repair. The primary analysis of safety was
+       based on the intention to treat cohort of 400 Main Cohort subjects who underwent
+       device implantation. The key safety outcomes for this study are presented in
+       Table 10. Two subjects experienced post-implant ischemic stroke between the
+       time of implant and within 7 days of the procedure. The primary safety endpoint
+       rate was 0.5%. The one-sided 95% confidence interval upper bound was 1.6%,
+       which met the performance goal of 4.21% (p<0.0001).
+
+                       Table 10: Primary Safety Endpoint
+
+                                       Event Rate           Upper 1-sided 95%
+    Event                                (n/N)              Confidence Interval           P Value
+    Primary safety endpoint           0.5% (2/400)                   1.6%                 <0.0001
+
+
+       Major Clinical Events
+       In the PINNACLE FLX trial, CEC adjudicates all major clinical events,
+       including: all-cause stroke and TIA, systemic embolism, all-cause death, major
+       bleeding events (BARC 3 or 5), device embolization, device thrombus, and
+       pericardial effusion resulting in an invasive intervention. A summary of CEC
+       adjudicated Major Clinical Events reported through the time of data cutoff is
+       presented in Table 11.
+
+
+
+
+                 PMA P130013/S035: FDA Summary of Safety and Effectiveness Data               21 of 30
+             Table 11: CEC Adjudicated Major Clinical Events
+
+Event                                         Number of Events             Number of Subjects
+                                                                             with an Event
+All-cause death                                          27                        27
+
+    Cardiovascular/Unknown Death                         16                        16
+All stroke                                               12                        12
+    Ischemic stroke                                      11                        11
+    Hemorrhagic stroke                                    1                        1
+Transient Ischemic Attack (TIA)                           1                        1
+Systemic Embolism                                         1                        1
+Device Embolization                                       0                        0
+Device Thrombus                                           7                        7
+Pericardial Effusion (PE)
+                                                          5                        5
+resulting in invasive intervention
+    PE requiring open cardiac surgery                     0                        0
+    PE requiring
+                                                          4                        4
+    pericardiocentesis or
+    pericardial puncture
+Major Bleeding (BARC 3 or 5)                             36                        32
+    BARC 3 bleeding                                      34                        30
+    BARC 5 bleeding                                       2                        2
+
+
+   Mortality
+   There were 27 deaths in the main study cohort as of the data cutoff date. Of
+   these, 16 deaths were adjudicated as cardiovascular or unexplained. The Kaplan-
+   Meier estimates for the 12-month total and CV/unexplained mortality rates are
+   6.6% (N=25; 95% Cl: 4.4, 9.8) and 4.2% (N=14, 95% Cl: 2.4, 7.1), respectively.
+   There were no peri-procedural or procedure-related deaths. One death was
+   adjudicated to be device-related. The 77-year-old man died of ischemic stroke on
+   day 134 following device implant. Autopsy revealed premortem thrombus on the
+   atrial facing surface of the left atrial appendage closure device.
+
+
+   Pericardial Effusion Requiring Intervention
+   There were 5 occurrences of pericardial effusion requiring pericardiocentesis
+   (n=4) or transfusion (n=1). Of these, 3 occurred within 45 days (none within 7
+   days) and were device- or procedure-related.
+
+
+               PMA P130013/S035: FDA Summary of Safety and Effectiveness Data             22 of 30
+    Major Bleeding
+    A total of 36 major bleeding (BARC 3 or 5) events occurred in 32 subjects. The
+    Kaplan-Meier estimate for major bleeding at 12 months is 7.9% (95% CI: 5.6%,
+    11.1%). In the PINNACLE FLX trial, most patients were prescribed apixaban
+    (76.6%) or rivaroxaban (20.3%) post-implant and through 45 days following the
+    procedure (refer to Table 12). During this period (0 – 45 days), there were 12
+    (3%) major bleeding events (procedure-related: 3, non-procedure related: 9).
+
+
+Table 12: Oral Anticoagulant (OAC) Use (Post-Implant through 45 Days)
+
+           OAC                                   Percent of Total %
+                                                       (n/N)
+           Apixaban                               76.7% (303/395)
+           Rivaroxaban                             20.3% (80/395)
+           Dabigatran                                2.0% (8/395)
+           Warfarin/VKAa                             0.5% (2/395)
+           Nonea                                     0.3% (1/395)
+           a
+            Documented as a protocol deviation
+
+
+    Device-Related Thrombus
+    The WATCHMAN FLX Closure Device was successfully implanted in 395/400
+    (98.8%) subjects. Implanted subjects in the study underwent mandatory TEE at
+    45 days (392/394, 99.5%) and one year (342/372, 91.9%). The incidence of
+    device-related thrombus (DRT) was 1.8% (N = 7) at 12 months. All 7 subjects
+    with DRT were taking aspirin or DAPT at the time of the event. Of these, 2
+    subjects experienced an ischemic stroke or systemic embolism at 12 months.
+
+
+    Adverse effects that occurred in the PMA clinical study:
+
+    Device and Procedure Related Serious Adverse Events
+    A summary of all device and procedure related serious adverse events for the
+    main cohort subjects is presented in Table 13.
+
+
+
+
+               PMA P130013/S035: FDA Summary of Safety and Effectiveness Data   23 of 30
+               Table 13: Device- and Procedure-related Serious Adverse Events
+                                                       All Device or Procedure Related Events
+
+
+
+
+     Sponsor Classification                            Events          % Subjects with Events
+      Anemia requiring transfusion                        1                   0.3% (1/400)
+      Arrhythmias                                         2                   0.3% (1/400)
+      Atrial Fibrillation (AF)                            1                   0.3% (1/400)
+      Deatha                                              1                   0.3% (1/400)
+      Device thrombus atrial facing                       7                   1.8% (7/400)
+      – Post procedure
+      Fluid Overload                                      1                   0.3% (1/400)
+      Gastrointestinal                                    1                   0.3% (1/400)
+      Gastrointestinal bleeding                           1                   0.3% (1/400)
+      Peri-device leakb                                  10                  2.5% (10/400)
+      Pericardial effusion                                3                   0.8% (3/400)
+      Prolonged bleeding from a laceration                1                   0.3% (1/400)
+
+      Pulmonary                                           2                   0.5% (2/400)
+      Respiratory insufficiency                           1                   0.3% (1/400)
+      Stroke (ischemic)                                   7                   1.5% (6/400)
+      Systemic embolism                                   1                   0.3% (1/400)
+      TEE/TTE related event                               1                   0.3% (1/400)
+      Thrombocytopenia                                    1                   0.3% (1/400)
+      Total                                              42                   8.5% (34/400)
+
+a Cause of death (134 days following procedure): ischemic stroke. Autopsy revealed premortem
+thrombus on the surface of the left atrial appendage closure device.
+b Core laboratory evaluation of TEEs assessed peri-device flow as ≤ 5 mm in all cases.
+
+
+
+         2. Effectiveness Results
+
+               Primary Effectiveness Endpoint
+               The Primary Effectiveness Endpoint is the rate of effective LAA closure at 12
+               months, defined as peri-device flow ≤ 5mm per core laboratory-assessed TEE.
+
+
+
+                          PMA P130013/S035: FDA Summary of Safety and Effectiveness Data        24 of 30
+              The analysis of effectiveness was based on the 342 evaluable patients at the 12-
+              month time point and who did not have any LAA closure procedures other than
+              the initial WATCHMAN FLX Closure Device implant attempt. Key
+              effectiveness outcomes are presented in Tables 14 to 16. The Primary
+              Effectiveness Endpoint was achieved in 100% of evaluable subjects. The one-
+              sided 95% confidence interval lower bound was 99.1%, which met the
+              performance goal of 97%.
+
+                           Table 14: Primary Effectiveness Endpoint
+
+                               Event Rate         Performance        Upper 1-sided 95%
+Event                                                                                            P Value
+                                 (n/N)                Goal           Confidence Interval
+
+Primary effectiveness             100.0%
+                                                       97.0%                   99.1%              <0.0001
+endpoint                        (342/342)a
+
+a In 2 subjects, an additional LAA closure procedure was performed prior to the 12-month TEE; thus,
+they were ineligible for the primary endpoint analysis.
+
+
+              A summary of the LAA closure rate for all WATCHMAN FLX Closure Device
+              implant, 45-day and 12-month TEEs analyzed by the core laboratory at the time
+              of database lock is presented in Table 15.
+             Table 15: Effective LAA Closure (Core Laboratory Assessment)
+
+Peri-device flow                           Implant                   45 Days                 12 Months
+
+                                     100.0% (376/376)          100.0% (389/389)           100.0% (344/344b)
+ Jet size ≤ 5mm                      [99.0%, 100.0%]           [99.1%, 100.0%]            [98.9%, 100.0%]
+
+                                        7.4% (28/376)            17.2% (67/389)            10.5% (36/344 b)
+ Jet size >0 and ≤ 5mm
+                                        [5.0%, 10.6%]            [13.6%, 21.4%]            [7.4%, 14.2%]
+                                        0.0% (0/376)              0.0% (0/389)              0.0% (0/344 b)
+ Jet size > 5mm                         [0.0%, 1.0%]              [0.0%, 0.9%]              [0.0%, 1.1%]
+ TEE deemed not evaluable for           2.3% (9/385)              0.8% (3/392)              0.9% (3/347)
+ leak by Core Laboratorya               [1.1%, 4.4%]              [0.2%, 2.2%]              [0.2%, 2.5%]
+
+a Site evaluation of TEEs assessed peri-device flow as ≤ 5 mm in all cases
+b Two subjects had additional LAA intervention
+
+
+              Of 400 Main Cohort subjects, 56 subject did not have an evaluable 12-month
+              TEE. The reasons for missing data are summarized in Table 16.
+
+
+
+
+                         PMA P130013/S035: FDA Summary of Safety and Effectiveness Data                  25 of 30
+Table 16: Summary of Subjects without Primary Effectiveness Endpoint Data
+                                                                    Prior Device Seal
+
+                                      No 12-Month Complete              Jet size ≤ Complete seal
+Rationale for Missing 12-month        TEE         seal at 45d           5mm at 45d at implant
+TEE                                   N=56        N=41                  N=7        N=3
+
+Implant Failure                              5                --              --         --
+
+Deceased Prior to 12-month visit             28              25               2          1
+
+No 12-month TEE performed                    13               8               4          1
+
+Withdrawn prior to 12-month TEE              5                5               --         --
+
+TEE images not evaluable by core             3                3               --         --
+lab
+
+Subject unable to complete TEE               2                --              1          1
+
+
+
+       Secondary Effectiveness Endpoint
+       The Secondary Effectiveness Endpoint is the occurrence of ischemic stroke or
+       systemic embolism at 24 months from the time of implant. The secondary
+       endpoint will be evaluated after all patients complete 2 years of follow-up. At the
+       time of data lock, 11 subjects and one subject experienced stroke and systemic
+       embolism, respectively.
+
+   4. Pediatric Extrapolation
+      In this premarket application, existing clinical data was not leveraged to support
+      approval of a pediatric patient population.
+
+E. Financial Disclosure
+
+   The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+   applicants who submit a marketing application to include certain information
+   concerning the compensation to, and financial interests and arrangement of, any
+   clinical investigator conducting clinical studies covered by the regulation. The pivotal
+   clinical study included 147 investigators of which none were full-time or part-time
+   employees of the sponsor and 9 had disclosable financial interests/arrangements as
+   defined in 21 CFR 54.2(a), (b), (c) and (f) and described below:
+
+       •   Compensation to the investigator for conducting the study where the value
+           could be influenced by the outcome of the study: none
+       •   Significant payment of other sorts: 9
+       •   Proprietary interest in the product tested held by the investigator: none
+
+
+                  PMA P130013/S035: FDA Summary of Safety and Effectiveness Data              26 of 30
+              •   Significant equity interest held by investigator in sponsor of covered study: 1
+
+          The applicant has adequately disclosed the financial interest/arrangements with
+          clinical investigators. Statistical analyses were conducted by FDA to determine
+          whether the financial interests/arrangements had any impact on the clinical study
+          outcome. The information provided does not raise any questions about the reliability
+          of the data.
+
+XI.    PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+       In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+       Medical Devices Act of 1990, this PMA was not referred to the Circulatory System
+       Devices Panel, an FDA advisory committee, for review and recommendation because the
+       information in the PMA substantially duplicates information previously reviewed by this
+       panel.
+
+XII.   CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+       A. Effectiveness Conclusions
+
+          The effectiveness outcomes of the PINNACLE FLX study demonstrate that the
+          WATCHMAN FLX LAA Closure Device with Delivery System is effective for
+          achieving adequate chronic LAA closure. Effective LAA closure at 12 months, defined
+          as peri-device flow ≤ 5mm per core laboratory-assessed TEE, was achieved in all
+          patients (100%), meeting the pre-specified performance goal of 97%. While the
+          secondary effectiveness endpoint outcome is not available, the observed rate of ischemic
+          stroke and systemic embolism at one-year follow-up is consistent with previous
+          WATCHMAN trials. Since the WATCHMAN FLX Closure Device with Delivery
+          Systemand its predecessor share similar designs and the same principle of operation, the
+          clinical data of the WATCHMAN Closure Device with Delivery System can be
+          leveraged to support the long-term performance of the WATCHMAN FLX Closure
+          Device with Delivery System. The totality of clinical and pre-clinical evidence
+          provides a reasonable assurance that the WATCHMAN FLX Closure Device with
+          Delivery System is effective for reducing the risk of thrombolism from the left atrial
+          appendage in nonvalvular atrial fibrillation patients who are eligible for anticoagulation
+          therapy but have a rationale to seek a non-pharmacologic alternative.
+
+       B. Safety Conclusions
+
+          The risks of the device are based on nonclinical laboratory and/or animal studies as
+          well as data collected in a clinical study conducted to support PMA approval as
+          described above. The results from the nonclinical laboratory and animal studies
+          performed on the WATCHMAN FLX Closure Device with Delivery System
+          demonstrate that this device is suitable for long-term implant. Since the
+          WATCHMAN FLX Closure Device with Delivery System and its predecessor share
+          similar designs and the same principle of operation, the clinical data of the
+
+
+
+                       PMA P130013/S035: FDA Summary of Safety and Effectiveness Data        27 of 30
+   WATCHMAN Closure Device with Delivery System can be leveraged to support the
+   long-term performance of the WATCHMAN FLX Closure Device with Delivery
+   System. The potential risks associated with the device include procedure-related
+   complications such as cardiac tamponade and procedure-related major bleeding
+   complications.
+
+   The primary safety endpoint of the PINNACLE FLX study demonstrated a low rate
+   of the major procedure-related complications (0.5%) and the primary safety event
+   rate met the predetermined performance goal of 4.21%. With the post-device implant
+   antithrombotic therapy recommended in the PINNACLE FLX study, the rates of peri-
+   procedural major bleeding complications and device-related thrombus at one year are
+   acceptable.
+
+C. Benefit-Risk Determination
+
+   The probable benefits of the device are also based on data collected in a clinical study
+   conducted to support PMA approval as described above and supplementary clinical
+   experience from previous WATCHMAN trials. The probable benefits include a
+   reduced risk of thromboembolism from the left atrial appendage and the ability for
+   patients to discontinue anticoagulation (following successful closure of the left atrial
+   appendage orifice) resulting in a reduced risk of long-term bleeding complications
+   associated with chronic anticoagulation use. Based on the PINNACLE FLX study
+   results, a significant portion of patients undergoing LAA closure with the
+   WATCHMAN FLX device are expected to gain these probable benefits.
+
+   The probable risks of the device are also based on data collected in a clinical study
+   conducted to support PMA approval as described above and cumulative clinical
+   experience with the WATCHMAN Closure Device with Delivery System. The
+   probable risks of the WATCHMAN FLX Closure Device with Delivery System
+   include procedure-related serious adverse events (such as cardiac tamponade and
+   procedure related major bleeding complications) and ischemic stroke and/or systemic
+   embolism due to device thrombosis. Past randomized controlled studies comparing
+   LAA closure with the predecessor WATCHMAN Closure Device with Delivery
+   System and chronic anticoagulation with warfarin also demonstrate an increased risk
+   of ischemic stroke and systemic embolism with the non-pharmacologic approach.
+
+   In conclusion, given the available information above, the data show that for
+   percutaneous, transcatheter closure of the left atrial appendage in patients meeting the
+   criteria described in the indications for use statement, the probable benefits of the
+   WATCHMAN Closure Device with Delivery System and WATCHMAN FLX
+   Closure Device with Delivery System outweigh the probable risks.
+
+
+
+D. Overall Conclusions
+
+
+
+
+                PMA P130013/S035: FDA Summary of Safety and Effectiveness Data         28 of 30
+        The data in this application support the reasonable assurance of safety and
+        effectiveness of the WATCHMAN Closure Device with Delivery System and
+        WATCHMAN FLX Closure Device with Delivery System to reduce the risk of
+        thromboembolism from the left atrial appendage in patients with non-valvular atrial
+        fibrillation who:
+        • Are at increased risk for stroke and systemic embolism based on CHADS2 or
+            CHA2DS2-VASc scores and are recommended for anticoagulation therapy;
+        • Are deemed by their physicians to be suitable for anticoagulation therapy; and
+        • Have an appropriate rationale to seek a non-pharmacologic alternative to
+            anticoagulation therapy, taking into account the safety and effectiveness of the
+            device compared to anticoagulation therapy.
+
+XIII. CDRH DECISION
+
+     CDRH issued an approval order on July 21, 2020. The final clinical conditions of approval
+     cited in the approval order are described below.
+
+     PINNACLE FLX Continued Follow-up of IDE Cohorts: The study objective is to
+     characterize the safety and effectiveness of the WATCHMAN FLX LAA Closure Device
+     with Delivery System through 24 months post-procedure. This study should be conducted
+     per version AF of the PINNACLE FLX protocol. The study will consist of all IDE patients
+     who are currently enrolled and alive and will evaluate the secondary effectiveness
+     endpoint. The secondary effectiveness endpoint is defined in the protocol as the occurrence
+     of ischemic stroke or systemic embolism at 24 months from the time of implant. All
+     available patients in PINNACLE FLX will be followed at post-enrollment intervals of 12
+     months, 18 months and 24 month follow up.
+    WATCHMAN FLX LAA Closure Device with Delivery System Real-World Use
+    Surveillance: The applicant has agreed to work with the Society of American College of
+    Cardiology (ACC) Left Atrial Appendage Occlusion (LAAO) Registry to ensure that FDA
+    surveillance occurs for commercial uses of the WATCHMAN FLX LAA Closure Device
+    with Delivery System. The surveillance will be carried out to characterize clinical
+    outcomes and to assess the real-world use of the commercial WATCHMAN FLX LAA
+    Closure Device with Delivery System.
+
+    Surveillance of the real-world use will involve all consecutive patients treated within the
+    first 2 years that are entered into the LAAO Registry (enrollment period). The applicant
+    has also agreed to link the data to the Centers for Medicare and Medicaid Services (CMS)
+    claims database for long-term surveillance of these patients through 5 years post
+    implantation (follow-up duration). This surveillance should monitor registry collected data
+    (including: implant success rate, procedural safety, effective closure of the orifice of the
+    left atrial appendage, and stroke [including ischemic or hemorrhagic] through one- year
+    post-implant] and longer term identified occurrence of all stroke (including ischemic or
+    hemorrhagic).
+
+     The applicant’s manufacturing facilities have been inspected and found to be in
+     compliance with the device Quality System (QS) regulation (21 CFR 820).
+
+
+                      PMA P130013/S035: FDA Summary of Safety and Effectiveness Data       29 of 30
+XIV. APPROVAL SPECIFICATIONS
+
+    Directions for use: See device labeling.
+
+    Hazards to Health from Use of the Device: See Indications, Contraindications,
+    Warnings, Precautions, and Adverse Events in the device labeling.
+
+    Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+                    PMA P130013/S035: FDA Summary of Safety and Effectiveness Data   30 of 30
+

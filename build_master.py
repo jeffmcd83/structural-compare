@@ -35,7 +35,7 @@ for fam,(fn,brx,inc,exc) in F.items():
             if v is None: continue
             if cat in('Mitral TEER','Tricuspid TEER') and u=='Millimeter' and t in('Width','Length','Depth'):
                 S[{'Depth':'cw','Length':'al','Width':'gw_'}[t]].append(v);continue
-            if cat=='TAVI valve' and t=='Outer Diameter' and u=='Millimeter' and v>=18: S['vs'].append(v);continue
+            if cat in('TAVI valve','TTVR valve') and t=='Outer Diameter' and u=='Millimeter' and v>=18: S['vs'].append(v);continue
             if cat=='Valve wire' and t=='Outer Diameter' and u=='Inch': S['wire'].append(v);continue
             if t in('Stent Diameter','Balloon Diameter') or (t=='Outer Diameter' and u=='Millimeter' and cat in('DES','BMS','Balloon')): S['dia'].append(v)
             elif t in('Stent Length','Balloon Length') or (t=='Length' and u=='Millimeter' and cat in('DES','BMS','Balloon','Covered stent')): S['len'].append(v)
@@ -54,7 +54,7 @@ for fam,(fn,brx,inc,exc) in F.items():
         if cat=='Valvuloplasty balloon':
             m=re.search(r'(\d+(?:\.\d+)?)\s*mm\s*x\s*(\d+(?:\.\d+)?)\s*cm',dd)
             if m: S['dia'].append(float(m.group(1)));S['len'].append(float(m.group(2))*10)
-        if cat in('Large-bore sheath','Transseptal access','Steerable guide/sheath','Large-bore closure','Cerebral embolic protection'):
+        if cat in('Large-bore sheath','Transseptal access','Steerable guide/sheath','Large-bore closure','Cerebral embolic protection','LAAO access sheath'):
             for m in re.finditer(r'(?<![\d.])(\d{1,2}(?:\.\d)?)\s?F(?:r|R)?\b',(r.get('device_description') or '')): S['fr'].append(float(m.group(1)))
         if cat in('DES','BMS','Balloon','DCB','Covered stent') and not S['dia']:
             m=MMX.search(r.get('device_description') or '')
@@ -89,6 +89,10 @@ SPEC={'DES':['drug','drug_dose','polymer','strut_thickness_um','platform_alloy',
 'Atherectomy & IVL':['mechanism','pulses_or_runs','rbp_atm','crossing_profile_in','tip_profile_in','guide_compat'],'Imaging & physiology':['modality','frequency_mhz','pullback_speed','physiology_indices'],
 'Thrombectomy':['mechanism','aspiration_lumen_in'],
 'TAVI valve':['expansion_type','annulus_range_mm','frame_material','leaflet_tissue','skirt','delivery_system','delivery_profile','sheath_compat','access_routes','approval_indications'],
+'TMVR valve':['expansion_type','frame_material','leaflet_tissue','skirt','anchoring','delivery_system','delivery_profile','sheath_compat','access_routes','approval_indications'],
+'TTVR valve':['expansion_type','annulus_range_mm','frame_material','leaflet_tissue','skirt','anchoring','delivery_system','delivery_profile','sheath_compat','access_routes','approval_indications'],
+'LAAO device':['implant_design','sizing_range','delivery_system','access_sheath','access_routes','approval_indications'],
+'LAAO access sheath':['sheath_id_od','curves','compatible_devices'],
 'Valve wire':['tip_config','stiffness','core_material','coating','wire_use'],
 'Large-bore sheath':['sheath_type','sheath_id_od','compatible_devices','coating'],
 'Cerebral embolic protection':['filter_config','delivery_sheath','access_routes','vessel_range','approval_indications'],

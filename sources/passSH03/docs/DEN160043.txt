@@ -1,0 +1,372 @@
+                         DE NOVO CLASSIFICATION REQUEST FOR
+                       SENTINEL® CEREBRAL PROTECTION SYSTEM
+
+REGULATORY INFORMATION
+
+FDA identifies this generic type of device as:
+
+      Temporary catheter for embolic protection during transcatheter intracardiac
+      procedures. This device is a single use percutaneous catheter system that has (a)
+      blood filter(s) at the distal end. This device is indicated for use while performing
+      transcatheter intracardiac procedures. The device is used to filter blood in a manner
+      that may prevent embolic material (thrombus/debris) from the transcatheter
+      intracardiac procedure from traveling towards the cerebral circulation.
+
+       NEW REGULATION NUMBER: 21 CFR 870.1251
+
+       CLASSIFICATION: II
+
+       PRODUCT CODE: PUM
+
+BACKGROUND
+
+       DEVICE NAME: Sentinel® Cerebral Protection System
+
+       SUBMISSION NUMBER: DEN160043
+
+       DATE OF DE NOVO: September 19, 2016
+
+       CONTACT: Claret Medical, Inc.
+                1745 Copperhill Parkway, Suite 1
+                Santa Rosa, California 95403
+
+INDICATIONS FOR USE
+
+The Sentinel® Cerebral Protection System is indicated for use as an embolic protection
+device to capture and remove thrombus/debris while performing transcatheter aortic valve
+replacement procedures. The diameters of the arteries at the site of filter placement should
+be between 9 – 15 mm for the brachiocephalic and 6.5 – 10 mm in the left common carotid.
+
+       LIMITATIONS
+
+       The sale, distribution, and use of the Sentinel® Cerebral Protection System are restricted
+       to prescription use in accordance with 21 CFR 801.109.
+
+       The Sentinel® Cerebral Protection System should only be used by physicians who have
+       received appropriate training and are familiar with the principles, clinical applications,
+
+
+
+De Novo Summary (DEN160043)                                                              Page 1
+SUMMARY OF CLINICAL INFORMATION
+
+The primary pivotal study provided to support the De Novo request is “Cerebral Protection in
+Transcatheter Aortic Valve Replacement – The SENTINEL Study”. Details of the study design
+and selected clinical results are provided below.
+
+Purpose: To assess the safety and effectiveness of the Claret Medical Sentinel Cerebral
+Protection System used for embolic protection during TAVR compared to TAVR standard of
+care (without cerebral protection).
+
+Design: The SENTINEL Study was a prospective, single blind, multi-center, randomized study
+using the Sentinel® Cerebral Protection System in patients with severe symptomatic calcified
+native aortic valve stenosis indicated for TAVR. A total of three hundred and sixty-three (363)
+patients at nineteen (19) centers in the United States and Germany were randomized across three
+arms (Safety, Test, and Control) in a 1:1:1 fashion. Subjects who met the commercially approved
+indications for TAVR and complied with the study inclusion/exclusion criteria were enrolled.
+Subjects randomized to the Safety, Test and Control Arms underwent the following regimen:
+1) Safety Arm: TAVR + the Sentinel System. Subjects enrolled in this arm of the study
+   underwent safety follow up post procedure, 30 and 90 days post procedure. Safety Arm
+   subjects did not undergo Magnetic Resonance Imaging (MRI) or neurocognitive assessments.
+2) Test Arm: TAVR + the Sentinel System. Subjects enrolled in this arm of the study underwent
+   safety follow up post-procedure, 30 and 90 days; effectiveness with MRI follow up at 2-7
+   days, and 30 days; and neurocognitive evaluation at 2-7, 30 and 90 days post-procedure.
+3) Control Arm: TAVR only. Subjects enrolled into this arm of the study underwent safety
+   follow up at post-procedure, 30 and 90 days; effectiveness with MRI follow up at 2-7 days
+   and 30 days; and neurocognitive evaluation at 2-7, 30 and 90 days post-procedure.
+A Clinical Events Committee (CEC) remained blinded throughout the trial and adjudicated all
+Major Adverse Cardiac and Cerebrovascular Events (MACCE) endpoints. Independent blinded
+MRI and neurocognitive core labs analyzed all the MRI and neurocognitive endpoint data.
+Primary Endpoints:
+1) Safety: The primary safety endpoint was the occurrence of all MACCE at 30 days compared
+   to a historical performance goal, with MACCE defined as all death, all stroke, and all Class 3
+   Acute Kidney Injury (AKI). The primary safety endpoint analysis was based on the
+   combination of the Safety and Test Arms.
+2) Effectiveness: The primary effectiveness endpoint was total new lesion volume in protected
+   territories (i.e. regions of the brain perfused by the Brachiocephalic and Left Common
+   Carotid arteries) at 2-7 days post procedure as assessed by diffusion weighted MRI (DW-
+   MRI). Two assessments were designed to evaluate DW-MRI infarct lesion volume between
+   patients with and without protection. The first hypothesis-driven criterion was to show that
+   there was a statistically significant reduction in median total new DW-MRI lesion volume in
+   protected territories for patients with protection with the Sentinel System compared to those
+   without protection (Criterion #1). The second criterion was intended to show that there was
+
+
+
+
+De Novo Summary (DEN160043)                                                               Page 6
+   an observed reduction of at least 30% in median new lesion volume (Criterion #2) in
+   protected territories in the Test Arm comparing to the Control Arm.
+
+Secondary Endpoints: Secondary endpoints consisted of the following:
+1) Safety: In-hospital MACCE (Safety + Test); MACCE rate at 30 days (Test vs Control);
+   Major vascular complications during the index procedure and within 30 days of the index
+   procedure (Safety + Test); Incidence of serious adverse events within 30 days (Safety + Test
+   vs Control)
+2) Effectiveness (Test vs. Control): 2-7 day median number of new lesions in protected
+   territories; 2-7 day median total new lesion volume in all territories; 2-7 days median number
+   of new lesions in all territories; change in neurocognitive battery z-score from baseline to 30
+   days; 30 day median new lesion volume in protected territories; 30 day median number of
+   new lesions in protected and all territories; 2-7 day maximum new lesion volume in protected
+   and all territories; 2-7 day maximum new lesion number in protected and all territories 30
+   day maximum new lesion volume in protected and all territories; 30 day maximum new
+   lesion number in protected and all territories; Captured debris histopathology (Test Arm
+   only); Correlation of 2-7 day MRI lesion volume with changes in neurocognitive battery
+   composite z-score at 90 days, 30 days, and 2-7 days; Correlation of 30 day MRI lesion
+   volume with changes in neurocognitive battery composite z-score at 90 days and 30 days; 30
+   day new lesion volume in all territories; Change in neurocognitive battery composite z-score
+   from baseline to 2-7 days and to 90 days; Acute delivery and retrieval success; Change in
+   neurocognitive domain scores from baseline to 2-7 days, 30 days, and 90 days
+
+Eligibility Criteria Summary: The study population consisted of male and female patients, at
+least 18 years of age.
+Key inclusion criteria included the following:
+      Symptomatic severe aortic stenosis eligible for treatment with a US commercially
+       approved TAVR system
+      Acceptable aortic arch anatomy and vessel diameters without significant stenosis
+Key exclusion criteria included the following:
+      Anatomic:
+       o Right extremity vasculature not suitable
+       o Brachiocephalic, left carotid or aortic arch not suitable
+      Clinical:
+       o Cerebrovascular accident or transient ischemic attack within six months
+       o Neurological disease with persistent deficits
+       o Carotid disease requiring treatment within six weeks
+       o Contraindications to MRI
+       o Renal insufficiency
+       o Severe LV dysfunction
+       o Balloon valvuloplasty within 30 days
+
+
+
+
+De Novo Summary (DEN160043)                                                               Page 7
+    30-Day Median Total New Lesion Volume (Protected Territories): The total new lesion
+     volume at 30 days was zero for both the Test Arm and Control Arm and was not
+     significant.
+    30-Day Median Number of New Lesions (Protected & All Territories): The number of new
+     lesions at 30 days was zero for both the Test Arm and Control Arm in both protected and
+     all territories and was not significant.
+    2-7 Day Maximum and Median New Lesion Volume (Protected & All Territories): None
+     of the results from this evaluation were found to be statistically significant.
+    30-Day Maximum and Median New Lesion Volume (Protected & All Territories): None of
+     the results from this evaluation were found to be statistically significant.
+    Correlation of 2-7 Day Lesion Volume to 2-7 Day and 90 Day Z-Score: The correlations
+     were not found to be statistically significant at these time points.
+    Correlation of 30-Day Lesion Volume to 30 Day and 90 Day Z-Score: The correlations
+     were not found to be statistically significant at these time points.
+    30-Day Median Total New Lesion Volume (All Territories): The total new lesion volume
+     at 30 days was zero for both the Test Arm and Control Arm and was not significant.
+    Difference in Neurocognitive Battery Composite Z-Score from Baseline to 2-7 Days & 90-
+     Days: The difference in composite z-score was not statistically different between the Test
+     Arm and Control Arm at either time point.
+    Acute Delivery and Retrieval Success: Acute delivery and retrieval success was achieved
+     in 94.4% (218/231) of patients (both filters deployed). At least on filter was deployed in
+     99.6% of patients.
+    Change in Individual Neurocognitive Domain Scores: No statistically significant changes
+     were observed in any of the domain analyses.
+
+Conclusions: The SENTINEL trial demonstrated that the Sentinel System is safe and effectively
+captures debris. Sentinel System deployment was achieved in 94.4% of patients and 100% of
+devices were successfully retrieved with only one vascular injury (0.4%). The primary safety
+endpoint was met and 30-day MACCE events in patients treated with the Sentinel System were
+less than the prespecified performance goal of 18.3% with a p-value <0.0001. The effectiveness
+success Criterion #1 was not met and a statistically significant reduction in DW-MRI lesions
+post-TAVR was not seen; however, effectiveness success Criterion #2 was met by showing a
+42% observed treatment effect in DW-MRI median lesion volume reduction in protected
+territories in favor of the Test Arm. The SENTINEL study demonstrated that debris was captured
+in 99% of patients.
+
+Pediatric Extrapolation
+
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+
+
+
+
+De Novo Summary (DEN160043)                                                               Page 14
+Panel Meeting
+
+FDA convened the Circulatory System Devices Panel of the Medical Devices Advisory
+Committee on February 23, 2017 to discuss and make recommendations on the clinical
+information related to the De Novo request for Claret Medical Inc.’s Sentinel® Cerebral
+Protection System. While the SENTINEL study met the primary safety endpoint, the study failed
+to meet the effectiveness endpoint to demonstrate statistical superiority of reduced total new
+lesion volume in protected territories as assessed by DW-MRI at Day 2-7 post-procedure. The
+Panel members were requested to provide input on the interpretation of the clinical outcomes
+from the study, specifically with respect to reasonable assurance of device effectiveness and
+probable benefit.
+
+The panel agreed that the device demonstrated reasonable assurance of safety, but only possible
+benefit for reducing ischemic injury to the brain peri-procedurally given the uncertainty
+regarding interpretation of the effectiveness outcomes. The panel also agreed that new lesion
+volume as evaluated with DW-MRI had limitations as a surrogate endpoint for clinical stroke.
+However, the panel agreed that the Sentinel® device captures debris, which is a meaningful
+outcome to clinicians and patients, and therefore, the panel recommended that if the De Novo for
+the device were granted, the indications should reflect its ability to capture and remove debris
+rather than reference to reduction in ischemic injury, which was not clearly demonstrated. FDA
+agreed with the Panel recommendations.
+
+The Panel meeting materials, summary, and transcript can be found at:
+
+https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/MedicalDevices/Medic
+alDevicesAdvisoryCommittee/CirculatorySystemDevicesPanel/ucm542254.htm
+
+
+LABELING
+
+The Sentinel® Cerebral Protection System labeling consists of Instructions for Use and
+packaging labels. The Instructions for use include the indications for use; a description of the
+device, contraindications, warnings, precautions; a list of transcatheter intracardiac procedure
+devices that are compatible with the device; a detailed summary of the clinical data collected in
+support of the device; a shelf life; and instructions for the safe use of the device. The labeling
+satisfies the requirements of 21 CFR 801.109.
+
+Please see the Limitations section above for important warnings and precautions presented
+in the device labeling.
+
+RISKS TO HEALTH
+
+Table 16 identifies the risks to health that may be associated with use of a temporary catheter for
+embolic protection during transcatheter intracardiac procedures and the measures necessary to
+mitigate these risks.
+
+
+
+
+De Novo Summary (DEN160043)                                                               Page 15
+                 Table 16: Identified Risks to Health and Mitigation Measures
+      Identified Risk                            Mitigation Measures
+      Device failure leading to debris embolization   Non-clinical Performance Testing
+      and stroke or death                             Animal Testing
+                                                      Clinical Performance Testing
+
+      Impeded or disrupted blood flow leading to      Non-clinical Performance Testing
+      peripheral ischemia                             Animal Testing
+                                                      Clinical Performance Testing
+                                                      Labeling
+      Device incompatibility with transcatheter       Non-clinical Performance Testing
+      intracardiac procedure device leading to        Animal Testing
+      prolonged treatment time or device failure      Clinical Performance Testing
+                                                      Labeling
+      Adverse tissue reaction                         Biocompatibility Evaluation
+      Infection                                       Sterilization Validation
+                                                      Shelf Life Testing
+                                                      Labeling
+      Vascular Injury due to device delivery,         Non-clinical Performance Testing
+      deployment, placement, or retrieval             Animal Testing
+                                                      Clinical Performance Testing
+                                                      Labeling
+
+SPECIAL CONTROLS:
+
+In combination with the general controls of the FD&C Act, the Sentinel® Cerebral Protection
+System is subject to the following special controls:
+
+   1. Non-clinical performance testing must demonstrate that the device performs as intended
+      under anticipated conditions of use. The following performance characteristics must be
+      tested:
+      a. Simulated-use testing in a clinically relevant bench anatomic model to assess the
+          following:
+             i. Delivery, deployment, and retrieval, including quantifying deployment and
+                 retrieval forces, and procedural time
+            ii. Device compatibility and lack of interference with the transcatheter
+                 intracardiac procedure and device
+      b. Tensile strengths of joints and components, tip flexibility, torque strength, torque
+          response and kink resistance
+      c. Flow characteristics
+             i. The ability of the filter to not impede blood flow
+            ii. The amount of time the filter can be deployed in position and retrieved from
+                 its location without disrupting blood flow
+      d. Characterization and verification of all dimensions
+
+   2. Animal testing must demonstrate that the device performs as intended under anticipated
+      conditions of use. The following performance characteristics must be assessed:
+      a. Delivery, deployment, and retrieval, including quantifying procedural time
+
+
+
+
+De Novo Summary (DEN160043)                                                              Page 16
+       b. Device compatibility and lack of interference with the transcatheter intracardiac
+          procedure and device
+       c. Flow characteristics
+             i. The ability of the filter to not impede blood flow
+            ii. The amount of time the filter can be deployed in position and retrieved from
+                 its location without disrupting blood flow
+       d. Gross pathology and histopathology assessing vascular injury and downstream
+          embolization
+
+   3. All patient contacting components of the device must be demonstrated to be
+      biocompatible.
+
+   4. Performance data must demonstrate the sterility of the device components intended to be
+      provided sterile.
+
+   5. Performance data must support the shelf life of the device by demonstrating continued
+      sterility, package integrity, and device functionality over the identified shelf life.
+
+   6. Labeling for the device must include:
+      a. Instructions for use;
+      b. Compatible transcatheter intracardiac procedure devices;
+      c. A detailed summary of the clinical testing conducted; and
+      d. A shelf life and storage conditions.
+
+   7. Clinical performance testing must demonstrate:
+      a. The ability to safely deliver, deploy, and remove the device;
+      b. The ability of the device to filter embolic material while not impeding blood flow;
+      c. Secure positioning and stability of the position throughout the transcatheter
+          intracardiac procedure; and
+      d. Evaluation of all adverse events including death, stroke, and vascular injury.
+
+BENEFIT/RISK DETERMINATION
+
+The risks of the device are based on nonclinical laboratory and/or animal studies as well as data
+collected in a clinical study described above. Types of harmful events include access site
+complications, hypotension, hematoma, pseudoaneurysm, bleeding, bruising, and pain at the
+access site. The probability of a harmful event is very low and reversible – only one vascular
+complication was noted in the randomized cohort of the SENTINEL study (0.4%).
+
+The probable benefits of the device are also based on nonclinical laboratory and/or animal
+studies as well as data collected in a clinical study as described above. The SENTINEL study
+demonstrated that 99% of patients may benefit from the capture and removal of embolic
+material.
+
+Additional factors to be considered in determining probable risks and benefits for the Sentinel®
+Cerebral Protection System include: Physician and patient feedback confirms the value of
+
+
+
+De Novo Summary (DEN160043)                                                             Page 17
+capturing and removing embolic material. Patients are willing to accept the low risk associated with
+use of the device versus the probable benefit of debris capture.
+
+Patient Perspectives
+
+Patient perspectives were considered as part of the Open Public Hearing at the February 23, 2017
+Advisory Panel meeting. Patients place value on a device that captures debris.
+
+Benefit/Risk Conclusion
+
+In conclusion, given the available information above, the data support that for embolic protection
+during TAVR procedures, the probable benefits outweigh the probable risks for the Sentinel®
+Cerebral Protection System. The device provides substantial benefits and the risks can be mitigated
+by the use of general and the identified special controls.
+
+CONCLUSION
+
+The De Novo request for the Sentinel® Cerebral Protection System is granted and the device is
+classified under the following:
+
+       Product Code: PUM
+       Device Type: Temporary catheter for embolic protection during transcatheter
+                     intracardiac procedures
+       Class: II
+       Regulation: 21 CFR 870.1251
+
+
+
+
+De Novo Summary (DEN160043)                                                                Page 18
+

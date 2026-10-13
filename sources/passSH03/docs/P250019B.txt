@@ -1,0 +1,2140 @@
+              SUMMARY OF SAFETY AND EFFECTIVENESS DATA
+  I.   GENERAL INFORMATION
+
+       Device Generic Name:                  Prosthesis, mitral valve, percutaneously delivered
+
+       Device Trade Name:                    SAPIEN M3 Transcatheter Mitral Valve Replacement
+                                             System
+
+       Device Procode:                       NPU
+
+       Applicant Name and Address:           Edwards Lifesciences LLC
+                                             One Edwards Way
+                                             Irvine, CA 92614
+
+       Date of Panel Recommendation:         None
+
+       Premarket Approval Application        P250019
+       (PMA) Number:
+
+       Date of FDA Notice of Approval:       December 22, 2025
+
+       Breakthrough Device:                  Granted breakthrough device designation on June 13,
+                                             2024, because the device can provide for more
+                                             effective treatment of an irreversibly debilitating
+                                             disease; as well as represents a breakthrough
+                                             technology and is in the best interest of patients.
+
+ II.   INDICATIONS FOR USE
+
+       The SAPIEN M3 transcatheter mitral valve replacement system (SAPIEN M3 system) is
+       indicated for the treatment of symptomatic moderate-to-severe or severe mitral regurgitation
+       (MR) in patients who are deemed unsuitable for surgery or transcatheter edge-to-edge repair
+       (TEER) therapy by a multidisciplinary heart team.
+
+       The SAPIEN M3 system is also indicated for the treatment of symptomatic mitral valve
+       dysfunction (moderate-to-severe or severe MR, severe mitral stenosis (MS), or moderate MR
+       with moderate MS) associated with mitral annular calcification (MAC) in patients who are
+       deemed unsuitable for surgery or TEER therapy by a multidisciplinary heart team.
+
+III.   CONTRAINDICATIONS
+
+       The SAPIEN M3 system is contraindicated in patients who cannot tolerate any
+       anticoagulation/antiplatelet regime or intraprocedural heparin; or who have active bacterial
+       endocarditis or other infections.
+
+
+                    PMA P250019: FDA Summary of Safety and Effectiveness Data                 1 of 56
+IV.   WARNINGS AND PRECAUTIONS
+
+      The warnings and precautions can be found in the SAPIEN M3 system labeling.
+
+V.    DEVICE DESCRIPTION
+
+      The SAPIEN M3 system consists of the SAPIEN M3 transcatheter heart valve (model
+      9880TFX29M), SAPIEN M3 dock steerable catheter (Model 9880DDS), SAPIEN M3 dock,
+      Edwards 23F guide sheath (model 9880GS), Edwards Commander M delivery system (model
+      9880CM29), and SAPIEN M3 crimper (model 9880CR).
+
+      The SAPIEN M3 transcatheter heart valve, as shown in Figure 1, is a bioprosthesis
+      comprised of a balloon-expandable, radiopaque, cobalt-chromium frame, three bovine
+      pericardial tissue leaflets, polyethylene terephthalate (PET) fabric inner skirt, and full-frame
+      outer skirt. The valve frame inflow and outflow are covered with expanded
+      polytetrafluoroethylene (ePTFE). All bovine pericardium is treated according to the
+      Carpentier-Edwards ThermaFix process.
+
+
+
+
+                     Figure 1. SAPIEN M3 Transcatheter Heart Valve.
+
+      The SAPIEN M3 dock steerable catheter, as shown in Figure 2, is comprised of a dock,
+      steerable catheter, dock handle, a hydrophilic coated removable sleeve, and device
+      preparation accessories. The steerable catheter is used for delivery of the SAPIEN M3 dock
+      to its intended location. The removable sleeve covers the dock during encircling and is
+      designed to facilitate encircling of the mitral apparatus and is removed after the dock is
+      positioned in the anatomy. The sleeve has a radiopaque marker that aids in visualization. The
+      dock handle aids in advancing and/or retrieving the dock and can be locked to the steerable
+      catheter. A release assembly at the proximal end of the dock handle allows for suture slack or
+      suture tension. The suture can be cut to release the dock from the dock handle.
+
+
+
+
+                   PMA P250019: FDA Summary of Safety and Effectiveness Data                    2 of 56
+Figure 2. SAPIEN M3 Dock Steerable Catheter.
+
+  The SAPIEN M3 dock, as shown in Figure 3, is comprised of a nitinol core that is covered
+  with ePTFE tubing and PET braid, with a self-expanding paravalvular leak (PVL) guard
+  made of a PET covered nitinol braid. The dock encircles the native mitral leaflets which
+  applies an inward force to the mitral apparatus, pulling the leaflets and chordae to the dock
+  center and approximating the papillary muscles, to provide a landing zone for the SAPIEN
+  M3 valve. The dock includes one (1) radiopaque marker to visualize proper deployment
+  positioning within the anatomy, and two (2) radiopaque markers to visualize final
+  deployment positioning of the PVL guard. The PVL guard expands at the medial commissure
+  of the native mitral valve.
+
+
+
+
+     Figure 3. SAPIEN M3 Dock.
+
+  The Edwards 23F guide sheath, as shown in Figure 4, is comprised of an articulating
+  hydrophilic coated guide sheath and a hydrophilic coated introducer. The sheath provides
+  venous vascular access to cardiac structures enabling the introduction and removal of
+  SAPIEN M3 devices. The guide sheath has a radiopaque soft tip, and a flex wheel which
+  flexes the guide sheath towards the flush port. The introducer is compatible with a 0.035 inch
+  (0.89 mm) guidewire.
+
+
+
+
+               PMA P250019: FDA Summary of Safety and Effectiveness Data                 3 of 56
+Figure 4. Edwards 23F Guide Sheath and Introducer.
+
+  The Edwards Commander M delivery system, as shown in Figure 5, is comprised of a
+  balloon catheter and flex catheter with a tapered tip. The Edwards Commander M delivery
+  system is used for delivery of the SAPIEN M3 valve. The handle contains a flex wheel and a
+  balloon lock and the balloon catheter has radiopaque markers. The radiopaque markers
+  indicate the flex catheter and guide sheath position during deployment and define the crimp
+  location for the valve.
+
+
+
+
+     Figure 5. Edwards Commander M Delivery System.
+
+  The SAPIEN M3 crimper, as shown in Figure 6, is comprised of a housing and compression
+  mechanism. The crimper reduces the diameter of the SAPIEN M3 valve while compressing
+  it onto the delivery system. The Crimp Stopper is used to crimp the valve to its intended
+  diameter.
+
+
+
+
+                   Figure 6. SAPIEN M3 Crimper.
+
+
+
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data               4 of 56
+ VI.    ALTERNATIVE PRACTICES AND PROCEDURES
+
+        There are limited treatment options for patients with symptomatic moderate-to-severe or
+        severe MR and those with mitral valve dysfunction due to severe MAC who are deemed
+        unsuitable for surgery or TEER therapy due to comorbidities or anatomy. For both patient
+        groups, medical therapy does not address the underlying disease condition and offers limited
+        benefit in symptom management. For the latter patient group, additional treatment options
+        include balloon mitral valvuloplasty and transcatheter mitral valve replacement performed
+        transapically. Each alternative has its own advantages and disadvantages. A patient should
+        fully discuss these alternatives with his/her physician to select the method that best meets
+        expectations and lifestyle.
+
+VII.    MARKETING HISTORY
+
+        The SAPIEN M3 system is commercially available in the European Economic Area, as well
+        as in the United Kingdom and Switzerland. It has not been withdrawn from marketing for
+        any reason related to its safety or effectiveness.
+
+VIII.   POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+        Below is a list of the potential adverse effects (e.g., complications) associated with the use of
+        the SAPIEN M3 system:
+
+        −   Death
+        −   Stroke or neurological dysfunction
+        −   Cardiovascular injury – cardiac structure complications
+        −   Cardiovascular injury – vascular complications
+        −   Cardiovascular injury – access related complications
+        −   Heart failure or low cardiac output/worsening of heart failure
+        −   Renal insufficiency or renal failure
+        −   Cardiogenic shock
+        −   Cardiac arrest
+        −   Pericardial effusion or cardiac tamponade
+        −   Thromboembolism including air, calcific valve material, or thrombus
+        −   Retroperitoneal bleed
+        −   Arrhythmia
+        −   Hypertension or hypotension
+        −   New or worsening valvular regurgitation
+        −   Bleeding/hematoma/hemorrhage
+        −   Hemolysis that may require transfusion or intervention
+        −   Device/valve thrombosis
+        −   Respiratory insufficiency or respiratory failure
+        −   Paravalvular or transvalvular leak
+        −   Device deterioration (wear, fracture, calcification, or other)
+        −   Reoperation/reintervention
+
+
+                     PMA P250019: FDA Summary of Safety and Effectiveness Data                    5 of 56
+      −   Device explants
+      −   Pleural effusion
+      −   Left ventricular outflow tract (LVOT) obstruction
+      −   Emergency cardiac surgery
+      −   Conversion to cardiac surgery
+      −   Thoracic bleeding
+      −   Valve stenosis
+      −   Myocardial infarction
+      −   Pulmonary edema
+      −   Transient ischemic attack including clusters
+      −   Device migration, malposition or embolization
+      −   Infection including septicemia and endocarditis
+      −   Allergic reaction to anesthesia, contrast media, or device materials
+      −   Deterioration of native valve (leaflet tear/tearing, leaflet retraction, leaflet thickening, or
+          other)
+      −   Structural valve deterioration (wear, fracture, calcification, leaflet tear/tearing from the
+          stent posts, leaflet retraction, suture line disruption of components of a prosthetic valve,
+          thickening, stenosis)
+      −   Nonstructural valve dysfunction
+      −   Atrial septal defect
+      −   Syncope
+      −   Conduction system defect which may require a permanent pacemaker
+      −   Skin burn
+      −   Mechanical failure of delivery system, and/or accessories
+      −   Valve deployment in an unintended location
+      −   Abnormal lab values (including electrolyte imbalance)
+      −   Angina
+      −   Anemia
+      −   Fever
+      −   Inflammation
+      −   Pain or changes at the access site
+
+      For the specific adverse events that occurred in the clinical study, please see Section X.
+
+IX.   SUMMARY OF NONCLINICAL STUDIES
+
+      A. Laboratory Studies
+
+      Nonclinical laboratory studies on the SAPIEN M3 system were performed in accordance
+      with but not limited to: ISO 5840-1:2021, Cardiovascular implants – Cardiac valve
+      prostheses – Part 1: General Requirements, and ISO 5840-3:2021, Cardiovascular implants
+      – Cardiac valve prostheses – Part 3: Heart valve substitutes implanted by transcatheter
+      techniques, along with relevant FDA guidance documents.
+
+
+
+                    PMA P250019: FDA Summary of Safety and Effectiveness Data                      6 of 56
+  1. Biocompatibility
+
+  Biocompatibility assessments were completed on the SAPIEN M3 system in accordance with
+  ISO 10993-1, Biological Evaluation of Medical Devices - Part 1: Evaluation and testing
+  within a risk management process, and the FDA Guidance for Industry and Food and Drug
+  Administration Staff, Use of International Standard ISO 10993-1, Biological evaluation of
+  medical devices – Part 1: Evaluation and testing within a risk management process. The
+  required testing for each component was determined based on the nature and duration of
+  body contact per ISO 10993-1. The test articles consisted of patient-contacting device
+  components after exposure to all manufacturing processes, including sterilization. The
+  crimper is defined as a non-contacting device. However, the crimper jaws have wet product
+  contact with the valve during crimping. Therefore, testing conducted on the valve by
+  inference qualifies the crimper jaws. The biocompatibility test results for the SAPIEN M3
+  valve, SAPIEN M3 dock, SAPIEN M3 dock steerable catheter, Edwards 23F guide sheath,
+  and Commander M delivery system are summarized in the tables below.
+
+Table 1. Summary of SAPIEN M3 Valve and Dock Biocompatibility Assessments.
+
+     Biological Effect
+                                        Test Method                          Results
+     Per ISO 10993-1
+Cytotoxicity                 Medium eluate method                  Non-cytotoxic
+Sensitization                Guinea pig maximization test          Non-sensitizing
+Irritation/ Intracutaneous   Rabbit intracutaneous reactivity      Non-irritating
+Reactivity                   test
+Pyrogenicity                 Rabbit pyrogen test – materials       Non-pyrogenic
+                             mediated
+Acute systemic toxicity      Mouse systemic injection test         Not inducing significantly
+                                                                   greater biological
+                                                                   reactions than the control
+                                                                   extracts
+Implantation                 4-week rabbit intramuscular           No significant
+                             implantation test                     microscopic evidence of
+                                                                   cytotoxicity relative to the
+                                                                   control
+                             90-day systemic toxicity in rabbits   No toxicity of biological
+                             via intramuscular implantation        significance relative to the
+                                                                   control
+Hemocompatibility            In vitro hemolysis                    Non-hemolytic
+                             (indirect contact)
+                             In vitro hemolysis                    Non-hemolytic
+                             (direct contact)
+                             Complement activation test            No risk to activate
+                                                                   complement
+
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data                7 of 56
+     Biological Effect
+                                       Test Method                           Results
+     Per ISO 10993-1
+                             In vivo thrombogenicity with          No evidence of clinically
+                             domestic sheep                        significant thrombosis or
+                                                                   thromboembolism after
+                                                                   implantation for up to 20
+                                                                   weeks
+Genotoxicity                 Ames assay – plate incorporation      Non-mutagenic
+
+                             Chromosomal aberration assay          Non-clastogenic
+Physicochemical              Chemical characterization of          Compounds detected and
+                             volatile organic compounds,           identified in extracts of
+                             semivolatile organic compounds,       the test articles were
+                             nonvolatile organic compounds,        present at levels that
+                             elements and toxicological risk       would not be expected to
+                             assessment                            pose any significant risk
+                                                                   of adverse systemic
+                                                                   toxicological effects
+
+Table 2. Summary of SAPIEN M3 Dock Steerable Catheter Biocompatibility
+Assessments.
+      Biological Effect
+                                       Test Method                         Results
+      Per ISO 10993-1
+Cytotoxicity                   Medium eluate method             Non-cytotoxic
+                               Guinea pig maximization
+Sensitization                                                   Non-sensitizing
+                               test
+Irritation/ Intracutaneous     Rabbit intracutaneous
+                                                                Non-irritating
+Reactivity                     reactivity test
+                               Rabbit pyrogen test –
+Pyrogenicity                                                    Non-pyrogenic
+                               materials mediated
+Acute systemic toxicity        Mouse systemic injection         Not inducing significantly
+                               test                             greater biological reactions
+                                                                than the control extracts
+                               In vitro hemolysis
+                                                                Non-hemolytic
+                               (indirect contact)
+                               In vitro hemolysis
+                                                                Non-hemolytic
+                               (direct contact)
+Hemocompatibility
+                               Partial thromboplastin time      No impact on the Unactivated
+                               test                             Partial Thromboplastin Time
+                               Platelet and leukocyte count     No impact on platelet and
+                               test                             leukocyte counts
+
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data                8 of 56
+       Biological Effect
+                                          Test Method                        Results
+       Per ISO 10993-1
+                                                                  No risk to activate
+                                  Complement activation test
+                                                                  complement
+                                                                  No clinically significant risk
+                                  In vivo thrombogenicity
+                                                                  of thrombosis or
+                                  with domestic pigs
+                                                                  thromboembolism
+
+Table 3. Summary of Edwards 23F Guide Sheath Biocompatibility Assessments.
+     Biological Effect
+                                     Test Method                            Results
+     Per ISO 10993-1
+Cytotoxicity                 Medium eluate method              Non-cytotoxic
+Sensitization                Guinea pig maximization test      Non-sensitizing
+Irritation/ Intracutaneous   Rabbit intracutaneous             Non-irritating
+Reactivity                   reactivity test
+Pyrogenicity                 Rabbit pyrogen test –             Non-pyrogenic
+                             materials mediated
+Acute systemic toxicity      Mouse systemic injection test     Not inducing significantly
+                                                               greater biological reactions than
+                                                               the control extracts
+Hemocompatibility            In vitro hemolysis                Non-hemolytic
+                             (indirect contact)
+                             In vitro hemolysis                Non-hemolytic
+                             (direct contact)
+                             Partial thromboplastin            No impact on the Unactivated
+                             time test                         Partial Thromboplastin Time
+                             Platelet and leukocyte            No impact on platelet and
+                             count test                        leukocyte counts
+                             Complement activation test        No risk to activate complement
+
+                             In vivo thrombogenicity with      No clinically significant risk of
+                             domestic pigs                     thrombosis or thromboembolism
+
+Table 4. Summary of Commander M Delivery System Biocompatibility Assessments.
+   Biological Effect
+                                     Test Method                            Results
+   Per ISO 10993-1
+Cytotoxicity                 Medium eluate method              Non-cytotoxic
+Sensitization                Guinea pig maximization test      Non-sensitizing
+Irritation/ Intracutaneous   Rabbit intracutaneous             Non-irritating
+Reactivity                   reactivity test
+
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data                  9 of 56
+    Biological Effect
+                                   Test Method                             Results
+   Per ISO 10993-1
+Pyrogenicity               Rabbit pyrogen test –              Non-pyrogenic
+                           materials mediated
+Acute systemic toxicity    Mouse systemic injection test      Not inducing significantly
+                                                              greater biological reactions than
+                                                              the control extracts
+Hemocompatibility          In vitro hemolysis                 Non-hemolytic
+                           (indirect contact)
+                           In vitro hemolysis                 Non-hemolytic
+                           (direct contact)
+                           Complement activation test         No risk to activate complement
+                           In vivo thrombogenicity with       No clinically significant risk of
+                           domestic pigs                      thrombosis or thromboembolism
+
+  2. Bench Testing
+
+  A summary of the bench testing results is summarized in Table 5.
+
+Table 5. Summary of SAPIEN M3 Transcatheter Mitral Valve Replacement System
+Bench Testing.
+           Test                        Purpose                             Results
+                          SAPIEN M3 Transcatheter Heart Valve
+Corrosion resistance        To evaluate the corrosion          Met prespecified corrosion
+                            resistance of the SAPIEN M3        resistance acceptance criteria.
+                            valve frame in accordance
+                            with ASTM F2129.
+Frame fatigue testing       To assess the fatigue              No fractures observed at
+                            resistance of the SAPIEN M3        minimum 10x magnification
+                            valve frames under cyclic          following 600 million cycles of
+                            loading for up to 600 million      fatigue testing.
+                            cycles.
+Crush resistance            To characterize the crush          Resisted permanent
+                            resistance of the SAPIEN M3        deformation and generated
+                            valve frame from opposing          acceptable crush resistance
+                            lateral force after reaching       forces.
+                            final diameter.
+Radial Strength             To characterize radial strength    Met prespecified minimum
+                            and stiffness of the SAPIEN        radial strength.
+                            M3 valve frame
+
+
+
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data                  10 of 56
+           Test                         Purpose                            Results
+Valve expansion and          To evaluate the relationship of   Demonstrated to have
+foreshortening               the SAPIEN M3 valve length        acceptable expansion
+                             and diameter during               dimensions.
+                             expansion.
+Migration testing            To assess the resistance of the   No migration or embolization
+                             SAPIEN M3 valve to
+                             migration that would
+                             compromise hemodynamic
+                             performance or result in
+                             embolization.
+Magnetic resistance          To evaluate MRI safety and        SAPIEN M3 valve can be
+imaging (MRI)                compatibility of the SAPIEN       labeled “MR Conditional.”
+compatibility                M3 valve and ensure that the
+                             SAPIEN M3 valve is not
+                             affected by scanning at 1.5
+                             Tesla and 3.0 Tesla field
+                             strengths.
+Hydrodynamic assessment      To determine the                Met prespecified minimum
+                             hydrodynamic performance of hydrodynamic performances.
+                             the SAPIEN M3 valve in
+                             terms of effective orifice area
+                             and regurgitation under mitral
+                             cardiac conditions.
+Flow visualization           To qualitatively investigate      Exhibited similar flow as the
+                             flow characteristics of the       reference valve.
+                             SAPIEN M3 valve under
+                             mitral conditions.
+Particle image velocimetry   To assess quantitatively the      Exhibited similar flow
+                             flow fields and hemolytic         characteristics to the
+                             potential downstream of the       commercial reference valve.
+                             SAPIEN M3 valve.
+Bernoulli relationship       To verify whether the             Exhibited similar pressure drop
+                             Bernoulli relationship applies    and Bernoulli coefficient values
+                             to clinical pressure drop         to the commercial reference
+                             measurements.                     valve.
+Accelerated wear testing     To assess SAPIEN M3 valve         Met minimum prespecified
+                             durability to 200 million         hydrodynamic performance
+                             cycles.                           specifications and no abnormal
+                                                               wear patterns observed.
+
+
+
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data                 11 of 56
+          Test                         Purpose                            Results
+Dynamic failure mode        To characterize potential         Demonstrated a gradual
+testing                     failure modes affecting the       degradation failure mode
+                            durability of the SAPIEN M3       consistent with the commercial
+                            valve.                            reference valve.
+Finite element analysis     To determine mechanical           No fracture of SAPIEN M3
+                            strain during SAPIEN M3           valve structural components
+                            valve loading, deployment         predicted within a minimum of
+                            and cyclic loading. Results       600 million cycles under
+                            used to assess the fatigue life   clinically representative
+                            of the device.                    challenging conditions.
+
+                                    SAPIEN M3 Dock
+Magnetic resistance         To evaluate MRI safety and        SAPIEN M3 dock can be
+imaging (MRI)               compatibility of the SAPIEN       labeled “MR Conditional.”
+compatibility               M3 dock and ensure that the
+                            SAPIEN M3 dock is not
+                            affected by scanning at 1.5
+                            Tesla and 3.0 Tesla field
+                            strengths
+Corrosion resistance        To evaluate the corrosion         Met prespecified corrosion
+                            resistance of the SAPIEN M3       resistance acceptance criteria.
+                            dock in accordance with
+                            ASTM F2129.
+Dock fatigue testing        To assess the fatigue             No fractures observed at
+                            resistance of the SAPIEN M3       minimum 10x magnification
+                            dock under cyclic loading for     following 600 million cycles of
+                            up to 600-million cycles.         fatigue testing.
+Finite element analysis     To determine mechanical           No fracture of SAPIEN M3
+                            strain during dock loading,       dock structural components
+                            deployment and cyclic             predicted within a minimum of
+                            loading. Results used to          600 million cycles under
+                            assess the fatigue life of the    clinically representative
+                            device.                           challenging conditions.
+                          SAPIEN M3 Dock Steerable Catheter
+Dimensional inspections     To verify system level            Met design requirements and
+                            dimensions to ensure product      acceptance criteria.
+                            meets specifications.
+Radiopacity                 To verify that the SAPIEN         Visible under fluoroscopy.
+                            M3 dock steerable catheter
+                            tip, marker bands and pull
+                            rings are visible under
+                            fluoroscopy.
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data                 12 of 56
+            Test                         Purpose                           Results
+Tensile verification         To verify that tensile strength   Met design requirements and
+                             of bonds meets pre-defined        acceptance criteria.
+                             specifications
+Visual inspection            To verify that the external       Met design requirements and
+                             surface of catheter working       acceptance criteria.
+                             length is free from defects.
+Hemostasis                   To verify that the steerable      Met design requirements and
+                             catheter maintains hemostasis     acceptance criteria.
+                             while inside the guide sheath.
+Hydrophilic coating          To evaluate and characterize      Lubricity and particulate sizes
+characterization             the lubricity and integrity of    and counts within established
+                             the hydrophilic coating after     limits.
+                             simulated use.
+Simulated use                To simulate the use of the        Met design requirements and
+                             SAPIEN M3 dock steerable          acceptance criteria.
+                             catheter with the SAPIEN M3
+                             dock in a clinical setting,
+                             including flushing, tracking,
+                             kink resistance, and SAPIEN
+                             M3 dock deployment and
+                             retrieval.
+                                Edwards 23F Guide Sheath
+Dimensional inspections      To verify system level            Met design requirements and
+                             dimensions to ensure product      acceptance criteria.
+                             meets specifications.
+Radiopacity                  To verify that the tip of the     Visible under fluoroscopy.
+                             guide sheath is visible under
+                             fluoroscopy.
+Tensile verification         To verify that tensile strength   Met design requirements and
+                             of bonds meets pre-defined        acceptance criteria.
+                             specifications
+Visual inspection            To verify that the external       Met design requirements and
+                             surface of the guide sheath       acceptance criteria.
+                             working length is free from
+                             defects.
+Hemostasis                   To verify that hemostasis is      Met design requirements and
+                             maintained with a guidewire       acceptance criteria.
+                             and other devices inside the
+                             guide sheath and without any
+                             devices present.
+
+
+
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data               13 of 56
+            Test                         Purpose                           Results
+Hydrophilic coating          To evaluate and characterize      Lubricity and particulate sizes
+characterization             the lubricity and integrity of    and counts within established
+                             the hydrophilic coating after     limits.
+                             simulated use.
+Simulated use                To simulate the use of the        Met design requirements and
+                             guide sheath with the             acceptance criteria.
+                             SAPIEN M3 transcatheter
+                             mitral valve replacement
+                             system in a clinical procedure,
+                             including flushing, tracking,
+                             kink resistance, and insertion
+                             and removal forces.
+                             Commander M Delivery System
+Dimensional inspections      To verify system level       Met design requirements and
+                             dimensions to ensure product acceptance criteria.
+                             meets specifications.
+Radiopacity                  To verify that flex tip, marker   Visible under fluoroscopy.
+                             bands, and balloon shaft are
+                             visible under fluoroscopy.
+Balloon performance          Verification that the             Met design requirements and
+                             Commander M delivery              acceptance criteria.
+                             system balloon functions as
+                             intended when subjected to
+                             the following testing:
+                             inflation/deflation, inflation
+                             pressure, burst pressure,
+                             balloon fatigue, deployed
+                             balloon dimensional
+                             inspection
+Tensile verification         To verify that tensile strength   Met design requirements and
+                             of bonds meets pre-defined        acceptance criteria.
+                             specifications
+Visual inspection            To verify that the external       Met design requirements and
+                             surface of catheter working       acceptance criteria.
+                             length is free from defects.
+Hemostasis                   To verify that the Commander      Met design requirements and
+                             M delivery system maintains       acceptance criteria.
+                             hemostasis while inside the
+                             guide sheath and with the
+                             loader.
+
+
+
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data               14 of 56
+           Test                          Purpose                          Results
+Simulated use                To simulate the use of the       Met design requirements and
+                             Commander M delivery             acceptance criteria.
+                             system with the SAPIEN M3
+                             transcatheter mitral valve
+                             replacement system in a
+                             clinical setting, including
+                             flushing, tracking, kink
+                             resistance, and SAPIEN M3
+                             valve deployment.
+                                  SAPIEN M3 Crimper
+Dimensional inspections      To verify system level           Met design requirements and
+                             dimensions to ensure product     acceptance criteria.
+                             meets specifications.
+Visual inspection            To verify that the external      Met design requirements and
+                             surface of the SAPIEN M3         acceptance criteria.
+                             crimper is free from defects.
+Simulated use                To verify the ability of the     Met design requirements and
+                             SAPIEN M3 crimper to             acceptance criteria.
+                             reliably crimp the SAPIEN
+                             M3 valve onto the
+                             Commander M delivery
+                             system.
+
+  3. Sterilization
+
+  The SAPIEN M3 valve is sterilized via terminal liquid sterilization (TLS) in accordance with
+  ISO 14160:2020, Sterilization of health care products -- Liquid chemical sterilizing agents
+  for single-use medical devices utilizing animal tissues and their derivatives. The validated
+  TLS sterilization process demonstrated a minimum Sterility Assurance Level (SAL) of 10-6.
+
+  The SAPIEN M3 dock steerable catheter, Edwards 23F guide sheath, Commander M
+  delivery system, and SAPIEN M3 crimper are sterilized via ethylene oxide (EO) in
+  accordance with EN ISO 11135-1:2014+A1:2018, Sterilization of health care products –
+  Ethylene oxide – Requirements for development, validation and routine control of a
+  sterilization process for medical devices. The validated EO sterilization process demonstrated
+  a minimum Sterility assurance level of 10-6.
+
+  4. Packaging and Shelf-Life
+
+  The SAPIEN M3 valve is stored in a jar filled with a sterile glutaraldehyde solution, which is
+  sealed with an integrated gasket lid to form the primary sterile barrier. The jar is contained
+  within the inner packaging assembly and inserted into a shelf carton to complete the
+  protective packaging system for the SAPIEN M3 valve.
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data               15 of 56
+  The SAPIEN M3 dock steerable catheter and Edwards 23F guide sheath are secured to a
+  Polyethylene Terephthalate Glycol (PETG) tray with a retainer. The PETG tray is inserted
+  into a Tyvek pouch, which is sealed and inserted into a shelf carton and then a shipping box.
+
+  The Commander M delivery system is secured to a high-density polyethylene (HDPE) card
+  with preformed protective connectors and tubes. The HDPE card is inserted into a Tyvek
+  pouch, which is sealed and inserted into a shelf carton and then a shipping box.
+
+  The SAPIEN M3 crimper is secured to a PETG tray with an HDPE retainer. The PETG tray
+  is sealed with a Tyvek lid and inserted into a shelf carton and then a shipping box.
+
+  The packaging validation for the sterile components of the SAPIEN M3 system was
+  conducted per EN ISO 11607-1:2020, Packaging for terminally sterilized medical devices –
+  Part 1: Requirements for materials, sterile barrier systems and packaging systems, and EN
+  ISO 11607-2:2020, Packaging for terminally sterilized medical devices – Part 2: Validation
+  requirements for forming, sealing and assembly processes. The packaging validation
+  demonstrated that the packaging system was able to maintain a sterile barrier after exposure
+  to temperature, distribution conditioning, and aging.
+
+  The shelf life for the SAPIEN M3 valve is 3 years, as demonstrated by packaging integrity
+  and product functional testing on aged samples.
+
+  The shelf life for all remaining sterile components of the SAPIEN M3 system (SAPIEN M3
+  dock, SAPIEN M3 dock steerable catheter, Commander M delivery system, and SAPIEN M3
+  crimper) and the Edwards 23F guide sheath is 2 years, as demonstrated by packaging
+  integrity and product functional testing on aged samples.
+
+  B. Animal Studies
+
+  The SAPIEN M3 system underwent Good Laboratory Practice-compliant preclinical in vivo
+  evaluations in an ovine model (chronic study) and porcine model (acute study), as
+  summarized in Table 6.
+
+Table 6. Summary of SAPIEN M3 Transcatheter Mitral Valve Replacement
+System Animal Studies.
+                             Chronic 140-day (20 week) Study
+Sample size /                   12 adult sheep
+animal model
+Test articles                   12 SAPIEN M3 valves, 12 SAPIEN M3 docks.
+Technique                       The study animals were implanted with the SAPIEN M3
+                                dock and valve in the mitral position via transfemoral,
+                                transseptal approach through the Edwards 23F guide sheath
+                                utilizing the SAPIEN M3 dock steerable catheter and
+                                Commander M delivery system.
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data               16 of 56
+Objective                       To evaluate the chronic in vivo safety of the valve with
+                                respect to the following items:
+                                    − adverse clinical events
+                                    − device performance
+                                    − systemic toxicity
+Results                         Ten (10) of the twelve (12) study animals survived to their
+                                140 day endpoint and passed all protocol requirements.
+                                One animal died on Day 68 during anesthetic recovery from
+                                the scheduled echography assessment.
+                                One animal was electively sacrificed on Day 71 for ethical
+                                reasons concerning severe dyspnea and non-response to
+                                diuretic treatment.
+Conclusion                      All the implants showed appropriate healing, no structural
+                                damage or deterioration, or any evidence of device
+                                embolization, migration or any other clinically significant
+                                device-related events under gross and histopathological
+                                assessment.
+                                        Acute Study
+Sample size /                   3 adult pigs
+animal model
+Test articles                   3 Edwards 23F guide sheaths, 3 SAPIEN M3 dock steerable
+                                catheters, 3 Commander M delivery systems.
+Technique                       The SAPIEN M3 dock steerable catheter was advanced
+                                through the Edwards 23F guide sheath using a transseptal
+                                approach and the SAPIEN M3 dock was implanted. The
+                                SAPIEN M3 dock steerable catheter was removed and the
+                                Commander M delivery system was advanced to the implant
+                                site, inflated and deflated, then removed through the Edwards
+                                23F guide sheath, according to the Instructions for Use.
+Objective                       To evaluate the acute in vivo safety of the SAPIEN M3
+                                transcatheter mitral valve replacement system with respect to
+                                hemocompatibility (thrombogenicity).
+Results                         Activated clotting time (ACT) levels were maintained
+                                between 250 and 400 seconds throughout the procedures. No
+                                clinically significant thrombus or clinically significant
+                                thromboembolism was observed in the test articles as
+                                compared to the control articles following a clinically
+                                relevant dwell time.
+Conclusion                      There were no clinically significant signs of thrombus caused
+                                by the Edwards 23F guide sheath, SAPIEN M3 dock
+                                steerable catheter, or Commander M delivery system.
+
+
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data              17 of 56
+X.   SUMMARY OF PRIMARY CLINICAL STUDY
+
+     The applicant performed a clinical study to establish a reasonable assurance of safety and
+     effectiveness of transcatheter mitral valve replacement (TMVR) with the SAPIEN M3
+     system in patients with symptomatic moderate-to-severe or severe MR and those with mitral
+     valve dysfunction due to severe MAC who are deemed unsuitable for surgery or TEER
+     therapy under IDE G170152 (entitled the “ENCIRCLE” study). The ENCIRCLE study
+     included three cohorts, namely, Main Cohort, MAC Registry, and Failed TEER Registry.
+     Data from the Main Cohort and MAC Registry were the basis for the PMA approval
+     decision. A summary of the Main Cohort and MAC Registry clinical study is presented
+     below.
+
+     The ENCIRCLE study utilized: an independent Case Review Board, which reviewed cases
+     submitted by the investigational sites to determine if the patients being considered were
+     appropriate candidates for the study; an Echocardiography Core Laboratory, which reviewed
+     echocardiography images acquired at baseline and follow-up visits; a Computed Tomography
+     (CT) Core Laboratory, which reviewed CT images acquired at baseline; an independent Data
+     Safety Monitoring Board (DSMB), which was instructed to notify the applicant of any safety
+     or compliance issues; and a Clinical Events Committee (CEC), which was responsible for
+     adjudicating endpoint-related events reported during the study.
+
+     X.1. Summary of the Main Cohort
+
+     A. Study Design
+
+     The ENCIRCLE study Main Cohort was a prospective, single-arm, multicenter study.
+     Patients in the Main Cohort were enrolled between June 9, 2020, and October 10, 2023. The
+     database for this PMA application reflected data collected through February 3, 2025, and
+     included 299 patients treated at 56 investigational sites in the US, Australia, Canada, Israel,
+     Netherlands, and the United Kingdom.
+
+     1. Clinical Inclusion and Exclusion Criteria
+
+        Enrollment in the ENCIRCLE study Main Cohort was limited to patients who met the
+        following inclusion criteria:
+
+        − 18 years of age or older
+        − MR ≥3+ as assessed by the Echocardiography Core Laboratory
+        − New York Heart Association (NYHA) functional class ≥ II
+        − Per the Heart Team, commercially available surgical or transcatheter treatment
+          options are deemed unsuitable due to clinical, anatomic, or technical considerations.
+        − Patient’s heart failure management has been optimized based on patient
+          characteristics and applicable guidelines, and stable for at least 30 days prior to
+          enrollment.
+          Note: Patients who require significant changes to heart failure medication after
+          enrollment but prior to the procedure must re-stabilize for 30 days to be eligible.
+
+
+                 PMA P250019: FDA Summary of Safety and Effectiveness Data                   18 of 56
+− The patient or patient’s legal representative has been informed of the nature of the
+  study, agrees to its provisions, and has provided written informed consent.
+
+Patients were not permitted to enroll in the ENCIRCLE study Main Cohort if they met
+any of the following exclusion criteria:
+
+− Mitral/cardiac anatomy that would preclude appropriate delivery and deployment of
+  the dock or valve, including but not limited to:
+  o Annular dimensions that could potentially increase the risk of paravalvular leak
+      (as assessed by the CT Core Laboratory)
+  o Commissural jet or lateral commissural flail/prolapse that could potentially
+      increase the risk of paravalvular leak
+  o Medial commissural flail or prolapse
+  o Calcification that would interfere with the SAPIEN M3 transcatheter mitral valve
+      replacement system during delivery or after implantation; if potential for
+      interference is uncertain, see MAC Registry
+  o Interatrial septum or left atrium not suitable for transcatheter trans-septal access
+  o Left ventricular end diastolic diameter (LVEDD) ≥75 mm as assessed by the
+      Echocardiography Core Laboratory
+  o Sub-valvular anatomy that is unsuitable for dock encircling as assessed by the CT
+      Core Laboratory
+  o Significant risk of left ventricular outflow tract (LVOT) obstruction as assessed by
+      the CT core laboratory
+− Inappropriate anatomy for femoral introduction and delivery of the SAPIEN M3 dock
+  and valve
+− Presence of any device that will contact or interfere with the SAPIEN M3
+  transcatheter mitral valve replacement system during delivery or after implantation
+− Left ventricular ejection fraction (LVEF) <25% as assessed by the Echocardiography
+  Core Laboratory
+− Severe right ventricular dysfunction as assessed by the Echocardiography Core
+  Laboratory
+− Need for aortic, tricuspid, or pulmonic valve intervention within the next 12 months
+− History of heart transplant
+− Cardiac imaging evidence of intracardiac mass, thrombus, or vegetation
+− Active bacterial endocarditis within 180 days of the procedure
+− Hemodynamic instability requiring inotropic or mechanical support within 30 days of
+  the procedure.
+− Myocardial infarction (MI) within 30 days of the procedure
+− Clinically significant untreated coronary artery disease (CAD) requiring
+  revascularization
+− Any percutaneous cardiovascular intervention, cardiovascular surgery, or carotid
+  surgery within 30 days of the procedure.
+− Stroke or transient ischemic attack within 90 days of the procedure
+− Irreversible, severe pulmonary hypertension (e.g., pulmonary artery systolic pressure
+  ≥2/3 systemic pressure)
+
+
+        PMA P250019: FDA Summary of Safety and Effectiveness Data                19 of 56
+   − Chronic obstructive pulmonary disease (COPD) requiring home oxygen therapy or
+     chronic outpatient oral steroid use
+   − Renal insufficiency (estimated glomerular filtration rate [eGFR] <30 mL/min/1.73
+     m2) or receiving renal replacement therapy
+   − Liver disease (cirrhosis of the liver [Child-Pugh class B or C])
+   − Planned surgery within the next 12 months
+   − Inability to tolerate or a medical condition precluding treatment with antithrombotic
+     (antiplatelet, anticoagulant) therapy, including heparin administration during the
+     procedure
+   − Active infection requiring current antibiotic therapy (if temporary illness, patient may
+     be a candidate 2 weeks after discontinuation of antibiotics)
+   − Active SARS-CoV-2 infection (Coronavirus-19 [COVID-19]) or previously
+     diagnosed with COVID-19 with sequelae that could confound endpoint assessments
+     (as assessed by the Case Review Board)
+   − Leukopenia (White Blood Cells (WBC) <3000 cells/µL), anemia (Hemoglobin (Hgb)
+     <9 g/dL), thrombocytopenia (platelet <50,000 cells/µL), history of bleeding diathesis
+     or coagulopathy, or hypercoagulable states
+   − Refusal of blood products
+   − Female who is pregnant or lactating
+   − Estimated life expectancy <12 months due to non-cardiac conditions
+   − Participating in another investigational drug or device study that has not reached its
+     primary endpoint
+   − Patient considered to be part of a vulnerable population
+
+2. Follow-up Schedule
+
+   Follow-up time points included discharge, 30 days, 6 months, and annually through 5-
+   years post-procedure. Preoperative and post-operative assessments included physical
+   assessment, laboratory measurements, imaging tests, as well as health status and quality
+   of life (QoL) questionnaires. Adverse events and complications were recorded at all
+   visits.
+
+3. Clinical Endpoints
+
+   Primary Endpoint
+
+   The primary endpoint was a non-hierarchical composite of all-cause death and heart
+   failure rehospitalization at 1year. Heart failure rehospitalization was defined as
+   hospitalization for symptoms, signs and/or laboratory evidence of worsening heart
+   failure; and administration of intravenous or mechanical heart failure therapies.
+
+   The null (H0) and alternative (H1) hypotheses for the primary endpoint was as follows:
+
+                                     𝐻𝐻0 : 𝜋𝜋 ≥ 45%
+                                     𝐻𝐻𝐴𝐴 : 𝜋𝜋 < 45%
+
+
+           PMA P250019: FDA Summary of Safety and Effectiveness Data                 20 of 56
+      where π is the true event rate at 1 year and 45% was a performance goal. The Kaplan-
+      Meier analysis was used to estimate the event rate, the 95% confidence interval was
+      computed using Greenwood’s formula, and the p-value was calculated using the Wald
+      Test with Greenwood’s formula. An initial sample size of 250 patients was estimated to
+      provide at least 85% power to reject the null hypothesis at a one-sided significance level
+      of 2.5%. The study incorporated a pre-planned interim analysis for sample size re-
+      estimation, with the potential to increase the sample size to a maximum of 600 patients.
+      During the interim analysis the enrollment was allowed to continue.
+
+      Secondary Endpoints
+
+      Once the primary endpoint was met, testing for statistical significance was performed on
+      4 pre-specified non-hierarchical hypothesis-driven secondary endpoints at 1 year
+      compared to baseline, as listed in Table 7. To keep the overall type I error of 0.05, the
+      Hochberg method was applied for multiplicity adjustment.
+
+Table 7. List of Hypothesis-Driven Secondary Endpoints.
+                                             Null and Alternative
+No.           Secondary Endpoint                                         Statistical Test*
+                                                   Hypotheses
+      Improvement in MR severity at 1 year         H0: p = 0.5
+ 1                                                                          Sign test
+      over baseline                                H1: p > 0.5
+      Improvement in NYHA class at 1 year          H0: p = 0.5
+ 2                                                                          Sign test
+      over baseline                                H1: p > 0.5
+      Improvement in KCCQ summary score            H0: 𝜇𝜇𝐷𝐷 ≤ 0
+ 3                                                                         Paired t-test
+      at 1 year over baseline                      H1: 𝜇𝜇𝐷𝐷 > 0
+      Improvement in LVEDVi at 1 year              H0: 𝜇𝜇𝐷𝐷 ≥ 0
+ 4                                                                         Paired t-test
+      over baseline                                H1: 𝜇𝜇𝐷𝐷 < 0
+MR: mitral regurgitation; NYHA: New York Heart Association; KCCQ: Kansas City
+Cardiomyopathy Questionnaire; LVEDVi: left ventricular end-diastolic volume index; H0: null
+hypothesis; H1: alternative hypothesis
+*The Hochberg method was applied for multiplicity adjustment to keep the overall type I error
+
+of 0.05.
+
+      Descriptive Endpoints
+
+      Key descriptive endpoints included the following:
+
+         −   KCCQ overall summary score
+         −   EuroQol 5-Dimension 5-Level (EQ-5D-5L) Questionnaire visual analog score
+         −   NYHA functional class
+         −   6-minute walk test distance (6MWT) distance
+         −   Proportion of patients with MR ≤1+
+
+
+
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data                  21 of 56
+  B. Patient Accountability
+
+  At the time of database lock, a total of 299 patients out of 1171 patients enrolled for
+  screening had the procedure started (All-Treated [AT] Population) in the Main Cohort and
+  287 patients had the study valve implanted (Valve Implant [VI] Population). The most
+  common reason for screening failure was mitral/cardiac anatomy that precluded appropriate
+  delivery and deployment of the dock or valve. Patient accountability through 1 year is
+  summarized in Figure 7.
+
+
+
+
+Figure 7. Patient Accountability Through 1 Year – Main Cohort.
+
+  C. Study Population Demographics and Baseline Characteristics
+
+  The demographics and baseline characteristics of the study population for the Main Cohort
+  are presented in Table 8, which are typical for a TMVR device study performed in the U.S.
+
+Table 8. Patient Demographics and Baseline Characteristics - Main Cohort
+(AT Population).
+                                                                       Summary
+            Demographics and Baseline Characteristics                  Statistics*
+Age - years                                                              75.5 ± 9.35 (299)
+
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data              22 of 56
+                                                                            Summary
+               Demographics and Baseline Characteristics                    Statistics*
+Sex
+   Male                                                                 50.8% (152/299)
+   Female                                                               49.2% (147/299)
+Hispanic or Latino Ethnicity                                             3.7% (11/299)
+Race
+   American Indian or Alaska Native                                      1.0% (3/299)
+   Asian                                                                 2.3% (7/299)
+   Black or African American                                             9.0% (27/299)
+   Native Hawaiian or Other Pacific Islander                             0.3% (1/299)
+   White                                                                75.9% (227/299)
+   Other                                                                 3.0% (9/299)
+   Unknown                                                               8.4% (25/299)
+Society of Thoracic Surgeons (STS) score for mitral valve replacement   6.6 ± 4.09 (299)
+Society of Thoracic Surgeons (STS) score for mitral valve repair        5.0 ± 4.14 (299)
+New York Heart Association (NYHA) class
+   I                                                                     0.0% (0/299)
+   II                                                                   28.8% (86/299)
+   III                                                                  67.9% (203/299)
+   IV                                                                    3.3% (10/299)
+Chronic kidney disease                                                  41.1% (123/299)
+Previous myocardial infarction                                          30.1% (90/299)
+Prior aortic valve intervention                                         15.7% (47/299)
+Prior mitral valve intervention                                          8.7% (26/298)
+Aortic valve disease                                                    41.1% (123/299)
+Pulmonic valve disease                                                  15.7% (47/299)
+Tricuspid valve disease                                                 63.2% (189/299)
+Rheumatic heart disease                                                  4.3% (13/299)
+Prior coronary artery bypass grafting (CABG)                            30.4% (91/299)
+Prior percutaneous coronary intervention (PCI)                          35.5% (106/299)
+Prior stroke                                                            11.7% (35/299)
+Peripheral vascular disease (PVD)                                       15.1% (45/299)
+Atrial fibrillation                                                     69.9% (209/299)
+Permanent pacemaker or defibrillator                                    35.8% (107/299)
+
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data           23 of 56
+                                                                               Summary
+             Demographics and Baseline Characteristics                         Statistics*
+Cardiac ablation                                                            15.5% (46/297)
+Echocardiographic findings (core laboratory transthoracic echocardiogram)
+  Mitral valve mean gradient (mmHg)                                         3.4 ± 1.97 (284)
+  Left ventricular ejection fraction (LVEF) (%)                            48.4 ± 11.96 (299)
+  Left ventricular end diastolic diameter (cm)                              5.5 ± 0.76 (298)
+  Left ventricular end diastolic volume (mL)                              143.7 ± 53.48 (294)
+  Left ventricular end systolic volume (mL)                                76.5 ± 40.33 (294)
+   Mitral regurgitation etiology
+       Primary (degenerative)                                               35.4% (105/297)
+       Secondary (functional ventricular)                                   53.9% (160/297)
+       Secondary (functional atrial)                                         4.4% (13/297)
+       Mixed (functional and degenerative)                                   6.4% (19/297)
+                                         †
+   Total mitral regurgitation (MR) degree
+       ≤2+                                                                   0.0% (0/299)
+       3+                                                                   52.2% (156/299)
+       4+                                                                   47.8% (143/299)
+ Presence of mitral annular calcification (MAC)                             24.4% (73/299)
+*Continuous measures - mean ± SD (n); categorical measures - % (no./total no.).
+†
+  Baseline MR is based on the worse case between transesophageal echocardiogram and
+transthoracic echocardiogram.
+
+
+  D. Safety and Effectiveness Results
+
+  1. Primary Endpoint
+
+  The primary endpoint results are presented in Table 9 and Figure 8. The composite rate of all-
+  cause death and heart failure rehospitalization at 1 year was 25.2%, with a one-sided 97.5%
+  upper confidence bound of 30.6%, which is less than the performance goal of 45%
+  (p<0.001). Therefore, the primary endpoint was met.
+
+
+
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data                24 of 56
+Table 9. Primary Endpoint Analysis - Main Cohort (AT Population).
+
+                                                                                    Primary
+                                                      Performance
+       Event           Event Rate*      95% CI†                        P-value‡     Endpoint
+                                                          Goal
+                                                                                     Status
+All-cause death or
+heart failure                                                                       Endpoint
+                       25.2% (73)    [20.6%, 30.6%]        45%          <0.001
+rehospitalization at                                                                  met
+1 year
+   All-cause death     13.9% (40)    [10.4%, 18.5%]         -              -             -
+   Heart failure
+   rehospitalization   16.7% (47)    [12.8%, 21.6%]         -              -             -
+
+CI: confidence interval.
+*
+  Kaplan-Meier estimate % (no. of patients with the event).
+†
+  CI was calculated based on a one-sided significance level of 0.025 using Greenwood’s formula.
+‡
+  The p-value was calculated using the Wald Test with Greenwood’s formula.
+
+
+
+
+Figure 8. Kaplan-Meier Curve for All-Cause Death or Heart Failure Rehospitalization
+Through 1 Year – Main Cohort (AT Population).
+
+      The times to first event for each of the primary endpoint components are shown in Figure
+      9 and Figure 10.
+
+
+
+
+               PMA P250019: FDA Summary of Safety and Effectiveness Data              25 of 56
+Figure 9. All-Cause Death Through 1 Year – Main Cohort (AT Population).
+
+
+
+
+Figure 10. Heart Failure Rehospitalization Through 1 Year – Main Cohort (AT
+Population).
+
+
+
+
+            PMA P250019: FDA Summary of Safety and Effectiveness Data         26 of 56
+     2. Secondary Endpoints
+
+     Since the primary endpoint was met, paired analyses from baseline for the four prespecified
+     non-hierarchical hypothesis-driven secondary endpoints were tested for statistical
+     significance. All four secondary endpoints were met, as presented in Table 10.
+
+Table 10. Results of Secondary Endpoints - Main Cohort (VI Population).
+No.                   Endpoint                  Summary Statistics* P-value         Test Result
+       Improvement in MR severity at 1 year
+ 1                                                100.0% (232/232)      <0.001†        Pass
+       over baseline
+       Improvement in NYHA class at 1 year
+ 2                                                 73.4% (171/233)      <0.001†        Pass
+       over baseline
+       Improvement in KCCQ summary score
+ 3                                                18.4 ± 1.68 (229)     <0.001‡        Pass
+       at 1 year over baseline
+       Improvement in LVEDVi at 1 year over
+ 4                                                 -4.7 ± 1.39 (208)    <0.001‡        Pass
+       baseline (mL/m2)
+MR: mitral regurgitation; NYHA: New York Heart Association; KCCQ: Kansas City
+Cardiomyopathy Questionnaire; LVEDVi: left ventricular end-diastolic volume index.
+*
+  Categorical measures - % (no. / total no.); continuous measures - mean ± SE (n).
+†
+  P-value was from sign test.
+‡
+  P-value was from paired t-test.
+The Hochberg procedure was used for multiplicity adjustment to control family-wise type I
+error.
+
+
+     3. Descriptive Endpoints
+
+     KCCQ
+
+     The KCCQ overall summary scores by visit are presented in Figure 11. The mean score
+     increased from 57.0 at baseline to 75.0 at 1 year post-procedure.
+
+
+
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data                27 of 56
+Figure 11. KCCQ Overall Summary Score by Visit – Main Cohort (VI Population). The
+error bars represent standard deviations.
+
+  EQ-5D-5L
+
+  The results for the EQ-5D-5L visual analog score (VAS) are presented in Figure 12. The
+  mean score was 64.8 at baseline and 73.5 at 1 year post-procedure.
+
+
+
+
+Figure 12. EQ-5D-5L Visual Analog Score by Visit – Main Cohort (VI Population). The
+error bars represent standard deviations.
+
+
+             PMA P250019: FDA Summary of Safety and Effectiveness Data               28 of 56
+  NYHA Functional Class
+
+  The NYHA classifications by visit are presented in Figure 13. At 1 year post-procedure,
+  87.9% of patients were in NYHA class I/II compared to 28.6% at baseline.
+
+
+
+
+Figure 13. NYHA Functional Class by Visit – Main Cohort (VI Population).
+
+
+  6MWT Distance
+
+  The results for the 6MWT distance are presented in Figure 14. The mean walk distance
+  increased from 239.6 meters at baseline to 259.4 meters at 1 year post-procedure.
+
+
+
+
+             PMA P250019: FDA Summary of Safety and Effectiveness Data                29 of 56
+Figure 14. 6MWT Distance by Visit – Main Cohort (VI Population). The error bars
+represent standard deviations.
+
+  MR Severity
+
+  MR severity by visit is shown in Figure 15. MR reduction to ≤1+ was achieved in 95.7% of
+  patients at 1 year.
+
+
+
+
+Figure 15. MR Severity by Visit – Main Cohort (VI Population). The worst case between
+transesophageal echocardiogram and transthoracic echocardiogram results was used as the
+baseline and transthoracic echocardiogram results were used for all other visits.
+
+             PMA P250019: FDA Summary of Safety and Effectiveness Data              30 of 56
+  4. Adverse Events
+
+  The Kaplan-Meier estimates of CEC-adjudicated serious adverse events and other adverse
+  events of clinical interest through 1 year are presented in Table 11.
+
+Table 11. CEC-Adjudicated Adverse Events Through 1 Year - Main Cohort (AT
+Population).
+                                                     Kaplan-Meier Estimate*
+                Event
+                                             30 Days        6 Months        1 Year
+All-cause death                            0.7% (2, 2)    8.7% (25, 25) 13.9% (40, 40)
+    Cardiovascular                         0.7% (2, 2)    6.3% (18, 18)  8.9% (25, 25)
+    Non-cardiovascular                     0.0% (0, 0)     2.5% (7, 7)   5.6% (15, 15)
+Heart failure rehospitalization           4.0% (13, 12) 12.2% (43, 35) 16.7% (63, 47)
+All stroke                                 2.7% (8, 8)    6.3% (18, 18)  9.3% (29, 26)
+    Disabling                              1.7% (5, 5)     2.4% (7, 7)   3.9% (13, 11)
+    Non-disabling                          1.0% (3, 3)    3.9% (11, 11)  5.5% (16, 15)
+Acute kidney injury Stage 2                0.7% (2, 2)         ---            ---
+Acute kidney injury Stage 3                2.3% (7, 7)         ---            ---
+New-onset atrial fibrillation              7.9% (7, 7)   11.5% (10, 10) 11.5% (10, 10)
+New permanent pacemaker implantation       2.6% (5, 5)     4.9% (9, 9)   5.5% (10, 10)
+Life-threatening bleeding                 3.7% (11, 11)   3.7% (11, 11)  6.8% (19, 19)
+Fatal bleeding                             0.0% (0, 0)     0.8% (2, 2)    1.1% (3, 3)
+Hemolysis†                                 3.0% (9, 9)    3.7% (11, 11)  3.7% (11, 11)
+Hemolytic anemia‡                         4.3% (13, 13)   7.1% (21, 21)  7.1% (21, 21)
+Valve thrombosis§                         4.4% (13, 13)   9.3% (27, 27) 12.9% (36, 36)
+    Clinically significant leaflet
+                                           2.3% (7, 7)     5.5% (16, 16)    6.7% (19, 19)
+    thrombosis
+Dock fracture                              0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+Dock migration                             0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+Valve embolization                         0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+Valve fracture                             0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+Valve migration                            0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+Clinically significant TMVR-related
+                                           0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+LVOT obstruction
+Mitral valve reinterventionǁ               2.3% (8, 7)     4.5% (14, 13)    6.4% (19, 18)
+    Balloon mitral valvuloplasty           0.0% (0, 0)      0.0% (0, 0)      0.4% (1, 1)
+    Percutaneous paravalvular leak
+                                           1.3% (5, 4)      3.1% (10, 9)    3.5% (11, 10)
+    closure
+    Surgical mitral valve replacement      0.7% (2, 2)      0.7% (2, 2)      1.5% (4, 4)
+    Valve in valve                         0.0% (0, 0)      0.4% (1, 1)      1.2% (3, 3)
+
+
+             PMA P250019: FDA Summary of Safety and Effectiveness Data             31 of 56
+                                                         Kaplan-Meier Estimate*
+                  Event
+                                                30 Days         6 Months        1 Year
+   Other                                       0.3% (1, 1)     0.3% (1, 1)    0.3% (1, 1)
+Myocardial infarction                          0.7% (2, 2)     1.8% (5, 5)    1.8% (5, 5)
+Transient ischemic attack (TIA)                0.7% (2, 2)     1.0% (3, 3)    2.2% (6, 6)
+Study device related endocarditis              0.0% (0, 0)     0.7% (2, 2)    1.1% (3, 3)
+Major vascular complication                    0.7% (2, 2)     0.7% (2, 2)    0.7% (2, 2)
+Major access site complication                 2.3% (7, 7)    4.1% (12, 12)  4.9% (14, 14)
+   Atrial septal defect                        2.3% (7, 7)    4.1% (12, 12)  4.9% (14, 14)
+Major cardiac structure complication           2.3% (7, 7)       2.7% (8, 8)      2.7% (8, 8)
+TMVR: transcatheter mitral valve replacement; LVOT: left ventricular outflow obstruction.
+*
+  Kaplan-Meier estimate – % (no. events, no. of patients with the event).
+†
+  Hemolysis: the presence of a paravalvular leak on echocardiogram plus acute decrease in
+haptoglobin levels and/or increase in serum lactate dehydrogenase (LDH) levels and/or
+standard blood examinations supporting hemolysis with associated anemia and diagnosis of
+hemolysis due to prosthetic valve, not requiring transfusion.
+‡
+  Hemolytic anemia: hemolysis requiring transfusion or intervention (or need for intervention)
+on the mitral valve.
+§
+  Inadequate anticoagulation (no anticoagulation, gap in treatment, or subtherapeutic) appeared
+to be a factor in the occurrence of device thrombosis regardless of the type of anticoagulation
+prescribed. The observed valve thrombosis rate at 1 year was 7.0% in patients with adequate
+anticoagulation and 20.9% in those with inadequate anticoagulation.
+ǁ
+  Only interventions after procedure.
+
+  5. Subgroup Analyses
+
+  The primary endpoint results by gender and by MR etiology are presented in Table 12 and
+  Table 13, respectively. The results were consistent when analyzed by gender and MR
+  etiology.
+
+Table 12. Primary Endpoint Analysis by Gender – Main Cohort (AT Population).
+
+                                                                Summary Statistics*
+                      Event                                   Male                Female
+                                                             (N=152)             (N=147)
+All-cause death or heart failure rehospitalization
+                                                         25.2% (37)            25.2% (36)
+at 1 year
+   All-cause death                                       14.5% (21)            13.4% (19)
+
+
+
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data                 32 of 56
+                                                                   Summary Statistics*
+                        Event                                    Male               Female
+                                                                (N=152)            (N=147)
+      Heart failure rehospitalization                      16.9% (24)            16.4% (23)
+*
+    Kaplan-Meier estimate % (no. of patients with the event).
+
+
+
+Table 13. Primary Endpoint Analysis by MR Etiology – Main Cohort (AT Population).
+
+                                                                   Summary Statistics*
+                        Event                             Primary MR           Secondary MR
+                                                            (N=105)               (N=160)
+All-cause death or heart failure rehospitalization
+                                                           26.3% (26)            25.5% (40)
+at 1 year
+      All-cause death                                      15.3% (15)            12.9% (20)
+      Heart failure rehospitalization                      17.8% (17)            17.1% (26)
+MR: mitral regurgitation.
+*
+  Kaplan-Meier estimate % (no. of patients with the event).
+
+     The primary endpoint result by race is shown in Table 14.
+
+Table 14. Primary Endpoint Result by Race – Main Cohort (AT Population).
+                                                        All-cause Death or Heart Failure
+                      Race                                 Rehospitalization at 1 Year*
+                                                                    (N=299)
+White or Caucasian                                                   55/227
+Black or African American                                             9/27
+Native Hawaiian or Other Pacific Islander                              0/1
+Asian                                                                  1/7
+American Indian or Alaskan Native                                      0/3
+Other                                                                  4/9
+Unknown                                                               4/25
+*no. of patients with events/total no. patients in the subgroup.
+
+
+
+     6. Other Study Observations
+
+     Procedural Information
+
+     The procedural data are presented in Table 15.
+
+                 PMA P250019: FDA Summary of Safety and Effectiveness Data                 33 of 56
+       Table 15. Procedure Data - Main Cohort (AT Population).
+                          Variable                            Summary Statistics*
+       Procedure time (min)†                                   127.0 ± 47.13 (293)
+       Total fluoroscopy time (min)                             51.9 ± 24.61 (297)
+                                     ‡
+       Dock deployment time (min)                               65.9 ± 35.04 (291)
+       Multiple valve implant                                      0.0% (0/287)
+       Percutaneous paravalvular leak closure                     5.0% (15/299)
+       Procedure aborted                                          4.0% (12/299)
+       Conversion to surgery                                       0.0% (0/287)
+       *
+         Continuous measures - mean ± SD (n); categorical measures - % (no./total no.).
+       †
+         Defined as the time from femoral vein access to guide sheath removal.
+       ‡
+         Defined as the time from steerable catheter insertion to removal.
+
+   Index Hospitalization
+
+   The index hospitalization information is presented in Table 16.
+
+           Table 16. Index Hospitalization Information - Main Cohort (VI
+           Population).
+                            Variable                        Summary Statistics*
+           Index hospitalization stay (days)†                  2.9 ± 3.55 (286)
+               Intensive care stay (days)                      0.7 ± 1.47 (286)
+           In-hospital death                                    0.3% (1/287)
+           *
+             Continuous measures - mean ± SD (total no.); categorical measures – %
+           (no./total no.).
+           †
+             Index hospitalization stay excludes in-hospital deaths.
+
+   Additional Echocardiographic Data
+
+   Additional echocardiographic data through 1 year are presented in Table 17, which show a
+   generally positive trend in left ventricular remodeling.
+
+Table 17. Additional Echocardiographic Data - Main Cohort (VI Population).
+                                                 Summary Statistics*
+     Parameter
+                             Baseline       30 Days      6 Months                1 Year
+LV end diastolic           75.0 ± 24.94   70.2 ± 24.33  71.5 ± 24.53          70.6 ± 26.69
+volume index (mL/m2)          (282)          (254)         (221)                  (213)
+LV end diastolic            5.5 ± 0.04     5.3 ± 0.05    5.4 ± 0.05            5.3 ± 0.05
+diameter (cm)                 (286)          (261)         (232)                  (228)
+
+
+
+               PMA P250019: FDA Summary of Safety and Effectiveness Data                  34 of 56
+LV ejection fraction      48.4 ± 11.95    38.7 ± 11.56      40.5 ± 12.32        41.3 ± 12.16
+(%)                           (287)          (276)             (246)               (235)
+LV end diastolic         143.4 ± 53.71   133.6 ± 52.96     136.8 ± 53.40       135.6 ± 56.17
+volume (mL)                   (282)          (254)             (221)               (213)
+LV end systolic           76.7 ± 40.82    84.5 ± 43.85      84.7 ± 46.26        83.6 ± 48.55
+volume (mL)                   (282)          (252)             (216)               (207)
+Transmitral antegrade       3.4 ± 1.96     5.4 ± 2.11        5.3 ± 2.28          5.5 ± 2.22
+mean gradient (mmHg)          (272)          (274)             (246)               (233)
+Stroke volume index        28.8 ± 8.73    35.9 ± 13.65      37.1 ± 14.22        37.8 ± 14.87
+       2
+(mL/m )                       (278)          (268)             (241)               (227)
+Cardiac output index        2.1 ± 0.60     2.5 ± 0.86        2.5 ± 0.88          2.5 ± 0.90
+          2
+(L/min/m )                    (278)          (268)             (241)               (227)
+LV: left ventricular.
+*
+  Continuous measures - mean ± SD (n).
+
+    Correlation Between KCCQ and Other Outcomes
+
+    Post hoc analyses were performed to explore the correlation between KCCQ overall
+    summary score change from baseline and heart failure rehospitalization, NYHA functional
+    class, MR severity, and 6MWT distance. The results are shown in Figure 16 through Figure
+    19, which show a correlation between higher KCCQ overall summary score and absence of
+    heart failure hospitalization, lower NYHA functional class, lower grade of MR severity, and
+    larger improvement in 6MWT distance at 1 year.
+
+
+
+
+ Figure 16. KCCQ Overall Summary Score vs. Heart Failure Rehospitalization at 1 Year
+ – Main Cohort (AT Population).
+
+
+               PMA P250019: FDA Summary of Safety and Effectiveness Data                35 of 56
+Figure 17. KCCQ Overall Summary Score vs. NYHA Functional Class at 1 Year – Main
+Cohort (AT Population).
+
+
+
+
+Figure 18. KCCQ Overall Summary Score vs. MR Severity at 1 Year – Main Cohort (AT
+Population).
+
+
+            PMA P250019: FDA Summary of Safety and Effectiveness Data      36 of 56
+Figure 19. KCCQ Overall Summary Score vs. 6MWT Distance Change at 1 Year – Main
+Cohort (AT Population).
+
+
+  7. Pediatric Extrapolation
+
+  In this premarket application, existing clinical data were not leveraged to support approval of
+  a pediatric patient population.
+
+  X.2. Summary of the MAC Registry
+
+  A. Study Design
+
+  The ENCIRCLE study MAC Registry was a prospective, single-arm, multicenter study.
+  Patients in the MAC Registry were enrolled between January 20, 2022, and March 21, 2024.
+  The database for this PMA application reflected data collected through February 3, 2025, and
+  included 100 patients treated at 36 investigational sites in the US, Australia, Canada,
+  Netherlands, and the United Kingdom.
+
+  1. Clinical Inclusion and Exclusion Criteria
+
+     Enrollment in the MAC Registry was limited to patients who met the same inclusion
+     criteria as in the Main Cohort, with the exception of the following modified inclusion
+     criterion:
+
+     − MR ≥3+ (if the impact of the calcification on delivery and implantation of the
+       SAPIEN M3 system is uncertain), moderate MR and moderate mitral stenosis (MS),
+       or severe MS as assessed by the Echocardiography Core Laboratory
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data                  37 of 56
+    Patients were not permitted to enroll in the MAC Registry if they met any of the Main
+    Cohort exclusion criteria.
+
+ 2. Follow-up Schedule
+
+    The follow-up schedule for patients in the MAC Registry was identical to that in the
+    Main Cohort.
+
+ 3. Clinical Endpoints
+
+    The clinical endpoints for the MAC Registry were the same as those for the Main Cohort.
+    However, no hypothesis testing was performed; only descriptive statistics was performed.
+
+ B. Patient Accountability
+
+ At the time of database lock, a total of 100 patients of 364 patients enrolled for screening had
+ the procedure started (AT Population) in the MAC Registry and 93 patients had the study
+ valve implanted (VI Population). Patient accountability through 1 year is summarized in
+ Figure 20.
+
+
+
+
+Figure 20. Patient Accountability Through 1 Year – MAC Registry.
+
+
+
+             PMA P250019: FDA Summary of Safety and Effectiveness Data                  38 of 56
+  C. Study Population Demographics and Baseline Characteristics
+
+  The demographics and baseline characteristics of the study population for the MAC Registry
+  are presented in Table 18, which are typical for a TMVR device study in patients with
+  severe MAC performed in the U.S.
+
+Table 18. Patient Demographics and Baseline Characteristics – MAC Registry
+(AT Population).
+                                                                      Summary
+            Demographics and Baseline Characteristics                 Statistics*
+Age - years                                                              76.1 ± 9.22 (100)
+Sex
+   Male                                                                  51.0% (51/100)
+   Female                                                                49.0% (49/100)
+Hispanic or Latino Ethnicity                                               3.0% (3/100)
+Race
+   American Indian or Alaska Native                                        0.0% (0/100)
+   Asian                                                                   2.0% (2/100)
+   Black or African American                                               1.0% (1/100)
+   Native Hawaiian or Other Pacific Islander                               0.0% (0/100)
+   White                                                                 85.0% (85/100)
+   Other                                                                   2.0% (2/100)
+   Unknown                                                               10.0% (10/100)
+Society of Thoracic Surgeons (STS) score for mitral valve replacement    8.4 ± 4.90 (100)
+Society of Thoracic Surgeons (STS) score for mitral valve repair         6.0 ± 5.45 (100)
+New York Heart Association (NYHA) class
+   I                                                                       0.0% (0/100)
+   II                                                                    27.0% (27/100)
+   III                                                                   69.0% (69/100)
+   IV                                                                      4.0% (4/100)
+Chronic kidney disease                                                   42.0% (42/100)
+Previous myocardial infarction                                           25.0% (25/100)
+Prior aortic valve intervention                                          48.0% (48/100)
+Prior mitral valve intervention                                            3.0% (3/100)
+Aortic valve disease                                                     71.0% (71/100)
+Pulmonic valve disease                                                    11.0% (11/100)
+Tricuspid valve disease                                                  69.0% (69/100)
+
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data             39 of 56
+                                                                               Summary
+               Demographics and Baseline Characteristics                       Statistics*
+Rheumatic heart disease                                                       7.0% (7/100)
+Prior coronary artery bypass grafting (CABG)                                28.0% (28/100)
+Prior percutaneous coronary intervention (PCI)                              38.0% (38/100)
+Prior stroke                                                                14.0% (14/100)
+Peripheral vascular disease (PVD)                                           17.0% (17/100)
+Atrial fibrillation                                                         66.0% (66/100)
+Permanent pacemaker or defibrillator                                        38.0% (38/100)
+Cardiac ablation                                                            18.0% (18/100)
+Echocardiographic findings (core laboratory transthoracic echocardiogram)
+   Mitral valve mean gradient (mmHg)                                        6.1 ± 3.27 (100)
+   Left ventricular ejection fraction (LVEF) (%)                           54.6 ± 10.53 (100)
+   Left ventricular end diastolic diameter (cm)                             4.9 ± 0.66 (100)
+   Left ventricular end diastolic volume (mL)                              112.2 ± 44.30 (97)
+   Left ventricular end systolic volume (mL)                                52.0 ± 27.77 (97)
+   Mitral regurgitation etiology
+        Primary (degenerative)                                              77.0% (77/100)
+        Secondary (functional ventricular)                                  15.0% (15/100)
+        Secondary (functional atrial)                                         0.0% (0/100)
+        Mixed (functional and degenerative)                                   8.0% (8/100)
+                                          †
+   Total mitral regurgitation (MR) degree
+        ≥3+                                                                 71.0% (71/100)
+        =2+                                                                 19.0% (19/100)
+        =1+ with severe stenosis                                            10.0% (10/100)
+ Presence of mitral annular calcification (MAC)                             98.0% (98/100)
+*Continuous measures - mean ± SD (n); categorical measures - % (no./total no.).
+†
+  Baseline MR is based on the worse case between transesophageal echocardiogram and
+transthoracic echocardiogram.
+
+
+  The CT Core Laboratory conducted calcium evaluation to characterize the calcium
+  morphology at each of the six mitral segments (A1, A2, and A3 for the anterior annulus and
+  leaflet, and P1, P2, and P3 for the posterior annulus leaflet). The results are presented in
+  Table 19.
+
+
+
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data              40 of 56
+Table 19. Annular and Leaflet Calcifications - MAC Registry
+(AT Population).
+        Calcium Characteristics       Summary Statistics*
+Annular calcifications
+A1
+     Grade
+       None                              40.0% (40/100)
+       Mild                              15.0% (15/100)
+       Moderate                          23.0% (23/100)
+       Severe                            22.0% (22/100)
+     Spur                                34.0% (34/100)
+A2
+     Grade
+       None                              66.0% (66/100)
+       Mild                                8.0% (8/100)
+       Moderate                           11.0% (11/100)
+       Severe                            15.0% (15/100)
+     Spur                                39.0% (39/100)
+A3
+     Grade
+       None                              37.0% (37/100)
+       Mild                              19.0% (19/100)
+       Moderate                          19.0% (19/100)
+       Severe                            25.0% (25/100)
+     Spur                                40.0% (40/100)
+P1
+     Grade
+       None                              23.0% (23/100)
+       Mild                              16.0% (16/100)
+       Moderate                          26.0% (26/100)
+       Severe                            35.0% (35/100)
+     Spur                                  9.0% (9/100)
+P2
+     Grade
+       None                              13.0% (13/100)
+
+
+PMA P250019: FDA Summary of Safety and Effectiveness Data     41 of 56
+        Calcium Characteristics       Summary Statistics*
+       Mild                              13.0% (13/100)
+       Moderate                          22.0% (22/100)
+       Severe                            52.0% (52/100)
+     Spur                                20.0% (20/100)
+P3
+     Grade
+       None                              19.0% (19/100)
+       Mild                              14.0% (14/100)
+       Moderate                          20.0% (20/100)
+       Severe                            47.0% (47/100)
+     Spur                                15.0% (15/100)
+Leaflet calcifications
+A1
+     None                                48.0% (48/100)
+     Mild                                13.0% (13/100)
+     Pronounced                          39.0% (39/100)
+A2
+     None                                49.0% (49/100)
+     Mild                                 5.0% (5/100)
+     Pronounced                          46.0% (46/100)
+A3
+     None                                39.0% (39/100)
+     Mild                                14.0% (14/100)
+     Pronounced                          47.0% (47/100)
+P1
+     None                                69.0% (69/100)
+     Mild                                19.0% (19/100)
+     Pronounced                          12.0% (12/100)
+P2
+     None                                48.0% (48/100)
+     Mild                                25.0% (25/100)
+     Pronounced                          27.0% (27/100)
+P3
+     None                                61.0% (61/100)
+
+
+PMA P250019: FDA Summary of Safety and Effectiveness Data   42 of 56
+                       Calcium Characteristics               Summary Statistics*
+                   Mild                                        16.0% (16/100)
+                   Pronounced                                  23.0% (23/100)
+             *
+                 Categorical measures - % (no./total no.).
+
+
+ D. Safety and Effectiveness Results
+
+ 1. Primary Endpoint
+
+ The primary endpoint results are presented in Table 20 and Figure 21. The composite rate of
+ all-cause death and heart failure rehospitalization at 1 year was 34.1%.
+
+            Table 20. Primary Endpoint Analysis – MAC Registry (AT
+            Population).
+                             Event                      Summary Statistics*
+            All-cause death or heart failure
+                                                               34.1% (32)
+            rehospitalization at 1 year
+                  All-cause death                              21.7% (20)
+               Heart failure rehospitalization           19.6% (17)
+            *
+              Kaplan-Meier estimate % (no. of patients with the event).
+
+
+
+
+Figure 21. Kaplan-Meier Curve for All-Cause Death or Heart Failure
+Rehospitalization Through 1 Year – MAC Registry (AT Population).
+
+
+            PMA P250019: FDA Summary of Safety and Effectiveness Data                43 of 56
+ The times to first event for each of the primary endpoint components are shown in Figure 22
+ and Figure 23.
+
+
+
+
+Figure 22. All-Cause Death Through 1 Year – MAC Registry (AT Population).
+
+
+
+
+Figure 23. Heart Failure Rehospitalization Through 1 Year – MAC Registry (AT
+Population).
+
+
+            PMA P250019: FDA Summary of Safety and Effectiveness Data               44 of 56
+     2. Secondary Endpoints
+
+     The paired results of the four secondary endpoints are presented in Table 21.
+
+Table 21. Results of Secondary Endpoints – MAC Registry (VI Population).
+No.                   Endpoint                                Summary Statistics*
+       Improvement in MR severity at 1 year
+ 1                                                                96.3% (52/54)
+       over baseline
+       Improvement in NYHA class at 1 year
+ 2                                                                65.5% (38/58)
+       over baseline
+       Improvement in KCCQ summary score
+ 3                                                               19.7 ± 2.87 (61)
+       at 1 year over baseline
+       Improvement in LVEDVi at 1 year over
+ 4                                                                -2.7 ± 2.53 (48)
+       baseline (mL/m2)
+MR: mitral regurgitation; NYHA: New York Heart Association; KCCQ: Kansas City
+Cardiomyopathy Questionnaire; LVEDVi: left ventricular end-diastolic volume index.
+*
+  Categorical measures - % (no. / total no.); continuous measures - mean ± SE (n). All results
+were from paired analyses.
+
+
+     3. Descriptive Endpoints
+
+     KCCQ
+
+     The KCCQ overall summary scores by visit are presented in Figure 24. The mean score
+     increased from 52.9 at baseline to 72.6 at 1 year post-procedure.
+
+
+
+
+                 PMA P250019: FDA Summary of Safety and Effectiveness Data                45 of 56
+Figure 24. KCCQ Overall Summary Score by Visit – MAC Registry (VI Population). The
+error bars represent standard deviations.
+
+  EQ-5D-5L
+
+  The results for the EQ-5D-5L VAS are presented in Figure 25. The mean score was 60.7 at
+  baseline and 72.4 at 1 year post-procedure.
+
+
+
+
+Figure 25. EQ-5D-5L Visual Analog Score by Visit – MAC Registry (VI Population). The
+error bars represent standard deviations.
+
+             PMA P250019: FDA Summary of Safety and Effectiveness Data              46 of 56
+  NYHA Functional Class
+
+  The NYHA classifications by visit are presented in Figure 26. At 1 year post-procedure,
+  87.9% of patients were in NYHA class I/II compared to 26.9% at baseline.
+
+
+
+
+Figure 26. NYHA Functional Class by Visit – MAC Registry (VI Population).
+
+  6MWT Distance
+
+  The results for the 6MWT distance are presented in Figure 27. The mean walk distance
+  increased from 230.7 meters at baseline to 284.1 meters at 1 year post-procedure.
+
+
+
+
+             PMA P250019: FDA Summary of Safety and Effectiveness Data                47 of 56
+Figure 27. 6MWT Distance by Visit – MAC Registry (VI Population). The error bars
+represent standard deviations.
+
+  MR severity
+
+  MR severity by visit is shown in Figure 28. MR reduction to ≤1+ was achieved in 98.2% of
+  patients at 1 year.
+
+
+
+
+Figure 28. MR Severity by Visit – MAC Registry (VI Population). The worst case between
+transesophageal echocardiogram and transthoracic echocardiogram results was used as the
+baseline and transthoracic echocardiogram results were used for all other visits.
+
+
+             PMA P250019: FDA Summary of Safety and Effectiveness Data              48 of 56
+  4. Adverse Events
+
+  The Kaplan-Meier estimates of CEC-adjudicated serious adverse events and other adverse
+  events of clinical interest through 1 year are presented in Table 22.
+
+Table 22. CEC-Adjudicated Adverse Events Through 1 Year – MAC Registry (AT
+Population).
+                                                      Kaplan-Meier Estimate*
+                Event
+                                             30 Days        6 Months          1 Year
+All-cause death                             6.0% (6, 6)   12.4% (12, 12) 21.7% (20, 20)
+    Cardiovascular                          6.0% (6, 6)     8.2% (8, 8)  15.6% (14, 14)
+    Non-cardiovascular                      0.0% (0, 0)     4.6% (4, 4)     7.2% (6, 6)
+Heart failure rehospitalization             5.2% (5, 5)   15.5% (17, 14) 19.6% (25, 17)
+All stroke                                  1.0% (1, 1)     1.0% (1, 1)     7.8% (7, 6)
+    Disabling                               0.0% (0, 0)     0.0% (0, 0)     5.5% (5, 4)
+    Non-disabling                           1.0% (1, 1)     1.0% (1, 1)     2.3% (2, 2)
+Acute kidney injury Stage 2                 3.1% (3, 3)         ---             ---
+Acute kidney injury Stage 3                 1.0% (1, 1)         ---             ---
+New-onset atrial fibrillation              12.1% (4, 4)    21.7% (7, 7)    21.7% (7, 7)
+New permanent pacemaker implantation        6.6% (4, 4)     6.6% (4, 4)    11.6% (6, 6)
+Life-threatening bleeding                   7.0% (8, 7)   10.3% (11, 10) 11.6% (12, 11)
+Fatal bleeding                              2.0% (2, 2)     3.2% (3, 3)     4.6% (4, 4)
+Hemolysis†                                  4.0% (4, 4)     4.0% (4, 4)     4.0% (4, 4)
+Hemolytic anemia‡                           9.2% (9, 9)     9.2% (9, 9)     9.2% (9, 9)
+Valve thrombosis                            1.0% (1, 1)     4.4% (4, 4)     5.8% (5, 5)
+    Clinically significant leaflet
+                                           1.0% (1, 1)      1.0% (1, 1)      2.5% (2, 2)
+    thrombosis§
+Dock fracture                              0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+Dock migration                             0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+Valve embolization                         1.0% (1, 1)      1.0% (1, 1)      1.0% (1, 1)
+Valve fracture                             0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+Valve migration                            0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+Clinically significant TMVR-related
+                                           1.0% (1, 1)      1.0% (1, 1)      5.0% (4, 4)
+LVOT obstruction
+Mitral valve reinterventionǁ               3.1% (3, 3)      8.8% (8, 8)     11.6% (10, 10)
+    Balloon mitral valvuloplasty           0.0% (0, 0)      0.0% (0, 0)       0.0% (0, 0)
+    Percutaneous paravalvular leak
+                                           3.1% (3, 3)      7.7% (7, 7)      9.0% (8, 8)
+    closure
+    Surgical mitral valve replacement      0.0% (0, 0)      1.1% (1, 1)      2.6% (2, 2)
+    Valve in valve                         0.0% (0, 0)      0.0% (0, 0)      0.0% (0, 0)
+
+
+             PMA P250019: FDA Summary of Safety and Effectiveness Data             49 of 56
+                                                        Kaplan-Meier Estimate*
+                 Event
+                                               30 Days        6 Months         1 Year
+   Other                                      0.0% (0, 0)     0.0% (0, 0)    0.0% (0, 0)
+Myocardial infarction                         2.1% (2, 2)     3.2% (3, 3)    4.6% (4, 4)
+Transient ischemic attack (TIA)               0.0% (0, 0)     1.1% (1, 1)    1.1% (1, 1)
+Study device related endocarditis             1.1% (1, 1)     1.1% (1, 1)    1.1% (1, 1)
+Major vascular complication                   2.0% (2, 2)     2.0% (2, 2)    2.0% (2, 2)
+Major access site complication                5.0% (5, 5)     7.3% (7, 7)    7.3% (7, 7)
+   Atrial septal defect                       5.0% (5, 5)     7.3% (7, 7)    7.3% (7, 7)
+Major cardiac structure complication          7.0% (7, 7)       9.2% (9, 9)       9.2% (9, 9)
+TMVR: transcatheter mitral valve replacement; LVOT: left ventricular outflow obstruction.
+†
+  Hemolysis: the presence of a paravalvular leak on echocardiogram plus acute decrease in
+haptoglobin levels and/or increase in serum lactate dehydrogenase (LDH) levels and/or
+standard blood examinations supporting hemolysis with associated anemia and diagnosis of
+hemolysis due to prosthetic valve, not requiring transfusion.
+‡
+  Hemolytic anemia: hemolysis requiring transfusion or intervention (or need for intervention)
+on the mitral valve.
+§
+  Inadequate anticoagulation (no anticoagulation, gap in treatment, or subtherapeutic) appeared
+to be a factor in the occurrence of device thrombosis regardless of the type of anticoagulation
+prescribed.
+ǁ
+  Only interventions after procedure.
+
+  5. Subgroup Analyses
+
+  The primary endpoint results by gender are presented in Table 23. Kaplan–Meier estimates
+  of all-cause death at 1 year were higher in female patients (38.3%) compared with male
+  patients (6.3%). Post hoc analyses on demographics and baseline characteristics revealed no
+  clear predictors for the higher observed mortality rate in female patients than that in male
+  patients. The majority of the deaths were adjudicated by the CEC to be unrelated to the
+  procedure or device.
+
+
+
+
+              PMA P250019: FDA Summary of Safety and Effectiveness Data                 50 of 56
+Table 23. Primary Endpoint Result by Gender – MAC Registry (AT Population).
+                                                                  Summary Statistics*
+                        Event                                    Male             Female
+                                                                (N=51)            (N=49)
+All-cause death or heart failure rehospitalization
+                                                            26.8% (13)           41.7% (19)
+at 1 year
+      All-cause death                                           6.3% (3)         38.3% (17)
+
+      Heart failure rehospitalization                       21.0% (10)            18.1% (7)
+*
+    Kaplan-Meier estimate % (no. of patients with the event).
+
+     The primary endpoint result by race is shown in Table 24.
+
+Table 24. Primary Endpoint Result by Race – MAC Registry (AT Population).
+                                                        All-cause Death or Heart Failure
+                      Race                                 Rehospitalization at 1 Year*
+                                                                    (N=100)
+White or Caucasian                                                    30/85
+Black or African American                                               0/1
+Native Hawaiian or Other Pacific Islander                               0/0
+Asian                                                                   0/2
+American Indian or Alaskan Native                                       0/0
+Other                                                                   0/2
+Unknown                                                                2/10
+*no. of patients with events/total no. patients in the subgroup.
+
+
+
+
+     6. Other Study Observations
+
+     Procedural Information
+
+     The procedural data are presented in Table 25.
+
+          Table 25. Procedure Data – MAC Registry (AT Population).
+                           Variable                             Summary Statistics*
+          Procedure time (min)†                                  127.1 ± 49.85 (98)
+          Total fluoroscopy time (min)                           57.4 ± 32.14 (100)
+          Dock deployment time (min)‡                             70.5 ± 36.74 (97)
+          Multiple valve implant                                    3.0% (3/100)
+
+                 PMA P250019: FDA Summary of Safety and Effectiveness Data                 51 of 56
+                           Variable                            Summary Statistics*
+        Percutaneous paravalvular leak closure                    12.0% (12/100)
+        Procedure aborted                                          7.0% (7/100)
+        Conversion to surgery                                      1.0% (1/100)
+        *
+          Continuous measures - mean ± SD (n); categorical measures - % (no./total no.).
+        †
+          Defined as the time from femoral vein access to guide sheath removal.
+        ‡
+          Defined as the time from steerable catheter insertion to removal.
+
+    Index Hospitalization
+
+    The index hospitalization information is presented in Table 26.
+
+            Table 26. Index Hospitalization Information – MAC Registry (VI
+            Population).
+                             Variable                        Summary Statistics*
+            Index hospitalization stay (days)†                  3.0 ± 3.38 (88)
+                Intensive care stay (days)                      0.5 ± 1.30 (88)
+            In-hospital death                                     5.4% (5/93)
+            *
+              Continuous measures - mean ± SD (total no.); categorical measures – %
+            (no./total no.).
+            †
+              Index hospitalization stay excludes in-hospital deaths.
+
+
+    Additional Echocardiographic Data
+
+    Additional echocardiographic data through 1 year are presented in Table 27, which show
+    improved hemodynamics.
+
+
+Table 27. Additional Echocardiographic Data – MAC Registry (VI Population).
+                                                    Summary Statistics*
+     Parameter
+                              Baseline         30 Days      6 Months               1 Year
+LV end diastolic            57.6 ± 22.20     56.6 ± 18.89  57.1 ± 18.51         57.8 ± 17.45
+volume index (mL/m2)             (91)            (79)          (63)                 (48)
+LV end diastolic              5.0 ± 0.07      4.9 ± 0.07    4.9 ± 0.08           5.0 ± 0.09
+diameter (cm)                    (93)            (80)          (73)                 (51)
+LV ejection fraction        54.7 ± 10.43     46.5 ± 10.67  46.2 ± 10.07         48.9 ± 10.22
+(%)                              (93)            (86)          (76)                 (56)
+LV end diastolic            111.5 ± 44.47   110.3 ± 38.92 111.4 ± 37.11        116.8 ± 37.49
+volume (mL)                      (91)            (79)          (63)                 (48)
+LV end systolic volume      51.8 ± 28.13     59.7 ± 28.80  60.5 ± 28.89         59.7 ± 27.13
+(mL)                             (91)            (74)          (59)                 (46)
+
+                PMA P250019: FDA Summary of Safety and Effectiveness Data                  52 of 56
+   Transmitral antegrade      6.0 ± 3.24       5.6 ± 1.76        5.4 ± 1.68           5.6 ± 2.20
+   mean gradient (mmHg)          (93)             (85)              (75)                 (56)
+   Stroke volume index       27.7 ± 8.23      36.2 ± 14.69      34.7 ± 10.11         35.5 ± 12.43
+          2
+   (mL/m )                       (88)             (82)              (71)                 (50)
+   Cardiac output index       2.0 ± 0.58       2.7 ± 1.12        2.5 ± 0.71           2.5 ± 0.74
+   (L/min/m2)                    (88)             (82)              (71)                 (50)
+   LV: left ventricular.
+   *
+     Continuous measures - mean ± SD (n).
+
+
+       7.    Pediatric Extrapolation
+
+       In this premarket application, existing clinical data were not leveraged to support approval of
+       a pediatric patient population.
+
+XI.    FINANCIAL DISCLOSURE
+
+       The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+       applicants who submit a marketing application to include certain information concerning the
+       compensation to, and financial interests and arrangement of, any clinical investigator
+       conduction clinical studies covered by the regulation. The ENCIRCLE trial involved 352
+       investigators, of which none were full-time or part-time employees of the sponsor and 54
+       investigators had disclosable financial interests/arrangements as defined in 21 CFR 54.2(a),
+       (b), (c) and (f), as described below:
+
+            − Compensation to the investigator for conducting the study where the value could be
+              influenced by the outcome of the study: None
+            − Significant payment of other sorts: 54
+            − Proprietary interest in the product tested held by the investigator: None
+            − Significant equity interest held by investigator in sponsor of covered study: 1
+
+       The applicant has adequately disclosed the financial interest/arrangements with clinical
+       investigators. Statistical analyses were conducted by FDA to determine whether the financial
+       interests/arrangements had any impact on the clinical study outcome. The information
+       provided does not raise any questions about the reliability of the data.
+
+
+XII.   PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+       In accordance with the provisions of section 515(c)(3) of the Act as amended by the Safe
+       Medical Devices Act of 1990, this PMA was not referred to the Circulatory System Devices
+       panel, an FDA advisory committee, for review and recommendation because the information
+       in the PMA substantially duplicates information previously reviewed by this panel.
+
+
+
+
+                   PMA P250019: FDA Summary of Safety and Effectiveness Data                  53 of 56
+XIII.   CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+        A. Effectiveness Conclusions
+
+        In the Main Cohort, the Kaplan-Meier estimate for the composite rate of all-cause death and
+        heart failure rehospitalization at 1 year was 25.2%, with a one-sided 97.5% upper confidence
+        bound of 30.6%, which met the performance goal of 45% (p<0.001). MR reduction to ≤1+
+        was achieved in 95.7% of patients at 1 year. The reduction translated into favorable left
+        ventricular remodeling, with a significant reduction in LVEDVi at 1 year and improved
+        hemodynamics, including increased stroke volume and cardiac index. Clinically significant
+        benefits in functional and health status were seen in patients, as evidenced by more patients
+        in NYHA class I/II (87.9%) compared to baseline (28.6%). The mean KCCQ overall
+        summary score increased by 18.0 points at 1 year compared to baseline. The EQ-5D-5L VAS
+        score improved by 8.7 points at 1 year compared to baseline.
+
+        In the MAC Registry, the Kaplan-Meier estimate for the composite rate of all-cause death
+        and heart failure rehospitalization at 1 year was 34.1%. MR was successfully reduced to ≤1+
+        in 98.2% of patients at 1 year. Patients experienced improved hemodynamics through 1 year,
+        including increased stroke volume and cardiac index. Clinically significant benefits in
+        functional and health status were manifested by more patients in NYHA class I/II (87.9%)
+        and a 19.7-point increase in the mean KCCQ overall summary score at 1 year compared to
+        baseline. The EQ-5D-5L VAS score improved by 11.7 points at 1 year compared to baseline.
+
+        B. Safety Conclusions
+
+        The risks of the SAPIEN M3 system are based on nonclinical laboratory and animal studies
+        as well as data collected in a clinical study conducted to support PMA approval as described
+        above. The results from the nonclinical laboratory (e.g., biocompatibility, hydrodynamic
+        performance, durability, and structural integrity) and animal studies demonstrated that this
+        device is suitable for long-term implant.
+
+        The valve implantation success rate was high, with the procedure being aborted in 4.0% and
+        7.0% of the cases in the Main Cohort and MAC Registry, respectively. The CEC adjudicated
+        severe adverse events at 30 days included all-cause death (0.7% in the Main Cohort and 6.0%
+        in the MAC Registry), all stroke (2.7% and 1.0%), new-onset atrial fibrillation (7.9% and
+        12.1%), life-threatening bleeding (3.7% and 7.0%) and clinically significant leaflet
+        thrombosis (2.3% and 1.0%).
+
+        C. Benefit-Risk Determination
+
+        The probable benefits of TMVR with the SAPIEN M3 system include improved
+        hemodynamics and improved health and functional statuses as measured by KCCQ and
+        NYHA functional class, respectively.
+
+        The probable risks of TMVR with the SAPIEN M3 system include death, stroke, new-onset
+        atrial fibrillation, life-threatening bleeding, and clinically significant leaflet thrombosis.
+
+
+                    PMA P250019: FDA Summary of Safety and Effectiveness Data                  54 of 56
+       1. Patient Perspectives
+
+          Patient perspectives considered during the review included patient reported outcomes as
+          measured by KCCQ and EQ-5D-5L.
+
+       In conclusion, given the available information above, the data support that for patients with
+       symptomatic moderate-to-severe or severe MR and those with symptomatic mitral valve
+       dysfunction associated with MAC, who are deemed unsuitable for surgery or TEER therapy,
+       the probable benefits of TMVR with the SAPIEN M3 system outweigh the probable risks.
+
+       D. Overall Conclusion
+
+       The data in this application supports the reasonable assurance of safety and effectiveness of
+       the SAPIEN M3 system in patients with symptomatic moderate-to-severe or severe MR and
+       those with symptomatic mitral valve dysfunction associated with MAC who are deemed
+       unsuitable for surgery or TEER therapy by a multidisciplinary heart team.
+
+XIV.   CDRH DECISION
+
+       CDRH issued an approval order on December 22, 2025. The final conditions of approval
+       cited in the approval order are described below.
+
+       The applicant must conduct two post-approval studies:
+
+       1. Continued Follow-up of ENCIRCLE Premarket Cohort: The study will consist of all
+          living patients who were enrolled under the IDE, including those enrolled in the
+          continued access protocol (CAP) investigation. The objective of this study is to
+          characterize the clinical outcomes annually through 5 years post-procedure. The safety
+          and effectiveness endpoints include all-cause death, all stroke, heart failure
+          rehospitalization, mitral valve reintervention, 6MWT distance, KCCQ score, EQ-5D-5L
+          score, NYHA functional class, and echocardiographic endpoints.
+
+       2. Registry-Based Real-World Use Surveillance: The surveillance will be carried out to
+          assess the real-world performance of the SAPIEN M3 system. It will consist of two
+          cohorts, namely, patients treated for symptomatic moderate-to-severe or severe MR
+          (Cohort A) and patients treated for symptomatic mitral valve dysfunction associated with
+          MAC (Cohort B) that are entered into the Society of Thoracic Surgeons (STS)/American
+          College of Cardiology (ACC) Transcatheter Valve Therapy (TVT) Registry. Cohort A
+          will involve all consecutive patients treated in the first 2 years following device approval
+          or a total of 500 consecutively treated patients, whichever is greater (Cohort A enrollment
+          period). Cohort B will involve all consecutive patients treated in the first 2 years
+          following device approval or a total of 200 consecutively treated patients, whichever is
+          greater (Cohort B enrollment period). Data collection in Cohort A will continue for
+          under-enrolled racial and ethnic groups until each group has enrolled a minimum number
+          of patients as specified: Black/African American, 50; Asian, 50, American
+          Indian/Alaskan Native, 25, Native Hawaiian/Pacific Islander, 25; and Hispanic or Latino
+
+
+                   PMA P250019: FDA Summary of Safety and Effectiveness Data                 55 of 56
+         ethnicity, 50. All patients will be followed through 5 years post-procedure (Cohort A and
+         Cohort B follow-up period). The clinical data through one (1) year will be collected
+         through the TVT Registry. The follow-up data (including all-cause death, stroke, mitral
+         valve reintervention, and heart failure rehospitalizations) from year 2 through year 5 post-
+         procedure will be obtained through linking the TVT Registry data with the Centers for
+         Medicare and Medicaid Services (CMS) claims database.
+
+      The applicant’s manufacturing facilities have been inspected and found to be in compliance
+      with the device Quality System (QS) regulation (21 CFR 820).
+
+XV.   APPROVAL SPECIFICATIONS
+
+      Directions for use: See final approved labeling (Instructions for Use).
+
+      Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+      Precautions, and Adverse Events in the final labeling (Instructions for Use).
+
+      Post-approval Requirements and Restrictions: See Approval Order.
+
+
+
+
+                  PMA P250019: FDA Summary of Safety and Effectiveness Data                 56 of 56
+

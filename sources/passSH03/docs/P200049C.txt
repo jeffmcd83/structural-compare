@@ -1,0 +1,1053 @@
+Amplatzer™ Amulet™ Left Atrial Appendage Occluder
+
+
+                        Instructions for Use
+Symbols and Definitions
+The following symbols may appear on the device packaging：
+            Symbols                                              Definitions
+
+
+                                  Caution, consult accompanying documents
+
+
+                                  Manufacturer
+
+
+                                  Catalog number
+
+
+                                  Serial number
+
+
+                                  Batch code
+
+
+                                  Use-by date
+
+
+                                  Date of manufacture
+
+
+
+                                  Do not re-use
+
+
+
+                                  Do not use if package is damaged
+
+
+
+                                  Sterilized using ethylene oxide
+
+
+                                  Unique Device Identification
+
+
+                                  Packaging unit
+
+
+
+                                  MR Conditional
+
+
+
+                                  Consult instructions for use
+
+
+
+                                  Follow instructions for use on this website
+
+
+
+                                  Keep dry; keep away from rain
+
+
+                                  Do not use if package is damaged
+
+
+
+                                  Inner diameter
+         Symbols                                                Definitions
+
+
+                                 Outer diameter
+
+
+                                 Length
+
+
+                                 Usable length
+
+
+                                 Recommended delivery sheath dimensions
+
+
+Left Atrial Appendage Occluder   Left Atrial Appendage Occluder
+
+
+
+                                 Do not resterilize
+
+
+
+                                 Federal law restricts this device to sale by or on the order of a
+                                 physician.
+Amplatzer™ Amulet™ Left Atrial Appendage Occluder ...................................................... 1
+Device Description ............................................................................................................... 1
+Indication for Use ................................................................................................................. 2
+Warnings .............................................................................................................................. 2
+Precautions .......................................................................................................................... 3
+Patient Selection for Treatment ........................................................................................... 3
+Patient Counseling Information ............................................................................................ 3
+MRI Safety Information ........................................................................................................ 4
+Potential Adverse Events ..................................................................................................... 4
+Clinical Summary ................................................................................................................. 4
+Follow-up Medication ........................................................................................................... 6
+Directions for Use ................................................................................................................ 9
+Post-Procedure Instructions ............................................................................................. 13
+Disposal ............................................................................................................................. 13
+Warranty ............................................................................................................................ 14
+State of California (USA) Only: .......................................................................................... 14
+Appendix A: Supplemental Information ............................................................................. 15
+Amplatzer™ Amulet™ Left Atrial Appendage Occluder
+
+Device Description
+The Amplatzer™ Amulet™ Left Atrial Appendage Occluder is a transcatheter, self-expanding device intended for use in preventing
+thrombus embolization from the left atrial appendage. The device is constructed from a nitinol mesh and consists of a lobe and a
+disc connected by a central waist. Polyester patches are sewn into both the lobe and disc to facilitate occlusion. The lobe has
+stabilizing wires to improve device placement and retention. The device has threaded screw attachments at each end for connection
+to the delivery and loading cables. The device has radiopaque markers at each end and at the stabilizing wires that permit visibility
+during fluoroscopy.
+Refer to the figures and tables in Appendix A: Supplemental Information for more information about the device. Device and delivery
+sheath dimensions are provided in Table 1, and sizing information is provided in Table 2. The following device components are
+identified in Figure 1 and Figure 2.
+
+                  Figure 1                                          Figure 2
+
+  A    Proximal end screw                  I.    Loader with device
+  B    Waist of device                     J     Loader hub
+  C    Lobe                                K     14 Fr flush adaptor (for sizes 28 mm–34 mm)
+  D    Distal end screw                    L     Hemostasis valve
+  E    Marker bands                        M     Delivery cable
+  F    Stabilizing wires                   N     Delivery cable vise
+  G    Platinum thread                     O     14 Fr sheath adaptor (for sizes 16 mm–25 mm)
+  H    Disc                                P     Loading cable vise
+                                           Q     Loading cable
+
+
+
+
+Figure 1. Amplatzer™ Amulet™ Components
+
+
+
+
+                                                                       1
+Figure 2. Amplatzer™ Amulet™ Device Components
+
+
+Indication for Use
+The Amplatzer™ Amulet™ Left Atrial Appendage Occluder is a percutaneous transcatheter device intended to reduce the risk of
+thrombus embolization from the left atrial appendage (LAA) in patients who have nonvalvular atrial fibrillation and who are at
+increased risk for stroke and systemic embolism based on CHADS2 or CHA2DS2-VASc scores, are suitable for short-term
+anticoagulation therapy, and have appropriate rationale to seek a non-pharmacologic alternative to oral anticoagulation, taking into
+consideration the safety and effectiveness of the device.
+Contraindications
+The Amplatzer™ Amulet™ Left Atrial Appendage (LAA) Occluder is contraindicated for patients:
+  • with the presence of intracardiac thrombus,
+  • with active endocarditis or other infections producing bacteremia.
+  • where placement of the device would interfere with any intracardiac or intravascular structures.
+
+Warnings
+  • If the device is retracted while it is in the sheath, the device and the sheath must both be removed and replaced. Failure to
+    replace both the device and the sheath may result in sheath and/or device malfunction.
+  • If the device is retracted farther than the radiopaque markers (fully recaptured), the device and the sheath must both be
+    removed and replaced. Failure to replace both the device and the sheath may result in sheath and/or device malfunction.
+  • Physicians must be prepared to deal with urgent situations, such as pericardial effusion or device embolization, which can
+    require removal of the device.
+  • This device should be used only by physicians who are trained in standard transcatheter techniques. The physician should
+    determine which patients are candidates for procedures that use this device.
+  • Late pericardial effusion events were observed in the clinical study. The use of post-procedure anticoagulation therapy may be
+    associated with an increased potential for a late pericardial effusion. Physicians should monitor for signs and symptoms of
+    pericardial effusion and obtain appropriate imaging when indicated. Physicians should also consider routine echocardiography
+    to screen for pericardial effusion.
+  • Remove embolized devices. Do not remove an embolized device unless the device is fully captured inside a sheath.
+  • The Amplatzer™ Amulet™ device contains a nickel-titanium alloy, which is generally considered safe. However, in vitro testing
+    has demonstrated that nickel is released from this device for a minimum of 120 days. Patients who are allergic to nickel may
+    have an allergic reaction to this device, especially those with a history of metal allergies. Certain allergic reactions can be
+    serious; patients should be instructed to seek medical assistance immediately if they suspect they are experiencing an allergic
+    reaction. Symptoms may include difficulty in breathing or swelling of the face or throat. While data are currently limited, it is
+    possible that some patients may develop an allergy to nickel if this device is implanted.
+  • Do not use this device if the sterile package is open or damaged.
+
+
+                                                                  2
+  • The device was sterilized with ethylene oxide and is for single use only. Do not reuse or resterilize this device. Attempts to
+    resterilize this device can cause a malfunction, insufficient sterilization, or harm to the patient.
+  • Use on or before the expiration date that is printed on the product packaging label.
+
+Precautions
+  • The physician should exercise clinical judgment in situations that involve the use of antithrombotic drugs before, during, and/or
+    after the use of this device.
+  • The physician should exercise caution if implanting a device in a patient who has an implantable cardioverter defibrillator (ICD)
+    or pacemaker leads.
+  • The physician should have the guidewire in the left upper pulmonary vein when making exchanges in the left atrium.
+  • Ensure that the vasculature is adequate for the sheath size being selected.
+  • The physician should exercise caution if performing ablation at or near the implant site after the device is implanted.
+  • Use standard interventional cardiovascular catheterization techniques when using Amplatzer™ products.
+  • Use in specific populations
+       - Pregnancy – Minimize the radiation exposure to the fetus and the mother.
+       - Nursing mothers – There has been no quantitative assessment for the presence of leachables in breast milk.
+
+Patient Selection for Treatment
+In considering the use of the Amplatzer™ Amulet™ Left Atrial Appendage Occluder, the rationale for seeking an alternative to
+long-term anticoagulation therapy and the safety and effectiveness of the device should be taken into consideration.
+Non-valvular atrial fibrillation is associated with an increased risk of cardioembolic stroke. The Amplatzer™ Amulet™ occluder is
+designed to reduce the risk of thromboembolism originating from the LAA. Although thromboembolism from the LAA is a common
+source of stroke in this setting, it is not the sole source. Therefore, the Amulet occluder would not be expected to reduce the risk of
+ischemic stroke unrelated to thromboembolism from the LAA, and other potential risk factors for stroke should be considered (e.g.,
+cerebrovascular disease, hypercoagulable states).
+Oral anticoagulants effectively reduce the risk of cardioembolic stroke and are the most commonly used treatments in at-risk
+patients with non-valvular atrial fibrillation. Following a careful assessment of the safety and effectiveness of the available approved
+oral anticoagulants, the Amulet occluder is an option that may be considered in selected patients to reduce the risk of
+thromboembolism from the LAA.
+Selection among available treatment options must first take into account whether anticoagulation is indicated to reduce the risk of
+stroke based on CHADS2 or CHA2DS2-VASc scores. Next, in a patient who is deemed by their physicians to be suitable for short
+term anticoagulation therapy, the physician and the patient should consider the rationale for implantation of the
+Amplatzer™ Amulet™ occluder. Specific factors may include one or more of the following:
+   • A history of major bleeding while taking anticoagulation therapy
+   • The patient's prior experience with oral anticoagulation (if applicable)
+   • A medical condition, occupation, or lifestyle placing the patient at high risk of major bleeding secondary to trauma
+   • The presence of indication(s) for long-term anticoagulation therapy, other than non-valvular atrial fibrillation (e.g., mechanical
+     heart valve, hypercoagulable states, recurrent deep venous thrombosis)
+Patient factors that need to be considered for the Amplatzer™ Amulet™ occluder and implantation procedure include the following:
+  • Overall medical status, including conditions which might preclude the safety of a percutaneous, transcatheter procedure or the
+     need for post-implant oral anticoagulation, which may be associated with an increased risk of pericardial effusion
+  • Suitability for percutaneous, transseptal procedures, including considerations of:
+       - Cardiac anatomy relating to the LAA size
+       - Vascular access anatomy (e.g., femoral vein size, thrombus, or tortuosity)
+       - Ability of the patient to tolerate general or local anesthesia
+       - Ability of the patient to undergo required imaging
+  • Ability to comply with the recommended post-Amplatzer™ Amulet™ occluder implant medication regimen and routine standard
+    of care echocardiographic follow-up (see Post-Procedure Instructions), especially for patients at high risk for bleeding.
+
+Patient Counseling Information
+Physicians should review the following information when counseling patients about the Amplatzer™ Amulet™ occluder and implant
+procedure:
+   • The safety and effectiveness of transcatheter LAA closure with the Amplatzer™ Amulet™ occluder
+   • There are non-LAA sources of cardiac emboli and other etiologies of stroke that may result in ischemic stroke independent of
+     LAA closure that should be considered
+
+
+                                                                    3
+    • The procedural risks associated with the Amplatzer™ Amulet™ occluder implantation. See Table 6 for details about
+      procedure-related complications observed in the Amulet IDE trial
+    • The need for adherence to a defined medication regimen of antiplatelet therapy following Amplatzer™ Amulet™ occluder
+      implantation
+    • Clinical conditions may arise that require resumption of anticoagulation therapy following Amplatzer™ Amulet™ occluder
+      implantation
+    • The risk of the device implantation procedure plus post-procedure related bleeding weighed against the risk of bleeding on
+      long-term anticoagulation therapy
+
+
+MRI Safety Information
+     Non-clinical testing has demonstrated that the Amplatzer™ Amulet™ Left Atrial Appendage Occluder device is MR Conditional.
+     A patient with the Amplatzer™ Amulet™ device can be safely scanned in an MR system under the following conditions:
+        - Static magnetic fields of 1.5 Tesla (1.5T) and 3.0 Tesla (3.0T)
+        - Maximum spatial gradient field of 19 T/m (1900 G/cm)
+        - Maximum MR system reported, whole-body averaged specific absorption rate (SAR) of 2.0 W/kg (normal operating mode)
+     Under the scan conditions defined above, the device is expected to produce a maximum temperature rise of less than or equal
+     to 4°C after 15 minutes of continuous scanning.
+     In non-clinical testing, the image artifact caused by the device extends radially up to 20 mm from the device when imaged with
+     a gradient echo pulse sequence in a 3.0T MR system.
+
+Potential Adverse Events
+Potential adverse events associated with the device or implant procedure include, but are not limited to, the following:
+• Air embolism                                     • Hypertension/hypotension
+•    Airway trauma                                   •   Infection
+•    Allergic reaction                               •   Multi-organ failure
+•    Anemia                                          •   Myocardial infarction
+•    Anesthesia reaction (nausea, vasovagal          •   Perforation
+      reaction, confusion/altered mental status or   •   Pericardial effusion
+     other)                                          •   Pleural effusion
+•    Arrhythmia                                      •   Renal failure/dysfunction
+•    Atrial septal defect                            •   Respiratory failure
+•    Bleeding                                        •   Seizure
+•    Cardiac arrest                                  •   Significant residual flow
+•    Cardiac tamponade                               •   Stroke
+•    Chest pain/discomfort                           •   Thrombocytopenia
+•    Congestive heart failure                        •   Thromboembolism: peripheral and pulmonary
+•    Death                                           •   Thrombus formation
+•    Device embolization                             •   Transient ischemic attack
+•    Device erosion                                  •   Valvular regurgitation/insufficiency
+•    Device malfunction                              •   Vascular access site injury (hematoma,
+•    Device malposition                                   pseudoaneurysm, arteriovenous fistula,
+•    Device migration                                    groin pain, or other)
+•    Device-related thrombus                         •   Vessel trauma/injury
+•    Fever
+•    Hematuria
+
+Clinical Summary
+Design
+The Amplatzer™ Amulet™ Left Atrial Appendage Occluder IDE Trial (Amulet IDE Trial) was designed to evaluate the safety and
+effectiveness of the Amplatzer™ Amulet™ Left Atrial Appendage (LAA) Occluder to prevent embolization of thrombus from the LAA
+in patients with non-valvular atrial fibrillation. The Amulet IDE Trial was a global, prospective, multi-center, randomized (1:1),
+controlled, non-inferiority trial comparing the safety and effectiveness of the Amplatzer™ Amulet™ device to the FDA-approved and
+
+                                                                     4
+commercially available WATCHMAN™ LAA closure device (Boston Scientific Corporation, Minneapolis, MN, USA). The trial had an
+independent clinical events committee (CEC), independent echocardiography core laboratory, and an independent data and safety
+monitoring board (DSMB).
+Key inclusion criteria included:
+  • patients who were 18 years of age or older
+  • documented non-valvular atrial fibrillation
+  • deemed suitable for short-term Warfarin therapy, but deemed unable to take long-term anticoagulation therapy
+  • CHADS2 score > 2 or a CHA2DS2-VASc score of > 3
+All subjects underwent follow-up at discharge, 45 days, six months, 12 months, 18 months, and annually through five years.
+Implanted subjects underwent trans-esophageal echocardiography (TEE) evaluation at 45-day and 12-month visits.
+The primary mechanism of action endpoint was device closure (residual jet around the device ≤ 5 mm) as assessed by an
+independent core laboratory on TEE at the 45-day visit. The primary safety endpoint was a composite of procedure-related
+complications, all-cause death, or major bleeding (Type 3 or greater per Bleeding Academic Research Consortium (BARC)
+definition) at 12 months. The primary effectiveness endpoint was a composite of ischemic stroke or systemic embolism at
+18 months.
+The protocol required that Amplatzer™ Amulet™ subjects be discharged on either dual antiplatelet therapy (aspirin plus clopidogrel)
+or aspirin plus oral anticoagulation. WATCHMAN™ subjects were required to be discharged on aspirin plus warfarin. When LAA
+closure was confirmed (residual jet ≤ 5mm) at the 45-day visit, cessation of oral anticoagulation was required for all subjects.
+Subjects were then instructed to take aspirin plus clopidogrel until the 6-month visit. Cessation of clopidogrel was required at the
+6-month visit, and aspirin was to be continued indefinitely. In both groups, if residual jet was >5 mm at either visit, oral
+anticoagulation plus aspirin was required. If closure was not confirmed at the 12-month visit, oral anticoagulation therapy was left to
+the physician's discretion.
+Analysis Populations
+A total of 1878 subjects were randomized to receive either an Amplatzer™ Amulet™ device (N=934) or a WATCHMAN™ device
+(N=944) and represent the Intention-to-Treat (ITT) population (Table 1). A total of 915 of 934 subjects randomized to the
+Amplatzer™ Amulet™ device group and 916 of 944 subjects randomized to the WATCHMAN™ device group underwent an implant
+attempt with the device as randomized. Of these 1831 (915+916) subjects, 903 Amplatzer™ Amulet™ device subjects and 896
+WATCHMAN™ device subjects met protocol eligibility criteria; this group represents the Per Protocol (PP) population. The primary
+analyses of the primary safety and primary effectiveness endpoints are based on the PP and ITT populations, respectively. The
+number of subjects successfully implanted with the device as randomized (including reattempt procedures) was 903 for
+Amplatzer™ Amulet™ device group and 885 for WATCHMAN™ device group.
+
+Table 1. Analysis Populations
+
+                                      Amplatzer™ Amulet™ Device        WATCHMAN™ Device
+
+          Randomized (ITT)                       934                          944
+    Implant Attempt as Randomized                915                          916
+           Per Protocol (PP)                     903                          896
+   Successful Implant as Randomized              903                          885
+
+
+Baseline Characteristics and Medical History
+Table 2 presents the subject baseline characteristics and medical history. The average age in both groups was 75 years and
+approximately 60% of the subjects were male. There were no statistically significant differences in demographics and baseline
+characteristics between groups (p>0.05). Subjects had a mean CHA2DS2-VASc score of 4.5 and 4.7 in the Amulet™ device and
+WATCHMAN™ device groups, respectively. Mean HAS-BLED score was 3.2 for the Amulet™ device and 3.3 for the WATCHMAN™
+device.
+
+
+
+
+                                                                   5
+Table 2. Baseline Characteristics and Medical History – ITT Population
+
+                     Characteristics                          Amplatzer™ Amulet™ Device                 WATCHMAN™ Device               P-value
+                                                                       (N=934)                               (N=944)
+
+                                                                      75.0 ± 7.6 (934)                     75.1 ± 7.6 (944)
+Age (years)                                                                                                                            0.6802a
+                                                                        (38.0, 92.0)                         (46,0, 96.0)
+Gender:                                                                                                                                0.2583b
+    Male                                                              58.8% (549/934)                      61.3% (579/944)
+    Female                                                            41.2% (385/934)                      38.7% (365/944)
+Ethnicity
+    Hispanic or Latino                                                 2.8% (26/934)                        3.7% (35/944)              0.2588b
+Race                                                                                                                                   0.6306c
+    White                                                             89.7% (838/934)                      90.1% (851/944
+    Black or African American                                          2.2% (21/934)                        2.1% (20/944)
+    Asian                                                               0.4% (4/934)                         0.7% (7/944)
+    American Indian or Alaska Native                                    0.4% (4/934)                         0.2% (2/944)
+    Native Hawaiian or other Pacific Islander                           0.0% (0/934)                         0.3% (3/944)
+    Other                                                              1.1% (10/934)                         1.0% (9/944)
+    Declined or unable to disclose due to local regulation             6.1% (57/934)                        5.5% (52/944)
+AF Classification                                                                                                                      0.4292b
+    Paroxysmal                                                        56.5% (528/934)                      53.9% (509/944)
+    Persistent                                                        26.8% (250/934)                      29.3% (277/944)
+    Permanent                                                         16.7% (156/934)                      16.6% (157/944)
+                                                                       2.7 ± 1.1 (932)                      2.8 ± 1.2 (943)
+CHADS2 Score                                                                                                                           0.0867b
+                                                                            (1, 6)                               (1,6)
+                                                                       4.5 ± 1.3 (934)                      4.7 ± 1.4 (944)
+CHA2DS2-VASc Score                                                                                                                     0.2312b
+                                                                            (2,9)                                (2,9)
+                                                                       3.2 ± 1.0 (933)                      3.3 ± 1.0 (943)
+HAS-BLED Score                                                                                                                         0.1272b
+                                                                            (1, 7)                               (1, 6)
+History of TIA                                                        10.7% (100/934)                      12.0% (113/944)             0.3879b
+History of Stroke                                                     18.0% (168/934)                      19.9% (188/944)             0.2865b
+History of Major or Minor Bleeding                                    72.2% (674/934)                      71.5% (675/944)             0.7511b
+
+
+Continuous variables are reported are mean ± SD, (min, max) and categorical variables are reported as n/N (%).
+
+a. From t-test
+b. From Chi-square test
+c. From Fisher's exact test when Cochran's rule is not met.
+   NOTE: All p-values displayed are two-tailed and not from pre-specified hypothesis testing and are displayed for information only.
+
+
+
+
+                                                                                    6
+Follow-up Medication
+The distribution of antithrombotic medical regimen on the day of discharge and on the day prior to each scheduled follow-up visit in
+the two groups is presented in Figure 3.
+
+
+
+
+Figure 3. Antithrombotic Medication Usage (Successful Implant as Randomized)
+
+
+Mechanism of Action Primary Endpoint at 45 Days
+The Amplatzer™ Amulet™ device was non-inferior to the WATCHMAN™ device for the mechanism of action endpoint (98.9% vs
+96.8%; p<0.0001 for non-inferiority). No residual jet around the device was observed in 63% of Amplatzer™ Amulet™ device
+subjects and 46% of WATCHMAN™ device subjects. Flow >0 mm and ≤ 5 mm was observed in 36% of Amplatzer™ Amulet™
+device subjects and 51% of WATCHMAN™ device subjects. A small percentage of subjects (1% Amplatzer™ Amulet™ device
+subjects and 3% WATCHMAN™ device subjects) had residual jet > 5 mm.
+
+Table 3. Mechanism of Action Primary Endpoint
+
+                                                                                    97.5% Lower             P-value
+                        Amplatzer™ Amulet™ Device        WATCHMAN™ Device            Confidence          (Non-inferiority          Result
+                                 (N=903)                      (N=885)               Bound (LCB)           margin: -3%)
+
+Primary Mechanism of                 98.9%                       96.8%
+                                                                                        0.41%               <0.0001                 Pass
+Action Endpoint                    (792/801)                   (767/792)
+
+Residual jet around the device ≤ 5 mm at the 45-day visit documented by transesophageal echocardiogram defined by Doppler flow. The lower confidence bound
+was calculated by the Farrington Manning method.
+
+Primary Safety Endpoint at 12 Months
+The Amplatzer™ Amulet™ device was also shown to be non-inferior to the WATCHMAN™ device for the primary safety endpoint at
+12 months (14.5% vs. 14.7%, p=0.0002 for non-inferiority; Table 4). Individual components of the primary safety endpoint are shown
+in Table 5.
+Procedure-related complications, defined as adverse events adjudicated by the CEC as procedure-related and requiring either
+invasive surgical or percutaneous intervention, occurred in 63 subjects (41 Amplatzer™ Amulet™ device subjects and 22
+WATCHMAN™ device subjects). The primary drivers for the higher rate of procedure-related complications in the
+Amplatzer™ Amulet™ device group were device embolization and pericardial effusion. Bleeding events that were adjudicated by
+the CEC as BARC Type 3 or greater occurred in 183 subjects (95 Amplatzer™ Amulet™ device subjects and 88 WATCHMAN™
+device subjects). As shown in Table 5, the majority of major bleeding events in both groups (7.9% for the Amplatzer™ Amulet™
+device group and 8.0% for the WATCHMAN™ device group) were not procedure-related. A total of 80 subjects (35
+Amplatzer™ Amulet™ device subjects, 45 WATCHMAN™ device subjects) in the PP population died within 12 months of the
+procedure.
+The rate of procedure-related complications and major bleeding was numerically higher in the Amplatzer™ Amulet™ device group,
+while the rate of all-cause death was numerically higher in the WATCHMAN™ device group.
+
+
+                                                                             7
+Table 6 summarizes the first event that each subject experienced that met the primary safety endpoint as a procedure related
+complication. Pericardial effusion events within two days of the procedure occurred in about the same number of subjects in the two
+groups, however, pericardial effusion events that occurred > 2 days post procedure (i.e., late pericardial effusion) occurred more
+commonly in Amplatzer™ Amulet™ device subjects than WATCHMAN™ device subjects.
+
+Table 4. Primary Safety Endpoint (PP Population)
+
+                                                                                                                        P-value
+                                 Amplatzer™ Amulet™ Device        WATCHMAN™ Device             97.5% Upper           (Non-inferiority   Result
+                                          (N=903)                      (N=896)               Confidence Limit         margin: 5.8%)
+
+                                           14.5%                           14.7%
+Primary Safety Endpoint                                                                            3.13%                 0.0002         Pass
+                                          (n=131)                         (n=130)
+
+Kaplan-Meier method was used to estimate the event rate (number of subjects with events).
+
+Table 5. Individual Components of the Primary Safety Endpoint (PP Population)
+
+                                               Amplatzer™ Amulet™ Device                      WATCHMAN™ Device
+                                                        (N=903)                                    (N=896)
+
+Procedure-related Complication                           4.5% (n=41)                               2.5% (n=22)
+[95% Confidence Interval]                              [3.37%, 6.12%]                             [1.62%, 3.71%]
+Major Bleeding (BARC Type 3 or greater)                 10.6% (n=95)                               10.0% (n=88)
+[95% Confidence Interval]                              [8.78%, 12.83%]                           [8.17%, 12.15%]
+    Procedure-related Major Bleeding                     3.1% (n=28)                               2.1% (n=19)
+    [95% Confidence Interval]                          [2.16%, 4.47%]                             [1.36%, 3.31%]
+    Non-procedure-related Major Bleeding                 7.9% (n=70)                               8.0% (n=70)
+    [95% Confidence Interval]                          [6.27%, 9.84%]                             [6.37%, 9.98%]
+All-Cause Death                                          3.9% (n=35)                               5.1% (n=45)
+[95% Confidence Interval]                              [2.82%, 5.40%]                             [3.86%, 6.81%]
+
+Kaplan-Meier method is used to estimate the event rate (number of subjects with events). Categories are not mutually exclusive.
+
+Table 6. Procedure-Related Complications at 12 Months (PP Population; First Event)
+
+                          Event Description                              Amplatzer™ Amulet™ (N=903)             WATCHMAN™ (N=896)
+
+Pericardial Effusion/Tamponade 0-2 days post-procedure                                  12                                10
+Pericardial Effusion/Tamponade >2 days post-procedure                                   10                                 1
+Device Embolization                                                                     6                                  2
+Vascular Access-Related Complications                                                   3                                  3
+Air Embolus                                                                             0                                  2
+Cardiac Perforation                                                                     1                                  1
+Esophageal Laceration and Rupture                                                       1                                  1
+Hematoma                                                                                1                                  1
+Pleural Effusion                                                                        2                                  0
+Third Degree Heart Block/Asystole                                                       1                                  1
+Acute Peritonitis                                                                       1                                  0
+Gastrointestinal Bleeding                                                               1                                  0
+Hematuria                                                                               1                                  0
+Inferior Myocardial Infarction                                                          1                                  0
+Ischemic Stroke                                                                         0                                  1
+Peripheral Arterial Occlusion                                                           1                                  0
+Total Number of Subjectsa                                                               41                                22
+
+a. One Amplatzer™ Amulet™ subject experienced both pericardial effusion and pleural effusion on POD 20. One Watchman™ subject
+   experienced both air embolism and ischemic stroke on POD 0. Therefore, these totals are not equal to the sum of the numbers in the
+   rows above.
+
+
+Primary Effectiveness Endpoint at 18 Months
+The Amplatzer™ Amulet™ device was shown to be non-inferior to the WATCHMAN™ device for the primary effectiveness endpoint
+at 18 months (2.8% vs. 2.8%, p<0.0001 for non-inferiority; Table 7). Individual components of the primary effectiveness endpoint are
+shown in Table 8. Ischemic stroke occurred in 44 subjects (22 Amplatzer™ Amulet™ device subjects and 23 WATCHMAN™ device
+
+
+                                                                                    8
+subjects). Systemic embolism events occurred in 5 subjects (3 Amplatzer™ Amulet™ device subjects and 2 WATCHMAN™ device
+subjects). One WATCHMAN™ device subject experienced both an ischemic stroke and a systemic embolism.
+
+Table 7. Primary Effectiveness Endpoint (ITT Population)
+
+                                                                                                                         P-value
+                                  Amplatzer™ Amulet™ Device WATCHMAN™ Device                    97.5% Upper           (Non-inferiority   Result
+                                           (N=934)               (N=944)                      Confidence Limit         margin: 5.8%)
+
+Primary Effectiveness Endpoint              2.8% (n=25)                 2.8% (n=24)                 1.55%                  <.0001        Pass
+
+Kaplan-Meier method was used to estimate the event rate (number of subjects with events).
+
+Table 8. Individual Components of the Primary Effectiveness Endpoint (ITT Population)
+
+                                               Amplatzer™ Amulet™ Device                     WATCHMAN™ Device
+                                                        (N=934)                                   (N=944)
+
+Ischemic Stroke                                           2.5% (n=22)                             2.7% (n=23)
+[95% Confidence Interval]                             [1.63%, 3.73%]                             [1.78%, 4.01%]
+Systemic Embolism                                         0.3% (n=3)                               0.2% (n=2)
+[95% Confidence Interval]                             [0.11%, 1.04%]                             [0.06%, 0.92%]
+
+Kaplan-Meier method is used to estimate the event rate (number of subjects with events). Categories are not mutually exclusive.
+
+Device-Related Thrombus
+As shown in Table 9, the incidence of device-related thrombus at 18 months was 3.3% for the Amplatzer™ Amulet™ device (30
+subjects) and 4.5% for the WATCHMAN™ device (40 subjects). The majority of device-related thrombus events were identified
+during regular scheduled follow-up. No Amplatzer™ Amulet™ device subjects with device-related thrombus experienced an
+ischemic stroke or systemic embolism. Two (2) WATCHMAN™ device subjects with a device-related thrombus experienced an
+ischemic stroke and/or systemic embolism.
+
+Table 9. Device-Related Thrombus at 18 Months (Successful Implant as Randomized)
+
+                                               Amplatzer™ Amulet™ Device                     WATCHMAN™ Device
+                                                        (N=903)                                   (N=885)
+
+Device-related Thrombus                                3.3% (30/903)                             4.5% (40/885)
+[95% Confidence Interval]a                            [2.25%, 4.71%]                             [3.25%, 6.10%]
+
+a. determined by Clopper Pearson Exact method
+
+Summary and Conclusion
+In conclusion, non-inferiority of the Amplatzer™ Amulet™ device was demonstrated for all three primary endpoints. The high rate of
+implant success, a 12-month all-cause mortality rate of 3.9%, along with a low rate of ischemic stroke or systemic embolism at
+18 months (2.8%) demonstrate that the Amplatzer™ Amulet™ device is a safe and effective option for non-valvular atrial fibrillation
+patients at elevated risk of stroke with appropriate rationale to seek a non-pharmacologic alternative to oral anticoagulation.
+
+Directions for Use
+Materials recommended for use with the Amplatzer™ Amulet™ Left Atrial Appendage Occluder
+  • Amplatzer™ Guidewire (9-GW-002)
+  • 35-cc syringe
+  • Delivery sheath with inner diameter appropriate for device size (see Table 1 in Appendix A: Supplemental Information).
+        NOTE: The Amplatzer™ Amulet™ Left Atrial Appendage Occluder is recommended for use with an Amplatzer™ brand
+        sheath.
+        NOTE: Do not oversize or undersize the delivery sheath. Follow the recommended sizes listed in Table 1 of the Appendix.
+Procedure
+      NOTE: Procedures guided by intracardiac echocardiography (ICE) should be preceded by a transesophageal
+      echocardiography (TEE, preferably 3D) or cardiac CT to measure the left atrial appendage.
+    1. Evaluate the patient using TEE or ICE to rule out the presence of intracardiac thrombus (including left atrial appendage
+       thrombus) and presence of pericardial effusion.
+    2. Prepare the patient for a standard transcatheter procedure, potentially including administration of oral antiplatelet
+       medication. Effective anticoagulation therapy should be maintained during and after the procedure as determined by the
+       physician. After a transseptal puncture is performed, maintain a recommended activated clotting time (ACT) of 250–350
+       seconds until the procedure is complete.
+    3. Perform a transseptal puncture.
+
+                                                                                9
+ 4. Gain access to the left atrium and place the Amplatzer™ Guidewire into the left upper pulmonary vein.
+    CAUTION: Use caution when advancing the guidewire.
+ 5. Use angiography, TEE (preferably 3D), or pre-procedural cardiac CT to measure the left atrial appendage, including the
+    depth of the left atrial appendage (shown as Y in Table 2, in Appendix A) and the maximum width of the orifice (shown as Z
+    in Table 2 in Appendix A). Image the left atrial appendage until it is clearly visible.
+    - Identify and measure the left atrial appendage at the landing zone (defined as a minimum of 10–12 mm from the orifice) for
+      the device lobe (shown as X in Table 2 in Appendix A: Supplemental Information) to determine the appropriate device size
+      to occlude the left atrial appendage.
+    - Consider using two imaging modalities to inform sizing. Use the maximum landing zone measurement if using 2D TEE or
+      angiography and mean landing zone measurement if using 3D TEE or pre-procedural CT. When choosing between two
+      sizes, consider depth and orifice measurements, confirming the orifice measurement (shown as Z in Table 2 of Appendix A:
+      Supplemental Information) is less than the disc size of the selected device and there is sufficient depth. See Table 2 in
+      Appendix A to determine the appropriate device size to occlude the left atrial appendage.
+    WARNING: Do not implant the device if the measurements of the left atrial appendage do not fall within the sizing
+    chart in Table 2 of Appendix A.
+    NOTE: Ensure the measurement system is appropriately calibrated.
+ 6. Prepare the delivery sheath for use according to the manufacturer’s instructions for use.
+ 7. Prepare the Amplatzer™ Amulet™ Left Atrial Appendage Occluder and delivery assembly for use:
+    - Inspect the sterile pouch and verify that it is unopened and undamaged. Do not use the device or delivery assembly if the
+       sterile barrier has been compromised.
+    - Gently open the sterile packaging and inspect the components for damage. Do not use damaged or kinked components.
+    - Remove the delivery cable and device from packaging.
+ 8. If desired, slide the delivery cable vise over the delivery cable. Tighten the delivery cable vise onto the delivery cable.
+ 9. Connect the hemostasis valve to the loader hub and turn the rotating luer to tighten.
+10. Advance the device until the distal end screw is flush with the distal end of the loader.
+11. Ensure the device is attached to the delivery cable by rotating the delivery cable vise clockwise until resistance is felt.
+12. Fill a 35-cc syringe with sterile saline. Connect the syringe to the hemostasis valve. Submerse device in sterile saline. Flush
+    sterile saline through the loader and simultaneously tighten the hemostasis valve onto the delivery cable. Fill the syringe and
+    flush sterile saline through the loader 2 more times.
+    NOTE: During additional flushing, ensure air does not enter the system.
+    NOTE: The loader tubing may be massaged to help remove air.
+    NOTE: During steps 12 – 16, make sure the tip of the loader is submerged in sterile saline at all times so air does not enter
+    the loader.
+13. Fully retract the syringe plunger while holding the syringe body. Allow time for sterile saline to completely fill the syringe
+    (optional).
+14. Advance the syringe plunger to force sterile saline through the loader.
+    NOTE: During this process, a small amount of air may accumulate in the syringe. Ensure the syringe is held upright and no
+    air is introduced back into the loader.
+15. Flush the device again using steps 13 and 14.
+    NOTE: If air is visible in the loader, additional flush steps may be performed as described in steps 12–15 or the device may
+    be removed from the loader and disconnected from the delivery cable. Reload the device by performing steps 33 – 42.
+    WARNING: Do not retract the device.
+16. Retract the plunger to fill the syringe with sterile saline to accommodate fluid-to-fluid connection with the delivery sheath.
+17. Advance the dilator and delivery sheath over the guidewire into the left upper pulmonary vein or left atrium. Remove the
+    dilator and guidewire and advance a pigtail catheter or advance the device and partially deploy the lobe (as shown in
+    Figure 4). Advance the sheath and pigtail catheter or partially deployed lobe into the left atrial appendage.
+    WARNING: Use caution when advancing the dilator and sheath to prevent trauma.
+18. If a 14 Fr delivery sheath was selected for use with a 16 mm – 25 mm device, tightly connect the 14 Fr sheath adaptor to the
+    delivery sheath hub.
+    WARNING: Proximal adaptor end is only compatible with supplied loader fitting. Do not flush or aspirate with any
+    other accessories.                                  10
+19. Allow blood backflow to purge all air from the delivery sheath assembly by holding the hub below the plane of the patient’s
+    body.
+  20. Immediately connect the loader to the delivery sheath in a fluid-to-fluid fashion and tighten the rotating luer.
+  21. Slightly loosen the hemostasis valve. Introduce the device into the delivery sheath and advance the device to the tip of the
+      delivery sheath. Look for air bubbles when advancing. If air is present, allow backflow to purge air from the delivery sheath
+      assembly.
+       WARNING: Aspirating is not recommended because air can be introduced into the system.
+       WARNING: Do not rotate the delivery cable when advancing the device through the delivery sheath.
+  22. Use fluoroscopy and/or echocardiography to guide the device into the left atrial appendage.
+       WARNING: If the device needs to be retracted after this point, the device and sheath must both be removed and
+       replaced.
+       NOTE: Delivery cable connection can be checked by rotating the delivery cable/delivery cable vise clockwise until resistance
+       is felt.
+  23. Hold the delivery cable in place while retracting the delivery sheath to partially expose the lobe (see Figure 4). If necessary,
+      adjust the position of the sheath and lobe for alignment.
+
+
+                                               D
+
+
+
+
+Figure 4. Deploying the lobe
+  24. Continue to deploy the lobe by pushing the cable forward and/or pulling the sheath back until the lobe is fully deployed within
+      the left atrial appendage at the intended landing zone.
+       CAUTION: Do not advance the delivery cable or the sheath after the lobe is fully deployed.
+  25. The device lobe should be perpendicular with the axis of the left atrial appendage at the intended landing zone
+      (see Figure 5).
+
+
+
+
+Figure 5. Proper device placement in the left atrial appendage
+  26. Maintain a slight tension on the delivery cable while retracting the delivery sheath to expose the disc. The device disc should
+      cover the orifice. Do not leave a gap between the orifice and the disc (see Figure 6).
+
+
+
+
+                                                                  11
+Figure 6. Improper device placement
+
+
+
+
+Figure 7. Improper device sizing and placement
+  27. Confirm proper device placement using echocardiography and fluoroscopy following CLOSE methodology. Indications of
+      proper device placement include:
+       - C At least 2/3 of the device lobe should be distal to the left Circumflex artery on echocardiography (see Figure 8).
+       - L The device Lobe should be slightly compressed and have good apposition to the left atrial appendage wall.
+       - O The Orientation of the device lobe must be in line with the axis of the intended landing zone in the left atrial appendage.
+         See Figures 5, 6, and 8.
+       - S The disc must be Separated from the lobe (see Figure 5).
+       - E The disc will have a concave (Elliptical) shape.
+       NOTE: Figure 7 shows device over-sizing (A and B) and device not in line with the axis (C). Under these circumstances,
+       consideration should be given to device repositioning or replacement with a different size device.
+
+
+
+
+Figure 8. Proper device placement relative to circumflex artery
+
+
+
+
+                                                                  12
+     28. If device repositioning is required:
+          - Partially recapture the device by maintaining tension on the delivery cable and readvancing the delivery sheath to retrieve
+            the disc and part of the lobe until the platinum thread marker is aligned with the distal edge of the delivery sheath’s marker
+            band (see Figure 4). Do not retract the device any farther to prevent damaging the delivery sheath.
+          WARNING: If the device is retracted farther than the radiopaque markers, do not readvance the device or perform
+          injections. The device and the delivery sheath must both be removed and replaced.
+          - Reposition and redeploy the device (see steps 22 – 27).
+          NOTE: The device can be partially recaptured and redeployed a maximum of three times. If the device position is still
+          unsatisfactory, then remove and replace both the device and the sheath.
+     29. Perform echocardiography and fluoroscopy to confirm that the device is in place.
+     30. When proper device placement is confirmed the device may be released:
+          - Detach the device by turning the delivery cable/delivery cable vise counter-clockwise.
+          CAUTION: Do not exceed eight rotations. If difficulty occurs while attempting to release the device, stop and release
+          the built-up tension. Advance the cable until it is perpendicular with the device and attempt to release.
+     31. Remove the delivery cable and the delivery sheath from the patient.
+     32. Perform echocardiography and fluoroscopy to confirm that the device remains in place.
+Device Reloading Procedure
+  33. Insert loading cable through the distal loader tip.
+     34. Attach distal end screw to loading cable.
+     35. Rotate the loading cable vise clockwise until resistance is felt, ensuring that the loading cable is secured to the device.
+     36. Immerse the device and hub end of loader in sterile saline to remove air from both components. Device may be massaged to
+         help remove air.
+     37. Pull the loading cable vise until the lobe is fully retracted within the loader, but stop before the disc is loaded.
+     38. Connect the delivery cable to the exposed proximal end screw of the device. Grasp the loader and device and rotate the
+         delivery cable clockwise to thread the device onto the delivery cable. Stop rotating the delivery cable when resistance is felt.
+     39. Immerse the device in sterile saline.
+     40. Pull the loading cable vise until the device is loaded into the proximal end of the loader.
+          NOTE: Do not pull the device to the distal end of the loader.
+     41. Remove the loading cable by rotating the loading cable vise counterclockwise.
+     42. Return to Step 9.
+
+Post-Procedure Instructions
+     • Monitor the patient overnight. Perform a transthoracic echocardiogram (TTE) to make sure the device is in the correct position
+       and no pericardial effusion is present before the patient is discharged.
+     • Aspirin and clopidogrel (or an alternate antiplatelet agent) is recommended for patients for six months post-implant. The
+       decision to continue antiplatelet therapy (such as aspirin alone) after six months is at the discretion of the physician.
+     • Oral anticoagulation is not recommended unless residual flow around the device is >5mm1.
+     • Patients should take appropriate endocarditis prophylaxis for six months following device implantation. The decision to continue
+       endocarditis prophylaxis beyond six months is at the discretion of the physician.
+     • Instruct the patient when to seek medical attention.
+     • Provide routine standard of care follow-up2, including echocardiography, for evaluation of residual shunt and adverse events
+       (such as thrombus formation and pericardial effusion).
+
+Disposal
+     • The carton and instructions for use are recyclable. Dispose of all packaging materials as appropriate.
+     • Device accessories can be returned to Abbott Medical for disposal. Contact an Abbott Medical representative or
+       returns@amplatzer.com for instructions.
+     • Use solid biohazard waste procedures to discard devices.
+
+
+
+
+1.   See Clinical Summary and Warnings (above) for medication recommendation for the trial and association between oral anticoagulation and late pericardial effusion.
+2.   In the clinical study, rare late pericardial effusion events associated with discharge oral anticoagulation were reported within six months following the procedure.
+
+                                                                                    13
+Warranty
+Abbott Medical warrants to buyer that, for a period equal to the validated shelf life of the product, this product shall meet the product
+specifications established by the manufacturer when used in accordance with the manufacturer's instructions for use and shall be
+free from defects in materials and workmanship. Abbott Medical's obligation under this warranty is limited to replacing or repairing at
+its option, at its factory, this product if returned within the warranty period to Abbott Medical and after confirmed to be defective by
+the manufacturer.
+EXCEPT AS EXPRESSLY PROVIDED IN THIS WARRANTY, ABBOTT MEDICAL DISCLAIMS ANY REPRESENTATION OR
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY AS TO MERCHANTABILITY OR FITNESS
+FOR A PARTICULAR PURPOSE.
+See the Terms and Conditions of Sale for further information.
+
+State of California (USA) Only:
+          WARNING: This product can expose you to chemicals including ethylene oxide, which is known to the State of
+          California to cause cancer and birth defects or other reproductive harm. For more information, go to
+       www.P65Warnings.ca.gov.
+
+
+
+
+                                                                   14
+Appendix A: Supplemental Information
+
+Table 1. Device and delivery sheath dimensions (sold separately)
+                                          1
+
+
+
+
+                                                                2
+
+
+
+                                          3
+
+
+
+
+                                 Device             Device             Device
+                               Dimension          Dimension          Dimension
+                                   1                  2                  3
+
+                                                                                                                   mm        mm
+                                    mm                 mm                 mm                                 Fr                       cm
+                                                                                                                   (in)      (in)
+     9-ACP2-007-016                  22                 7.5                16
+     9-ACP2-007-018                  24                 7.5                18            9-TV45X45-12F-080   12     4.0       4.8
+                                                                                                                  (0.157)   (0.189)   80
+     9-ACP2-007-020                  26                 7.5                20                         or
+                                                                                                                    4.7       5.5
+     9-ACP2-007-022                  28                 7.5                22            9-TV45X45-14F-080   14   (0.184)   (0.215)
+     9-ACP2-010-025                  32                 10                 25
+     9-ACP2-010-028                  35                 10                 28
+                                                                                                                    4.7       5.5
+     9-ACP2-010-031                  38                 10                 31                                14                       80
+                                                                                         9-TV45X45-14F-080        (0.184)   (0.215)
+     9-ACP2-010-034                  41                 10                 34
+
+Table 2. Sizing chart
+
+
+
+
+                                                                                     3
+
+
+
+     Landing Zone           Distance from           Device Size (Lobe
+        Width                   Orifice                Diameter)
+          Xa                      Y                         3                       Device Order Number
+         mm                        mm                         mm
+      11.0 - 13.0                   10                       16                         9-ACP2-007-016
+      13.0 - 15.0                   10                       18                         9-ACP2-007-018
+      15.0 - 17.0                   10                       20                         9-ACP2-007-020
+      17.0 - 19.0                   10                       22                         9-ACP2-007-022
+      19.0 - 22.0                   12                       25                         9-ACP2-010-025
+      22.0 - 25.0                   12                       28                         9-ACP2-010-028
+      25.0 - 28.0                   12                       31                         9-ACP2-010-031
+      28.0 - 31.0                   12                       34                         9-ACP2-010-034
+a.    The landing zone is where the lobe of the device will be placed in the left atrial appendage.
+
+
+
+
+                                                                                      15
+        ™ Indicates a trademark of the Abbott group of companies.
+‡ Indicates a third-party trademark, which is property of its respective owner.
+                     Pat. http://www.abbott.com/patents
+                     ©2021 Abbott. All Rights Reserved.
+
+
+
+
+                                                              Abbott Medical
+                                                              5050 Nathan Lane North
+                                                              Plymouth, MN 55442 USA
+                                                              +1 855 478 5833
+                                                              +1 651 756 5833
+FROM:   TO:
+                              FRONT                                               Header:
+                                                                                  Brandon Grotesque Medium, 9pt       BACK      Header:
+                                                                                                                                Brandon Grotesque Bold, 7pt
+Brand Bar:
+Abbott Primary Blue                                                                                                          MRI Safety Information:
+
+Horizontal Signature:                                                  Patient Identification Card                           Non-clinical testing has demonstrated that the
+                                                                                                                             Amplatzer™ Amulet™ Left Atrial Appendage Occluder device is MR Conditional.
+0.83in Wide                                                                                                                  A patient with the Amplatzer™ Amulet™ can be safely scanned in an MR system under the
+                                                                                                                             following conditions:
+                                  PATIENT:    JANE A. DOE                                                                    • Static magnetic fields of 1.5 Tesla (1.5T) and 3.0 Tesla (3.0T).
+                                  DEVICE:     0123456789                                                                     • Maximum spatial gradient field of 19 T/m (1900 G/cm).
+                                                                                                                             • Maximum MR system reported, whole-body averaged specific absorption rate (SAR) of 2.0
+Titles:
+Brandon Grotesque Bold, 6pt
+                                  SERIAL/LOT NUMBER
+                                  123456789
+                                                             MODEL NUMBER
+                                                             1234
+                                                                                      IMPLANT DATE
+                                                                                      21/MAR/2018
+                                                                                                            2.13 in          W/kg (normal operating mode)
+                                                                                                                             Under the scan conditions defined above, the device is expected to produce a maximum
+Abbott Primary Blue                                                                                                          temperature rise of less than or equal to 4ºC after 15 minutes of continuous scanning.
+                                                                                                                             In non-clinical testing, the image artifact caused by the device extends radially up to 20mm
+Patient Name;                                                                                                                from the device when imaged with a gradient echo pulse sequence in 3.0T MR system.
+Calibri Bold, 12pt
+
+Body Text:                        IMPLANTING PHYSICIAN: JANE SMITH                                                                  Abbott Medical
+Calibri Regular, 7-8pt            HOSPITAL:     AUSTIN TX 78705-1103                                                                5050 Nathan Lane North
+                                                                                                                                    Plymouth, MN 55442 USA
+                                  600162936 B     medical.abbott/manuals
+
+
+
+
+                                                                                                                                                                    3.38 in                                                 0.13 R
+                                                                                                                              Body Text:
+                                                                                                                              Brandon Grotesque Medium, 6pt                                                                 (REF)
+FROM:
+
+
+
+            A
+
+
+                B
+
+
+
+TO:
+
+
+
+
+        A           B
+               FRONT                                                                                                           BACK
+                            medical.abbo /manuals                             +1 651 756 5833
+                                                                              +1 855 478 5833
+                                                                              Plymouth, MN 55442 USA
+                                                                              5050 Nathan Lane North
+                                                                              Abbott Medical
+
+                                          Left Atrial Appendage Occluder                                                                                                                                                              2.000 in
+                                                                                                                                                                                                                                                                                                  Patient Identification Card
+                                                                                                                                                                                                                                                                                              EL
+                                                                                                                                                                                                                                      +/- .050                       CardioMEMS
+                                                                                                                                                                                                                                                                                           TM
+                                      Amplatzer Amulet
+                                                                                                                                                                                                                                                                                            B
+                                                                                                                                                                                                                                                                                                            1904-01-31Follow instructions
+
+                                                                                                                                                                                                                                                                                        L A
+                                                                                                                                                                                                                                                                  MRPA
+                                                                                                                                                                                                                                                                     Conditional        Manufacturer
+                                                                                                                                                                                                                                                                       Sensor and Delivery System
+
+                                                                                                                                                                                                                                                                                     LE
+                               TM                                           TM                                                                                                                                                                                                                              Model    for use on this
+
+
+
+                                                                                                                                                                                                                                                           SAMP Amulet
+                                                                                                                                                                                                                                                                                                            medical.abbo�/manuals
+
+                                                                                                                                                                                                                                                                                                            98765432website
+
+                                                                                                                                                                                                                                                         Amplatzer
+                                                                                                                                                                                                                                                                                                                 TM
+
+
+
+                                                                                                                                                                                                                                                                                                T
+                                                                                                                                                                                                                                                                                         TM                 12345-67890
+                                                                                                                                                                                                                                                                  Patient
+                                                                                                                                                                                                                                                               (01)01234567890123(17)040131(21)98765432                             Healthcare Center
+
+
+
+                                                                                                                                                                                                                                                                                              N
+                                                                                                                                                                                                                                                                                           Date
+                                                                                                                                                                                                                                                                 Identification                                                     or Physician
+
+
+
+                                                                                                                                                                                                                                                                                            O
+                   Patient Identification Card
+                                                                                                                                                                                                                                                          LeftPhysician
+                                                                                                                                                                                                                                                               Atrial Appendage    Occluder
+
+                                                                                                                                                                                                                                                                              FR
+                                                                                                                                                                                                                                                                           Unique Device
+                                                                                                                                                                                                                                                                                                                                Use By Date
+                                                                                                                                                                                                                                                                Telephone              Identifier
+                                                                                                                                                                                                                                                                 Abbott Medical
+                                                                                                                                                                                                                                                                        1.5T & 3.0T
+                                                                                                                                                                                                                                                                  5050 Nathan Lane North
+                                                                                                                                                                                                                                                               Catalogue                                                     Serial
+                                                                                                                                                                                                                                                                        (SJMprofessional.com/CardioMEMS)
+                                                                                                                                                                                                                                                                   Plymouth, MN 55442 USA
+                                                                                                                                                                                                                                                               Number                                                        Number
+                                                                                                                                                                                                                                                                   +1 855 478 5833
+                                                                                                                                                                                                                                                                    +1 651 756 5833                                         medical.abbo�/manuals
+                                                                                                                                                                                                                                                         Cardioversion/defibrillation can be performed safely
+
+ 6.250 in                                                                                                                                                                                                                             2.187 in
+ (REF)                                                                                                                              The carrier of this card has been treated with an implantable device.                             +/- .050
+                                                                                                                                    MedicAlert‡ members – contact MedicAlert to register your device
+                                                                                                                                    information. To enroll or register your device in MedicAlert‡, call
+                                                                                                                                    +1.888.633.4298 or enroll online at www.medicalert.org.
+                                                                                                                                    ™ Indicates a trademark of the Abbott group of companies.
+                                                                                                                                    ‡ Indicates a third party trademark, which is property of its respective owner.
+                                                                                                600162937 A
+
+
+
+
+                                                                                                                                                                                                                                                                                              K
+                                                                                                                                                                                                                                                          around sensor implant.
+
+
+
+
+                                                                                                                                                                                                                                                                                            C
+                                                                                                                                                                                                                                                         may be localized beam hardening artifact
+
+
+
+
+                                                                                                                                                                                                                                                                                          A
+                                                                                                                                                                                                                                                         and gluroscopy. Under CT imaging, there
+                                                                                                                                                                                                                                                         The sensor is visible under plain film X-ray
+
+
+
+
+                                                                                                                                                                                                                                                                                  B
+                                                                                                                                    MRI Safety Information:
+                          Number                                                               Number
+                                                                                                                                    Non-clinical testing has demonstrated that the                                                                        prevent sensor dislodgement.
+                                                                                                                                    Amplatzer™ Amulet™ Left Atrial Appendage Occluder device is MR Conditional.
+                          Serial                                                               Catalogue                                                                                                                                                  performed under fluroscopic guidance to
+                                                                                                                                    A patient with the Amplatzer™ Amulet™ can be safely scanned in an MR system                                           All right heart catheterizations must be
+                                                                  Identifier                   Telephone                            under the following conditions:                                                                                      implanted in the distal pulmonary artery.
+                      Use By Date
+                                                                  Unique Device                Physician                            • Static magnetic fields of 1.5 Tesla (1.5T) and 3.0 Tesla (3.0T).
+                                                                                                                                    • Maximum spatial gradient field of 19 T/m (1900 G/cm).
+                                                                                                                                                                                                                                      2.063 in           CAUTION: There is a hemodynamic sensor
+
+
+                or Physician                                                                Identification
+                                                                                                                                    • Maximum MR system reported, whole-body averaged specific absorption rate (SAR) of 2.0
+                                                                                                                                    W/kg (normal operating mode)
+                                                                                                                                                                                                                                      +/- .050
+                                                                          Date
+                Healthcare Center                                                           Patient                                 Under the scan conditions defined above, the device is expected to produce a maximum                                                                                                              600162937 A
+                                                                                                                                    temperature rise of less than or equal to 4ºC after 15 minutes of continuous scanning.
+                website                                                                                                             In non-clinical testing, the image artifact caused by the device extends radially up to 20mm
+                for use on this
+                                          medical.abbo /manuals
+                                                                  Manufacturer            MR Conditional                            from the device when imaged with a gradient echo pulse sequence in 3.0T MR system.
+                Follow instructions
+
+
+
+
+                                                                    3.375 in                                       0.125 R
+
+                                                                                                                                                                                                       Document
+                                                                                                              DO NOT PRINT LINES:                                                                                            Ver.      Description
+                                                                                                                                                                                                        Number
+                                                                                                                                           Crease Perforation
+                                                                                                                                                                                                                                    Amulet PMA Temp ID
+                                                                                                                                                                                                      600162937                A
+                                                                                                                                           Cut                                                                                      Card
+PMS 2925C PMS 1235C       White                  Cool Gray 1C                     Black
+

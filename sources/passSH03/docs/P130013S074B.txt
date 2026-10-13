@@ -1,0 +1,1909 @@
+     SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I.     GENERAL INFORMATION
+
+       Device Generic Name: Left Atrial Appendage Closure System
+
+       Device Trade Name: WATCHMAN FLX™ Left Atrial Appendage (LAA) Closure
+                          Technology
+
+                             WATCHMAN FLX™ Left Atrial Appendage Closure Device with
+                             Delivery System
+
+                             WATCHMAN FLX™ Pro Left Atrial Appendage Closure Device
+                             with Delivery System
+
+       Device Procode: NGV
+
+       Applicant’s Name and Address: Boston Scientific Corporation
+                                     One Scimed Place
+                                     Maple Grove, MN 55311
+
+       Date(s) of Panel Recommendation: None
+
+       Premarket Approval Application (PMA) Number: P130013/S074
+
+       Date of FDA Notice of Approval: July 16, 2025
+
+       The Original PMA (P130013) for the WATCHMAN® LAA Closure Technology was
+       approved on March 13, 2015. The device was initially indicated to reduce the risk of
+       thromboembolism from the left atrial appendage (LAA) in patients with non-valvular
+       atrial fibrillation who:
+           • Are at increased risk for stroke and systemic embolism based on CHADS2 or
+                CHA2DS2-VASc scores and are recommended for warfarin therapy;
+           • Are deemed by their physicians to be suitable for warfarin therapy; and
+           • Have an appropriate rationale to seek a non-pharmacologic alternative to warfarin
+                therapy, taking into account the safety and effectiveness of the device compared
+                to warfarin therapy.
+
+       The SSED to support the indication is available on the CDRH website and is incorporated
+       by reference here: https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130013b.pdf
+
+       A PMA Supplement (P130013/S035) was submitted to include a modified version of the
+       WATCHMAN Left Atrial Appendage Closure Device with Delivery System, referred to
+       as the WATCHMAN FLX™ Left Atrial Appendage Closure Device with Delivery
+       System, and to expand the indication to include patients who are recommended and
+       suitable for anticoagulation therapy other than warfarin.
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                         Page 1
+       The SSED to support the indication is available on CDRH website and is incorporated by
+       reference here: https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130013S035B.pdf
+
+       The current PMA Supplement (S074) was submitted to expand the Indications for Use
+       for the WATCHMAN FLX™ Left Atrial Appendage Closure Device with Delivery
+       System and WATCHMAN FLX™ Pro Left Atrial Appendage Closure Device with
+       Delivery System. The expanded Indications for Use are specific to patients who have
+       undergone a catheter ablation for non-valvular atrial fibrillation and receive a
+       WATCHMAN FLX™ or WATCHMAN FLX™ Pro Device (concomitantly or
+       sequentially). Additionally, the PMA Supplement updates the post-implant drug regimen
+       to allow physicians the option of prescribing non-vitamin K oral anticoagulant (NOAC)
+       alone to patients who have received the device.
+
+II.    INDICATIONS FOR USE
+
+       The WATCHMAN FLX™ Device and the WATCHMAN FLX™ Pro Device are
+       indicated to reduce the risk of thromboembolism from the left atrial appendage in
+       patients with non-valvular atrial fibrillation who:
+          • Are at increased risk for stroke and systemic embolism based on CHA2DS2-VASc
+             scores and are recommended for anticoagulation therapy;
+         • Are deemed by their physicians to be suitable for anticoagulation therapy; and
+         • Have an appropriate rationale to seek a non-pharmacologic alternative to
+           anticoagulation therapy, taking into account the safety and effectiveness of the
+           device compared to anticoagulation therapy.
+
+       Following catheter ablation for non-valvular atrial fibrillation (concomitantly or
+       sequentially with WATCHMAN FLX™ or WATCHMAN FLX™ Pro implantation):
+
+       The WATCHMAN FLX™ Device and WATCHMAN FLX™ Pro Device are indicated
+       to reduce the risk of thromboembolism from the left atrial appendage in patients with
+       non-valvular atrial fibrillation who:
+         • Are at increased risk for stroke and systemic embolism based on CHA2DS2-VASc
+             scores and are recommended for anticoagulation therapy;
+         • Are deemed by their physicians to be suitable for anticoagulation therapy.
+
+III.   CONTRAINDICATIONS
+
+       Do not use the WATCHMAN FLX™ Device or the WATCHMAN FLX™ Pro Device if:
+        • Intracardiac thrombus is present.
+        • An atrial septal defect repair or closure device is present.
+        • A patent foramen ovale repair or closure device is present.
+        • The LAA anatomy will not accommodate a Closure Device.
+        • The patient has a known hypersensitivity to any portion of the device material or
+            the individual components (see Device Description section) such that the use of the
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                         Page 2
+            WATCHMAN FLX™ Device or WATCHMAN FLX™ Pro Device is
+            contraindicated.
+        •   Any of the customary contraindications for other percutaneous catheterization
+            procedure (e.g., patient size too small to accommodate TEE probe or required
+            catheters) or conditions (e.g., active infection, bleeding disorder) are present.
+        •   There are contraindications to the use of anticoagulation therapy, aspirin, or P2Y12
+            inhibitor.
+
+IV.   WARNINGS AND PRECAUTIONS
+
+      The warnings and precautions can be found in the WATCHMAN FLX™ LAA Closure
+      Device with Delivery System and WATCHMAN FLX™ Pro LAA Closure Device with
+      Delivery System labeling.
+
+V.    DEVICE DESCRIPTION
+
+      The WATCHMAN FLX™ and WATCHMAN FLX™ Pro Devices are self-expanding
+      nitinol (nickel-titanium alloy) structures with a polyethylene terephthalate (PET) porous
+      membrane on the proximal face. Fixation anchors are located on the outer edge of the
+      frame struts to provide stabilization in situ. Reference Figure 1 for image representation
+      of the WATCHMAN FLX™ and WATCHMAN FLX™ Pro Devices in situ.
+      The WATCHMAN FLX™ and WATCHMAN FLX™ Pro Devices are pre-loaded in a
+      Delivery System (Delivery Catheter and Closure Device) which permits Closure Device
+      placement in the left atrial appendage (LAA) via femoral venous access and interatrial
+      septum crossing into the left atrium. The Delivery Catheter is a 12 Fr reinforced catheter
+      with a distal radiopaque marker band for in situ visualization. Within the Delivery
+      System is a threaded core wire which provides the mechanism for deployment and
+      release or recapture of the Closure Device.
+      The Closure Devices are designed to be permanently implantable in the LAA for a non-
+      surgical closure of the LAA to reduce the risk of thromboembolism from the LAA. The
+      WATCHMAN FLX™ LAA Closure Devices are available in 5 sizes, 20 mm, 24 mm, 27
+      mm, 31 mm, and 35 mm. The WATCHMAN FLX™ Pro LAA Closure Devices are
+      available in the same 5 sizes but have an additional 40 mm size. Appropriate Closure
+      Device sizing is determined by LAA measurements using fluoroscopy and
+      echocardiographic guidance during the procedure or using cardiac CT or transesophageal
+      echocardiography during pre-procedural planning. Reference Table 1 for Device Sizing
+      information.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                          Page 3
+                                  Table 1: Device Sizing
+                  WATCHMAN FLX™                             WATCHMAN FLX™ Pro
+          Device Size (mm) Max LAA Ostium            Device Size (mm) Max LAA Ostium
+                                (mm)                                       (mm)
+                 20          14.0 – 18.0                    20          14.0 – 18.0
+                 24          16.8 – 21.6                    24          16.8 – 21.6
+                 27          18.9 – 24.3                    27          18.9 – 24.3
+                 31          21.7 – 27.9                    31          21.7 – 27.9
+                 35          24.5 – 31.5                    35          24.5 – 31.5
+                N/A              N/A                        40          28.0 – 36.0
+
+
+      The WATCHMAN FLX™ Pro Device is based on the WATCHMAN FLX™ Device
+      with the addition of a HEMOCOATTM Technology coating on the PET fabric and three
+      tantalum radiopaque (RO) markers at the plane of maximum diameter of the implant to
+      aid in fluoroscopic assessment.
+
+
+
+
+     Figure 1a: WATCHMAN FLX™ Device              Figure 1b: WATCHMAN FLX™ Pro Device
+
+
+
+
+              Figure 1c: WATCHMAN FLX™ Device In Situ at the Ostium of the LAA
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                    Page 4
+VI.   ALTERNATIVE PRACTICES AND PROCEDURES
+
+      There are several other alternatives for reducing the risk of thromboembolism from the
+      left atrial appendage in patients with non-valvular atrial fibrillation.
+
+      Oral anticoagulants effectively reduce the risk of cardioembolic stroke and are the most
+      commonly used treatments in at-risk patients with non-valvular atrial fibrillation.
+
+      Other treatment options include occlusion of the left atrial appendage via commercially
+      available transcatheter occluders, surgical clips, or surgical suturing.
+
+      Each alternative has its own advantages and disadvantages. A patient should fully discuss
+      these alternatives with his/her physician to select the method that best meets expectations
+      and lifestyle.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                         Page 5
+VII.   MARKETING HISTORY
+
+       As of October 4, 2024, the WATCHMAN FLX™ LAA Closure Device with Delivery
+       System is commercially available in the following countries as listed within Table 2.
+
+          Table 2: Countries Where WATCHMAN FLX™ LAA Closure Device
+                    with Delivery System is Commercially Available
+        Albania             Algeria             Andorra              Argentina
+        Australia           Austria             Belarus              Belgium
+        Brazil              Brunei              Bulgaria             Canada
+                            Darussalam
+        Chile               China               Colombia             Costa Rica
+        Croatia             Cyprus              Czech Republic       Denmark
+        Dominican           Ecuador             Egypt                Estonia
+        Republic
+        Finland             France              Georgia              Germany
+        Great Britain       Greece              Guam                 Hong Kong
+        Hungary             Iceland             India                Indonesia
+        Ireland             Israel              Italy                Japan
+        Jamaica             Jordan              Kazakhstan           Kenya
+        Kuwait              Latvia              Lebanon              Kosovo
+        Liechtenstein       Lithuania           Luxembourg           Macau
+        Malaysia            Malta               Mauritius            Mexico
+        Morocco             Nicaragua           Netherlands          New Zealand
+        Norway              Oman                Pakistan             Panama
+        Paraguay            Peru                Poland               Portugal
+        Qatar               Romania             Russian Federation   Saudi Arabia
+        Serbia              Singapore           Slovakia             Slovenia
+        South Africa        South Korea         Spain                Sweden
+        Switzerland         Taiwan              Thailand             Trinidad,
+                                                                     Tobago
+        Tunisia             Turkey              United Arab          United States
+                                                Emirates
+        Venezuela           Uruguay
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                        Page 6
+      As of October 4, 2024, the WATCHMAN FLX™ Pro LAA Closure Device with
+      Delivery System is commercially available in the following countries as listed within
+      Table 3.
+
+     Table 3: Countries Where WATCHMAN FLX™ Pro is Commercially Available
+       Canada                        Guam                          Japan
+       Hong Kong                     Kuwait                        Macau
+       Taiwan                        United States
+
+      Neither WATCHMAN FLX™ nor WATCHMAN FLX™ Pro have been withdrawn from
+      marketing for any reason related to its safety or effectiveness.
+
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+      Below is a list of the potential adverse effects (e.g., complications) which may be
+      associated with the use of a left atrial appendage closure device or the implantation
+      procedure.
+      • Air embolism
+      • Airway trauma
+      • Allergic reaction to contrast media, anesthetic, WATCHMAN implant material, or
+          medication
+      • Altered mental status
+      • Anemia requiring transfusion
+      • Anesthesia risks
+      • Angina
+      • Anoxic encephalopathy
+      • Arrhythmias
+      • Atrial septal defect
+      • Bruising, hematoma, or seroma near the catheter insertion site
+      • Cardiac perforation
+      • Chest pain/discomfort
+      • Confusion post procedure
+      • Congestive heart failure
+      • Contrast related nephropathy
+      • Cranial bleed
+      • Death
+      • Decreased hemoglobin
+      • Deep vein thrombosis
+      • Device embolism
+      • Device fracture
+      • Device thrombosis
+      • Edema
+      • Embolism
+      • Excessive bleeding
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                        Page 7
+      •   Fever
+      •   Fistula
+      •   Groin pain
+      •   Groin puncture bleed
+      •   Hematuria
+      •   Hemoptysis
+      •   Hypotension
+      •   Hypoxia
+      •   Improper wound healing
+      •   Inability to reposition, recapture, or retrieve the device
+      •   Infection/pneumonia
+      •   Interatrial septum thrombus
+      •   Intratracheal bleeding
+      •   Major bleeding requiring transfusion
+      •   Misplacement of the device/improper seal of the appendage/movement of device
+          from appendage wall
+      •   Myocardial erosion
+      •   Myocardial infarction
+      •   Nausea
+      •   Oral bleeding
+      •   Pericardial effusion/tamponade
+      •   Pleural effusion
+      •   Prolonged bleeding from a laceration
+      •   Pseudoaneurysm
+      •   Pulmonary edema
+      •   Radiation injury
+      •   Renal failure
+      •   Respiratory insufficiency/failure
+      •   Stroke - Hemorrhagic
+      •   Stroke - Ischemic
+      •   Surgical removal of the device
+      •   TEE complications (e.g., throat pain, bleeding, esophageal trauma)
+      •   Thrombocytopenia
+      •   Thrombosis
+      •   Transient ischemic attack (TIA)
+      •   Valvular or vascular damage
+      •   Vasovagal reactions
+
+      For the specific adverse events that occurred in the clinical studies, please see Section X
+      below.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                          Page 8
+IX.    SUMMARY OF NON-CLINICAL STUDIES
+
+       No new nonclinical (laboratory or animal) studies were submitted or required for the
+       approval of the expanded indication or alternative post-implant drug regimen proposed
+       within this PMA Supplement for the WATCHMAN FLX™ LAA Closure Device with
+       Delivery System or the WATCHMAN FLX™ Pro LAA Closure Device with Delivery
+       System. Reference the previous SSEDs cited in Section I details regarding tests
+       previously performed.
+
+
+X.     SUMMARY OF PRIMARY CLINICAL STUDIES
+
+       The applicant performed a clinical study to establish a reasonable assurance of safety and
+       effectiveness of left atrial appendage closure with the WATCHMAN FLX™ Left Atrial
+       Appendage Closure Devices with Delivery System for reducing the risk of
+       thromboembolism from the left atrial appendage in patients with non-valvular atrial
+       fibrillation following catheter ablation for non-valvular atrial fibrillation (concomitantly
+       or sequentially with WATCHMAN FLX™ implantation) and:
+           • Are at increased risk for stroke and systemic embolism based on CHA2DS2-VASc
+                scores and are recommended for anticoagulation therapy;
+           • Are deemed by their physicians to be suitable for anticoagulation therapy
+
+       This clinical study was conducted in the US, Australia, Belgium, Denmark, France,
+       Germany, Italy, Netherlands, Poland, Spain under IDE # G180270. Data from this
+       clinical study were the basis for the PMA approval decision. A summary of the clinical
+       study is presented below.
+
+       Since the WATCHMAN FLX™ Pro Closure Device with Delivery System and its
+       predecessor (WATCHMAN FLX™) share similar designs and the same principle of
+       operation, the clinical data of the WATCHMAN FLX™ Closure Device with Delivery
+       System can be leveraged to support the performance of the WATCHMAN FLX™ Pro
+       Closure Device with Delivery System for the proposed indication.
+
+      A. OPTION
+       A. Study Design
+          Patients were treated between June 11, 2019 and July 16, 2021. The database for this
+          Panel Track Supplement reflected data collected through July 24, 2024 and included
+          1600 randomized patients. There were 114 investigational sites. The study was a
+          prospective, randomized, multicenter, randomized clinical study. The control group
+          was catheter ablation for non-valvular atrial fibrillation followed by indefinite oral
+          anticoagulation (OAC) therapy.
+
+           Patients with non-valvular atrial fibrillation who were deemed by their physicians to
+           be suitable for oral anticoagulation (OAC) therapy to reduce the risk of ischemic
+           stroke and systemic embolism were included in this study. All subjects underwent
+           catheter ablation either 90-180 days prior to randomization (sequential) or within 10
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                           Page 9
+         days following randomization (concomitant). The planned ablation type, concomitant
+         or sequential, must have been specified prior to randomizing the subject. Subjects
+         were randomized (1:1) to receive either a WATCHMAN FLX™ LAAC device or
+         oral anticoagulation (control group) following ablation, and both groups were
+         followed through 36 months. Randomization was stratified by sequential vs.
+         concomitant ablation timing to help ensure balance of treatment assignments within
+         these subgroups. However, subjects were not randomized to concomitant versus
+         sequential groups within the same treatment arm. The study was not powered nor
+         designed for a direct comparison between concomitant and sequential cohorts for
+         patients undergoing WATCHMAN FLX™ LAAC.
+
+         This study utilized an independent data and safety monitoring committee to oversee
+         trial safety and conduct, a clinical events committee to adjudicate all outcome events,
+         and an independent core laboratory to assess all imaging.
+
+         1. Clinical Inclusion and Exclusion Criteria
+            Enrollment in the OPTION study was limited to patients who met the following
+            inclusion criteria:
+
+             1. The subject is of legal age to participate in the study per the laws of their
+                respective geography.
+             2. Underwent a prior catheter ablation procedure for non-valvular atrial
+                fibrillation (AF) between 90 and 180 days prior to randomization (sequential)
+                or is planning to have clinically indicated catheter ablation within 10 days of
+                randomization (concomitant).
+             3. The subject has a calculated CHA2DS2-VASc score of 2 or greater for males
+                or 3 or greater for females.
+             4. The subject is deemed by the treating physician to be suitable for the protocol
+                defined pharmacologic regimens.
+             5. The subject is able to undergo transesophageal echocardiography (TEE)
+                examinations.
+             6. The subject or legal representative is able to understand and is willing to
+                provide written informed consent to participate in the trial.
+             7. The subject is able and willing to return for required follow-up visits and
+                examinations.
+
+             Patients were not permitted to enroll in the OPTION study if they met any of the
+             following exclusion criteria:
+
+             1. The subject is currently enrolled in another investigational study that would
+                directly interfere with the current study, except when the subject is
+                participating in a mandatory governmental registry, or a purely observational
+                registry with no associated treatments. Each instance must be brought to the
+                attention of the sponsor to determine eligibility, regardless of type of co-
+                enrollment being proposed.
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                         Page 10
+             2. The subject requires long-term anticoagulation therapy for reasons other than
+                 AF-related stroke risk reduction, for example due to an underlying
+                 hypercoagulable state (i.e., even if the device is implanted, the subjects would
+                 not be eligible to discontinue oral anticoagulation (OAC) due to other medical
+                 conditions requiring chronic OAC therapy).
+             3. The subject is deemed by the treating physician to be unsuitable for chronic
+                 anticoagulation and/or aspirin therapy due to bleeding risk, allergy, or other
+                 reasons.
+             4. The subject had or is planning to have any cardiac or major non-cardiac
+                 interventional or surgical procedure (excluding non-valvular AF ablation and
+                 cardioversion) within 30 days prior to or 60 days after randomization
+                 [including, but not limited to: percutaneous coronary intervention, other
+                 cardiac ablation (ventricular tachycardia (VT) ablation, etc.), etc.].
+             5. The subject had a stroke or transient ischemic attack (TIA) within the 60 days
+                 prior to randomization.
+             6. The subject had a prior major bleeding event per International Society on
+                 Thrombosis and Haemostasis (ISTH) definition within the 14 days prior to
+                 randomization. Lack of resolution of related clinical sequelae or planned and
+                 pending interventions to resolve bleeding/bleeding source, are a further
+                 exclusion regardless of timing of the bleeding event.
+             7. The subject has had a myocardial infarction documented in the clinical record
+                 as either a non-ST elevation myocardial infarction (MI) or as an ST-elevation
+                 MI, with or without intervention, within 90 days prior to randomization.
+             8. The subject has a history of atrial septal repair or has an atrial septal defect
+                 (ASD)/patent foramen ovale (PFO) device.
+             9. The subject has an implanted mechanical valve prosthesis in any position.
+             10. The subject is of childbearing potential and is, or plans to become pregnant
+                 during the time of the study (method of assessment upon study physician’s
+                 discretion)
+             11. The subject has a documented life expectancy of less than two years.
+             12. The subject has a cardiac tumor.
+             13. The subject has signs/symptoms of acute or chronic pericarditis.
+             14. There is evidence of tamponade physiology.
+             15. The subject has contraindications (anatomical or medical) to percutaneous
+                 catheterization procedures.
+             16. The subject has documented New York Heart Association (NYHA) Class IV
+                 heart failure.
+             17. The subject has documented surgical closure of the left atrial appendage.
+             18. The subject has an active infection.
+
+             After signature of the informed consent and prior to randomization, all enrolled
+             subjects underwent a transthoracic echocardiographic (TTE) evaluation to
+             confirm eligibility. Subjects who met any one of the following echocardiographic
+             exclusion criteria were excluded and were not randomized:
+
+             1. The subject has left ventricular ejection fraction (LVEF) < 30%
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                         Page 11
+                   2. The subject has an existing pericardial effusion with a circumferential echo-
+                      free space >5mm.
+                   3. The subject has a high- risk patent foramen ovale (PFO) with an atrial septal
+                      aneurysm excursion > 15mm or length > 15mm.
+                   4. The subject has a high-risk PFO with a large shunt defined as early, within 3
+                      beats and/or substantial passage of bubbles.
+                   5. The subject has significant mitral valve stenosis (i.e., area <1.5 cm2).
+
+
+             2. Follow-up Schedule
+                All patients were scheduled to return for follow-up examinations at 3 months, 12
+                months, 24 months, and 36 months following randomization.
+
+                  Pre-procedurally, the following procedures/assessments were performed or
+                  collected for patients: informed consent process, including consent signature date,
+                  demographics, physical assessment, medical history, ablation information,
+                  transthoracic echocardiography, optional brain imaging, serum creatinine or
+                  Glomerular Filtration Rate (GFR)/Estimated Glomerular Filtration Rate (eGFR),
+                  platelet count and hemoglobin level, National Institutes of Health (NIH) Stroke
+                  Scale, Quality of Life (QoL) (EuroQol five-dimensional(EQ-5D)/SF12),
+                  medication regimen review, and adverse event assessment. Post-procedurally, the
+                  objective parameters measured during the study included the following in Table 5.
+
+                     Table 4: Study Event Schedule Procedures and Assessments
+                                                                                                       Follow-up Schedulef
+                                                                    Index Procedure
+                                                  Baseline
+
+                                                                                                          Follow- up
+
+
+                                                                                                                       Follow- up
+
+
+                                                                                                                                    Follow- up
+                                                                                                          12-Month
+
+
+                                                                                                                       24-Month
+
+
+                                                                                                                                    36-Month
+                                                                  (Ablation Procedure
+                                                                                           Follow-up
+                                                                                            3-Month
+
+
+           Procedure/Assessment              Assessment (Prior
+                                                                    ± WATCHMAN
+                                             to Randomization
+                                                                          FLX)
+
+Informed consent process, including
+                                                     X                    --               --         --        --                     --
+consent signature date
+Demographics                                         X                    --               --         --        --                     --
+Physical assessment                                  X              DG and CC              X          X         X                      X
+Medical history                                      X                    --               --         --        --                     --
+Ablation Information                                 X                  CC                 O          O         O                      O
+Device Information                                   --                 DG                 --         --        --                     --
+Procedure information and discharge
+                                                                    DG and CC
+assessment
+TTE                                                 X  c                  --               --         --        --                     --
+Pre-procedure LAA imaging (TEE or CT)                --                 DGd                --         --        --                     --
+Implant procedure TEE/ICE                            --                 DG
+Follow-up LAA imaging (TEE or CT)                    --                   --              DGa        DGa        O                      O
+Brain Imaging (CT or MRI)                           O  b                 O  b              O b        Ob        Ob                     Ob
+Serum Creatinine or GFR/eGFR                         X                    --               --         --        --                     --
+Platelet count and Hemoglobin level                  X                    --               --         --        --                     --
+NIH Stroke Scale                                     X                    --               X          X         X                      X
+Modified Rankin Scalee                               X                    --               X          X         X                      X
+QoL (EQ-5D/SF12)                                     X                    --               --         X         --                     X
+Medication Regimen Review                            X                    X                X          X         X                      X
+AE assessment / device deficiency
+                                                     X                    X                X          X         X                      X
+monitoring (as applicable)
+                   X = All subjects; DG = Device Group; CC = Concomitant; O = Optional, data is collected if available
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                                                Page 12
+            a: Implant subjects only (does not include Intent or Attempt subjects)
+            b: For subjects with prior stroke or TIA, prior MRI/CT scans may have been requested by BSC. For subjects
+            who had a neurologic event during the trial, a copy of prior MRI/CT scans and MRI/CT scans from the event
+            may have been requested.
+            c: The baseline TTE was done to evaluate all exclusion criteria to confirm subject eligibility. Other recent
+            cardiac imaging may have been used to evaluate exclusion criteria if available in the subject’s medical record.
+            d: Pre-procedure LAA imaging (TEE or CT) was required for ICE-guided WATCHMAN FLX™ implants and
+            optional for TEE-guided WATCHMAN FLX™ implants
+            e: Modified Rankin Scale may have been completed via telehealth or phone at the discretion of certified ,
+            trained study personnel.
+            f: Physical exam and NIH stroke scale may not have bene completed remotely if the follow-up visit was
+            conducted via phone. QoL may have been completed remotely if phone interview script was utilized.
+            Abbreviations: AE: Adverse Event; CT: computed tomography; MRI: magnetic resonance imaging; TEE:
+            Transesophageal echocardiogram; TTE: transthoracic echocardiogram
+
+            Adverse events and complications were recorded at all visits.
+
+            The key timepoints are shown below in the tables summarizing safety and
+            effectiveness.
+
+         3. Clinical Endpoints
+            The primary analysis population was the intent-to-treat population with each
+            patient analyzed as being part of their randomized group regardless of the actual
+            treatment received.
+
+            Primary Safety
+            With regards to safety, the primary safety endpoint was the occurrence of non-
+            procedural bleeding which includes International Society on Thrombosis and
+            Haemostasis (ISTH) major bleeding and clinically relevant non-major bleeding
+            through 36 months.
+
+            The objective of the primary safety endpoint analysis was to test the null
+            hypothesis that time-to-event distributions do not differ between the Device and
+            Control groups. The null hypothesis was to be tested vs. the 2-sided alternative
+            hypothesis that the time-to-event curves are different. The hypothesis for the
+            primary safety endpoint was as follows:
+
+                       H0: S1(t) = S0(t)
+                       Ha: S1(t) ≠ S0(t),
+
+            where S1(t) and S0(t) are the time-to-event curves for ISTH major bleeding and
+            clinically relevant non-major bleeding of the Device and Control groups,
+            respectively.
+
+            A sample of 1280 patients was estimated to provide the trial with 86% power to
+            show superiority of LAAC versus oral anticoagulation with regard to the primary
+            safety end point assuming a rate of 14% in the LAAC group and 20% in the OAC
+            group. A sample size of 1600 patients was chosen to allow for withdrawals and
+            loss to follow-up. Testing for superiority at a two-sided alpha level of 0.05 was
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                                Page 13
+            performed with a log rank P value based on the Kaplan-Meier estimation. All
+            subjects in the randomized cohort were included in the analysis.
+
+            Primary Effectiveness
+            With regards to effectiveness, the primary effectiveness endpoint was the
+            occurrence of stroke (including ischemic and/or hemorrhagic), all-cause death, and
+            systemic embolism at 36 months.
+
+            The objective of the primary effectiveness endpoint analysis was to test the null
+            hypothesis that the difference in cumulative incidence between the Device and
+            Control groups is greater than a prespecified noninferiority margin δ. The null
+            hypothesis was to be tested vs. the one-sided alternative hypothesis that the
+            difference in cumulative incidence is less than a noninferiority margin δ. The
+            hypothesis for the primary effectiveness endpoint was as follows:
+
+                    H0: S1(t) ≥ S0(t) + δ
+                    Ha: S1(t) < S0(t) + δ,
+
+            where S1(t) and S0(t) are the Kaplan Meier estimates for the cumulative incidence
+            of stroke (including ischemic and/or hemorrhagic), all-cause death, and systemic
+            embolism at 36 months for the Device and Control groups, respectively, and δ is a
+            noninferiority margin of 5%.
+
+            The 97.5% one-sided upper bound of confidence limit of the difference between
+            WATCHMAN FLX™ and Control rates was to be calculated using Greenwood
+            formula for the variance of the Kaplan Meier estimates. The objective was to be
+            met if this confidence limit is less than the predefined noninferiority margin.
+
+            If the non-inferiority hypothesis objective is met and the observed event rate favors
+            the Device arm, i.e., S1(t) < S0(t), a superiority test was to be subsequently
+            performed.
+
+            The trial was also powered to detect noninferiority with respect to the primary
+            effectiveness end point. It was assumed that 10% of the patients in each group
+            would have a primary effectiveness endpoint event. A noninferiority margin of 5%
+            was chosen, which represents a relative risk of 1.5. With 1600 patients, the trial
+            provides more than 85% power to show noninferiority on the basis of the
+            Farrington–Manning test at a one-sided type I error of 0.025. The study was
+            considered successful if superiority testing of the primary safety end point and
+            noninferiority testing of the primary effectiveness end point were met.
+
+            Secondary Endpoint
+            The secondary endpoint was the occurrence of ISTH major bleeding (including
+            procedural bleeding) at 36 months.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                         Page 14
+            This endpoint was defined as the Kaplan Meier estimates of time to first
+            occurrence of major bleeding at 36 months and was to be tested for non-inferiority
+            of WATCHMAN to Control.
+
+            If study success was met, this endpoint would be tested for noninferiority. With an
+            assumed 11% rate in each cohort of patients and noninferiority margin of 5.25%,
+            1600 patients provided 84% power to show noninferiority on the basis of the
+            Farrington–Manning test at a one-sided type I error of 0.025. If the non-inferiority
+            hypothesis objective was met, a superiority test would subsequently be performed
+            as part of hierarchical testing and a one-sided p-value of 0.025 will be considered
+            significant.
+
+            The objective of the secondary endpoint analysis was to test the null hypothesis
+            that the difference in cumulative incidence between the Device and Control groups
+            is greater than a prespecified noninferiority margin δ. The null hypothesis was to
+            be tested vs. the one-sided alternative hypothesis that the difference in cumulative
+            incidence is less than a noninferiority margin δ. The hypothesis for the secondary
+            endpoint is as follows:
+
+                    H0: S1(t) ≥ S0(t) + δ
+                    Ha: S1(t) < S0(t) + δ,
+
+            where S1(t) and S0(t) are the Kaplan Meier estimates for cumulative incidence of
+            all ISTH major bleeding at 36 months for the Device and Control groups,
+            respectively, and δ is a noninferiority margin of 5.25%
+
+            Study Success
+            To avoid multiplicity issues for additional statistical tests, a hierarchical order for
+            the hypothesis tests and a testing significance level of a one-sided alpha of 0.025
+            for all hypotheses was used. Testing was performed in the following steps with
+            each step needing to reject the null hypothesis in order to proceed to the next step:
+
+                 1. Superiority testing of the primary safety endpoint and non-inferiority
+                    testing of the primary efficacy endpoint,
+                 2. Non-inferiority testing of the secondary endpoint,
+                 3. Superiority testing of the secondary endpoint and
+                 4. Superiority testing of the primary efficacy endpoint.
+
+            The study was to be considered successful if superiority testing of the primary
+            safety endpoint and non-inferiority testing of the primary effectiveness endpoint
+            were both met.
+
+      B. Accountability of PMA Cohort
+         At the time of database lock, 1600 patients were enrolled in the PMA study.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                            Page 15
+                      All results described here pertain to the main cohort, intention-to-treat analysis set.
+                      Table 6 shows the accountability of participants during the study.
+
+                                                 Table 5: Study Visit Compliance
+                                                                                                    WATCHMAN FLX™
+                                         Visit                         Control (n=797)
+                                                                                                        (n=803)
+                      3-month                                          94.8% (754/795)               96.1% (772/803)
+                      12-month                                         90.5% (714/789)               94.3% (751/796)
+                      24-month                                         89.9% (698/776)               93.6% (737/787)
+                      36-month                                         89.0% (679/763)               92.2% (714/774)
+                      Values presented are % (# visits observed / # visits expected).
+
+
+              C. Study Population Demographics and Baseline Parameters
+                   The demographics of the study population are typical for a nonvalvular atrial
+                   fibrillation study performed in the US. Subject demographics and risk factors are
+                   summarized in Table 7, Table 8, and Table 9.
+
+                                   Table 6: OPTION Baseline Subject Demographics
+                                                                               OPTION
+ Demographic                   Primary Analysis
+                      Intent-to-Treat (Combined Concomitant
+                                and Sequential Arms)        Concomitant Arm Subgroup (N=654)*          Sequential Arm Subgroup (N=946)†
+                                   (N=1600)
+                      WATCHMAN FLX™        Control    WATCHMAN FLX™                    Control        WATCHMAN FLX™            Control
+                          (N=803)         (N=797)          (N=328)                     (N=326)             (N=475)             (N=471)
+ Age, years             69.7±7.4 (803) 69.4±7.9 (797)   70.1±7.6 (328)              70.0±7.3 (326)      69.3±7.2 (475)      69.1±8.3 (471)
+                         (39.0, 86.0)   (32.0, 87.0)     (43.0, 86.0)                (38.0, 87.0)        (39.0, 86.0)        (32.0, 87.0)
+Sex
+                              35.2%             33.0%                36.9%                31.9%              34.1%              33.8%
+ Female
+                            (283/803)         (263/797)            (121/328)            (104/326)          (162/475)          (159/471)
+                              64.8%             66.9%                63.1%                67.8%              65.9%              66.2%
+ Male
+                            (520/803)         (533/797)           (207/328)             (221/326)          (313/475)          (312/471)
+                              0.0%               0.1%                0.0%                  0.3%               0.0%              0.0%
+ Intersex
+                             (0/803)           (1/797)              (0/328)              (1/326)            (0/475)            (0/471)
+Race / Ethnicity
+ American Indian               0.2%               0.1%              0.0%                 0.3%                 0.4%               0.0%
+ or Alaskan                   (2/803)            (1/797)           (0/328)               (1/326)            (2/475)             (0/471)
+                               0.5%               0.1%              0.3%                 0.0%                 0.6%               0.2%
+ Asian
+                              (4/803)            (1/797)           (1/328)               (0/326)            (3/475)             (1/471)
+ Black / African               1.7%               1.4%              2.4%                 0.3%                 1.3%               2.1%
+ American                    (14/803)           (11/797)           (8/328)               (1/326)            (6/475)            (10/471)
+                               83.8%              86.1%             77.7%                80.4%               88.0%               90.0%
+ Caucasian
+                            (673/803)          (686/797)         (255/328)              (262/326)          (418/475)          (424/471)
+                               1.6%               1.5%              1.2%                 0.9%                 1.9%               1.9%
+ Hispanic / Latino
+                             (13/803)           (12/797)           (4/328)               (3/326)            (9/475)             (9/471)
+ Hawaiian / Pacific            0.0%               0.0%              0.0%                 0.0%                 0.0%               0.0%
+ Islander                     (0/803)            (0/797)           (0/328)               (0/326)            (0/475)             (0/471)
+                               0.4%               0.4%              0.0%                 0.3%                 0.6%               0.4%
+ Other
+                              (3/803)            (3/797)           (0/328)               (1/326)            (3/475)             (2/471)
+AF Pattern
+                              59.4%              62.9%              48.8%                 43.3%              65.1%              67.1%
+ Paroxysmal AF
+                            (477/803)          (501/797)          (160/328)             (141/326)          (309/475)          (316/471)
+
+
+      PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                                       Page 16
+                           40.6%             37.1%             51.2%              56.7%           34.9%            32.9%
+Persistent AF
+                         (326/803)         (296/797)         (168/328)          (185/326)       (166/475)        (155/471)
+Permanent AF               N/A               N/A                N/A                N/A            N/A              N/A
+Paced AF                   N/A               N/A                N/A                N/A            N/A              N/A
+Unknown                    N/A               N/A               N/A                 N/A            N/A              N/A
+  *defined as concomitant ablation and LAAC within 10 days of randomization in the WATCHMAN FLX™ arm and as ablation
+  within 10 days of randomization in the control arm
+  †defined as ablation 90 to 180 days before LAAC in WATCHMAN FLX™ patients and as ablation occurring 90 to 180 days
+  before randomization in control patients
+
+                                 Table 7: OPTION CHA2DS2-VASc Score and Components
+                                                                  Control                   WATCHMAN FLX™
+                          Measure
+                                                                  (n=797)                       (n=803)
+           CHA2DS2-VASc score                                  3.5±1.3 (797)                  3.5±1.3 (803)
+                                                                 (1.0, 8.0)                     (1.0, 8.0)
+                 1                                             0.9% (7/797)                    0.6% (5/803)
+                 2                                           21.0% (167/797)                 21.5% (173/803)
+                 3                                           32.0% (255/797)                 31.8% (255/803)
+                 4                                           24.2% (193/797)                 25.3% (203/803)
+                 5                                           14.3% (114/797)                 13.3% (107/803)
+                 6                                             6.0% (48/797)                  5.7% (46/803)
+                 7                                             1.5% (12/797)                  1.4% (11/803)
+                 8                                             0.1% (1/797)                    0.4% (3/803)
+                 9                                             0.0% (0/797)                    0.0% (0/803)
+           CHF                                               26.5% (211/797)                 26.9% (216/803)
+           Hypertension                                      88.0% (701/797)                 89.8% (721/803)
+           Age 65-74                                         54.5% (434/797)                 54.5% (438/803)
+           Age ≥75                                           26.2% (209/797)                 27.4% (220/803)
+           Diabetes                                          27.7% (221/797)                 27.6% (222/803)
+           Previous stroke, TIA, or TE                       12.5% (100/797)                  10.3% (83/803)
+           Vascular disease                                  47.7% (380/797)                 44.1% (354/803)
+           Female sex                                        33.0% (263/797)                 35.2% (283/803)
+           Data are Mean ± SD (n) [min, max] or % (n’/n).
+           Abbreviations: CHF=congestive heart failure; LV=left ventricle; TIA=transient
+           ischemic attack; TE=thromboembolism
+
+
+
+
+  PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                               Page 17
+                         Table 8: OPTION HAS-BLED Score and Components
+                                                           Control        WATCHMAN FLX™
+                          Measure
+                                                           (n=797)            (n=803)
+       HAS-BLED score                                    1.2±0.8 (797)      1.2±0.8 (803)
+                                                           (0.0, 5.0)         (0.0, 4.0)
+            0                                           14.7% (117/797)    18.4% (148/803)
+            1                                           56.3% (449/797)    54.9% (441/803)
+            2                                           22.0% (175/797)    20.4% (164/803)
+            3                                            6.4% (51/797)      5.1% (41/803)
+            4                                            0.5% (4/797)       1.1% (9/803)
+            5                                            0.1% (1/797)       0.0% (0/803)
+       Uncontrolled hypertension, >160 mmHg              3.3% (26/797)      3.1% (25/803)
+       systolic
+       Abnormal renal function                           9.0% (72/797)      9.0% (72/803)
+       Abnormal liver function                           1.3% (10/797)      0.9% (7/803)
+       Previous stroke                                   6.1% (49/797)      5.5% (44/803)
+       Prior major bleeding or predisposition to         6.6% (53/797)      6.0% (48/803)
+       bleeding
+       Age ≥65                                          77.0% (614/797)    75.6% (607/803)
+       Medication usage predisposing to bleeding         9.7% (77/797)      8.7% (70/803)
+
+       Alcohol use >8 drinks per week                    6.1% (49/797)      5.1% (41/803)
+       Data are Mean ± SD (n) [min, max] or % (n’/n).
+
+
+      D. Safety and Effectiveness Results
+           1. Safety Results
+               The analysis of safety was based on the intention-to-treat (ITT) cohort of 1600
+               patients (803 WATCHMAN FLX™ and 797 Control). A total of 758
+               WATCHMAN FLX™ subjects and 737 Control subjects either had an event or
+               clinical follow-up after 3 years.
+
+                  This study met the primary safety endpoint of the occurrence of non-procedural
+                  major bleeding or clinically relevant non-major bleeding at 36 months. As
+                  shown in Table 10, in the ITT analysis set, the rate for the WATCHMAN
+                  FLX™ group (8.5%) was superior to the rate for the Control group (18.1%).
+                  Superiority was concluded because the two-sided p-value from the log-rank
+                  test was p<0.0001.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                               Page 18
+                                    Table 9: Primary Safety Endpoint
+                                            Control     WATCHMAN FLX™                  Hazard Ratio
+      Primary Safety Endpoint                                                                              P Value
+                                            (n=797)         (n=803)                     [95% CI]
+Occurrence of non-procedural ISTH            18.1%                8.5%                 0.44 [0.33, 0.59]    <.0001
+   major bleeding and clinically relevant
+   non-major bleeding
+Numbers (%) are Kaplan-Meier rates through 36 months after randomization
+Note: Non-procedural events are those occurring more than 3 days after the procedure
+
+                     Figure 2 shows the Kaplan–Meier survival curves for the primary safety
+                     endpoint of non-procedural bleeding through 36 months after randomization
+                     based on the International Society on Thrombosis and Haemostasis (ISTH)
+                     major bleeding or clinically relevant non-major bleeding definitions. Shown
+                     are the two primary cohorts, device group (patients who underwent catheter
+                     ablation and implantation of a left atrial appendage closure device in blue) and
+                     control group (patients who underwent catheter ablation only in orange).
+
+
+
+
+                  Figure 2: Kaplan Meier Incidence of Primary Safety Endpoint
+
+
+                     The key safety outcomes for this study are presented below in Table 11. The
+                     hazard ratios and the 95% confidence intervals (C.I.) are exploratory in nature
+                     and cannot be used to make statistical inferences about these outcomes.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                             Page 19
+        Table 10: Outcomes through 3 Years, Kaplan-Meier Event Rate Analysis
+      Outcomes Through 3 Year Post- Control   WATCHMAN FLX™          Hazard Ratio
+                Randomization                      (n=797)                (n=803)                   [95% C.I.]
+     CEC Adjudicated
+     Stroke or all-cause mortality or             6.0% (45)              5.3% (41)                0.89 [0.58, 1.35]
+     systemic embolism
+       All-cause mortality                        4.5% (34)              3.8% (29)                0.83 [0.51, 1.36]
+         Cardiovascular                           1.3% (10)              1.2% (9)                 0.88 [0.36, 2.16]
+         Non-cardiovascular                       2.6% (19)              1.9% (14)                0.72 [0.36, 1.43]
+         Unexplained death                        0.7% (5)               0.8% (6)                 1.17 [0.36, 3.82]
+       Stroke or systemic embolism                2.1% (16)              1.8% (14)                0.85 [0.42, 1.75]
+         Ischemic stroke or systemic              1.5% (11)              1.5% (11)                0.97 [0.42, 2.25]
+          embolism
+        Stroke                                   2.0% (15)               1.6% (12)               0.78 [0.37, 1.67]
+           Ischemic                              1.3% (10)               1.2% (9)                0.88 [0.36, 2.16]
+           Hemorrhagic                           0.4% (3)                0.4% (3)                0.98 [0.20, 4.88]
+           Undetermined                          0.3% (2)                0.0% (0)                 0.00 [NA, NA]
+           Disabling (site-reported)             0.3% (2)                0.0% (0)                 0.00 [NA, NA]
+           Non-disabling (site-reported)         1.1% (8)                0.8% (6)                0.73 [0.25, 2.11]
+         Systemic embolism                       0.1% (1)                0.3% (2)                1.94 [0.18, 21.44]
+     TIA                                         1.5% (11)               1.6% (12)               1.07 [0.47, 2.42]
+     ISTH bleeding                              18.1% (137)              9.5% (73)               0.50 [0.38, 0.66]
+        Major bleeding                           5.0% (38)               3.9% (30)               0.77 [0.48, 1.24]
+        Non-major bleeding                      14.6% (110)              6.0% (46)               0.39 [0.28, 0.55]
+     Pericardial effusion resulting in an        0.7% (5)                0.3% (2)                0.39 [0.08, 2.01]
+     intervention
+     Non-procedural bleeding (after 3 days                               8.5% (65)
+                                                     NA                                                 NA
+     post procedure for device group)
+        ISTH non-major bleeding                      NA                  5.6% (43)                      NA
+        ISTH major bleeding                          NA                  3.3% (25)                      NA
+     Procedural bleeding (within 3 days
+                                                     NA                   1.0% (8)                      NA
+     post procedure for device group)
+        ISTH non-major bleeding                     NA                    0.4% (3)                      NA
+        ISTH major bleeding                         NA                    0.6% (5)                      NA
+     Pericardial Effusion resulting in an         0.7% (5)                0.3% (2)                0.39 [0.08, 2.01]
+     intervention
+       Abbreviations: NA=not applicable; TIA=transient ischemic attack; ISTH=international society on thrombosis and
+                hemostasis
+
+                    Adverse effects that occurred in the PMA clinical study:
+                    CEC-Adjudicated Clinical Events: Three-year Kaplan-Meier rates for CEC-
+                    adjudicated clinical events are shown in Table 11 above. Device and
+                    procedure-related serious adverse events are reported in Table 12 and Table
+                    13. Events adjudicated by the CEC included the following: death (all cause,
+                    cardiovascular and non-cardiovascular), stroke (disabling, non-disabling,
+                    ischemic, and hemorrhagic), TIA, systemic embolism, bleeding (ISTH major
+                    and non-major, procedural and non-procedural), and pericardial effusion
+                    requiring intervention. Rates of mortality, stroke, or systemic embolism did not
+                    noticeably differ between the Control and Device groups. Control subjects
+                    experienced a higher rate of ISTH clinically relevant non-major bleeding
+                    compared to the WATCHMAN FLX™ Device group (Hazard Ratio = 0.39).
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                               Page 20
+                   Table 11: Device and Procedure Serious Adverse Events
+                                          All Device or          Device Related         Procedure Related
+                                        Procedure Related           Events                   Events
+                                              Events
+          Sponsor classification      Events % Subjects      Events % Subjects      Events % Subjects
+                                             with Events            with Events            with Events
+       Acute pulmonary oedema         1      0.1% (1/1600)   0      0.0% (0/1600)   1      0.1% (1/1600)
+       Air embolism                   2      0.1% (2/1600)   2      0.1% (2/1600)   2      0.1% (2/1600)
+       Atrial fibrillation            1      0.1% (1/1600)   0      0.0% (0/1600)   1      0.1% (1/1600)
+       Atrial flutter                 2      0.1% (2/1600)   0      0.0% (0/1600)   2      0.1% (2/1600)
+       Blood glucose increased        1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Cardiac failure                1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Catheter site hematoma         2      0.1% (2/1600) 1        0.1% (1/1600) 2          0.1% (2/1600)
+       Catheter site hemorrhage       1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Cerebral hemorrhage            1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Chronic kidney disease         1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Death                          1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Device dislocation             3      0.2% (3/1600) 3        0.2% (3/1600) 2          0.1% (2/1600)
+       Device failure                 1      0.1% (1/1600) 1        0.1% (1/1600) 1          0.1% (1/1600)
+       Device leakage                 1      0.1% (1/1600) 1        0.1% (1/1600) 0          0.0% (0/1600)
+       Device related thrombosis      4      0.3% (4/1600) 4        0.3% (4/1600) 1          0.1% (1/1600)
+       Heart rate increased           1      0.1% (1/1600) 1        0.1% (1/1600) 0          0.0% (0/1600)
+       Nodal arrhythmia               1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Odynophagia                    1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Pericardial effusion           3      0.2% (3/1600) 2        0.1% (2/1600) 3          0.2% (3/1600)
+       Pericarditis                   3      0.2% (3/1600) 1        0.1% (1/1600) 3          0.2% (3/1600)
+       Pleuritic pain                 1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Pneumonia aspiration           1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Post procedural complication   1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Pulmonary embolism             1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Pyrexia                        1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Retroperitoneal hemorrhage     1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Sinus bradycardia              1      0.1% (1/1600) 0        0.0% (0/1600) 1          0.1% (1/1600)
+       Transient ischemic attack      2      0.1% (2/1600) 1        0.1% (1/1600) 1          0.1% (1/1600)
+       Vascular pseudoaneurysm        3      0.2% (3/1600) 0        0.0% (0/1600) 3          0.2% (3/1600)
+       Total                          44     2.5% (40/1600) 17      1.1% (17/1600) 37        2.1% (33/1600)
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                   Page 21
+            Table 12: Imaging Endpoints through 1 Year for Subjects Randomized to
+                           WATCHMAN FLX™ (Core Laboratory)
+                                                            Procedure               90 Days           1 Year
+Device Marginal Residual Leak
+                                                            0.1±0.9 (669)           0.4±1.0 (706)     0.4±0.9 (664)
+Residual Leak (mm)
+                                                            (0.0, 21.0)             (0.0, 13.0)       (0.0, 5.5)
+Effective Device Closure (Residual Leak ≤5 mm)              99.9% (668/669)         99.7% (704/706)   99.8% (663/664)
+
+    Residual Leak=0 mm                                      97.2% (650/669)         81.0% (572/706)   79.7% (529/664)
+    0 mm <Residual Leak ≤5 mm                               99.9% (668/669)         99.7% (704/706)   99.8% (663/664)
+    0 mm <Residual Leak ≤3 mm                               2.7% (18/669)           17.6% (124/706)   18.1% (120/664)
+    3 mm <Residual Leak ≤5 mm                               0.0% (0/669)            1.1% (8/706)      2.1% (14/664)
+    Residual Leak >5 mm                                     0.1% (1/669)            0.3% (2/706)      0.2% (1/664)
+Approximate angle of jet (degrees)                          78.6±46.6 (19)          68.2±49.2 (106)   77.3±50.4 (109)
+                                                            (0.0, 140.0)            (0.0, 145.0)      (0.0, 150.0)
+Device-related Thrombus
+Thrombus on the atrial facing surface of devicea            NA                      1.1% (8/734)      1.9% (13/702)
+   Laminar                                                  NA                      0.4% (3/734)      1.3% (9/702)
+       Mobile                                               NA                      0.0% (0/734)      0.3% (2/702)
+       Non-mobile                                           NA                      0.4% (3/734)      0.9% (6/702)
+   Pedunculated                                             NA                      0.5% (4/734)      0.4% (3/702)
+       Mobile                                               NA                      0.4% (3/734)      0.4% (3/702)
+       Non-mobile                                           NA                      0.0% (0/734)      0.0% (0/702)
+   Maximum area of WATCHMAN FLX™ device                     NA                      0.3±0.2 (7)       0.3±0.2 (13)
+   thrombus                                                                         (0.1, 0.6)        (0.1, 0.9)
+   Thrombus in the left atrium                              NA                      0.0% (0/734)      0.0% (0/702)
+      Mobile                                                NA                      0.0% (0/734)      0.0% (0/702)
+      Non-mobile                                            NA                      0.0% (0/734)      0.0% (0/702)
+      Not Assessed                                          NA                      0.0% (0/734)      0.0% (0/702)
+Additional Imaging Endpoints
+  Pericardial Effusionb                                     2.5% (18/714)           4.8% (35/734)     6.8% (48/702)
+      Effusion Size                                         12.0±15.7 (18)          11.9±14.5 (35)    18.8±17.8 (47)
+                                                            (1.0, 49.0)             (1.0, 48.0)       (1.0, 53.0)
+        Not Assessed                                        8.5% (61/714)           7.5% (55/734)     12.3% (86/702)
+    Residual atrial septal shunt                            65.0% (464/714)         20.4% (150/734)   12.7% (89/702)
+       size of atrial septal shunt ≤3 mm                    58.7% (419/714)         17.2% (126/734)   8.1% (57/702)
+        size of atrial septal shunt >3 mm                   2.5% (18/714)           1.1% (8/734)      2.1% (15/702)
+       Not Assessed                                         3.8% (27/714)           2.2% (16/734)     2.4% (17/702)
+    Direction of atrial septal shunt                        65.0% (464/714)         20.4% (150/734)   12.7% (89/702)
+       Left to right                                        64.3% (459/714)         18.9% (139/734)   12.1% (85/702)
+       Bidirectional                                        0.4% (3/714)            0.1% (1/734)      0.0% (0/702)
+       Right to left                                        0.1% (1/714)            0.0% (0/734)      0.0% (0/702)
+       Not Assessed                                         0.1% (1/714)            1.4% (10/734)     0.6% (4/702)
+    LVEF                                                    NA                      52.7±9.3 (530)    53.8±9.5 (400)
+                                                                                    (20.0, 70.0)      (15.0, 85.0)
+a: Thrombus mobility could not be assessed for one subject at both 90-day and 1-year follow up.
+b: Includes pericardial effusions that did not require intervention
+Abbreviations: NA=not applicable
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                                 Page 22
+               In descriptively comparing adverse event occurrences through 3 years of
+               follow-up, atrial tachycardia (serious and non-serious site-reported) occurred in
+               15 WATCHMAN FLX™ device subjects (ITT n=803) compared to 9 control
+               subjects (ITT n=797), and serious and non-serious site-reported pericardial
+               effusions occurred in 17 WATCHMAN FLX™ device subjects compared to 6
+               control subjects. Adverse events were not collected between ablation and
+               LAAC in sequential patients, and procedure-related adverse events were not
+               assessed for relatedness to the ablation procedure.
+
+            2. Effectiveness Results
+               The analysis of effectiveness was based on the intention-to-treat (ITT) cohort
+               of 1600 patients (803 WATCHMAN FLX™ and 797 Control). A total of 758
+               WATCHMAN FLX™ subjects and 737 Control subjects either had an event or
+               clinical follow-up after 3 years.
+
+               Primary effectiveness endpoint
+               The WATCHMAN FLX™ cohort was non-inferior to the Control cohort for
+               the 3-year primary effectiveness endpoint (time to first occurrence of stroke, all
+               cause death, and systemic embolism at 36 months). In the ITT analysis set, the
+               rate for the WATCHMAN FLX™ group was 5.3% and the rate for the Control
+               group was 5.8%. Non-inferiority was concluded because the one-sided upper
+               97.5% confidence bound on the difference between treatment groups
+               (WATCHMAN FLX™ - Control; 1.8%) was less than the non-inferiority
+               margin demonstrating clinical equivalence (p <0.001). Superiority of
+               WATCHMAN FLX™ to the Control cohort was not demonstrated as the two-
+               sided p-value from the log-rank test exceeded the significance threshold.
+
+               Figure 3 shows the primary effectiveness endpoint of all-cause death, stroke,
+               or systemic embolism 36 months post randomization. Shown are the two
+               primary cohorts, device group (patients who underwent catheter ablation and
+               implantation of a left atrial appendage closure device in blue) and control
+               group (patients who underwent catheter ablation only in orange).
+
+
+
+
+          Figure 3: Kaplan Meier Incidence of Primary Effectiveness Endpoint
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                         Page 23
+               Secondary effectiveness endpoint
+               This study also showed statistically significant non-inferiority for the
+               secondary endpoint of occurrence of ISTH major bleeding (including
+               procedural bleeding) at 36 months. In the ITT analysis set, the rate for the
+               WATCHMAN FLX™ group was 3.9% and the rate for the Control group was
+               5.0%. Non-inferiority was concluded because the one-sided upper 97.5%
+               confidence bound on the difference between treatment groups (WATCHMAN
+               FLX™ - Control; 1.0%) was less than the non-inferiority margin (P<0.001)
+               establishing clinical equivalence. Superiority of WATCHMAN FLX™ to the
+               Control cohort was not demonstrated as the two-sided p-value from the from
+               the log-rank test exceeded the significance threshold.
+
+               Figure 4 shows the Kaplan–Meier survival curves for the secondary end point
+               of major bleeding (including procedural bleeding) through 36 months after
+               randomization. Shown are the two primary cohorts, device group (patients who
+               underwent catheter ablation and implantation of a left atrial appendage closure
+               device in blue) and control group (patients who underwent catheter ablation
+               only in red).
+
+
+
+
+                 Figure 4: KM Incidence of Secondary Effectiveness Endpoint
+
+               Device Success
+               In the WATCHMAN FLX™ group, implantation was successful in 98.8% of
+               patients; device or procedure-related complications occurred in 22 patients
+               assigned to the device group and one patient in the anticoagulation group that
+               crossed over to receive a device.
+
+            3. Subgroup Analyses
+               Selected baseline characteristics were evaluated for potential association with
+               safety and effectiveness outcomes using a multivariate model Cox proportional
+               hazard model. Variables included in the multivariate modeling analysis
+               included: sex, age, race, prior major bleeding or predisposition to bleeding,
+               previous stroke or transient ischemic attach (TIA), congestive heart failure
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                       Page 24
+               (CHF), abnormal renal function, diabetes, abnormal liver function, vascular
+               disease, history of labile International Normalized Ratio (INR) (unstable/high
+               INR or poor time in therapeutic range), alcohol use >8 drinks per week,
+               hypertension, medication usage predisposing to bleeding, uncontrolled
+               hypertension >160 mmHg systolic, left ventricular ejection fraction, and
+               procedure timing (concomitant or sequential). Primary effectiveness and safety
+               endpoint results are summarized and treatment groups compared based on the
+               following subgroups:
+
+                •   Sequential vs Concomitant subjects
+                •   Male vs female
+                •   Age at time of consent (< 75 years vs. ≥ 75 years)
+                •   Stroke risk (CHA2DS2-VASc score 2-3, 4-5, and >5)
+                •   Bleeding risk (HAS-BLED scores of 0, 1-2, and > 2)
+                •   AF type at baseline (paroxysmal, persistent, permanent)
+
+                The study was not specifically powered for subgroups.
+                Subgroup analyses were intended as exploratory only. There were no
+                significant subgroup interactions in subgroups, except for sex: the treatment
+                effect of lower event rates for the Device group compared to Controls in the
+                primary safety endpoint was more pronounced in males than females (see
+                Table 17).
+
+                There was no significant subgroup interaction between the sequential and
+                concomitant patients. There were numerical differences in the baseline
+                characteristics and outcomes between the concomitant and sequential
+                subgroups. This information is provided in the section below for reference.
+
+                Subgroup Analyses: Sequential vs. Concomitant Subgroup
+
+                In the concomitant subgroup, the mean CHA2DS2-VASc score was 3.4 ± 1.2,
+                the mean age was 70 years, 37% were female, and 78% were Caucasian in
+                subjects randomized to the WATCHMAN FLX™ arm. The mean CHA2DS2-
+                VASc score was 3.5 ± 1.2, the mean age was 70 years, 32% were female, and
+                80% were Caucasian in subjects randomized to the Control arm.
+                In the sequential subgroup, the mean CHA2DS2-VASc score was 3.6 ± 1.3, the
+                mean age was 69 years, 34% were female, and 88% were Caucasian in
+                subjects randomized to the WATCHMAN FLX™ arm. For subjects
+                randomized to the Control group, the mean CHA2DS2-VASc score was 3.6 ±
+                1.3, the mean age was 69 years, 34% were female, and 90% were Caucasian.
+                Device success was 99.1% in concomitant WATCHMAN FLX™ subjects and
+                98.7% in sequential WATCHMAN FLX™ subjects.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                        Page 25
+                Imaging Endpoints:
+
+                Table 14 displays the number of evaluable patients with complete seal and
+                device-related thrombus (DRT) at procedure, 90 days, and 1 year for subjects
+                randomized to WATCHMAN FLX™ in the concomitant and sequential
+                ablation timing subgroups. Patients who received WATCHMAN FLX™
+                implant at the time or within 10 days of ablation (concomitant group) had
+                numerically lower rates of complete seal at 3- and 12-month follow up
+                timepoints than patients who received WATCHMAN FLX™ implantation 90-
+                180 days following ablation (sequential group). The ischemic stroke rates
+                between the two groups were comparable. The core lab adjudicated DRT in 3
+                subjects in the concomitant ablation group (1.0%) and 5 subjects in the
+                sequential ablation group (1.2%) at 3 months. At 12-months, the core lab
+                adjudicated DRT in 10 subjects (3.5%) in the concomitant group and 3
+                subjects in the sequential group (0.7%). Most DRT were characterized as non-
+                mobile laminar in either subgroup. No subjects in either ablation timing group
+                who had a DRT at 3 or 12 months experienced a stroke or systemic embolism
+                during follow-up.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                      Page 26
+           Table 13: Core Laboratory Adjudicated Transesophageal Characteristics
+                        in Ablation + WATCHMAN FLX™ Patients
+                                                     Procedure               90 Days                1 year
+Concomitant Subjects    *
+
+ LAA seal
+  Residual leak — no. (%)
+    Complete seal (0mm)                           97.3% (255/262)       77.0% (224/291)       78.6% (206/262)
+    >0mm to ≤3mm                                   2.7% (7/262)         22.0% (64/291)        18.7% (49/262)
+    >3mm to ≤5mm                                   0.0% (0/262)          1.0% (3/291)          2.3% (6/262)
+    >5mm                                           0.0% (0/262)          0.0% (0/291)          0.4% (1/262)
+  Residual flow not assessed                       0.0% (0/262)          0.7% (2/293)          1.5% (4/266)
+Device-related thrombus — no. (%)                      N/A               1.0% (3/304)          3.5% (10/282)
+  Laminar                                              N/A               0.3% (1/304)          2.8% (8/282)
+    Mobile                                             N/A               0.0% (0/304)          0.7% (2/282)
+    Non-mobile                                         N/A               0.3% (1/304)          1.8% (5/282)
+  Pedunculated                                         N/A               0.7% (2/304)          0.4% (1/282)
+    Mobile                                             N/A               0.3% (1/304)          0.4% (1/282)
+    Non-mobile                                         N/A               0.0% (0/304)          0.0% (0/282)
+ Sequential Subjects†
+ LAA seal
+  Residual leak — no. (%)
+    Complete seal (0mm)                           97.1% (395/407)       83.9% (348/415)       80.3% (323/402)
+    >0mm to ≤3mm                                   2.7% (11/407)        14.5% (60/415)        17.7% (71/402)
+    >3mm to ≤5mm                                   0.0% (0/407)          1.2% (5/415)          2.0% (8/402)
+    >5mm                                           0.2% (1/407)          0.5% (2/415)          0.0% (0/402)
+  Residual flow not assessed                       0.0% (0/407)          0.5% (2/417)          0.2% (1/403)
+Device-related thrombus — no. (%)                      N/A               1.2% (5/430)          0.7% (3/420)
+  Laminar                                              N/A               0.5% (2/430)          0.2% (1/420)
+    Mobile                                             N/A               0.0% (0/430)          0.0% (0/420)
+    Non-mobile                                         N/A               0.5% (2/430)          0.2% (1/420)
+  Pedunculated                                         N/A               0.5% (2/430)          0.5% (2/420)
+    Mobile                                             N/A               0.5% (2/430)          0.5% (2/420)
+    Non-mobile                                         N/A               0.0% (0/430)          0.0% (0/420)
+Core laboratory adjudicated; N/A indicates not assessed
+*defined as concomitant ablation and LAAC within 10 days of randomization in the WATCHMAN FLX™ arm and as ablation
+within 10 days of randomization in the control arm
+†defined as ablation 90 to 180 days before LAAC in WATCHMAN FLX™ subjects and as ablation occurring 90 to 180 days
+
+before randomization in control patients
+
+                      For the primary safety and effectiveness endpoints and the secondary
+                      endpoint, concomitant and sequential ablation timing did not significantly
+                      interact with treatment group (Table 15).
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                          Page 27
+ Table 14: Primary and Secondary Endpoints - Interaction Analysis with Ablation Timing,
+                           Intent-to-Treat Subjects (N=1600)
+                                                    WATCHMAN
+                                   Control                                 Hazard Ratio             P        Interaction
+                                                      FLX™
+                                   (N=797)                                  [95% C.I.]            value        P value
+                                                      (N=803)
+ Primary Safety
+ Endpointa
+  Sequential                       (N=471)              (N=475)
+                                  21.5% (95)            8.8% (40)         0.38 [0.27, 0.56]      <.0001
+                                                                                                               0.2411
+   Concomitant                     (N=326)              (N=328)
+                                  13.3% (42)            8.0% (25)         0.56 [0.34, 0.92]      0.0200
+
+ Primary
+ Effectiveness
+ Endpointb
+  Sequential                      (N=471)               (N=475)
+                                  5.3% (23)             4.2% (19)         0.79 [0.43, 1.45]      0.4490
+                                                                                                               0.5393
+   Concomitant                    (N=326)               (N=328)
+                                  6.7% (21)             7.0% (22)         1.04 [0.57, 1.88]      0.9083
+
+Secondary Endpointc
+  Sequential                       (N=471)               (N=475)
+                                  5.7% (25)             3.1% (14)          0.54 [0.28, 1.04]     0.0608
+                                                                                                               0.1055
+   Concomitant                     (N=326)               (N=328)
+                                  4.1% (13)             5.1% (16)          1.22 [0.59, 2.53]     0.5965
+Kaplan Meier event rates. Numbers are % (number of events)
+a: Composite of non-procedural bleeding through 36 months (ISTH major bleeding and clinically relevant non-major bleeding),
+     non-procedural events are those occurring after 3 days post procedure.
+b: Composite of stroke (including ischemic and/or hemorrhagic), all cause death, and systemic embolism through 36 months.
+c: ISTH major bleeding through 36 months (including procedural bleeding).
+P-value from Cox regression
+
+
+                       Clinical Events:
+                       Table 16 shows mortality, stroke, and bleeding rates in sequential and
+                       concomitant subjects at 36 months post randomization. The rate of clinically
+                       relevant non-major bleeding was numerically lower in the WATCHMAN
+                       FLX™ group compared to Control for each of the sequential and concomitant
+                       subgroups.
+                       In concomitant compared descriptively to sequential WATCHMAN FLX™
+                       subjects at 36 months of follow-up, mortality was higher due to increased
+                       cardiovascular/unknown death. One death 342 days post index procedure with
+                       unknown cause for a subject in the concomitant WATCHMAN FLX™ group
+                       was considered by the site to be related to the device and related to the study
+                       medication. None of the deaths in the study were related to the procedure, and
+                       all occurred more than 166 days after WATCHMAN FLX™ implantation.
+                       All Stroke, Ischemic Stroke, Hemorrhagic Stroke, Non-disabling (site-
+                       reported) Stroke, and ISTH major bleeding rates were numerically higher in
+                       the concomitant WATCHMAN FLX™ subjects when compared to the
+                       sequential WATCHMAN FLX™ subjects. Conversely, Systemic Embolism
+                       and Clinically Relevant Non-Major Bleeding rates were numerically higher in
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                                  Page 28
+                     the sequential WATCHMAN FLX™ subjects when compared to the
+                     concomitant WATCHMAN FLX™ subjects. Through three years of follow-
+                     up, site-reported device related thrombus and both site-reported device- and
+                     procedure-related serious adverse events trended higher in concomitant when
+                     compared to sequential WATCHMAN FLX™ subjects (2.2%, 2.5%, and
+                     5.5%, respectively, for concomitant and 0.9%, 1.5%, and 2.4%, respectively,
+                     for sequential). Additional details related to outcomes are below in Table 16.
+                     When comparing concomitant to sequential control subjects descriptively,
+                     ISTH major bleeding and clinically relevant non-major bleeding were
+                     numerically increased in the sequential ablation subgroup.
+                     Adverse events were not collected between ablation and LAAC in sequential
+                     patients, and procedure-related adverse events were not assessed for
+                     relatedness to the ablation procedure.
+
+
+Table 15: Mortality, Stroke and Bleeding by Sequential and Concomitant Ablation Timing;
+                 Intention-to-Treat Analysis Set at 36 Months Follow-Up
+                                            Sequential Subjects                Concomitant Subjects
+                                        Control      WATCHMAN                Control     WATCHMAN
+   Event
+                                       (N=471)      FLX™ (N=475)            (N=326)     FLX™ (N=328)
+    All-cause death                    3.9% (17)        2.7% (12)           5.4% (17)       5.4% (17)
+     Cardiovascular/unknown            2.1% (9)         1.1% (5)            1.9% (6)        3.2% (10)
+        Cardiovascular                 1.4% (6)         0.2% (1)            1.3% (4)        2.5% (8)
+        Unknown                        0.7% (3)         0.9% (4)            0.7% (2)        0.6% (2)
+        Non-cardiovascular             1.9% (8)         1.6% (7)            3.6% (11)       2.3% (7)
+    Stroke or Systemic Embolism        1.6% (7)         1.6% (7)            2.9% (9)        2.3% (7)
+     Ischemic stroke or Systemic       1.1% (5)         1.3% (6)            1.9% (6)        1.6% (5)
+     Embolism
+      All stroke                       1.6% (7)          1.1% (5)            2.5% (8)          2.3% (7)
+        Ischemic                       1.1% (5)          0.9% (4)            1.6% (5)          1.6% (5)
+        Hemorrhagic                    0.4% (2)          0.2% (1)            0.3% (1)          0.6% (2)
+       Systemic embolism               0.0% (0)          0.4% (2)            0.3% (1)          0.0% (0)
+    Transient ischemic attack          1.6% (7)          1.6% (7)            1.3% (4)          1.6% (5)
+    ISTH major bleeding or
+    clinically relevant non-major     21.5% (95)        9.7% (44)           13.3% (42)        9.2% (29)
+    bleeding
+        ISTH major bleeding            5.7% (25)        3.1% (14)            4.1% (13)        5.1% (16)
+        Clinically relevant non-major
+                                      17.3% (76)        7.0% (32)           10.8% (34)        4.4% (14)
+        bleeding
+    Pericardial effusion resulting in  0.5% (2)          0.2% (1)            0.9% (3)          0.3% (1)
+    an intervention
+Kaplan Meier event rates. Numbers are % (n)
+Abbreviations: CEC=clinical events committee; TIA=transient ischemic attack; ISTH=international society on
+thrombosis and Haemostasis
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                       Page 29
+                       Subgroup Analyses: Sex Differences
+                       A total of 1053 male subjects (65.8%) were enrolled in the ITT analysis set;
+                       520 were randomized to WATCHMAN FLX™ and 533 were randomized to
+                       Control. There were 546 female subjects (34.1%) in the ITT analysis set; 283
+                       were in the WATCHMAN FLX™ arm and 263 were in the Control arm. One
+                       subject identified as intersex and was not included in this subgroup analysis.
+
+                       Overall, at 3 years, no differences in rates of mortality, ischemic stroke, and
+                       systemic embolism were found between treatment arms in females or in
+                       males. The device group reduction in post-procedure bleeding compared to
+                       controls was larger for males as compared to females. Females had
+                       numerically higher ISTH major bleeding and clinically relevant non-major
+                       bleeding than males in the device group (Table 17).
+
+       Table 16: Mortality, Stroke and Bleeding by Sex; Intention-to-Treat Analysis Set
+   Outcomes at 36 Months            Male Subjects                    Female Subjects
+                                    Control         WATCHMAN         Control         WATCHMAN
+                                    (N=533)         FLX™ (N=520)     (N=263)         FLX™ (N=283)
+   All-cause death                  4.6% (23)       3.6% (18)        4.5% (11)       4.2% (11)
+   Cardiovascular                   1.4% (7)        1.0% (5)         1.2% (3)        1.5% (4)
+             Non-cardiovascular     2.4% (12)       2.0% (10)        2.9% (7)        1.5% (4)
+   Unexplained                      0.8% (4)        0.6% (3)         0.4% (1)        1.2% (3)
+   All stroke                       1.6% (8)        1.8% (9)         2.8% (7)        1.2% (3)
+             Ischemic               0.8% (4)        1.4% (7)         2.4% (6)        0.8% (2)
+             Hemorrhagic            0.4% (2)        0.4% (2)         0.4% (1)        0.4% (1)
+   Systemic embolism                0.2% (1)        0.2% (1)         0.0% (0)        0.4% (1)
+   ISTH major bleeding or           19.1% (97)      7.7% (39)        16.2% (40)      12.8% (34)
+   clinically relevant non-major
+   bleeding
+             ISTH major bleeding    4.2% (21)       3.0% (15)        6.8% (17)       5.6% (15)
+             Clinically relevant    16.4% (83)      5.3% (27)        11.1% (27)      7.2% (19)
+   non-major bleeding
+Values are % (count/sample size)
+
+
+               4. Pediatric Extrapolation
+                  In this premarket application, existing clinical data was not leveraged to support
+                  approval of a pediatric patient population.
+
+XI.      Financial Disclosure
+         The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+         applicants who submit a marketing application to include certain information concerning
+         the compensation to, and financial interests and arrangement of, any clinical investigator
+         conducting clinical studies covered by the regulation. The OPTION clinical study
+         included 380 Principal and Sub-investigators over time, of which none were full-time or
+         part-time employees of the sponsor; 25 of the 380 investigators had disclosable financial
+         interests/arrangements as defined in 21 CFR 54.2(a), (b), (c) and (f) and described below:
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                   Page 30
+           •   Compensation to the investigator for conducting the study where the value could
+               be influenced by the outcome of the study: 0
+           •   Significant payment of other sorts: 23
+           •   Proprietary interest in the product tested held by the investigator: 0
+           •   Significant equity interest held by investigator in sponsor of covered study: 2
+        The applicant has adequately disclosed the financial interest/arrangements with clinical
+        investigators. Statistical analyses were conducted by FDA to determine whether the
+        financial interests/arrangements had any impact on the clinical study outcome. The
+        information provided does not raise any questions about the reliability of the data.
+
+XII.    SUMMARY OF SUPPLEMENTAL CLINICAL INFORMATION
+
+       A. WATCHMAN FLX-SURPASS Discharge Medication Sub-Analysis
+
+               Primary Objective:
+               The objective of the WATCHMAN FLXTM Device SURveillance Post Approval
+               AnalySiS Plan (SURPASS) analysis is to assess long-term safety and
+               effectiveness outcomes associated with the use and implantation of the
+               WATCHMAN FLX™ Left Atrial Appendage (LAA) Closure Device with
+               Delivery System in a routine clinical setting. This surveillance analysis utilizes
+               data captured in the Left Atrial Appendage Occlusion Registry (LAAO Registry)
+               within the American College of Cardiology Foundation’s (ACCF) National
+               Cardiovascular Data Registry (NCDR).
+
+               The primary objective of the SURPASS discharge medication sub-analysis was to
+               assess safety outcomes associated with the use of non-vitamin K oral
+               anticoagulant (NOAC) alone as an alternative to an oral anticoagulant (OAC) and
+               aspirin as the post-implant medication regimen after LAA closure in a routine
+               clinical setting.
+
+               Design:
+               SURPASS data collection is ongoing and began in August 2020 with the US
+               commercial release of WATCHMAN FLX™. The SURPASS discharge
+               medication sub-analysis data set includes all patients enrolled in the LAAO
+               Registry who had a WATCHMAN FLX™ Device implant attempt and were
+               discharged from Aug 5, 2020 to September 30, 2022. The LAAO Registry is
+               observational in nature and the data collected reflects the real-world setting and
+               does not reflect a required clinical regimen. Discharge medication availability was
+               the only inclusion criteria of the sub-analysis.
+
+               Key Safety Endpoint:
+               The occurrence of one of the following events between the time of the first
+               implant procedure and within seven days of the procedure or by hospital
+               discharge, whichever is later:
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                           Page 31
+                             All-cause death,
+                             Ischemic stroke,
+                             Systemic embolism, or
+                             Device or procedure related events requiring open cardiac surgery or
+                              major endovascular intervention such as pseudoaneurysm repair, AV
+                              fistula repair, or other major endovascular repair.
+
+                     Additional Endpoints:
+                     Additional analyses included the occurrence of the following endpoints at each
+                     LAAO Registry follow-up time points (discharge, 45 days, 6 months, and 12
+                     months post-procedure):
+                        • Death
+                        • Stroke (Ischemic, Hemorrhagic)
+                        • Systemic embolism
+                        • Major bleeding
+
+                     Enrollment Demographics: Among 97,325 subjects, the mean age was 76.4 ±7.9
+                     years, 41% were female, and the mean CHA2DS2-VASc and HAS-BLED scores
+                     were 4.8±1.5 and 2.8±1.0, respectively. NOAC + aspirin is the most often
+                     prescribed discharge medication regimen post LAAC (47%), followed by NOAC
+                     alone (24%), and DAPT (9%) (Table 18).
+
+       Table 17: Summary of Baseline Characteristics SURPASS Discharge Medications
+                                      Sub-Analysis
+
+                                              NOAC+         Warfarin      Warfarin+
+                            NOAC Alone                                                    DAPT
+   Characteristics                             Aspirin        Alone        Aspirin
+                             (N = 23404)                                                (N = 8974)
+                                             (N = 46169)    (N = 2303)    (N = 6270)
+Age, years                   76.5 ± 7.96     76.2 ± 7.75    76.7 ± 7.99   76.7 ± 7.69   76.9 ± 8.01
+                              (23404)         (46169)         (2303)        (6270)        (8974)
+Sex
+Female                         45.31%          40.60%         45.59%        39.44%        41.63%
+                            (10605/23403)   (18742/46167)   (1050/2303)   (2473/6270)   (3736/8974)
+Male                           54.69%          59.40%         54.41%        60.56%        58.37%
+                            (12798/23403)   (27425/46167)   (1253/2303)   (3797/6270)   (5238/8974)
+Race/Ethnicity
+American Indian or               0.17%            0.22%        0.44%          0.19%         0.12%
+Alaskan                       (40/22913)       (99/45491)    (10/2275)      (12/6194)     (11/8856)
+Asian                            1.49%            0.98%        0.92%          0.77%         1.31%
+                             (342/22913)      (444/45491)    (21/2275)      (48/6194)    (116/8856)
+Black/African                    3.95%            3.82%        3.52%          3.04%         5.23%
+American                     (904/22913)     (1740/45491)    (80/2275)     (188/6194)    (463/8856)
+Caucasian                       89.80%           92.11%        92.31%         93.85%       89.98%
+                            (20575/22913)   (41904/45491)   (2100/2275)   (5813/6194)   (7969/8856)
+Hispanic / Latino                4.35%            2.67%        2.59%          2.02%         3.05%
+                             (997/22913)     (1215/45491)    (59/2275)     (125/6194)    (270/8856)
+Hawaiian / Pacific               0.11%            0.09%        0.09%          0.05%         0.15%
+Islander                      (25/22913)       (39/45491)     (2/2275)       (3/6194)     (13/8856)
+Other                            0.13%            0.11%        0.13%          0.08%         0.16%
+                              (30/22913)       (50/45491)     (3/2275)       (5/6194)     (14/8856)
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                        Page 32
+                                                 NOAC+          Warfarin        Warfarin+
+                            NOAC Alone                                                                DAPT
+     Characteristics                              Aspirin         Alone          Aspirin
+                             (N = 23404)                                                            (N = 8974)
+                                                (N = 46169)     (N = 2303)      (N = 6270)
+
+ AF Pattern
+ Paroxysmal AF                  61.87%          62.26%            55.71%          56.48%             65.09%
+                            (14356/23205)   (28556/45864)      (1274/2287)      (3523/6238)        (5787/8891)
+ Persistent AF                  21.18%          21.73%            19.94%          18.93%             18.22%
+                             (4915/23205)    (9966/45864)       (456/2287)      (1181/6238)        (1620/8891)
+ Permanent AF                   10.73%          11.07%            17.18%          18.40%             11.51%
+                             (2489/23205)    (5079/45864)       (393/2287)      (1148/6238)        (1023/8891)
+ CHA2DS2-VASc                  4.6 ± 1.50      4.7 ± 1.48        4.7 ± 1.51      4.9 ± 1.47         4.9 ± 1.52
+ Score                          (23357)         (46087)            (2296)          (6261)             (2523)
+ Congestive heart failure       35.36%          36.11%            41.36%          43.14%             39.38%
+                             (8272/23394)   (16662/46142)       (952/2302)      (2703/6265)        (3533/8971)
+ Hypertension                   90.79%          91.55%            90.75%          92.23%             92.15%
+                            (21245/23401)   (42260/46162)      (2090/2303)      (5781/6268)        (8269/8973)
+ Diabetes                       32.42%          34.30%            34.87%          38.26%             37.20%
+                             (7585/23399)   (15829/46150)       (802/2300)      (2398/6268)        (3336/8968)
+ Vascular disease               41.86%          52.01%            43.63%          53.97%             56.43%
+                             (9794/23398)   (24007/46157)      (1004/2301)      (3383/6268)        (5063/8972)
+ HAS-BLED Score                2.5 ± 1.10      2.8 ± 1.12        2.7 ± 1.15      3.1 ± 1.16         3.0 ± 1.10
+                                (23357)         (46069)            (2298)          (6259)             (8948)
+
+
+                    Results: The composite rate of major adverse events was lowest in NOAC alone
+                    and warfarin alone at 45 days (Table 19). The main driver of this composite event
+                    rate was major bleeding, which was lowest at 45 days in subjects receiving
+                    NOAC alone (1.49%) or warfarin alone (1.37%) compared to patients receiving
+                    NOAC + aspirin (2.50%), warfarin + aspirin (2.10%), and DAPT (2.83%). The
+                    rate of death was lowest in subjects discharged on NOAC alone or NOAC +
+                    aspirin (Table 19).
+
+                                  Table 18: Events Post Discharge to 45 days
+                                                        NOAC+
+                                 NOAC Alone                            Warfarin Alone Warfarin+ Aspirin            DAPT
+         Description                                     Aspirin
+                                  (N = 23404)                            (N = 2303)      (N = 6270)              (N = 8974)
+                                                       (N = 46169)
+Any major adverse events          2.46% (533)         3.40% (1514)       2.76% (59)           3.14% (192)        4.21% (358)
+All death                         0.55% (120)         0.59% (262)        1.26% (27)           0.73% (45)          0.93% (79)
+  Cardiovascular                  0.28% (61)          0.27% (119)        0.66% (14)           0.34% (21)          0.48% (41)
+  death/unknown cause death
+  Cardiovascular death            0.22% (47)           0.21% (92)        0.51% (11)           0.34% (21)         0.40% (34)
+  Death cause                     0.06% (14)           0.06% (27)        0.14% (3)             0.00% (0)         0.08% (7)
+  unknown/missing
+  Non-cardiovascular death        0.27% (59)          0.32% (143)        0.61% (13)           0.39% (24)         0.45% (38)
+Pericardial effusion requiring    0.08% (18)           0.13% (59)        0.14% (3)             0.08% (5)         0.08% (7)
+surgical or percutaneous
+Ischemic stroke or systemic       0.20% (43)           0.14% (62)         0.14% (3)           0.16% (10)         0.27% (23)
+thromboembolism
+Any stroke or TIA                 0.34% (74)          0.28% (126)         0.37% (8)           0.33% (20)         0.50% (43)
+  All stroke                      0.22% (48)           0.19% (86)         0.33% (7)           0.21% (13)         0.40% (34)
+  Ischemic stroke                 0.20% (43)           0.13% (59)         0.14% (3)            0.15% (9)         0.26% (22)
+  Hemorrhagic stroke               0.02% (4)           0.05% (24)         0.19% (4)            0.07% (4)         0.13% (11)
+  Undetermined stroke              0.00% (1)           0.01% (4)          0.00% (0)            0.00% (0)         0.01% (1)
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                                    Page 33
+                                                           NOAC+
+                                 NOAC Alone                                Warfarin Alone Warfarin+ Aspirin           DAPT
+         Description                                        Aspirin
+                                  (N = 23404)                                 (N = 2303)         (N = 6270)         (N = 8974)
+                                                          (N = 46169)
+  Transient ischemic attack          0.12% (26)           0.09% (41)           0.05% (1)         0.11% (7)          0.11% (9)
+Systemic thromboembolism              0.00% (0)            0.01% (3)           0.00% (0)         0.02% (1)          0.01% (1)
+Major bleeding                      1.49% (322)          2.50% (1108)         1.37% (29)        2.10% (128)       2.83% (240)
+ Kaplan Meier event rates; Numbers are % (number of events)
+ Any major adverse event included death, cardiac arrest, ischemic stroke, hemorrhagic stroke, undetermined stroke, transient
+ischemic attack, intracranial hemorrhage, systemic arterial embolism, major bleeding, major vascular complication, myocardial
+infarction, pericardial effusion requiring intervention, and device embolization.
+
+                        At 6 months, the lowest rates of major adverse events were found in subjects
+                        receiving NOAC alone or NOAC + aspirin at discharge; major bleeding was
+                        lowest in subjects receiving NOAC alone or warfarin alone at discharge
+                        (Table 20). The rate of death was lowest in subjects discharged on NOAC
+                        alone or NOAC + aspirin. Any stroke or TIA occurred at the lowest rates in
+                        the NOAC alone or warfarin alone groups; however, the rate of stroke and
+                        TIA was also very low in the NOAC + aspirin at discharge group (Table 20).
+
+                                 Table 19: Events Post Discharge to 6 months
+                                                       NOAC+
+                                  NOAC Alone                          Warfarin Alone     Warfarin+ Aspirin          DAPT
+          Description                                  Aspirin
+                                   (N = 23404)                          (N = 2303)          (N = 6270)            (N = 8974)
+                                                     (N = 46169)
+Any major adverse events              7.39% (1491)  8.10% (3465)            9.38% (184)         9.31% (551)       10.73% (870)
+All death                              3.23% (637)  3.14% (1319)            5.45% (106)         4.39% (257)       4.73% (376)
+   Cardiovascular                      1.27% (250)   1.19% (497)             2.39% (46)          1.55% (90)       1.78% (140)
+   death/unknown cause death
+   Cardiovascular death                1.01% (199)       0.92% (385)         1.71% (33)          1.23% (72)       1.50% (118)
+   Death cause unknown/missing         0.26% (51)        0.27% (112)         0.69% (13)          0.32% (18)        0.28% (22)
+   Non-cardiovascular death            1.98% (387)       1.97% (822)         3.14% (60)         2.88% (167)       3.00% (236)
+Ischemic stroke or systemic            0.59% (117)       0.63% (260)         0.31% (6)           0.61% (35)        0.67% (53)
+thromboembolism
+Pericardial effusion requiring         0.16% (32)         0.22% (94)         0.25% (5)           0.17% (10)        0.16% (13)
+surgical or percutaneous
+Ischemic stroke or systemic            0.59% (117)       0.63% (260)         0.31% (6)           0.61% (35)        0.67% (53)
+thromboembolism
+Any stroke or TIA                      0.95% (190)       0.99% (416)         0.88% (17)          1.23% (71)        1.21% (97)
+All stroke                             0.70% (140)       0.76% (317)         0.61% (12)          0.90% (52)        0.99% (79)
+   Ischemic stroke                     0.53% (107)       0.59% (246)         0.31% (6)           0.55% (32)        0.60% (48)
+   Hemorrhagic stroke                  0.15% (29)         0.15% (63)         0.30% (6)           0.29% (17)        0.34% (27)
+   Undetermined stroke                  0.02% (4)         0.03% (14)         0.00% (0)           0.07% (4)          0.05% (4)
+Transient ischemic attack              0.24% (50)        0.24% (102)         0.27% (5)           0.34% (20)        0.22% (18)
+Systemic thromboembolism               0.05% (10)         0.04% (17)         0.00% (0)           0.05% (3)          0.08% (6)
+Major bleeding                         3.27% (664)      4.22% (1818)         3.73% (73)         4.34% (256)       5.22% (424)
+  Kaplan Meier event rates; Numbers are % (number of events)
+  Any major adverse event included death, cardiac arrest, ischemic stroke, hemorrhagic stroke, undetermined stroke, transient
+ ischemic attack, intracranial hemorrhage, systemic arterial embolism, major bleeding, major vascular complication, myocardial
+ infarction, pericardial effusion requiring intervention, and device embolization.
+
+                    At 1 year, the lowest rates of major adverse events were found in subjects
+                    discharged on NOAC alone and NOAC + aspirin; the rates of death were also
+                    lowest in these two groups (Table 21). The rate major bleeding continued to be
+                    lower in the NOAC alone and warfarin alone discharge medication groups.
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                                     Page 34
+                                   Table 20: Events Post Discharge to 1 year
+                                                        NOAC+
+                                   NOAC Alone           Aspirin            Warfarin Alone Warfarin+ Aspirin            DAPT
+Description                         (N = 23404)       (N = 46169)              (N = 2303)        (N = 6270)          (N = 8974)
+Any major adverse events           12.52% (2334)     12.66% (5127)           14.87% (275)       14.73% (833)      16.67% (1252)
+All death                          6.95% (1249)      6.33% (2483)             9.37% (171)       8.36% (464)        9.30% (669)
+   Cardiovascular death/unknown     2.62% (464)       2.45% (944)             4.07% (73)        3.18% (172)        3.70% (258)
+   cause death
+   Cardiovascular death                2.07% (365)         1.85% (713)        3.14% (56)        2.48% (134)        3.08% (214)
+   Death cause unknown/missing          0.57% (99)         0.61% (231)        0.96% (17)         0.72% (38)         0.65% (44)
+   Non-cardiovascular death            4.44% (785)        3.98% (1539)        5.53% (98)        5.35% (292)        5.81% (411)
+Pericardial effusion requiring          0.22% (42)         0.27% (112)         0.31% (6)         0.21% (12)         0.23% (17)
+surgical or percutaneous
+Ischemic stroke or systemic            1.22% (216)         1.28% (486)        0.94% (16)         1.34% (71)         1.16% (82)
+thromboembolism
+Any stroke or TIA                      1.82% (326)         1.87% (722)        1.81% (32)        2.11% (115)        2.04% (146)
+   All stroke                          1.42% (253)         1.46% (560)        1.42% (25)         1.67% (90)        1.54% (112)
+   Ischemic stroke                     1.14% (202)         1.18% (449)        0.94% (16)         1.22% (65)         1.04% (74)
+   Hemorrhagic stroke                   0.25% (45)         0.25% (99)          0.48% (9)         0.37% (21)         0.42% (32)
+   Undetermined stroke                   0.05% (9)         0.06% (22)          0.00% (0)         0.09% (5)           0.10% (7)
+Transient ischemic attack               0.40% (74)         0.45% (174)         0.39% (7)         0.51% (28)         0.50% (34)
+Systemic thromboembolism                0.09% (16)         0.11% (40)          0.00% (0)         0.12% (6)          0.15% (10)
+Major bleeding                         4.22% (816)        5.05% (2111)        4.59% (86)        5.34% (305)        6.34% (492)
+  Kaplan Meier event rates; Numbers are % (number of events)
+  Any major adverse event included death, cardiac arrest, ischemic stroke, hemorrhagic stroke, undetermined stroke, transient
+ ischemic attack, intracranial hemorrhage, systemic arterial embolism, major bleeding, major vascular complication, myocardial
+ infarction, pericardial effusion requiring intervention, and device embolization.
+
+                    At 45 days, effective device closure, defined as “Complete Seal” or 0 < Device
+                    Margin Residual leak (mm) ≤5mm, was greater than 99% for all groups.
+
+                    At 1 year, device-related thrombus rates in evaluable patients who had a TEE or
+                    CT at the 12-month timepoint were 1.29% (31/2409) for NOAC Alone, 1.67%
+                    (109/6520) for NOAC + aspirin, 4.37% (10/229) for Warfarin Alone, 3.25%
+                    (29/891) for Warfarin + aspirin, and 1.79% (13/727) for DAPT patients.
+
+                    Overall rates of any major adverse events were highest at all time points (45 days,
+                    6 months and 1 year) in the DAPT group.
+
+                    After adjusting for differences in baseline characteristics, the use of NOAC alone
+                    compared with the reference of NOAC + aspirin was associated with a
+                    significantly lower rate of major adverse events through 6 months and major
+                    bleeding between through 1 year of follow-up (Table 22). The risk of death was
+                    increased for the warfarin alone treated subjects at 1 year. The risk of stroke or
+                    TIA was increased in DAPT-treated subjects through 6 months and in warfarin +
+                    aspirin treated subjects at 1 year (Table 22).
+
+
+
+
+ PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                                    Page 35
+ Table 21: Adjusted Risk of Adverse Events in Mutually Exclusive Discharge Medication Groupings Compared With NOAC +
+                                                         Aspirin
+                                           45 day                                        6 month                                       1 year
+                                Univariate        Multivariate                 Univariate       Multivariate                Univariate        Multivariate
+                               HR [95% CI]        HR [95% CI]                 HR [95% CI]      HR [95% CI]                 HR [95% CI]       HR [95% CI]
+Major adverse events
+NOAC alone                0.87 [0.80, 0.94]           0.80 [0.71, 0.90]      0.96 [0.90, 1.01]      0.92 [0.85, 0.99]     0.97 [0.92, 1.01]      0.96 [0.90, 1.02]
+Warfarin + aspirin        1.07 [0.94, 1.22]           0.85 [0.72, 1.01]      1.20 [1.11, 1.31]      0.99 [0.88, 1.11]     1.17 [1.09, 1.25]      1.00 [0.91, 1.10]
+Warfarin alone            0.91 [0.73, 1.14]           0.78 [0.60, 1.02]      1.16 [1.01, 1.34]      0.92 [0.78, 1.10]     1.16 [1.04, 1.31]      0.99 [0.86, 1.15]
+DAPT                      1.47 [1.33, 1.62]           0.94 [0.81, 1.10]      1.44 [1.35, 1.55]      0.93 [0.84, 1.04]     1.28 [1.21, 1.36]      0.94 [0.86, 1.03]
+Death
+NOAC alone                0.94 [0.76, 1.17]           0.93 [0.71, 1.22]      1.03 [0.93, 1.13]      1.00 [0.88, 1.13]     1.01 [0.95, 1.08]      1.02 [0.93, 1.12]
+Warfarin + aspirin        1.25 [0.91, 1.71]           0.92 [0.61, 1.41]      1.41 [1.23, 1.61]      1.06 [0.89, 1.26]     1.23 [1.11, 1.36]      1.06 [0.94, 1.21]
+Warfarin alone            2.15 [1.45, 3.20]           1.61 [0.98, 2.63]      1.77 [1.45, 2.15]      1.22 [0.95, 1.56]     1.51 [1.29, 1.76]      1.24 [1.02, 1.51]
+DAPT                      1.58 [1.23, 2.03]           0.84 [0.58, 1.23]      1.52 [1.36, 1.71]      0.95 [0.80, 1.13]     1.21 [1.11, 1.32]      1.00 [0.88, 1.14]
+Stroke or TIA
+NOAC alone                1.10 [0.85, 1.42]           1.10 [0.85, 1.43]      0.95 [0.81, 1.12]      0.97 [0.82, 1.15]     0.98 [0.86, 1.11]      1.04 [0.88, 1.24]
+Warfarin + aspirin        1.04 [0.68, 1.60]           1.08 [0.70, 1.66]      1.19 [0.93, 1.52]      1.17 [0.91, 1.50]     1.29 [1.06, 1.56]      1.31 [1.04, 1.65]
+Warfarin alone            1.11 [0.57, 2.17]           1.16 [0.59, 2.26]      0.85 [0.53, 1.36]      0.91 [0.57, 1.46]     1.21 [0.85, 1.71]      1.45 [0.99, 2.11]
+DAPT                      1.77 [1.31, 2.39]           1.80 [1.33, 2.44]      1.29 [1.05, 1.59]      1.25 [1.01, 1.54]     1.13 [0.95, 1.34]      1.27 [0.99, 1.64]
+Major Bleeding
+NOAC alone                0.79 [0.72, 0.88]           0.73 [0.64, 0.84]      0.87 [0.80, 0.94]      0.82 [0.73, 0.91]     0.89 [0.83, 0.96]      0.84 [0.76, 0.93]
+Warfarin + aspirin        1.05 [0.91, 1.23]           0.92 [0.76, 1.11]      1.14 [1.01, 1.28]      0.97 [0.83, 1.14]     1.10 [0.99, 1.23]      0.95 [0.82, 1.11]
+Warfarin alone            0.72 [0.54, 0.96]           0.62 [0.44, 0.87]      0.93 [0.75, 1.14]      0.72 [0.55, 0.93]     0.90 [0.74, 1.09]      0.78 [0.61, 0.99]
+DAPT                      1.45 [1.30, 1.63]           0.84 [0.70, 1.00]      1.43 [1.30, 1.57]      0.81 [0.69, 0.94]     1.38 [1.26, 1.51]      0.81 [0.70, 0.93]
+ Reference NOAC + aspirin
+HR=hazard ratio
+To adjust for differences in baseline characteristics, multivariable Cox regression was performed using NOAC plus aspirin as the reference group. Variables were
+included in the regression analysis if they had a P value <0.05 in univariate analysis or were clinically known to be associated with the study outcomes. The final
+variables included in the analysis included age, sex, race, CHA2DS2-VASc score components (congestive heart failure, left ventricular dysfunction,
+hypertension, diabetes mellitus, transient ischemic. The confidence intervals are exploratory in nature and should not be used in place of hypothesis testing.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                                            Page 36
+XIII. PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+      In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+      Medical Devices Act of 1990, this PMA Supplement was not referred to the Circulatory
+      System Devices Panel, an FDA advisory committee, for review and recommendation
+      because the information in the PMA substantially duplicates information previously
+      reviewed by this panel.
+
+XIV. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+      A. Effectiveness Conclusions
+
+         The primary effectiveness endpoint of OPTION was the composite rate of stroke
+         (including ischemic and/or hemorrhagic), all cause death, and systemic embolism
+         through 36 months. Device non-inferiority was considered achieved for the primary
+         effectiveness endpoint.
+
+         The OPTION clinical trial results confirm the effectiveness of LAAC with the
+         WATCHMAN FLX™ Device and indicate implantation of the device is a reasonable
+         alternative to oral anticoagulation following percutaneous catheter ablation for high-
+         risk subjects with non-valvular atrial fibrillation.
+
+      B. Safety Conclusions
+
+         The risks of the device are based on data collected in clinical studies conducted to
+         support PMA approval as described above. The primary safety endpoint of the
+         OPTION study was non-procedural ISTH major and clinically relevant non-major
+         bleeding through 36 months. The device group was superior to the control group. The
+         superiority result was driven primarily by higher rates of ISTH clinically relevant
+         non-major bleeding in the Control arm compared to the Device arm. The secondary
+         endpoint, defined as the Kaplan-Meier rate of ISTH major bleeding (including
+         procedural bleeding) through 36 months, was also achieved. The 36-month rate of
+         major bleeding among Control subjects was 5.0% (38 subjects). For subjects
+         randomized to WATCHMAN FLX™ Device, this rate was 3.9% (30 subjects).
+         Device non-inferiority was considered achieved for the secondary endpoint.
+
+         Outcomes stratified by discharge medication regimen were assessed in an
+         observational study (WATCHMAN FLX-SURPASS discharge medication sub-
+         analysis). The totality of clinical data from patients receiving NOAC alone therapy
+         versus NOAC plus aspirin following WATCHMAN and WATCHMAN FLX™
+         implantation demonstrate a NOAC-only post-procedure antithrombotic regimen
+         results in clinically acceptable rates of death, stroke or TIA, and major bleeding after
+         device implantation.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                          Page 37
+      C. Benefit-Risk Determination
+
+         The probable benefits of the device are also based on data collected in a clinical study
+         conducted to support PMA approval as described above. The probable benefits
+         include a reduced risk of thromboembolism from the left atrial appendage and the
+         ability for patients to discontinue anticoagulation (following successful closure of the
+         left atrial appendage orifice), resulting in a reduced risk of long-term bleeding
+         complications compared with chronic anticoagulation use. Based on the OPTION
+         study results, a significant portion of patients undergoing LAA closure with the
+         WATCHMAN FLX™ Device are expected to gain these probable benefits. Based on
+         the WATCHMAN FLX-SURPASS Discharge Medication Sub-analysis, a significant
+         portion of patients prescribed NOAC alone after device implantation are expected to
+         gain these probable benefits.
+
+         The probable risks of the device are also based on data collected in a clinical study
+         conducted to support PMA approval as described above. Cumulative clinical
+         experience with the WATCHMAN FLX™ Closure Device with Delivery System
+         were also considered. The probable risks of the WATCHMAN FLX™ Closure
+         Device with Delivery System include device- and procedure-related serious adverse
+         events (such as cardiac tamponade and procedure related major bleeding
+         complications) and ischemic stroke and/or systemic embolism due to device
+         thrombosis.
+
+         Additional factors to be considered in determining probable risk and benefits for the
+         device included considering generalizability of results to real-world use, patient
+         tolerance for risks of the device compared to medical therapies, timing of procedures,
+         and patient sex.
+
+         1. Patient Perspective
+            This submission either did not include specific information on patient perspectives
+            or the information did not serve as part of the basis of the decision to approve or
+            deny the PMA for this device.
+
+         In conclusion, given the available information above, the data support that for
+         percutaneous, transcatheter closure of the left atrial appendage in patients meeting the
+         criteria described in the indications for use statement, the probable benefits outweigh
+         the probable risks.
+
+
+      D. Overall Conclusions
+
+         The data in this application support the reasonable assurance of safety and
+         effectiveness of this device when used in accordance with the indications for use.
+
+         The WATCHMAN FLX™ Closure Device with Delivery System and WATCHMAN
+         FLX™ Pro Closure Device with Delivery System are indicated to reduce the risk of
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                          Page 38
+         thromboembolism from the left atrial appendage in patients with non-valvular atrial
+         fibrillation who:
+            •     Are at increased risk for stroke and systemic embolism based on CHA2DS2-
+                  VASc scores and are recommended for anticoagulation therapy;
+            •     Are deemed by their physicians to be suitable for anticoagulation therapy; and
+            •     Have an appropriate rationale to seek a non-pharmacologic alternative to
+                  anticoagulation therapy, taking into account the safety and effectiveness of the
+                  device compared to anticoagulation therapy.
+         Following catheter ablation for non-valvular atrial fibrillation (concomitantly or
+         sequentially with WATCHMAN FLX™ or WATCHMAN FLX™ Pro
+         implantation):
+         The WATCHMAN FLX™ and WATCHMAN FLX™ Pro Devices are indicated to
+         reduce the risk of thromboembolism from the left atrial appendage in patients with
+         non-valvular atrial fibrillation who:
+            •   Are at increased risk for stroke and systemic embolism based on CHA2DS2-
+                VASc scores and are recommended for anticoagulation therapy;
+            •   Are deemed by their physicians to be suitable for anticoagulation therapy
+
+      There is reasonable assurance that the probable benefits of the WATCHMAN FLX™ and
+      WATCHMAN FLX™ Pro devices of reducing the risk of thromboembolism in patients
+      while allowing most patients to discontinue long-term oral anticoagulation therapies
+      outweigh the probable risks of device- and procedure-related adverse events (e.g., device-
+      related thrombus, device leak or failures, procedural bleeding, etc.). For high-risk patients
+      with non-valvular atrial fibrillation who have undergone catheter ablation, the device has
+      demonstrated lower rates of non-procedural bleeding and similar all bleeding (including
+      procedural bleeding) compared to medical therapy of oral anticoagulation after ablation.
+
+
+XV.   CDRH DECISION
+
+      CDRH issued an approval order on July 16, 2025. The final conditions of approval cited
+      in the approval order are described below.
+
+      In addition to the Annual Report requirements, the applicant must provide the following
+      data in post-approval study (PAS) reports for each PAS listed below.
+
+      1. WATCHMAN FLX™ Pro OPTION PAS – The applicant has agreed to work with
+         the American College of Cardiology (ACC) Left Atrial Appendage Occlusion
+         (LAAO) Registry to ensure that FDA surveillance occurs for commercial use of the
+         WATCHMAN FLX™ Pro Left Atrial Appendage Device with Delivery System. The
+         OPTION Post Approval Analysis will be carried out to continue to characterize
+         clinical outcomes associated with concomitant ablation and WATCHMAN implant in
+         real world use.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                           Page 39
+         Surveillance of real-world use will include a minimum of 3,000 consecutive subjects
+         entered into the LAAO Registry. Of these subjects, at least 1,500 subjects will be
+         subjects in whom a WATCHMAN FLX™ Pro device was successfully implanted
+         during a concomitant ablation procedure. The remaining subjects will be subjects in
+         whom a WATCHMAN FLX™ Pro device was successfully implanted following a
+         historical ablation procedure that occurred between 3-12 months prior to the
+         WATCHMAN FLX™ Pro implant. This surveillance should monitor the following
+         registry collected data: procedure related events, including pericardial effusion, and
+         device margin residual leak, device related thrombus, the rate of all-cause death,
+         cardiovascular death, stroke (ischemic and/or hemorrhagic), major bleed, systemic
+         embolism. Assessments should occur at hospital discharge, 45 days, 6 months, 1 year
+         and 2 years. Event rates and patient baseline characteristics will be descriptively
+         reported.
+
+
+      2. WATCHMAN FLX™ Pro NOAC Alone PAS – The applicant has agreed to work
+         with the American College of Cardiology (ACC) Left Atrial Appendage Occlusion
+         (LAAO) Registry to ensure that FDA surveillance occurs for commercial use of the
+         WATCHMAN FLX™ Pro Left Atrial Appendage Device with Delivery System. The
+         NOAC Alone Post Approval Study will be carried out to continue to characterize
+         clinical outcomes associated with the use of non-vitamin K oral anticoagulant
+         (NOAC) alone as an alternative to an oral anticoagulant (OAC) and aspirin as the
+         post-implant medication regimen for the WATCHMAN FLX™ Pro Left Atrial
+         Appendage (LAA) Closure Device with Delivery System in a routine clinical setting.
+         Surveillance of real-world use will include all consecutive subjects entered into the
+         LAAO Registry who were successfully implanted with a WATCHMAN FLX™ Pro
+         device, discharged, and prescribed NOAC alone, NOAC + aspirin, or dual antiplatelet
+         therapy (DAPT) for 6 months from the date of the approval. This surveillance should
+         monitor the following registry collected data: device- and procedure-related events,
+         including pericardial effusion, and device margin residual leak, device related
+         thrombus, device embolization, the rate of all-cause death, cardiovascular death,
+         stroke (ischemic and/or hemorrhagic), major bleed, systemic embolism. Assessments
+         should occur at hospital discharge, 45 days, 6 months, 1 year and 2 years. The above
+         events will be descriptively compared between the cohorts of patients successfully
+         implanted with a WATCHMAN FLX™ Pro device and discharged on NOAC Alone,
+         NOAC + aspirin, and DAPT. The above event rates and baseline characteristics in the
+         NOAC Alone, NOAC + aspirin, and DAPT cohorts will also be compared to the
+         event rates in previously acquired LAAO Registry data prior to the NOAC Alone
+         labeling implementation at hospital discharge, 45 days, 6 months, 1 year and 2 years.
+         Patient baseline characteristics and event rates will also be descriptively reported and
+         compared to those of patients in the SURPASS (WATCHMAN FLX) post approval
+         analysis.
+
+         From the date of study protocol approval, the applicant must meet the following
+         timelines for OPTION PAS:
+            • First subject enrolled within 6 months
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                         Page 40
+            •   20% of subjects enrolled within 12 months
+            •   50% of subjects enrolled within 18 months
+            •   100% of subjects enrolled within 24 months
+         In addition, the applicant must submit separate periodic reports on the progress of
+         OPTION PAS and the WATCHMAN FLX™ PRO NOAC Alone PAS as follows:
+            • PAS Progress Reports every six (6) months until subject enrollment has been
+               completed, and annually thereafter, from the date of the PMA approval letter,
+               unless otherwise specified by FDA.
+            • If any enrollment milestones are not met, you must begin submitting quarterly
+               enrollment status reports every 3 months in addition to your periodic (6-month)
+               PAS Progress Reports, until FDA notifies you otherwise.
+            • Submit the Final PAS Report three (3) months from study completion (i.e., last
+               subject’s last follow-up date).
+
+
+      The applicant’s manufacturing facilities have been inspected and found to be in
+      compliance with the device Quality System (QS) regulation (21 CFR 820).
+
+XVI. APPROVAL SPECIFICATIONS
+
+      Directions for use: See device labeling.
+
+      Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+      Precautions, and Adverse Events in the device labeling.
+
+      Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+PMA P130013/S074: FDA Summary of Safety and Effectiveness Data                          Page 41
+

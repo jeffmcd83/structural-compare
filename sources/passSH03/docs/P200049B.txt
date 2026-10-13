@@ -1,0 +1,1999 @@
+                       SUMMARY OF SAFETY AND EFFECTIVENESS DATA
+
+
+  I.      GENERAL INFORAMTION
+
+          Device Generic Name:                    System, Appendage Closure, Left Atrial
+
+          Device Trade Name:                      Amplatzer™ Amulet™ Left Atrial Appendage
+                                                  Occluder
+
+          Device Product Code:                    NGV
+
+          Applicant’s Name and Address:           Abbott Medical
+                                                  5050 Nathan Lane North, Plymouth, MN 55442,
+                                                  USA
+
+          Date(s) of Panel Recommendation:        None
+
+          Premarket Approval (PMA) Number:        P200049
+
+          Date of FDA Notice of Approval:         August 14, 2021
+
+ II.      INDICATIONS FOR USE
+
+          The Amplatzer™ Amulet™ Left Atrial Appendage Occluder is a percutaneous transcatheter
+          device intended to reduce the risk of thrombus embolization from the left atrial appendage
+          (LAA) in patients who have nonvalvular atrial fibrillation and who are at increased risk for
+          stroke and systemic embolism based on CHADS2 or CHA2DS2-VASc scores, are suitable for
+          short term anticoagulation therapy, and have appropriate rationale to seek a non-
+          pharmacologic alternative to oral anticoagulation, taking into consideration the safety and
+          effectiveness of the device.
+
+III.      CONTRAINDICATIONS
+
+          The Amplatzer™ Amulet™ Left Atrial Appendage (LAA) Occluder is contraindicated for
+          patients:
+           with the presence of intracardiac thrombus
+           with active endocarditis or other infections producing bacteremia
+           where placement of the device would interfere with any intracardiac or intravascular
+              structures
+
+IV.       WARNINGS AND PRECAUTIONS
+
+          The warnings and precautions can be found in the Amplatzer Amulet LAA Occluder labeling
+          (Instructions for Use).
+
+       PMA P200049: FDA Summary of Safety and Effectiveness Data                             Page 1
+V.      DEVICE DESCRIPTION
+
+        A. General Description
+
+           The Amplatzer™ Amulet™ Left Atrial Appendage Occluder (Figure 1) is a
+           percutaneous transcatheter device intended to prevent thrombus embolization from the
+           left atrial appendage (LAA) in patients who have non-valvular atrial fibrillation. It is a
+           permanent implant intended for use in direct contact with the heart.
+
+
+
+
+                                         Figure 1: Amulet LAA Occluder
+
+           The device is constructed from a braided Nitinol mesh and consists of a disc and a lobe
+           connected by a central waist. The lobe ranges in diameter from 16 mm to 34 mm and has
+           stabilizing wires for device placement and retention. The disc is larger in diameter than
+           the lobe, ranging from 22mm to 41mm. Both the disc and the lobe contain polyester
+           fabric to facilitate occlusion. There are threaded screw attachments at either end of the
+           device for connection to the delivery and loading cables. Radiopaque marker bands
+           (Platinum/iridium) at either end of the device allow for predictable and visible placement
+           of the device. Figure 2 depicts the Amulet occluder components.
+
+
+
+
+     PMA P200049: FDA Summary of Safety and Effectiveness Data                                Page 2
+      Figure 2: Amplatzer Amulet Left Atrial Appendage Occluder and Key Components
+
+
+        Figure 3 below depicts an Amulet device, attached to the delivery cable, advanced
+        through the delivery sheath.
+
+
+
+
+                    Figure 3: Amulet Device with Delivery Cable and Sheath
+
+
+   B. Accessories
+
+      The Amulet occluder is packaged with several accessory components to facilitate the
+      delivery of the implant to the LAA with the recommended 12 French (12F) or 14 French
+      (14F) Amplatzer TV45x45 Delivery Sheath (K163000, cleared 23 December 2016). All
+      Amulet devices are packaged with an implant, loader, delivery cable, delivery cable vise,
+      loading cable, loading cable vise and hemostasis valve. Additionally, a 13F to 14F sheath
+      adaptor is included with device sizes 16-25 mm in order to facilitate connection of the
+      13F loader to a 14F delivery sheath. A 14F flush adaptor is also included for sizes 28
+      mm–34 mm to facilitate connection of the 14F loader to the hemostasis valve. Figure 4
+      depicts the Amulet accessory components packaged with the device.
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                            Page 3
+                      Figure 4: Amulet Occluder Accessory Components
+
+
+   C. Principles of Operation
+
+      Prior to implantation, a transesophageal echocardiography (TEE) is performed to rule out
+      the presence of intracardiac thrombus (including left atrial appendage thrombus) and
+      presence of pericardial effusion.
+
+      Implantation of the Amulet device occurs in a catheterization laboratory by interventional
+      cardiologists or electrophysiologists using standard transcatheter techniques. Heparin is
+      administered to achieve a recommended activated clotting time (ACT) of 250 seconds
+      throughout the procedure. The physician performs a transseptal puncture using standard
+      percutaneous techniques, gains access to the left atrium and places an Amplatzer
+      guidewire into the left upper pulmonary vein. The dilator and delivery sheath are
+      advanced over the guidewire to the landing zone. The physician then advances the distal
+      portion of the dilator and delivery sheath approximately 10 mm into the left atrial
+      appendage. The dilator and guidewire are removed from the sheath. The device is
+      introduced into the sheath and advanced to the distal tip of the sheath. The device is
+      guided into the left atrial appendage using fluoroscopy and TEE. Deployment of the lobe
+      of the Amulet device initiates by retracting the delivery sheath to expose the lobe and
+      continuing to deploy the lobe by advancing the delivery cable and/or pulling the delivery
+      sheath back until the lobe is fully deployed within the left atrial appendage at the
+      intended landing zone. While maintaining slight tension on the delivery cable, the sheath
+      is retracted to expose the disc. The device disc should cover the orifice. Proper placement
+      is confirmed using TEE and fluoroscopy. At least 2/3 of the device lobe should be distal
+      to the left circumflex artery on echocardiography. When the device placement is
+      confirmed, the device is released. The device is detached by turning the delivery cable
+      vise counterclockwise and removing the delivery cable and sheath from the patient. If
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                              Page 4
+             device repositioning is not satisfactory, the device can be recaptured and repositioned by
+             pulling the delivery cable. Figure 5 illustrates final device placement.
+
+
+
+
+                                 Figure 5: Amulet Device Placement in the LAA
+
+
+
+VI.       ALTERNATIVE PRACTICES AND PROCEDURES
+
+          There are several other alternatives for preventing thrombus embolization from the left atrial
+          appendage to reduce the risk of stroke and systemic embolism in patients with non-valvular
+          atrial fibrillation.
+
+          The most common and recommended treatment to prevent stroke in patients with atrial
+          fibrillation is oral anticoagulation. This includes vitamin K antagonists (VKA) such as warfarin,
+          or non-VKA oral anticoagulant medications (NOACs). These oral anticoagulants reduce the
+          blood’s ability to clot.
+
+          Other treatment options include occlusion of the left atrial appendage via commercially
+          available transcatheter occluders, surgical clips or surgical suturing.
+
+          Each alternative has its own advantages and disadvantages. A patient should fully discuss
+          these alternatives with his/her physician to select the method that best meets expectations and
+          lifestyle.
+
+VII.      MARKETING HISTORY
+
+          As of July 19, 2021, the Amplatzer Amulet LAA Occluder Device is commercially available
+          in the following countries:
+
+            Albania                 Egypt                     Libya                   Reunion
+            Algeria                 Estonia                   Liechtenstein           Romania
+            Andorra                 Finland                   Lithuania               Rwanda
+            Argentina               France                    Luxembourg              Saudi Arabia
+
+       PMA P200049: FDA Summary of Safety and Effectiveness Data                                   Page 5
+             Australia                French Polynesia          Malaysia                 Serbia
+             Austria                  French Guiana             Malta                    Slovakia
+             Azerbaijan               Georgia                   Martinique               Slovenia
+             Bahrain                  Germany                   Mauritius                South Africa
+             Belgium                  Greece                    Mexico                   South Korea
+             Bolivia                  Guadeloupe                Monaco                   Spain
+             Brazil                   Hong Kong                 Morocco                  Sweden
+             Bulgaria                 Hungary                   Netherlands              Switzerland
+             Canada                   Iceland                   New Caledonia            Taiwan
+             Chile                    Indonesia                 New Zealand              Thailand
+             Colombia                 Ireland                   Norway                   Tunisia
+             Croatia                  Israel                    Palestine                Turkey
+             Cyprus                   Italy                     Panama                   United Kingdom
+             Czech Republic           Jordan                    Peru                     United Arab Emirates
+             Denmark                  Kazakhstan                Poland                   Venezuela
+             Dominican Rep            Latvia                    Portugal                 Vietnam
+             Ecuador                  Lebanon                   Qatar
+
+           The device has not been withdrawn from marketing for any reason related to its
+           safety and effectiveness.
+
+VIII.      POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+           Below is a list of the potential adverse effects (e.g. complications) associated with the use of the
+           Amplatzer Amulet LAA Occluder or the device implantation procedure:
+
+             •   Air embolism
+             •   Airway trauma
+             •   Allergic reaction
+             •   Anemia
+             •   Anesthesia reaction (nausea, vasovagal reaction confusion/altered mental status or
+                 other)
+             •   Arrhythmia
+             •   Atrial septal defect
+             •   Bleeding
+             •   Cardiac arrest
+             •   Cardiac tamponade
+             •   Chest pain/discomfort
+             •   Congestive heart failure
+             •   Death
+             •   Device embolization
+             •   Device erosion
+             •   Device malfunction
+             •   Device malposition
+        PMA P200049: FDA Summary of Safety and Effectiveness Data                                     Page 6
+          •    Device migration
+          •    Device related thrombus
+          •    Fever
+          •    Hematuria
+          •    Hypertension/hypotension
+          •    Infection
+          •    Multi-organ failure
+          •    Myocardial infarction
+          •    Perforation
+          •    Pericardial effusion
+          •    Pleural effusion
+          •    Renal failure/dysfunction
+          •    Respiratory failure
+          •    Seizure
+          •    Significant residual flow
+          •    Stroke
+          •    Thrombocytopenia
+          •    Thromboembolism: peripheral and pulmonary
+          •    Thrombus formation
+          •    Transient ischemic attack
+          •    Valvular regurgitation/insufficiency
+          •    Vascular access site injury (hematoma, pseudoaneurysm, arteriovenous fistula, groin
+               pain or other)
+          •    Vessel trauma/injury
+
+         For the specific adverse events that occurred in the clinical study, please see Summary of
+         clinical data sections below.
+
+IX.      SUMMARY OF NONCLINICAL STUDIES
+
+         A. Laboratory Studies
+
+              1. Biocompatibility
+
+                 Based on the results of the biocompatibility testing performed, the materials used in the
+                 Amplatzer Amulet LAA Occluder were determined to be biocompatible, non-mutagenic,
+                 non-toxic and, therefore, safe for the devices intended use. Testing was conducted in
+                 accordance with ISO 10993-1, Biological Evaluation of Medical Devices. According to
+                 ISO 10993, the Amulet Occluder is classified as a long-term implantable device
+                 contacting blood for >30 days. The accessory components packaged with the Amulet
+                 Occluder are classified as limited exposure (<24 hours) externally communicating,
+                 circulating blood contact devices. The required testing for the implant and accessories
+                 was determined based on these classifications, in accordance with ISO 10993-1.
+
+                 A summary of the tests performed, and test results are presented in Table 1 below.
+
+
+      PMA P200049: FDA Summary of Safety and Effectiveness Data                                 Page 7
+                                Table 1: Biocompatibility Tests and Results
+                                                                       Accessory
+         Biological Study       Test Name /Description      Implant    Components   Results
+
+                                ISO 10993-5 MEM                                     Passed
+         Cytotoxicity           Elution Assay               X         X             Non-cytotoxic
+                                ISO 10993-10 Guinea                                 Passed
+         Sensitization          Pig Maximization            X         X             Non-sensitizer
+
+                                ISO 10993-10                                        Passed
+         Irritation                                         X         X
+                                Intracutaneous Reactivity                           Non-irritant
+
+                                                                                    Passed
+         Acute Systemic         ISO 10993-11 Systemic       X         X             No evidence of
+         Toxicity               Toxicity
+                                                                                    systemic toxicity
+
+                                ISO 10993-11 Material                               Passed
+         Pyrogenicity                                       X         X
+                                Mediated Rabbit Pyrogen                             Non-pyrogenic
+
+                                ISO 10993-3 Ames and                                Passed
+         Genotoxicity           Mouse Lymphoma              X         N/A           Non-mutagenic
+                                ISO 10993-6 13 Week
+         Implantation           Intramuscular Implant       X         N/A           Passed
+                                Toxicity – Rabbit Model                             Non-irritant
+
+                                ISO 10993-6 13 Week                                 Passed
+         Subacute/Subchronic
+                                Intramuscular Implant       X         N/A           No patterns of
+         Toxicity
+                                Toxicity – Rabbit Model                             systemic toxicity
+
+                                ISO 10993-4 Hemolysis
+                                (Direct and Indirect),                              Passed
+         Hemocompatibility      Complement Activation,      X         X             Acceptable
+                                PTT, Platelet and                                   hemocompatibility
+                                Leukocyte Counts                                    profile
+
+                                ISO 10993-18 GCMS,                                  Passed
+         Chemical               LCMS, ICPMS, and            X         X             Acceptable
+         Characterization       NVR                                                 toxicological risk
+
+                                                                                    Passed
+         Surface                ISO 10993-19 Scanning                               Surfaces
+         Characterization       Electron Microscopy         X         X             comparable to
+                                                                                    control
+
+                                                                                    Passed
+                                Quantitative assessment of
+         Nickel Leach Profile                              X          N/A           Acceptable nickel
+                                nickel elution from device
+                                                                                    levels
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                      Page 8
+       2. In Vitro Engineering Tests
+
+           Design verification testing and material characterization was performed on the
+           Amplatzer Amulet LAA Occluder to ensure the design meets all required inputs per the
+           product specifications. The test results demonstrate that the Amulet Occluder meets all
+           design requirements. The testing issummarized in Table 2 below.
+
+                              Table 2: Design Verification Testing
+   Test                                            Test Description                       Results
+                                 These tests quantitatively assessed the outward
+   Radial Force                  radial force of the Amulet occluder.                     Pass
+                                 This test quantitatively assessed the force to
+   Anchoring Force               dislodge the Amulet occluder.                            Pass
+                                 This test quantitatively assessed the force required
+   Stabilizing Wire Retention    to remove a stabilizing wire from the Amulet             Pass
+   Force                         occluder.
+                                 This test assessed the tensile strength of the Amulet
+   Occluder Tensile              occluder.                                                Pass
+                                 These tests assessed the ability to flush the occluder
+   System Preparation            properly.                                                Pass
+                                 These tests assessed the force required to load the
+   Loading Force and Loading     Amulet occluder and the ability to load the Amulet       Pass
+   Requirements                  occluder properly.
+
+                                   This test quantitatively assessed the force
+   Advancement and Deploy          required to advance the Amulet occluder through        Pass
+   Force                           the delivery sheath and deploy the occluder.
+
+                                   These tests quantitatively assessed the force
+   Partial and Full Recapture      required to partially and fully recapture the Amulet   Pass
+   Forces                          occluder into the delivery sheath.
+                                   These tests assessed the ability to detach the
+                                   Amulet delivery cable from the occluder and
+   Delivery Cable Detachment                                                              Pass
+                                   ensured the delivery cable would not detach from
+                                   the occluder unintentionally.
+                                   These tests assessed the Amulet occluder after
+   Inspection After Simulated      simulated use testing to ensure the occluder met       Pass
+   Use                             requirements.
+                                   This test assessed the compatibility of the Amulet
+                                   occluder with MRI scanning.
+   MRI Compatibility Testing                                                              Pass
+                                   Additional MRI information is provided below this
+                                   table.
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                 Page 9
+   Test                                            Test Description                            Results
+                                 This test assessed the ability of the Amulet occluder
+                                 to resist fatigue-related damage. The occluders
+   Occluder Fatigue Resistance                                                                 Pass
+                                 were cycled to 400 million cycles, the equivalent of
+                                 10 years.
+                                 These tests assessed the ability of the Amulet
+   Occluder Corrosion Resistance occluder to resist corrosion                                  Pass
+
+                                    This test assessed the particulate levels generated
+   Particulate Testing              from the Amulet occluder and delivery components           Pass
+                                    during simulated clinical use.
+                                    This test quantitatively assessed the tensile strength
+   Delivery Cable Tensile           of the Amulet delivery cable.                              Pass
+
+   Delivery Cable Torque            This test quantitatively assessed the torque strength      Pass
+                                    This test quantitatively assessed the flexibility of the
+   Delivery Cable Flexibility       distal end of the Amulet delivery cable                    Pass
+                                    This test quantitatively assessed the length of the
+   Delivery Cable Length            Amulet delivery cable.                                     Pass
+                                    This test assessed the ability of the Amulet delivery
+   Delivery Cable Leak              cable to remain leak free.                                 Pass
+                                    This test quantitatively assessed the tensile
+   Delivery Cable Distal Feature    strength of the distal feature of the Amulet               Pass
+   Tensile                          delivery cable.
+   Accessories Corrosion            This test assessed the ability of the Amulet
+                                    accessories to resist corrosion                            Pass
+   Resistance
+                                    This test quantitatively assessed the tensile strength
+   Loading Cable Tensile            of the Amulet loading cable.                               Pass
+                                    This test quantitatively assessed the length of the
+   Loading Cable Length             Amulet loading cable.                                      Pass
+                                    This test quantitatively assessed the tensile strength
+   Loader Tensile                   of the Amulet loader.                                      Pass
+                                    This test quantitatively assessed the tensile strength
+   Sheath Adapter Tensile           of the Amulet sheath adapter.                              Pass
+                                    These tests assessed the ability of the connections
+   System Compatibility             between components of the system to join                   Pass
+                                    properly and remain leak-free
+                                    These tests assessed the ability of the labels of the
+   Label Requirements               Amulet occluder package to remain adhered and              Pass
+                                    legible
+                                    These tests assessed the ability of the Amulet
+   Sterile Barrier                  occluder packaging system to maintain sterility of the     Pass
+                                    package.
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                      Page 10
+         Magnetic Resonance Imaging (MRI) Compatibility
+
+         Non-clinical testing has demonstrated the Amplatzer Amulet Left Atrial Appendage
+         Occluder is MR Conditional. A patient with the Amplatzer Amulet device can be safely
+         scanned in an MR system under the following conditions:
+         - Static magnetic field of 1.5 Tesla (1.5T) and 3.0 Tesla (3.0T)
+         - Maximum spatial gradient field of 19 T/m (1900 G/cm)
+         - Maximum MR system reported, whole-body averaged specific absorption rate
+            (SAR) of 2.0 W/kg (normal operating mode)
+
+         Under the scan conditions defined above, the device is expected to produce a maximum
+         temperature rise of less than or equal to 4°C after 15 minutes of continuous scanning.
+         In non-clinical testing the image artifact caused by the device extends radially up to
+         20mm from the device when imaged with a gradient echo pulse sequence in a 3.0T
+         MR system.
+
+      3. Sterilization
+
+         The Amplatzer Amulet Occluder is provided sterile and for single use only. The
+         Amulet occluder is sterilized via ethylene oxide. The sterilization cycle was validated
+         to meet a minimum Sterility Assurance Level (SAL) of 10-6.
+
+      4. Shelf Life /Packaging
+
+         The Amulet device was validated to ensure that both device performance and package
+         integrity were maintained for the shelf life of the product (5 years). Both the device and
+         the packaging passed the 5-year accelerated aging shelf-life testing. Prior to the 5
+         years accelerated aging, the device and the packaging were subjected to 2x
+         sterilization, distribution cycling and environmental conditioning that were in
+         accordance with the applicable ASTM standards. At the end of the accelerated aging,
+         performance verification testing was conducted, and all the samples met the pre-
+         defined acceptance criteria.
+
+   B. Animal Studies
+
+      In vivo GLP animal testing was performed to evaluate the Amulet device for delivery,
+      handling and device implant safety and performance. The animal validation activities
+      included an acute study in a porcine model to assess the performance of the occluder with
+      a delivery sheath, and a chronic implant study in a canine model to assess the safety and
+      performance of transcatheter left atrial appendage occlusion. All requirements were met
+      and demonstrated the Amulet device met customer requirements and intended use. In
+      addition, a supplemental acute validation study was performed as part of validation
+      activities for the Amulet design change which implemented a one-piece delivery cable as
+      well as other modified accessory components for the acute delivery of the device to
+      ensure the device and delivery system continued to meet performance requirements. In
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                Page 11
+           totality, all studies met the protocol specified safety and performance criteria.
+
+X.      SUMMARY OF PRIMARY CLINICAL STUDY
+
+        The applicant performed a clinical study to establish reasonable assurance of safety and
+        effectiveness of transcatheter left atrial appendage (LAA) closure with the Amulet left atrial
+        appendage occluder to prevent thrombus embolization from the LAA in subjects with non-
+        valvular atrial fibrillation in the US, Europe, Australia, and Canada under IDE G080150. Data
+        from the Amulet IDE clinical trial were the basis for the PMA approval decision. A summary of
+        the clinical study is presented below.
+
+        A. Study Design
+
+           Patients were treated between September 8, 2016 and March 8, 2019. The database for
+           this PMA reflected data collected through October 26, 2020 and included 1878
+           randomized subjects (US: 1598, OUS: 280). There were 78 sites in the US and 30 sites
+           outside the US.
+
+           The Amulet IDE Trial was a prospective, multi-center, randomized, controlled, pivotal
+           trial comparing the safety and effectiveness of the Amulet device to the FDA-approved
+           and commercially available Boston Scientific LAA closure device (Watchman;
+           P130013). The study enrolled subjects with non-valvular AF who were eligible for short-
+           term anticoagulation therapy but had a rationale to seek a non-pharmacologic alternative.
+           Subjects were randomized 1:1 to transcatheter LAA occlusion with either the Amulet
+           device or the Watchman device. After the study procedure, subjects were followed for up
+           to 5 years.
+
+           The study success was assessed based on demonstrating non-inferiority of the Amulet
+           device to the control device for the following: (1) rate of ischemic stroke or systemic
+           embolism at 18 months, (2) composite of procedure-related complications, all-cause
+           death or major bleeding at 12 months, and (3) effective closure at 45 days.
+
+           The study utilized an independent Data Safety Monitoring Board (DSMB) to oversee
+           study progress and review clinical data and safety, an independent Clinical Events
+           Committee (CEC) to adjudicate endpoint events, and an independent Echocardiography
+           Core Lab for the interpretation of all echocardiographic data.
+
+           1. Clinical Inclusion and Exclusion Criteria
+
+               Enrollment in the Amulet IDE Trial was limited to patients who met the following
+               inclusion criteria:
+                18 years of age or older
+                Documented paroxysmal, persistent, or permanent non-valvular atrial fibrillation and
+                   the patient has not been diagnosed with rheumatic mitral valvular heart disease
+                At high risk of stroke or systemic embolism defined as CHADS2 score > 2 or a
+                   CHA2DS2-VASc score of > 3
+
+     PMA P200049: FDA Summary of Safety and Effectiveness Data                                 Page 12
+            Has an appropriate rationale to seek an alternative to warfarin or other anticoagulant
+             medication
+            Deemed by investigator to be suitable for short term warfarin therapy but deemed
+             unable to take long term anticoagulation, following the conclusion of shared decision
+             making (see next inclusion criterion)
+            Deemed suitable for LAA closure by a multidisciplinary team of medical
+             professionals (including an independent non-interventional physician) involved in the
+             formal and shared decision-making process, and by use of an evidence-based
+             decision tool on oral anticoagulation (final determination must be documented in the
+             subject’s medical record)
+            Able to comply with the required medication regimen post-device implant
+            Able to understand and is willing to provide written informed consent to participate in
+             the trial
+            Able and willing to return for required follow-up visits and examinations
+
+         Patients were not permitted to enroll in the Amulet IDE Trial if they met any of the
+         following key exclusion criteria:
+          Requires long-term oral anticoagulation therapy for a condition other than atrial
+             fibrillation
+          Contraindicated for or allergic to aspirin, clopidogrel, or warfarin use
+          Has undergone atrial septal defect (ASD) repair or has an ASD closure device
+             present
+          Has undergone patent foramen ovale (PFO) repair or has a PFO closure device
+             implanted
+          Stroke or transient ischemic attack (TIA) within 90 days prior to randomization or
+             implant procedure (as applicable)
+          New York Heart Association Class IV Congestive Heart Failure
+          Left ventricular ejection Fraction (LVEF) < 30%
+          Thrombocytopenia or anemia requiring transfusions
+          Hypersensitivity to any portion of the device material or individual components of
+             either the Amulet or Boston Scientific LAA closure device (e.g. nickel allergy)
+          Active endocarditis or other infection producing bacteremia
+          Subjects with severe renal failure (estimated glomerular filtration rate <30
+             ml/min/1.73m2)
+          Intracardiac thrombus visualized by echocardiographic imaging
+          Existing circumferential pericardial effusion >2mm
+          Cardiac tumor
+          LAA anatomy cannot accommodate either a Boston Scientific LAA closure device
+             or Amulet device, as per manufacturer’s IFU. (i.e., the LAA anatomy and sizing
+             must be appropriate for both devices in order to be enrolled in the trial. This is
+             applicable to all roll-in and randomized subjects).
+          Placement of the device would interfere with any intracardiac or intravascular
+             structure
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                 Page 13
+       2. Follow-up Schedule
+
+             All patients were scheduled to return for clinical follow-up at discharge, 45
+             days, 3, 6, 9, 12 and 18 months, and 2, 3, 4 and 5 years. The key timepoints
+             and evaluations conducted in the trial are shown in Table 3. Adverse events
+             and complications were recorded at all visits.
+
+                                                       Table 3: Study Visits and Assessments
+
+
+
+
+                                                                                                                                                **18-month visit
+
+
+
+
+                                                                                                                                                                                                      Assessment Visit
+                                                                                                                                                                                    years(±60 days)
+                                                                                                            9-month visit (±
+                                                                            Phone Contact
+
+
+
+
+                                                                                                            30 days) Phone
+
+
+
+
+                                                                                                                                                                                    Phone Contact
+                                                                                                                                                                                      Annual visits
+                                                                                                                               12-month visit
+
+
+
+
+                                                                                                                                                                   24-month visit
+                                    Procedure2
+
+
+
+
+                                                                                            6-month visit
+                                                                                              (± 30 days)
+
+
+
+
+                                                                                                                                  (±30 days)
+
+
+
+
+                                                                                                                                                                      (±30 days)
+
+
+
+
+                                                                                                                                                                                                             Stroke
+                                                                            3-month visit
+                                                 Discharge
+
+                                                             45-day visit
+                         Baseline
+
+
+
+
+                                                                                                                                                                                       3, 4 and 5
+                                                                                                               Contact
+                                                                            (± 30 days)
+                                                             (± 5 days)
+Study Evaluation
+
+
+
+
+Informed Consent
+Process                       X
+History & Physical            X
+Cardiovascular &
+Medical Exam                  X
+Neurological exam             X
+CHADS2 and
+CHA2DS2-VASc                  X
+scores
+HAS-BLED score                X
+Reason for seeking
+an alternative to
+                              X
+Warfarin/OAC
+therapy
+INR
+assessment (as                X                                X                                X                              X                X                      X                                    X
+applicable)
+12-lead ECG                   X
+Pregnancy Test1               X
+Medication
+                              X                  X            X                 X               X               X              X                 X                     X                 X                  X
+Assessment
+MRI (CT if
+                             X3                                                                                                                                                                             X
+contraindicated)
+Modified Rankin
+Scale, NIHSS, &               X                                                                                                                                                                             X
+Barthel Index4
+QVSFS                         X                                X                X               X               X              X                 X                     X                 X
+EQ-5D-5L                      X                                X                                X                              X                 X
+Angiography                             X
+TTE                                              X
+TEE/TOE                     X*          X                      X                              X5                               X6                                                                         X7
+Adverse Event                           X        X                              X                               X                                                      X                 X                 X
+                              X                                X                                X                              X                 X
+Assessment
+     *Echoes performed within 90 days prior to consent will be accepted; otherwise, TEE/TOE must be conducted after consent;
+     1
+       Pregnancy test for women of childbearing potential;
+     2
+       Procedure must occur within 14 days from the date of randomization. Follow-up visit windows for implanted subjects will be
+     calculated based on the date of procedure;
+     3
+      MRI (CT if contraindicated) is required for subjects with a documented history of TIA or stroke. Previous imaging done post-
+     neurological event is acceptable; otherwise must be repeated;
+     4
+       Perform additional Neurological assessments after a confirmed stroke or TIA and repeat within 90 days of stroke confirmation.
+     5
+       TEE/TOE is not required if closure was confirmed at 45 days (defined as residual jet <5mm);
+     6
+       TEE/TOE is required for all subjects at 12 months;
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                                                                                                    Page 14
+    7
+     TEE/TOE is required at stroke visit only if stroke is confirmed by MRI/CT **As an endpoint visit, the 18-month visit window is -7/
+    +45 days based on the date of implant procedure. Note: Subjects that are randomized but do not have a procedure or do not receive a
+    device will be followed according to Table 3; however, medication requirements and follow-up TEE/TOEs are not required
+
+
+        3. Clinical Endpoints
+
+            Primary Safety Endpoint
+
+            The primary safety endpoint was a composite of procedure-related complications, all-
+            cause death, or major bleeding (Type 3 or greater per Bleeding Academic Research
+            Consortium (BARC) definition) at 12 months. The primary safety endpoint was analyzed
+            based on event adjudication by the CEC.
+
+            For the primary safety endpoint, the following hypothesis was tested:
+
+                      H0: p1(Amulet) – p1(Watchman) ≥ Δ1
+                      H1: p1(Amulet) – p1(Watchman) < Δ1
+
+            where p1(device) is the probability of a primary safety endpoint event in the respective
+            device group estimated by the Kaplan-Meier method, and Δ1 is the absolute value of the
+            non-inferiority margin for the safety endpoint. The non-inferiority margin (Δ1) was
+            prespecified to be 5.8%. The null hypothesis was tested at a significance level of
+            0.025.
+
+            The primary safety analysis was based on the per-protocol (PP) population which
+            consisted of subjects who met all inclusion and none of the exclusion criteria, who
+            underwent an implant attempt with the device as randomized.
+
+            Primary Effectiveness Endpoint
+
+            The primary effectiveness endpoint was a composite of ischemic stroke and systemic
+            embolism at 18 months.
+
+            For the primary effectiveness endpoint, the following hypothesis was tested:
+
+                      H0: p2(Amulet) – p2(Watchman) ≥ Δ2
+                      H1: p2(Amulet) – p2(Watchman) < Δ2
+
+            where p2(device) is the probability of a subject experiencing a primary effectiveness
+            endpoint event in the respective device group estimated by the Kaplan-Meier method, and
+            Δ2 is the absolute value of the non-inferiority margin for the effectiveness endpoint. The
+            non-inferiority margin (Δ2) was prespecified to be 3.2%. The null hypothesis was
+            tested at a significance level of 0.025.
+
+            The primary effectiveness analysis was based on the intention to treat (ITT) population,
+            which includes all randomized subjects.
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                                 Page 15
+         Primary Mechanism of Action Endpoint
+
+         The primary mechanism of action endpoint was device closure (defined as residual jet
+         around the device ≤ 5 mm) as assessed by an independent core laboratory on
+         transesophageal echocardiography (TEE) at the 45-day visit.
+
+         The following hypothesis was tested for this endpoint:
+
+                H0: p3(Amulet) – p3(Control) ≤ -Δ3
+                H1: p3(Amulet) – p3(Control) > -Δ3
+
+         where p3(Amulet) is the 45-day closure probability in the Amulet group, p3(Watchman) is
+         the corresponding probability in the Watchman group, and Δ3 is the absolute value of the
+         non-inferiority margin. The non- inferiority margin (Δ3) was chosen to be -3%. The
+         null hypothesis was tested at a significance level of 0.025.
+
+         The analysis population for the primary mechanism of action endpoint includes subjects
+         who received the device (i.e., successfully implanted) as randomized and who had
+         closure status determined by the Echocardiography Core Lab reviewed 45-day TEE.
+
+         Secondary Endpoint
+
+         If all three primary endpoints of non-inferiority of are met, the Hochberg procedure is
+         used to adjust for multiple comparisons for testing the following secondary endpoints
+         (including superiority of primary endpoints):
+
+         • A composite of all stroke, systemic embolism, or cardiovascular/unexplained death
+           through 18 months (non-inferiority analysis with a prespecified non-inferiority
+           margin of 4.5%)
+
+         • Major bleeding rate through 18 months, defined as Type 3 or greater based on
+           BARC definition (superiority analysis)
+
+         • A composite of procedure-related complications, or all-cause death, or major
+           bleeding through 12 months (superiority analysis)
+
+         • A composite of ischemic stroke or systemic embolism through 18 months
+           (superiority analysis)
+
+         • Device closure (defined as residual jet around the device ≤5 mm) at the 45-day
+           visit documented by TEE/TOE, defined by Doppler flow (superiority analysis)
+
+         With regard to success/failure criteria, the study would be considered a success when all
+         three primary endpoints were met.
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                               Page 16
+   B. Accountability of PMA Cohort
+
+      At the time of database lock, of 1878 randomized patients in the Amulet IDE study, 81.9% (N
+      = 1538) of patients were available for analysis at the 18-month post-procedure visit. Subject
+      accountability is shown in Figure 6 and Table 4. Through the 18-month follow-up, visit
+      compliance (i.e., Actual Follow-up Rate) in subjects with an implant attempt was 93.3% in
+      the Amulet group and 89.3% in the Watchman group.
+
+                          Figure 6: Disposition of Randomized Subject
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                Page 17
+                                         Table 4: Follow-up Visit Accountability
+                                                                                                             Actual
+                                Visit                                              Lost to
+                                               Deaths          Withdrawal                         Missed    Follow-
+                              Complete                                            Follow- up
+                                            (Incremental)     (Incremental)                        Visit       up
+                                                                                (Incremental)
+                                                                                                            Rate (%)
+
+              Amulet
+              Procedure          917              0                 0                 0              0        100.0
+              Discharge          912              3                 0                 0              2         99.8
+              45 Day             899              3                 4                 0              8         98.7
+              3 Month            886              7                 1                 0             13         98.0
+              6 Month            864              9                 4                 2             20         96.5
+              9 Month            858              7                 0                 0             19         96.6
+              12 Month           842              9                 4                 0             22         95.8
+              18 Month           796              25                7                 1             34         93.3
+              Watchman
+              Procedure          916              0                 0                 0              0        100.0
+              Discharge          914              1                 0                 0              1         99.9
+              45 Day             899              2                 5                 0              9         98.5
+              3 Month            877              8                 5                 0             18         96.9
+              6 Month            847              12                11                1             24         94.8
+              9 Month            826              10                3                 0             32         93.5
+              12 Month           807              16                12                1             22         93.1
+              18 Month           742              36                10                2             39         89.3
+                        Incremental Death/Withdrawn/Lost to Follow Up (LTFU) -Number of subjects discontinued
+                        (Death/Withdrawn/LT FU) after the end of previous visit window but prior to the end of current
+                        visit window without a visit.
+                        Missed Visits - Number of subjects without a follow-up visit after closure of visit window.
+                        Actual Follow-up Rate % - Visit Complete / (Visit Complete + Missed Visits + Withdrawal
+                        (cumulative) + Lost to Follow- up (cumulative)).
+
+
+      Table 5 summarizes the definition of primary endpoint analysis populations.
+
+                                                  Table 5: Analysis Population
+             Study Population              Definition                                               Amulet               Watchman
+             Intention to Treat (ITT)      All randomized subjects                                    934                  944
+
+             As Attempted (AT)             ITT subjects who underwent an implant                      917                  916
+                                           attempt regardless of the device
+                                           attempted or implanted.
+
+             Attempt as Randomized         Subjects who underwent an implant attempt                  915                  916
+                                           with the device as randomized
+
+
+             Per Protocol (PP)             ITT subjects who met all inclusion criteria                903                  896
+                                           and none of the exclusion criteria, who
+                                           underwent an implant attempt with the device
+                                           as randomized
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                                Page 18
+              Success as Randomized   Subjects who received a device as randomized       903            885
+                                      (including reattempt procedures, based on last
+                                      procedure)
+
+
+
+
+   C. Demographics and Baseline Parameters
+
+      The demographics of the study population are typical for a non-valvular atrial fibrillation
+      study performed in the US. The mean age was 75 ± 7.6 years, and 40% were female. The
+      groups were balanced in demographics and baseline characteristics. Table 6 summarizes
+      the subject demographics and baseline characteristics.
+
+                  Table 6: Demographics and Baseline Characteristics (ITT)
+                                                                    Amulet                     Watchman
+       Characteristic
+                                                                   (N=934)                      (N=944)
+       Age (years)
+        Mean ± SD (n)                                          75.0 ± 7.6 (934)            75.1 ± 7.6 (944)
+        Range (Min, Max)                                         (38.0, 92.0)                (46.0, 96.0)
+       Female Sex                                             41.2% (385/934)              38.7% (365/944)
+       Race/Ethnicity
+         White                                                89.7% (838/934)              90.1% (851/944)
+         Black or African American                              2.2% (21/934)               2.1% (20/944)
+         Asian                                                  0.4% (4/934)                0.7% (7/944)
+         American Indian or Alaska Native                       0.4% (4/934)                0.2% (2/944)
+         Native Hawaiian or Other Pacific Islander              0.0% (0/934)                0.3% (3/944)
+         Other                                                  1.1% (10/934)               1.0% (9/944)
+         Declined or Unable to Disclose Due to LocalRegulation 6.1% (57/934)                5.5% (52/944)
+       AF Classification
+         Paroxysmal                                           56.5% (528/934)              53.9% (509/944)
+         Persistent                                           26.8% (250/934)              29.3% (277/944)
+         Permanent                                                   16.7% (156/934)       16.6% (157/944)
+       BMI (kg/m2)
+         Mean ± SD (n)                                                30.0 ± 6.3 (934)     30.0 ± 6.5 (943)
+         Range (Min, Max)                                               (13.0, 68.4)         (16.0, 57.3)
+       New York Heart Association (NYHA)
+         No Heart Failure                                                  50.4%                46.4%
+         I                                                                 15.8%                18.0%
+         II                                                                27.0%                27.5%
+         III                                                               6.8%                 8.1%
+         IV                                                                 0%                   0%
+
+      Subjects had a mean CHA2DS2-VASc score of 4.5 and 4.7 in the Amulet and Watchman
+      groups, respectively. Similar proportion of subjects in each group had a prior history of
+      stroke (Amulet 18% vs. Watchman 19.9%). Figure 7 presents the distribution of
+      CHADS2/CHA2DS2-VASc score and HAS-BLED score in both groups. Further, Table 7
+      summarizes the primary reason for seeking an alternative to OAC. Most frequently,
+      subjects pursued LAA closure due to a history of major or minor bleeding.
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                            Page 19
+                                Figure 7: Stroke Risk and Bleeding Risk (ITT)
+
+
+
+
+                       Table 7: Primary Reasons for Seeking an Alternative to OAC
+                                                                   Amulet           Watchman
+           Characteristic
+                                                                   (N=934)           (N=944)
+           History of major or minor bleeding                   55.1% (515/934)   53.3% (503/944)
+           High bleeding risk                                   21.8% (204/934)   20.4% (193/944)
+           Risk of falls                                        11.5% (107/934)   13.3% (126/944)
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                 Page 20
+           Subject’s preference/lifestyle                          5.5% (51/934)         4.0% (38/944)
+           Prior stroke on anticoagulant                           1.9% (18/934)         3.4% (32/944)
+           Labile/unstable International Normalized Ratio (INR)    1.6% (15/934)         3.1% (29/944)
+           Drug interactions                                       1.3% (12/934)         1.3% (12/944)
+           Renal or hepatic disease                                0.6% (6/934)          0.4% (4/944)
+           Other                                                   0.6% (6/934)          0.7% (7/944)
+
+
+   D. Procedure Outcomes and Follow-up Medications
+
+      Acute procedural outcomes and key parameters of the index procedures in the Attempt as
+      Randomized population are summarized in Tables 8 and 9. In each group, technical
+      success was achieved in a vast majority (> 95%) of subjects.
+
+                                            Table 8: Procedural Outcomes
+
+
+
+
+                                      Table 9: Procedural Characteristics
+                                                                        Amulet                   Watchman
+           Characteristic
+                                                                        (N=915)                   (N=916)
+           Anesthesia Type
+            General                                                  92.1% (843/915)           91.4% (837/916)
+            Conscious Sedation                                        7.9% (72/915)             8.6% (79/916)
+           Total Procedure Time (min)*
+            Mean ± SD (n)                                           39.9 ± 23.8 (913)          29.5 ± 18.8(915)
+            Median                                                         35.0                      25.0
+            Range (Min, Max)                                             (4, 193)                  (3, 126)
+           Contrast Dose (cc)
+            Mean ± SD (n)                                           88.53 ± 58.8 (911)        77.47 ± 59.5 (910)
+            Median                                                         75.0                      60.0
+            Range (Min, Max)                                           (0.0, 400.0)              (0.0, 509.0)
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                       Page 21
+            Fluoroscopy time (min)
+             Mean ± SD (n)                                                         13.8 ± 8.9 (907)       10.3 ± 7.0 (911)
+             Median                                                                      11.1                    8.5
+             Range (Min, Max)                                                         (0.0, 64.8)            (0.0, 69.0)
+            Number of Devices Attempted
+             Mean ± SD (n)                                                          1.2 ± 0.5 (915)       1.3 ± 0.6 (916)
+             Median                                                                       1.0                   1.0
+             Range (Min, Max)                                                            (0, 4)                (0, 5)
+
+             *Additional angiogram views and measurements were required in the Amulet group per the IFU
+
+
+      The study required that Amulet subjects be discharged on either dual antiplatelet therapy
+      (DAPT; aspirin plus clopidogrel) or aspirin plus oral anticoagulation (OAC including
+      NOAC or VKA) at physician discretion. Watchman subjects were required to be
+      discharged on aspirin plus warfarin (or other VKA outside the US, if warfarin was not
+      available) in accordance with the approved labeling. Figure 8 summarizes the post-
+      implant antithrombotic medication use in both groups. At the time of 45-day TEE,
+      18.8% Amulet subjects and 83.2% Watchman subjects were on an oral anticoagulant.
+
+                                  Figure 8: Antithrombotic Medication Use
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                 Page 22
+   E. Safety and Effectiveness Results
+
+      1. Safety Results
+
+         Primary Safety Endpoint
+
+         The primary safety analysis was based on the PP population of 903 Amulet and 896
+         Watchman subjects who underwent an implant attempt with the device as randomized
+         and who met all inclusion and none of the exclusion criteria. The results of the
+         primary safety endpoint are presented in Table 10 and Figure 9. A total of 131
+         Amulet subjects and 130 Watchman subjects experienced one or more components of the
+         primary safety endpoint, resulting in a Kaplan-Meier estimated primary composite
+         endpoint rate of 14.5% and 14.7% respectively. The 97.5% upper confidence limit for
+         the difference was 3.13% and less than the non-inferiority margin of 5.8%; therefore, the
+         primary safety endpoint was met (p = 0.0002).
+
+                                 Table 10: Primary Safety Endpoint (PP Population)
+                                                                                                   P-value
+                                                                            97.5% Upper
+                                                                                                    (Non-
+                                              Amulet       Watchman          Confidence
+                                                                                                 inferiority       Result
+                                              (N=903)       (N=896)             Limit
+                                                                                                  margin:
+                                                                               (UCB)
+                                                                                                   5.8%)
+         Primary Safety Endpoint*              14.5%           14.7%
+                                                                                3.13%              0.0002           Pass
+                                              (n=131)         (n=130)
+         *Composite endpoint of procedure-related complications, or all-cause death or major bleeding (defined as Type 3 or
+         greater based on the Bleeding Academic Research Consortium (BARC) definition) at 12 months.
+         Kaplan-Meier method is used to estimate the event rate (number of subjects with events) with Greenwood standard
+         error.
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                                  Page 23
+                        Figure 9: Primary Safety Endpoint KM Survival (PP Population)
+
+
+
+
+         There was an early separation of Kaplan-Meier curves driven by a difference in peri-
+         procedural events.
+
+         Individual components of the primary safety endpoint are shown in Table 11. The
+         rate of procedure related complications was 4.5% in the Amulet group and 2.5% in the
+         Watchman group, and rate of major bleeding was 10.6% in the Amulet group and
+         10.0% in the Watchman group, while the rate of all-cause death was 3.9% in the
+         Amulet group and 5.1% in the Watchman group
+
+               Table 11: Components of the Primary Safe ty Endpoint (PP population)
+
+                                                                         Amulet                    Watchman
+                                                                        (N=903)                     (N=896)
+
+
+        Procedure Related Complications                              4.5% (n=41)                   2.5% (n=22)
+        Major Bleeding (BARC Type 3 or greater)                      10.6% (n=95)                 10.0% (n=88)
+            Procedure-related Major bleeding                         3.1% (n = 28)                 2.1% (n = 19)
+            Non-procedure Related Major Bleeding                     7.9% (n=70)                   8.0% (n=70)
+        All-Cause Death                                              3.9% (n=35)                   5.1% (n=45)
+             Kaplan-Meier method is used to estimate the event rate (number of subjects with events). Categories are
+             not mutually exclusive.
+
+
+         Procedure Related Complications
+         Procedure related complications, defined as adverse events adjudicated by the CEC as
+         procedure related and requiring either invasive surgical or percutaneous intervention,
+         occurred in 41 Amulet and 22 Watchman PP subjects (41 Amulet and 23 Watchman
+         subjects in the As Treated Population). Table 12 summarizes the first event that
+         each subject experienced that met the primary safety endpoint as a procedure related
+         complication. Pericardial effusion events within 2 days of the procedure occurred in
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                              Page 24
+         about the same number of subjects in the two groups, however, late pericardial effusion
+         (i.e., occurred > 2 days post procedure) and device embolization occurred more
+         commonly in Amulet than Watchman subjects. Other events occurred at low numbers
+         in both groups and constitute a variety of procedure related complications such as
+         pleural effusion, air embolus and esophageal injury.
+
+                                Table 12: Procedure Related Complication at 12 Months
+                                             (First Event, PP Population)
+
+
+                                Event Description                               Amulet (N=903)           Watchman (N=896)
+
+
+
+          Pericardial Effusion/Tamponade 0-2 days post procedure                        12                         10
+          Pericardial Effusion/Tamponade >2 days post procedure                         10                          1
+          Device Embolization                                                            6                          2
+          Vascular Access-Related Complications                                          3                          3
+          Air Embolus                                                                    0                          2
+          Cardiac Perforation                                                            1                          1
+          Esophageal Laceration and Rupture                                              1                          1
+          Hematoma                                                                       1                          1
+          Pleural Effusion                                                               2                          0
+          Third Degree Heart Block/Asystole                                              1                          1
+          Acute Peritonitis                                                              1                          0
+          Gastrointestinal Bleeding                                                      1                          0
+          Hematuria                                                                      1                          0
+          Inferior Myocardial Infarction                                                 1                          0
+          Ischemic Stroke                                                                0                          1
+          Peripheral Arterial Occlusion                                                  1                          0
+          Total Number of Subjects*                                                     41                         22
+          *One Amulet subject experienced both pericardial effusion and pleural effusion on POD 20. One Watchman subject
+          experienced both air embolism and ischemic stroke on POD 0. Therefore, these totals are not equal to the sum of the
+          numbers in the rows above.
+
+
+         Major Bleeding
+         Table 13 presents the major bleeding events through 12 months by bleeding site and
+         CEC adjudicated relatedness to the procedure. The most common procedure related
+         bleeding site was pericardial, and the numerically higher rate of late pericardial
+         effusion observed in the Amulet group accounted for the difference in pericardial
+         bleeding event rate between the two groups. Non-procedure related major bleeding
+         events was similar across the two groups and were most commonly gastrointestinal.
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                                 Page 25
+          Table 13: Major Bleeding Events through 12 Months by Bleeding Site
+                and Procedure Relatedness (PP Population; First Event)
+
+                                       Procedure related                     Non-Procedure Related
+              Events
+                                          Amulet            Watchman             Amulet        Watchman
+              Epistaxis                     0                   0                  4               2
+              Gastrointestinal               1                   0                 48                 50
+              Genitourinary                  0                   0                 2                   1
+              Intracranial*                  1                   1                 6                   7
+              Intraocular                    0                   0                 1                   0
+              Pericardial                    18                  11                3                   1
+              Retroperitoneal                0                   0                 0                   2
+              Soft Tissue                    8                   7                 5                   6
+              Pulmonary                      0                   0                 2                   1
+              Total                          28                  19                70                 70
+            This analysis includes the first procedure related and first non-procedure related major bleeding
+            event for each subject. One Amulet subject experienced non-procedural related gastrointestinal and
+            intracranial bleeding on the same day and is counted in both bleeding site categories.
+            *6 intracranial bleeding events are also hemorrhagic strokes.
+
+
+         Mortality
+         Table 14 summarizes the mortality events at 12 months by adjudicated cause of death
+         (cardiovascular or non-cardiovascular) and relationship to the device and/or procedure.
+         Of 80 subjects (35 Amulet, 45 Watchman) in the PP population who died at 12 months,
+         41 were adjudicated as cardiovascular/ unexplained and 8 were adjudicated as device or
+         procedure-related.
+                                    Table 14: Death at 12 Months (PP Population)
+
+                                                                         Amulet             Watchman
+                                                                         (N=903)             (N=896)
+                Cardiovascular or Unexplained Death                         17                    24
+
+                Non-Cardiovascular Death                                    18                    21
+                Device/Procedure Related                                     5                    3
+
+                Non-Device/Procedure Related                                30                   42*
+                 *2 unexplained deaths within 45 days and one death related to LAA tear during CABG in the
+                 Watchman arm were adjudicated as with unknown relatedness.
+
+
+         In the Amulet group, procedure/device related deaths (n = 5) were due to inferior
+         myocardial infarction, acute femoral-popliteal bypass graft occlusion, intracerebral
+         hemorrhage, acute peritonitis and device embolization. In the Watchman group,
+         procedure/device related deaths (n = 3) included those due to cardiac tamponade,
+         stroke, and systemic embolism with device related thrombus.
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                        Page 26
+               Device- or Procedure-Related Serious Adverse Events
+
+               Table 15 provides a summary of CEC adjudicated device- or procedure-related serious
+               adverse events from randomization until 548 days post procedure for attempted subjects
+               and 548 days post randomization for subjects without an implant attempt. Events are
+               categorized by system organ class (SOC).
+
+  Table 15: CEC Adjudicated Device- or Procedure-Related Serious Adverse Events at 548 days
+                                      (ITT population)
+
+                                                                  Amulet (N= 934)                Watchman (N= 944)
+                                                             N of Subjects (N of Events)      N of Subjects (N of Events)
+
+
+                          System Organ Class (SOC)        Related Unrelated Unknown Related Unrelated             Unknown
+
+
+   Blood and lymphatic system disorders                     2 (2)     24 (29)      1 (1)     1 (1)     16 (19)      1 (1)
+    Anemias                                                 2 (2)     22 (27)      1 (1)     1 (1)     14 (16)      1 (1)
+    Aplastic Anemia/Hypoplastic Anemia                       0         2 (2)         0        0         1 (1)        0
+    Iron-Deficiency Anemia                                   0          0            0        0         2 (2)        0
+   Cardiac disorders                                       38 (41)   153 (232)    10 (10)   24 (24)   158 (221)     6 (6)
+    Atrioventricular (AV) Block                              0         1 (1)         0        0          0           0
+    Acute Pulmonary Edema                                    0         2 (2)         0        0          0           0
+    Angina Pectoris                                          0         1 (1)         0        0         5 (5)        0
+    Anterior Myocardial Infarction                           0         2 (2)         0        0          0           0
+    Aortic Aneurysms                                         0         3 (3)         0        0         1 (1)        0
+    Aortic Dissection                                        0         1 (1)         0        0          0           0
+    Aortic Valve Regurgitation/Aortic Valve                  0         1 (1)         0        0         1 (1)        0
+     Insufficiency/Valvular Regurgitation Aortic Valve
+    Aortic Valve Stenosis                                    0         6 (6)         0        0         4 (4)        0
+    Asystole                                                 0          0            0       1 (1)       0           0
+    Atrial Fibrillation                                     1 (1)      3 (3)         0       1 (1)      4 (4)        0
+    Atrial Flutter                                           0         4 (4)         0        0         1 (1)        0
+    Cardiac Arrest                                           0        15 (15)        0        0        18 (19)      2 (2)
+    Cardiac Perforation                                     1 (1)       0            0       1 (1)       0           0
+    Cardiac Thrombus                                         0         1 (1)         0        0         1 (1)        0
+    Cardiogenic Shock                                        0         2 (2)         0        0          0           0
+    Cardiomyopathy                                           0         1 (1)         0        0         1 (1)        0
+    Chest Pain                                              2 (2)     10 (12)        0       1 (1)     15 (16)      1 (1)
+    Congestive Heart Failure                                4 (4)    79 (111)      1 (1)     1 (1)    79 (107)       0
+    Constrictive Pericarditis                                0         1 (1)         0        0          0           0
+    Cor Pulmonale                                            0          0            0        0          0          1 (1)
+    Coronary Artery Disease                                  0         9 (9)         0        0        10 (11)       0
+    Coronary Artery Occlusion                                0         1 (1)         0        0          0           0
+    Dyspnea                                                  0         4 (4)         0        0         3 (3)        0
+    High Grade Block/Advanced AV Block                       0         1 (1)         0        0         1 (1)        0
+    Inferior Myocardial Infarction                          1 (1)       0            0        0          0           0
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                               Page 27
+    Mitral Valve Regurgitation/Mitral Insufficiency                 1 (1)     8 (8)     0        0        5 (5)     0
+    Myocardial Infarction                                           1 (1)    9 (11)     0        0       13 (14)    0
+    Paroxysmal Atrial Fibrillation                                   0         0        0        0        1 (1)     0
+    Pericardial Effusion                                           10 (10)    1 (1)    5 (5)    5 (5)     1 (1)     0
+    Pericardial Tamponade                                          15 (15)     0       1 (1)   13 (13)     0       1 (1)
+    Pericarditis                                                    4 (4)     2 (2)    2 (2)     0        1 (1)    1 (1)
+    Perivalvular Leak                                                0         0        0        0        1 (1)     0
+    Regular Narrow Complex                                           0        1 (1)     0        0         0        0
+     Tachycardia/Supraventricular Tachycardias
+    Sick Sinus Syndrome                                              0        7 (7)    1 (1)     0        6 (6)     0
+    Sinus Bradycardia/Sinus Bradycardia (Cardiac                     0        6 (6)     0       1 (1)     3 (3)     0
+     Arrhythmia)
+    Sinus Node Dysfunction                                           0        1 (1)     0        0         0        0
+    Supravalvular Aortic Stenosis                                    0        1 (1)     0        0         0        0
+    Sustained Ventricular Tachycardia                                0        1 (1)     0        0        2 (2)     0
+    Third Degree Heart Block (Complete Heart Block)                 1 (1)     1 (1)     0        0        3 (3)     0
+    Tricuspid Regurgitation/Tricuspid                                0        2 (2)     0        0        2 (2)     0
+     Insufficiency/Valvular Regurgitation: Tricuspid
+     Valve
+    Unstable Angina                                                  0        3 (3)     0        0        5 (5)     0
+    Ventricular Fibrillation                                         0         0        0        0        1 (1)     0
+    Ventricular Tachycardia                                          0        3 (3)     0        0        1 (1)     0
+    Other                                                            0        2 (2)     0        0         0        0
+   Eye disorders                                                     0        1 (1)     0        0         0        0
+    Retinal Hemorrhage                                               0        1 (1)     0        0         0        0
+   Gastrointestinal disorders                                       2 (2)    73 (99)   3 (3)    1 (1)    75 (98)    0
+    Abdominal Pain                                                   0        3 (3)     0        0         0        0
+    Acute Peritonitis                                                0         0       1 (1)     0        1 (1)     0
+    Bowel Obstruction                                                0        2 (2)     0        0        1 (1)     0
+    Colitis                                                          0        1 (1)     0        0         0        0
+    Diarrhea                                                         0         0        0        0        1 (1)     0
+    Diverticulitis                                                   0        2 (2)     0        0        1 (1)     0
+    Dysphagia                                                        0        2 (2)     0        0         0        0
+    Emesis/Vomiting                                                  0         0        0       1 (1)      0        0
+    Gastroenteritis                                                 1 (1)     1 (1)     0        0         0        0
+    Gastrointestinal Bleeding                                        0       65 (87)   2 (2)     0       72 (94)    0
+    Hemorrhoids/Piles                                                0        1 (1)     0        0         0        0
+    Nausea                                                          1 (1)      0        0        0         0        0
+   General disorders                                                2 (2)    15 (15)    0       3 (3)    21 (21)   1 (1)
+    Chills/Rigors                                                    0         0        0       1 (1)      0        0
+    Damage or Movement of Implantable Cardioverter Defibrillator     0        1 (1)     0        0         0        0
+    (ICD) Leads Requiring Revisions
+    Drug Side Effect                                                 0        1 (1)     0        0         0        0
+    Failure to Thrive                                                0        1 (1)     0        0        3 (3)     0
+    Fatigue/Generalized Fatigue                                     1 (1)     2 (2)     0        0        1 (1)     0
+    Fever                                                            0         0        0       2 (2)     1 (1)    1 (1)
+    Multiple Organ Failure                                           0        3 (3)     0        0        4 (4)     0
+    Neck Pain                                                        0         0        0        0        1 (1)     0
+    Non-Cardiac Chest Pain                                          1 (1)     2 (2)     0        0        3 (3)     0
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                Page 28
+    Weakness                                          0        3 (3)     0        0        2 (2)     0
+    Other                                             0        2 (2)     0        0        6 (6)     0
+   Hepatobiliary disorders                            0        3 (3)     0        0        2 (4)     0
+    Ascites                                           0         0        0        0        1 (2)     0
+    Cholecystitis                                     0         0        0        0        1 (1)     0
+    Choledocholithiasis                               0        1 (1)     0        0         0        0
+    Hepatic and Biliary Disorders                     0        2 (2)     0        0        1 (1)     0
+   Infections and infestations                       6 (7)    29 (31)   2 (2)    4 (4)    23 (26)   1 (1)
+    Acute Bacterial Endocarditis (ABE)                0        1 (1)     0        0         0        0
+    Bacteremia                                        0        1 (1)     0        0        1 (1)     0
+    Bacterial Infections                             1 (1)     1 (1)     0        0         0        0
+    Bronchitis                                        0         0        0       1 (1)      0        0
+    Cellulitis                                        0        5 (5)     0        0        3 (3)    1 (1)
+    Chlamydial Pneumonia                              0        1 (1)     0        0         0        0
+    Infected Cyst                                     0         0        0        0        1 (1)     0
+    Influenza                                         0        1 (1)     0        0         0        0
+    Pneumonia                                         0       11 (11)    0       2 (2)     4 (4)     0
+    Respiratory Syncytial Virus Infection (RSV)      1 (1)      0        0        0         0        0
+    Sepsis                                           1 (1)     7 (7)    1 (1)     0       11 (11)    0
+    Septicemia                                       1 (1)      0        0        0         0        0
+    Urinary Tract Infections                         3 (3)     2 (2)    1 (1)    1 (1)     6 (6)     0
+    Other                                             0        1 (1)     0        0         0        0
+   Injury, poisoning and procedural complications   11 (11)   16 (18)    0      17 (17)   28 (30)    0
+    Air Embolus                                      2 (2)      0        0       2 (2)      0        0
+    Closed Head Injury                                0         0        0        0        2 (2)     0
+    Contusion                                         0         0        0        0        1 (1)     0
+    Epidural Hematomas                                0        1 (2)     0        0         0        0
+    Esophageal Laceration and Rupture                1 (1)      0        0       1 (1)     1 (1)     0
+    Fall                                             1 (1)     4 (4)     0        0       12 (12)    0
+    Hemothorax                                       1 (1)     2 (2)     0        0         0        0
+    Hip Fracture                                      0         0        0        0        1 (1)     0
+    Trauma                                            0       9 (10)     0        0       10 (11)    0
+    VASC Bleeding                                    1 (1)      0        0       3 (3)      0        0
+    VASC Hematoma                                    3 (3)      0        0       7 (7)     1 (1)     0
+    VASC Pseudoaneurysm                              1 (1)      0        0       3 (3)     1 (1)     0
+    VASC Vessel Perforation                          1 (1)      0        0       1 (1)      0        0
+   Investigations                                    1 (1)     1 (1)     0       1 (1)     7 (7)    1 (1)
+    Abnormal Coagulation Parameter                    0         0        0       1 (1)     3 (3)     0
+    Abnormal Lab Value                               1 (1)      0        0        0        4 (4)     0
+    EKG Abnormalities                                 0        1 (1)     0        0         0        0
+    Echo Finding                                      0         0        0        0         0       1 (1)
+   Metabolism and nutrition disorders                2 (2)     4 (4)     0       1 (1)     4 (4)     0
+    Dehydration                                       0        2 (2)     0        0        1 (1)     0
+    Diabetic Ketoacidosis                             0         0        0        0        1 (1)     0
+    Edema                                             0         0        0        0        1 (1)     0
+    Hyperglycemia                                     0        1 (1)     0        0         0        0
+    Hyperkalemia                                      0         0        0       1 (1)      0        0
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                 Page 29
+    Hypervolemia                                                      1 (1)     0         0        0        0         0
+    Hypoglycemia                                                       0        0         0        0       1 (1)      0
+    Hyponatremia                                                       0       1 (1)      0        0        0         0
+    Metabolic Acidosis                                                1 (1)     0         0        0        0         0
+   Musculoskeletal and connective tissue disorders                     0       1 (1)      0        0        0         0
+    Spinal Stenosis                                                    0       1 (1)      0        0        0         0
+   Neoplasms benign, malignant and unspecified (including cysts and    0      14 (15)     0        0      10 (10)     0
+   polyps)
+    Cancer                                                             0       6 (6)      0        0       6 (6)      0
+    Colon Cancer                                                       0        0         0        0       1 (1)      0
+    Leukemias                                                          0       4 (4)      0        0       1 (1)      0
+    Lung Cancer                                                        0       2 (2)      0        0       1 (1)      0
+    Pancreatic Cancer                                                  0       1 (2)      0        0       1 (1)      0
+    Thyroid Cancer                                                     0       1 (1)      0        0        0         0
+   Nervous system disorders                                           7 (7)   37 (43)   27 (29)   8 (8)   47 (54)   26 (30)
+    Acute Subdural Hematoma                                            0       1 (1)      0        0       1 (1)      0
+    Altered Sensorium                                                  0        0         0        0       2 (2)      0
+    Ataxia                                                             0        0         0        0        0        1 (1)
+    Bells Palsy                                                        0        0         0        0       1 (1)      0
+    Blurred Vision                                                     0        0         0        0       1 (1)      0
+    Cerebral Aneurysm                                                  0       1 (1)      0        0       1 (1)      0
+    Concussion                                                         0        0         0        0       1 (1)      0
+    Delirium                                                          1 (1)    1 (1)      0       1 (1)    2 (2)      0
+    Dementia                                                           0        0         0        0       2 (2)      0
+    Dizziness                                                          0       3 (3)      0        0       2 (2)      0
+    Dysphasia                                                          0        0         0        0       1 (1)      0
+    Encephalopathy                                                     0      10 (10)     0        0      11 (11)     0
+    Hypertensive Encephalopathy                                       1 (1)     0         0        0        0         0
+    Intracerebral Hemorrhage                                           0       4 (4)     1 (1)     0       4 (4)      0
+    Ischemic Stroke                                                   4 (4)    1 (1)    17 (17)   4 (4)     0       19 (21)
+    Microhemorrhage                                                    0        0         0        0       1 (1)      0
+    Migraine                                                           0       1 (1)      0        0       1 (1)      0
+    Neuralgic Facial Pain                                              0       1 (1)      0        0        0         0
+    New and Different Onset of Migraine Symptoms                      1 (1)     0         0        0        0         0
+    Numbness                                                           0       1 (1)      0        0        0         0
+    Parkinson's Disease                                                0       2 (2)      0        0       1 (1)      0
+    Radiculopathy                                                      0        0         0        0       2 (2)      0
+    Seizure Disorder                                                   0       2 (2)      0        0        0         0
+    Seizure/Convulsions/Epilepsy                                       0       6 (7)      0        0       6 (7)      0
+    Spells                                                             0       3 (3)     1 (2)     0       6 (6)      0
+    Subarachnoid Hemorrhage                                            0        0         0        0       1 (1)      0
+    Subdural Hemorrhage                                                0        0         0       1 (1)    2 (2)      0
+    Transient Global Amnesia                                           0       1 (1)      0        0        0         0
+    Transient Ischemic Attack (TIA)                                    0       2 (2)     9 (9)    2 (2)    2 (2)     7 (8)
+    Vertigo                                                            0       2 (2)      0        0       2 (2)      0
+   Product Issues                                                     8 (8)     0         0       9 (9)     0         0
+    Device Embolization                                               6 (6)     0         0       2 (2)     0         0
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                 Page 30
+    Device Malposition or Malfunction                 1 (1)      0        0      7 (7)     0        0
+    Thrombus on Device                                1 (1)      0        0       0        0        0
+   Psychiatric disorders                               0        1 (1)     0       0        0        0
+    Suicide Attempt                                    0        1 (1)     0       0        0        0
+   Renal and urinary disorders                        6 (6)    12 (15)   1 (1)   5 (6)   13 (14)   1 (1)
+    Acute Kidney Injury                               4 (4)     3 (4)    1 (1)   4 (4)    3 (3)     0
+    Chronic Renal Failure                              0         0        0       0       1 (1)     0
+    Cystitis                                           0         0        0       0       1 (1)     0
+    Hematuria                                         1 (1)     7 (9)     0      1 (1)    7 (7)     0
+    Nephrolithiasis                                    0        1 (1)     0       0        0        0
+    Renal Infarct                                      0         0        0       0        0       1 (1)
+    Urinary Calculi                                    0        1 (1)     0       0        0        0
+    Urinary Retention                                 1 (1)      0        0      1 (1)    1 (2)     0
+   Reproductive system and breast disorders            0        1 (1)     0       0        0        0
+    Ovarian Cyst                                       0        1 (1)     0       0        0        0
+   Respiratory, thoracic and mediastinal disorders    7 (8)    21 (22)   1 (1)   2 (2)   36 (38)   1 (1)
+    Asthma                                            1 (1)      0        0       0        0        0
+    Chronic Obstructive Pulmonary Disease (COPD)       0        1 (1)     0       0       7 (7)     0
+    Hypoxemia                                          0        1 (1)     0       0       1 (1)     0
+    Hypoxia                                            0         0        0       0       1 (1)     0
+    Idiopathic Interstitial Lung Diseases              0        1 (1)     0       0       1 (1)     0
+    Pleural Effusion                                  3 (4)     4 (4)    1 (1)    0       7 (8)     0
+    Pulmonary Embolism                                2 (2)     7 (7)     0       0       5 (5)    1 (1)
+    Pulmonary Hypertension                             0         0        0       0       1 (1)     0
+    Respiratory Failure                               1 (1)     8 (8)     0      2 (2)   14 (14)    0
+   Skin and subcutaneous tissue disorders              0         0        0       0       1 (1)     0
+    Skin Ulcer                                         0         0        0       0       1 (1)     0
+   Surgical and medical procedures                    1 (1)     2 (2)     0      2 (2)     0        0
+    Residual Shunt Requiring Closure                  1 (1)      0        0      1 (1)     0        0
+    Surgical Closure of Atrial Septal Defect (ASD)     0        1 (1)     0      1 (1)     0        0
+    Other                                              0        1 (1)     0       0        0        0
+   Vascular disorders                                11 (11)   49 (63)   3 (3)   9 (9)   38 (44)   3 (3)
+    Abdominal Bleeding                                1 (1)      0        0       0        0        0
+    Arterial Hypertension/Hypertension                1 (1)     1 (1)     0       0       4 (4)     0
+    Bleeding                                           0        6 (6)     0       0       5 (6)     0
+    Blood Loss                                        1 (1)     1 (1)     0       0       1 (1)     0
+    Carotid Stenosis                                   0        4 (4)     0       0        0        0
+    Deep Vein/Venous Thrombosis                       1 (1)     6 (6)     0       0       4 (4)    1 (1)
+    Epistaxis                                          0       11 (17)    0       0       3 (3)     0
+    Hematoma                                          1 (1)     1 (1)     0      1 (1)    6 (6)    1 (1)
+    Hemoptysis                                         0        2 (3)     0      2 (2)    1 (1)     0
+    Hypotension                                       2 (2)     3 (3)    1 (1)   4 (4)    3 (3)     0
+    Orthostatic Hypotension                            0        1 (1)     0       0        0        0
+    Peripheral Arterial Occlusion                     1 (1)     2 (2)     0       0        0        0
+    Peripheral Vascular Disease                        0        5 (5)     0       0       1 (1)     0
+    Peripheral Venous Thrombus                         0        1 (1)     0       0       1 (1)     0
+    Syncope                                           3 (3)    9 (10)    1 (1)   1 (1)   14 (14)   1 (1)
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                Page 31
+    Systemic Embolism                                                       0        1 (1)       1 (1)       1 (1)      0           0
+    Vascular Ischemia                                                       0        1 (1)         0          0         0           0
+   Total                                                                    75 (109) 304 (596)     47 (50)   76 (88) 319 (591)    41 (45)
+   Note: Relatedness refers to the Procedure or Device *thrombus on device was determined by the CEC
+   Note: Other includes AV node ablation, AV-shunt revision, Bradycardia, Death of Unknown Cause, Death of unknown cause,
+   Gangrene, Pacemaker erosion, Pacemaker lead failure, Unknown cause of death
+
+
+            Pericardial effusion
+            A total of 50 Amulet subjects and 34 Watchman subjects experienced pericardial
+            effusion events in the study. The majority of these events occurred within 2 days post
+            procedure. Surgical or percutaneous drainage was required to treat 43 pericardial
+            effusion events, and the rate was numerically higher in the Amulet group (3.2%)
+            compared to the Watchman group (1.5%). Table 16 presents these pericardial
+            effusion events by treatment group and time of onset.
+
+                 Table 16: Pericardial Effusion Requiring Percutaneous or Surgical Intervention
+                                                  (AT population)
+                                                     0-2 Days Post Procedure                             >2 Days Post Procedure
+
+                                            Amulet (N=917)         Watchman (N=916)           Amulet (N=917)         Watchman (N=916)
+      Pericardial Effusion,
+      requiring percutaneous or                 12 (1.3%)               10 (1.1%)                 17 (1.9%)                 4 (0.4%)
+      surgical intervention
+
+        Data is presented as number of subjects with events (%)
+
+
+            Of the 17 delayed pericardial effusion events in the Amulet group, two were related
+            to other interventions (i.e., pacemaker implantation, TAVR). Ten of the remaining 15
+            cases were detected before or on the 45-day TEE (up to 57 days after implantation),
+            and 6 of these subjects received oral anticoagulation and aspirin post implant. Further
+            analysis showed the use of OAC on discharge was significantly associated with late
+            pericardial effusion after adjusting for baseline patient characteristics. Overall, the
+            rate of late pericardial effusion was 5.3% vs. 1.8% for subjects discharged with OAC
+            vs. without OAC. There were 4 additional events within one year. In all Amulet late
+            pericardial effusion cases, the events resolved without long-term sequalae and none
+            resulted in death.
+
+            Device Embolization
+            Device embolization occurred in 6 of 915 (0.7%) Amulet subjects. Of these, 2
+            subjects required open-heart surgery for device removal. Except for one, all cases
+            occurred on the day of or the day after the procedure. The device embolization rate in
+            the Amulet group was numerically higher than that observed in the Watchman group
+            but still being clinically acceptable. An analysis of the relationship between device
+            embolization and operator experience showed 5 of 6 events occurred early in the
+            implanter’s experience and might be related to suboptimal device sizing.
+
+            Device-Related Thrombus
+            As shown in Table 17, the incidence of device-related thrombus at 18 months was 3.3%
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                              Page 32
+          for Amulet (30 subjects) and 4.5% for Watchman (40 subjects). Most device-related
+          thrombus events were identified during regular scheduled follow-up. No Amulet subjects
+          with device- related thrombus experienced an ischemic stroke or systemic embolism.
+          Two (2) Watchman subjects with a device-related thrombus experienced an ischemic
+          stroke and/or systemic embolism.
+
+                       Table 17: Device-Related Thrombus at 18 Months
+                             (Successful Implant as Randomized)
+                                                              Amulet                      Watchman
+                                                              (N=903)                      (N=885)
+                  Device -Related                          3.3% (30/903)                 4.5% (40/885)
+                  Thrombus
+
+
+      2. Effectiveness Results
+
+          Primary Effectiveness Endpoint
+
+          The primary effectiveness endpoint is a composite of ischemic stroke and systemic
+          embolism at 18 months. Table 18 presents the primary effectiveness endpoint
+          results. A total of 25 Amulet subjects and 24 Watchman subjects experienced at least
+          one primary effectiveness endpoint event at 18 months following the procedure, and
+          the Kaplan-Meier estimated primary composite endpoint rate was 2.8% for both
+          groups (Figure 10). The 97.5% upper confidence limit of the difference was 1.55%
+          and less than the prespecified noninferiority margin of 3.2%; therefore, the primary
+          effectiveness endpoint was met.
+
+          Ischemic stroke and systemic embolism occurred in 44 subjects (22 Amulet and 23
+          Watchman) and 5 subjects (3 Amulet and 2 Watchman), respectively. One Watchman
+          subject experienced both an ischemic stroke and a systemic embolism.
+
+                      Table 18: Primary Effectiveness Endpoint (ITT Population)
+
+                                                                            97.5%
+                                        Amulet       Watchman          Uppe r Confidence            P-value
+                                                                             Limit                            Result
+                                                                                                    (NIM:
+                                       (N=934)       (N=944)                                        3.2%)
+
+        Primary Effectiveness            2.8%            2.8%                  1.55%                 <.0001    Pass
+        Endpoint                        (n=25)          (n=24)
+        Kaplan-Meier method was used to estimate the event rate (number of subjects with events).
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                       Page 33
+                       Figure 10: Kaplan-Meier curve Primary Effectiveness Endpoint
+
+
+
+
+         Mechanism of Action Primary Endpoint
+
+         The third primary endpoint is device closure rate on the 45-day TEE. The analysis
+         included 801 Amulet subjects and 792 Watchman subjects who received the device as
+         randomized and who had 45-day closure status determined by the imaging core lab.
+
+         Table 19 presents the results for the third primary endpoint. Device closure (defined
+         as residual jet around the device ≤ 5 mm) was observed in 98.9% of Amulet subjects
+         and 96.8% of Watchman subjects (difference = 2.03%). The 97.5% lower confidence
+         bound for the difference in proportions between the two groups was 0.41% which was
+         greater than the predefined non-inferiority margin of -3%, and the primary
+         mechanism of action endpoint was met (p<0.0001). No residual jet around the device
+         was observed in 63% of Amulet subjects and 46% of Watchman subjects.
+
+                            Table19. Mechanism of Action Primary Endpoint
+                                                                                                P-value
+                                      Amulet         Watchman           97.5% Lower              (Non-
+                                      (N=903)         (N=885)         Confidence Bound         inferiority            Result
+                                                                           (LC B)             margin: -3%)
+              Primary
+                                       98.9%            96.8%
+              Mechanism of                                                   0.41%                <0.0001              Pass
+                                     (792/801)        (767/792)
+              Action Endpoint
+             Residual jet around the device ≤ 5 mm at the 45-day visit documented by transesophageal echocardiogram
+             defined by Doppler flow. The lower confidence bound was calculated by the Farrington Manning method
+
+
+      3. Secondary Endpoints
+
+         Since all three primary endpoints of non-inferiority were met, the five secondary
+         endpoints were tested using the Hochberg procedure. Table 20 summarizes the
+         results of the secondary endpoint analysis. The following endpoints were met:
+         (1) superiority of mechanism of action endpoint, and
+         (2) non-inferiority of the composite of stroke, systemic embolism, cardiovascular/
+             unexplained death at 18 months.
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                              Page 34
+                              Table 20: Summary of Secondary Endpoint Results
+                                                                                                      Significance
+            Secondary Endpoint                    Amulet         Watchman        Difference P-value                   Result
+                                                                                                      Level Cutoff
+ A. Superiority Test of Primary Effectiveness
+                                                2.8% (0.6%)     2.8% (0.6%)        0.00%    0.5017       0.025
+   Endpoint
+                                                                                                                     Based on
+ B. Superiority Test of Primary Safety                                                                                   the
+                                                14.5% (1.2%)    14.7% (1.2%)      -0.14%    0.4660      0.0125
+    Endpoint                                                                                                         Hochberg
+                                                                                                                     procedure
+ C. Major Bleeding at 18 Months (Superiority)   11.6% (1.1%)    12.3% (1.1%)      -0.71%    0.3229      0.0083
+                                                                                                                         the
+ D. Superiority Test of Primary Mechanism of                                                                         following
+                                             98.9% (792/801)   96.8% (767/792)     2.03%    0.0025      0.0063       endpoints
+    Action Endpoint
+ E. Stroke/Systemic Embolism/CV or                                                                                   were met:
+    unexplained death at 18 Months (Non-       5.6% (0.8%)      7.7% (0.9%)       -2.12%   <0.0001                      D, E
+    Inferiority)
+
+
+        4. Subgroup Analyses
+
+             Subgroup analyses were conducted to assess the consistency of primary outcomes
+             across the following patient characteristics: age, gender, race, ethnicity, stroke risk,
+             bleeding risk, device size, and AF pattern via an interaction test between treatment
+             group and subgroup stratum in a logistic regression model. No significant interaction
+             effects were observed (interaction p-value > 0.15 for all subgroups).
+
+        5. Pediatric Extrapolation
+
+             In this premarket application, existing clinical data was not leveraged to support
+             approval of a pediatric patient population.
+
+   F. Financial Disclosure
+
+        The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires applicants
+        who submit a marketing application to include certain information concerning the
+        compensation to, and financial interests and arrangement of, any clinical investigator
+        conducting clinical studies covered by the regulation. The pivotal clinical study included 330
+        investigators of which none were full-time or part-time employees of the sponsor and 14 had
+        disclosable financial interests/arrangements as defined in 21 CFR 54.2(a), (b), (c) and (f)
+        and described below:
+             Compensation to the investigator for conducting the study where the value could be
+                influenced by the outcome of the study: none
+             Significant payment of other sorts: 12
+             Proprietary interest in the product tested held by the investigator: none
+             Significant equity interest held by investigator in sponsor of covered study: 2
+
+        The applicant has adequately disclosed the financial interest/arrangements with clinical
+        investigators. Statistical analyses were conducted by FDA to determine whether the
+        financial interests/arrangements had any impact on the clinical study outcome. The
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                 Page 35
+            information provided does not raise any questions about the reliability of the data.
+
+XI.      SUMMARY OF SUPPLEMENTARY CLINICAL DATA
+
+         The applicant also submitted additional data from a post-market registry to supplement the
+         pivotal study dataset. Data from the Amplatzer Amulet Observational Post Market Study was
+         considered in the benefit-risk assessment of the PMA.
+
+         The Amplatzer Amulet Post Market Observation Study was a prospective, non-randomized,
+         open-label, post-market study assessing the safety and effectiveness of the Amulet occluder
+         over 2-years during commercial use outside of the US. The study enrolled Non-Valvular
+         Atrial Fibrillation (NVAF) patients ≥ 18 years of age. After LAA closure with the Amulet
+         device, patients were followed at discharge, 1-3 month, 6 months (by phone), one year, and 2
+         years (by phone). A TTE was performed prior to discharge, and TEEs were required at 1-3
+         months post-implant and with a diagnosis of a stroke or TIA.
+
+         The study utilized an independent clinical events committee (CEC) to adjudicate all major
+         adverse events for relatedness to the procedure, device, or delivery system, and an
+         independent core laboratory to review echocardiograms. Centralized data monitoring
+         occurred throughout the study.
+
+         There were 4 study objectives:
+            1. Assessment of acute (0 – 7 days post-procedure) serious adverse events
+            2. Assessment of late (> 7 days post-procedure) serious adverse events
+            3. Assessment of ischemic stroke, systemic embolism, and cardiovascular death through
+                2 years
+            4. Assessment of bleeding events through 2 years
+
+         Between 6/1/2015 and 9/19/2016, the study enrolled 1088 subjects at 61 sites in Western
+         Europe, Australia, Chile, Hong Kong, and Israel. Of these, 1078 (99.1%) subjects had a
+         successful implant procedure. Table 21 presents the follow-up visit compliance.
+
+                                     Table 21: Follow-up Visit Compliance
+
+
+
+
+         The mean age of the enrolled subjects was 75.2 ± 8.5 years, and 35.5% were female. The
+         mean CHA2DS2-VASc score was 4.2 ± 1.6, and 27.5% of subjects had prior history of stroke.
+         The mean HAS-BLED score was 3.3 ± 1.1, and 71.7% had prior history of major bleed.
+         Indications for LAA occlusion include 6.6% and 34.1% of subjects with absolute and relative
+      PMA P200049: FDA Summary of Safety and Effectiveness Data                               Page 36
+   contraindications to OAC, respectively.
+
+   Technical success, defined as successful implantation of the Amulet device in the LAA, was
+   achieved in 1078 of 1088 (99.1%). Most subjects were discharged from the index
+   hospitalization on antiplatelet therapy (Dual Antiplatelet Therapy (DAPT) or Single
+   Antiplatelet Therapy (SAPT)), and 11.2% of subjects were discharged on oral
+   anticoagulation.
+
+   Adverse Events
+   There were 98 serious adverse events in 83 subjects within 7 days after the index procedure.
+   The CEC adjudicated 73 events (in 63 subjects) as procedure- or device-related (Table 22).
+
+ Table 22: CEC Adjudicated Acute Serious Adverse Events within 7 Days of the Index Procedure
+                                                  Subjects       Events   Related to   Related to      Related to
+ Event                                                                                                                Unrelated
+                                                   % (n/N)         N      Procedure     Device      Delivery System
+
+ AV Block                                       0.1% (1/1088)      1          1            0              0              0
+ Acute Bronchitis                               0.1% (1/1088)      1          0            0              0              1
+ Acute Pulmonary Edema                          0.2% (2/1088)      2          1            0              0              1
+ Acute Renal Failure                            0.1% (1/1088)      1          1            0              0              0
+ Air Embolus                                    0.1% (1/1088)      1          1            0              1              0
+ Alcohol Intoxication                           0.1% (1/1088)      1          0            0              0              1
+ Anemias                                        0.3% (3/1088)      3          3            0              0              0
+ Aphasia                                        0.1% (1/1088)      1          1            0              0              0
+ Arterial Hypertension/Hypertension              0.1% (1/1088)     1          1            0              0              0
+ Atrial Fibrillation                             0.5% (5/1088)     5          1            0              0              4
+ Bleeding                                       0.1% (1/1088)      1          1            0              0              0
+ Cardiac Arrest                                  0.1% (1/1088)     1          0            0              0              1
+ Cardiac Decompensation                         0.1% (1/1088)      1          1            0              0              0
+ Cardiac Perforation                             0.1% (1/1088)     1          1            1              0              0
+ Chronic Obstructive Pulmonary Disease (COPD)   0.1% (1/1088)      1          1            0              0              0
+ Chronic Subdural Hematoma                       0.1% (1/1088)     1          1            0              0              0
+ Confusion                                       0.1% (1/1088)     1          1            0              0              0
+ Congestive Heart Failure                       0.1% (1/1088)      1          0            0              0              1
+ Decompensated Heart Failure                    0.2% (2/1088)      2          1            0              0              1
+ Delirium                                       0.1% (1/1088)      1          1            0              0              0
+ Device Embolization                            0.2% (2/1088)      2          2            2              0              0
+ Dyspnea                                         0.1% (1/1088)     1          0            0              0              1
+ Epistaxis                                      0.1% (1/1088)      1          1            0              0              0
+ Fall                                            0.1% (1/1088)     1          1            0              0              0
+ Fever                                           0.2% (2/1088)     2          1            0              0              1
+ Gastrointestinal Bleeding                      0.5% (5/1088)      5          3            0              0              2
+ Gout                                            0.2% (2/1088)     2          0            0              0              2
+ Hematoma                                        0.1% (1/1088)     1          1            0              1              0
+ Hematuria                                       0.1% (1/1088)     1          1            0              0              0
+ Hemoperitoneum                                  0.1% (1/1088)     1          1            0              1              0
+ Hemoptysis                                     0.1% (1/1088)      1          0            0              0              1
+ Hypotension                                    0.1% (1/1088)      1          1            0              0              0
+ Hypoventilation                                0.1% (1/1088)      1          1            0              0              0
+ Ischemic Stroke                                0.4% (4/1088)      4          4            1              0              0
+ Pericardial Effusion                           0.6% (6/1088)      6          6            2              1              0
+ Pericardial Tamponade                          0.9% (10/1088)     10         9            7              6              1
+ Pleural Effusion                               0.2% (2/1088)      2          2            0              0              0
+ Pneumonia                                      0.3% (3/1088)      3          1            0              0              2
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                 Page 37
+ Pneumonia Caused By Gram-Negative Bacilli   0.1% (1/1088)         1       0          0            0          1
+ Pulmonary Edema                             0.1% (1/1088)         1       1          0            0          0
+ Pulmonary Embolism                          0.1% (1/1088)         1       1          0            1          0
+ Respiratory Failure                         0.1% (1/1088)         1       1          0            0          0
+ Seizure/Convulsions/Epilepsy                0.1% (1/1088)         1       1          0            0          0
+ Shock                                       0.1% (1/1088)         1       1          0            0          0
+ Skin Cancer                                 0.1% (1/1088)         1       0          0            0          1
+ Status Epilepticus                          0.1% (1/1088)         1       0          0            0          1
+ TEE-Related Event                           0.1% (1/1088)         1       1          0            0          0
+ Thrombus on Device                          0.1% (1/1088)         1       1          1            0          0
+ Trauma                                       0.1% (1/1088)        1       0          0            0          1
+ Urinary Retention                           0.2% (2/1088)         2       1          0            0          1
+ VASC AV Fistula                             0.2% (2/1088)         2       2          0            2          0
+ VASC Bleeding                               0.3% (3/1088)         3       3          0            3          0
+ VASC Hematoma                               0.4% (4/1088)         4       4          0            3          0
+ VASC Pseudoaneurysm                         0.2% (2/1088)         2       2          0            1          0
+ Other1                                       0.1% (1/1088)        1       1          0            1          0
+ Total                                       7.6% (83/1088)       98      73          14           21        25
+
+
+   In the Amplatzer Amulet Observational Post Market Study , late events were defined as those
+   with an onset date > 7 days post-procedure. A total of 1097 late SAEs occurred in 504
+   subjects. Table 23 presents the late serious adverse events (SAEs) that were adjudicated by
+   CEC as procedure or device related.
+
+             Table 23: Number of CEC Adjudicated Procedure or Device Related Late SAEs
+             Event Description                     Related to Procedure        Related to Device
+
+             Anemias                                          1                       0
+             Bacterial infections                             1                       0
+             Deep vein thrombosis                             1                        0
+             Gastrointestinal Bleeding                        1                        0
+             Ischemic stroke                                  0                        2
+             Pericardial effusion                             1                       2
+             Pericardial tamponade                            0                       1
+             Pleural effusion                                 1                       0
+             Thrombus on device                               0                       18
+             VASC AV Fistula                                  2                       0
+             VASC Pseudoaneurysm                              1                       0
+             Other (device infection)                         0                       1
+             Total                                            9                       24
+
+   Overall, procedure related complications, defined as adverse events adjudicated by the CEC as
+   procedure related and requiring either invasive surgical or percutaneous intervention, occurred in
+   24 subjects (Table 24).
+
+
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                          Page 38
+                                  Table 24: Procedure Re late d Complications
+                                                                                          Amulet
+                                    Event Description                                  Observational
+                                                                                      Study (N=1088)
+               Pericardial Effusion 0-2 days post procedure                                   11
+               Pericardial Effusion >2 days post procedure                                     1
+               Device Embolization                                                             2
+               Vascular Access-Related Complications                                           5
+               Air Embolus                                                                     1
+               Cardiac Perforation                                                             1
+               Hematoma                                                                        1
+               Pleural Effusion                                                                2
+               Total Number of Subjects                                                   24 (2.2%)
+
+   The observed device embolization rate in the Amplatzer Amulet Observational Post Market
+   Study was 0.18%. In total, 21 subjects experienced 22 pericardial effusion events (Table 25). Of
+   these, 16 subjects required percutaneous or surgical drainage, including 4 of 5 subjects who
+   experienced pericardial effusion beyond 48 hours (on Postoperative Day (POD) 4, 17, 23, 34, 207).
+
+       Table 25: Pericardial Effusion/Cardiac Perforation in the Amulet Observational Study
+                                                                              Amulet Observational
+                                                                                Study (N=1088)
+              Total Subjects                                                       1.9% (21/1088)
+              By Timeframe
+                 0-2 Days                                                          1.5% (16/1088)
+                 > 2 Days                                                           0.5% (5/1088)
+              By intervention*
+                No intervention                                                     0.6% (6/1088)
+                Surgical/Percutaneous Intervention                                 1.5% (16/1088)
+               *One subject experienced two events: one that required surgical/percutaneous intervention.
+
+
+   Incidences of Ischemic stroke, Systemic embolism, Cardiovascular Death, and Major Bleed
+   There were 42 ischemic stroke events in 39 subjects as adjudicated by the CEC,
+   corresponding to an annualized rate of 2.2% per year. No clinical events were adjudicated by
+   the CEC as systemic embolism.
+
+   A total of 161 subjects died. Of these, the CEC adjudicated 55 deaths as due to
+   cardiovascular causes and 35 deaths as due to unknown causes.
+
+   The CEC adjudicated 140 bleeding events in 110 subjects as major bleeds (defined as BARC
+   Type 3 or greater), corresponding to an annualized rate of 7.2%/year. A total of 32 major
+   bleeding events were adjudicated as related to the Amulet occluder or implant procedure. The
+   rate of procedural complications observed in the Amulet Observational Study is lower than the rate in
+   the Amulet group of the IDE trial, and consistent with the rate observed in the Watchman group of the
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                                   Page 39
+           IDE trial. Data from the Amulet Observational Study provide additional insights into Amulet
+           occluder safety in a ‘real-world’ post market setting from outside the US.
+
+XII.       PANEL MEETING RECOMMENDATIONS AND FDA’S POST PANEL ACTION
+
+           In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+           Medical Devices Act of 1990, this PMA was not referred to the Circulatory System Devices
+           Panel, an FDA advisory committee, for review and recommendation because the information
+           in the PMA substantially duplicates information previously reviewed by this panel.
+
+XIII.      CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+           A. Effectiveness Conclusions
+
+              The primary effectiveness endpoint, a composite of ischemic stroke and systemic embolism
+              at 18 months was 2.8% for both groups. The 97.5% upper confidence bound was 1.55%
+              which was within the predefined non-inferiority margin of 3.2% (p<0.0001), indicating non-
+              inferiority of effectiveness of Amulet to Watchman. Examination of the two individual
+              components included in the primary effectiveness endpoint revealed similar ischemic stroke
+              rates in both groups (Amulet group: 2.5% vs. Watchman group: 2.7%). Consistent with prior
+              studies, systemic embolism occurred at low rates in both groups (0.3% Amulet, 0.2%
+              Watchman). The primary mechanism of action endpoint of device closure at 45 days was
+              observed in 98.9% of Amulet subjects and 96.8% of Watchman subjects. The 97.5% lower
+              confidence bound was 0.41% which was greater than the predefined non-inferiority margin
+              of -3% (p<0.0001). Therefore, device closure with the Amulet device was non-inferior to the
+              Watchman device.
+
+              The totality of clinical evidence provides a reasonable assurance that the Amulet device is
+              effective for reducing the risk of thrombus embolization from the LAA in select patients with
+              non-valvular atrial fibrillation.
+
+           B. Safety Conclusions
+
+              The risks of the device are based on nonclinical laboratory and animal studies as well as data
+              collected in clinical studies conducted to support PMA approval as described above. The
+              results from the nonclinical laboratory and animal studies performed on the Amulet device
+              demonstrate that this device is suitable for long- term implant. The potential risks associated
+              with the device include procedure- related complications such as pericardial effusion,
+              cardiac tamponade and procedure-related major bleeding complications.
+
+              The primary safety endpoint of the Amulet IDE Trial, a composite of procedure- related
+              complications, all-cause death and major bleeding at 12 months, revealed comparable event
+              rates of 14.5% and 14.7% for the Amulet and Watchman groups, respectively. The 97.5%
+              upper confidence bound was 3.13% which was less than the predefined non-inferiority
+              margin of 5.8% (p=0.0002), indicating the primary safety endpoint was met.
+
+
+        PMA P200049: FDA Summary of Safety and Effectiveness Data                                   Page 40
+      However, there was a notable difference in the distribution of primary safety endpoint
+      events. Procedure-related complications occurred more frequently in the Amulet group
+      (4.5% vs. 2.5%). The numerical difference in complication rate was driven mainly by
+      higher rates of device embolization and procedure-related delayed pericardial
+      effusion/tamponade in the Amulet group. The causes for these differences are not well
+      understood. Post-hoc subgroup analyses suggested a learning curve and post-implant
+      anticoagulation therapy may be responsible. Data from a large OUS post-market
+      observational study suggest that these complication rates may be lowered with operator
+      experience and the preferential use of antiplatelet drugs post-implant.
+
+   C. Benefit-Risk Determination
+
+      The probable benefits of the device are also based on data collected in a clinical study
+      conducted to support PMA approval as described above. The probable benefits include a
+      reduced risk of thromboembolism from the left atrial appendage and the ability for patients
+      to discontinue anticoagulation following successful closure of the LAA. The latter may be
+      important for certain patient populations. Non-valvular AF patients with elevated stroke
+      risk treated with transcatheter LAA occlusion using the Amulet device gain similar
+      magnitude of risk reduction in LAA-associated thromboembolic events as those treated
+      with the Watchman device. Based on the Amulet IDE Trial results, a significant portion of
+      patients undergoing LAA closure with the Amulet device are expected to gain these
+      probable benefits.
+
+      The probable risks of the device are also based on data collected in a clinical study conducted
+      to support PMA approval and real-world data as described above. The probable risks of the
+      Amulet device include procedure-related serious adverse events (such as pericardial
+      effusion, cardiac tamponade and procedure related major bleeding complications) and
+      device-related thrombus. The results of the Amulet IDE Trial show that patients treated with
+      the Amulet device may be more likely to experience device embolization and delayed
+      pericardial effusion/tamponade than the Watchman device. While a significant pericardial
+      effusion can be effectively treated with percutaneous or surgical pericardial drainage,
+      they can lead to serious complications when not recognized and intervened in a timely
+      fashion.
+
+      Additional factors to be considered in determining probable risks and benefits for the
+      Amulet device included:
+
+      1. Patient Perspective
+         This submission either did not include specific information on patient perspectives or
+         the information did not serve as part of the basis of the decision to approve or deny
+         the PMA for this device.
+
+      2. Risk mitigation
+         Several strategies may lower the probability of a harmful event occurring. The risk
+         mitigation strategies include:
+
+
+PMA P200049: FDA Summary of Safety and Effectiveness Data                                  Page 41
+                    Descriptions of known and probable benefits and risks in physician labeling
+                     including appropriate Contraindications, Warnings, Precautions, and Instructions for
+                     Use incorporating recommendation for post-implant anti-thrombotic therapy and
+                     testing for post-implant pericardial effusion.
+                    Limit to users with a minimum set of qualifications who have completed a required
+                     training program
+
+             3. Post-market Actions
+                In addition to rigorous long-term postmarket surveillance of the US commercial use of
+                the Amulet Left Atrial Appendage Occluder, confirmatory clinical data will be
+                collected from large scale and high-quality clinical surveillance to confirm that the
+                risk mitigation strategies are effective and to refine our understanding of the observed
+                delayed pericardial effusion complications.
+
+             In conclusion, given the available information above, the data show that for
+             percutaneous, transcatheter closure of the left atrial appendage in patients meeting the
+             criteria described in the indications for use statement, the probable benefits of the Amulet
+             device outweigh the probable risks.
+
+          D. Overall Conclusions
+
+             The data in this application support the reasonable assurance of safety and effectiveness
+             of the Amulet device when used to reduce the risk of thrombus embolization from the LAA in
+             patients with non-valvular atrial fibrillation who are at increased risk for stroke and systemic
+             embolism based on CHADS2 or CHA2DS2-VASc scores and have appropriate rationale to
+             seek a non-pharmacologic alternative to oral anticoagulation.
+
+XIV.      CDRH DECISION
+
+          CDRH issued an approval order on August 14, 2021. The final clinical conditions of approval
+          cited in the approval order are described below.
+
+          1. Continued Follow-up of the Amulet IDE Cohorts:
+             The study objective is to characterize the safety and effectiveness of the Amulet LAA
+             closure device through 5 years post-procedure. This study should be conducted per the
+             latest version of the Amulet IDE protocol. The study will consist of all IDE patients who
+             are currently enrolled and alive. Safety and effectiveness endpoints include: all-cause
+             death, ischemic stroke, systemic embolism, major bleeding (Type 3 or greater per
+             Bleeding Academic Research Consortium), procedure and device related complications,
+             pericardial effusion requiring intervention, and device-related thrombus. All available
+             patients in the Amulet IDE trial will be followed at 24 months, 3, 4, 5 years post-implant
+             intervals.
+
+          2. Amulet Real-World Use Surveillance:
+             The applicant has agreed to work with the Society of American College of Cardiology
+
+       PMA P200049: FDA Summary of Safety and Effectiveness Data                                   Page 42
+            (ACC) Left Atrial Appendage Occlusion (LAAO) Registry to ensure that FDA
+            surveillance occurs for commercial uses of the Amulet Left Atrial Appendage Occluder.
+            The surveillance will be carried out to characterize clinical outcomes and to assess the
+            real-world use of the commercial Amulet device. Surveillance of the real-world use will
+            involve all consecutive patients treated within the first 2 years that are entered into the
+            LAAO Registry (enrollment period). The applicant has also agreed to link the data to the
+            Centers for Medicare and Medicaid Services (CMS) claims database for long-term
+            surveillance of these patients through 5 years post implantation (follow-up duration). This
+            surveillance should monitor registry collected data (including but not limited to: implant
+            success rate, procedural safety, pericardial effusion, effective closure of the orifice of the
+            left atrial appendage, and stroke [including ischemic or hemorrhagic]). The rate of
+            pericardial effusion events requiring intervention, the composite of ischemic stroke and
+            systemic embolism, the composite of procedure-related complications, all-cause death,
+            and major bleeding, and the rate of effective device closure will be compared to pre-
+            specified performance goals.
+
+         The applicant’s as-submitted manufacturing information was reviewed and was found to be
+         in compliance with the device Quality System (QS) regulation (21 CFR 820). It has been
+         determined an inspection at the applicant’s manufacturing facilities is not necessary at this
+         time.
+
+XV.      APPROVAL SPECIFICATIONS
+
+         Directions for Use: See final approved device labeling (Instructions for Use).
+
+         Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+         Precautions, and Adverse Events in the final labeling (Instructions for Use).
+
+         Post-Approval requirements and restrictions: See approval order
+
+
+
+
+      PMA P200049: FDA Summary of Safety and Effectiveness Data                                Page 43
+

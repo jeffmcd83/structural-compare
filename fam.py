@@ -113,10 +113,20 @@ SH={
 "VersaCross Access Solution":("SH_VersaCross",r"^VersaCross(™)? Access Solution$",None,None,"Transseptal access"),
 "VersaCross Steerable Access Solution":("SH_VersaCross",r"^VersaCross(™)? Steerable Access Solution$",None,None,"Steerable guide/sheath"),
 "Agilis NxT":("SH_Agilis",r"^Agilis™( NxT)?$",r"NxT|Steerable Introducer",None,"Steerable guide/sheath"),
+"SAPIEN M3":("SH_SAPIEN_M3",r"^SAPIEN M3",None,None,"TMVR valve"),
+"EVOQUE":("SH_EVOQUE",r"EVOQUE",None,None,"TTVR valve"),
+"WATCHMAN FLX":("SH_WATCHMAN",r"^WATCHMAN FLX™$",None,None,"LAAO device"),
+"WATCHMAN FLX Pro":("SH_WATCHMAN",r"^WATCHMAN FLX™ Pro$",None,None,"LAAO device"),
+"Amplatzer Amulet":("SH_Amulet",r"^Amplatzer™ Amulet™$",None,None,"LAAO device"),
+"WATCHMAN TruSeal Access System":("SH_WATCHMAN",r"TruSeal",None,None,"LAAO access sheath"),
+"WATCHMAN TruSteer Access System":("SH_WATCHMAN",r"TruSteer",None,None,"LAAO access sheath"),
+"WATCHMAN FXD Curve Access System":("SH_WATCHMAN",r"FXD Curve",None,None,"LAAO access sheath"),
+"Amulet Steerable Delivery Sheath":("SH_Amulet",r"^Amulet™$",r"Steerable Delivery Sheath",None,"LAAO access sheath"),
 }
 for k,(fn,b,i,e,c) in SH.items(): F[k]=(fn,b,i,e);CAT[k]=c
 THER={c:'Coronary' for c in set(CAT.values())}
 THER.update({c:'TAVI' for c in ['TAVI valve','Valve wire','Large-bore sheath','Cerebral embolic protection','Valvuloplasty balloon','Large-bore closure','Temporary pacing']})
+THER.update({'TMVR valve':'Mitral TMVR','TTVR valve':'Tricuspid TTVR','LAAO device':'LAAO','LAAO access sheath':'LAAO'})
 THER.update({'Mitral TEER':'Mitral TEER','Tricuspid TEER':'Tricuspid TEER','Transseptal access':'Shared accessories','Steerable guide/sheath':'Shared accessories'})
 # --- structural-only standalone build (split from coronary-specs 2026-10-13) ---
 F={k:F[k] for k in SH};CAT={k:CAT[k] for k in SH};THER={c:THER[c] for c in set(CAT.values())}

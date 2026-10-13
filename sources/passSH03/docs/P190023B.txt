@@ -1,0 +1,2628 @@
+       SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+
+
+I.     GENERAL INFORMATION
+
+       Device Generic Name:                   Aortic valve, prosthesis, percutaneously delivered
+                                              Portico™ Transcatheter Aortic Valve Implantation
+       Device Trade Name:
+                                              System:
+                                              Portico™ Transcatheter Aortic Heart Valve,
+                                              FlexNav™ Delivery System,
+                                              FlexNav™ Loading System
+
+       Device Product Code:                   NPT
+
+       Applicant Name and Address:            Abbott
+                                              One St. Jude Medical Drive
+                                              St. Paul, MN 55117
+
+       Date of Panel Recommendation:          None
+
+       Premarket Approval Application         P190023
+       (PMA) Number:
+
+       Date of FDA Notice of Approval:        September 17, 2021
+
+II.    INDICATIONS FOR USE
+
+       The Portico Transcatheter Aortic Valve Implantation System is indicated for relief of
+       aortic stenosis in patients with symptomatic heart disease due to severe native calcific
+       aortic stenosis who are judged by a heart team, including a cardiac surgeon, to be at high
+       or greater risk for open surgical therapy (i.e., predicted risk of surgical mortality ≥ 8% at
+       30 days, based on the Society of Thoracic Surgeons (STS) risk score and other clinical
+       comorbidities unmeasured by the STS risk calculator).
+
+III.   CONTRAINDICATIONS
+
+       The valve is contraindicated for patients with inability to tolerate antiplatelet/
+       anticoagulant therapy, nitinol alloy (nickel and titanium), or who have active infections,
+       including endocarditis.
+
+IV.    WARNINGS AND PRECAUTIONS
+
+       The warnings and precautions can be found in the Portico Transcatheter Aortic Valve
+       Implantation System labeling.
+V.   DEVICE DESCRIPTION
+
+     The Portico Transcatheter Aortic Valve Implantation System (Portico System) is
+     designed to be implanted in the native aortic heart valve without open heart surgery
+     and without concomitant surgical removal of the failed native valve. The Portico
+     System consists of 3 components: (1) Portico Transcatheter Aortic Heart Valve
+     (Portico valve), (2) FlexNav Delivery System (DS), and (3) FlexNav Loading System
+     (LS). Refer to Table 1 for a list of model numbers for these components and their
+     compatibility between the devices.
+
+             Table 1: Portico System Model Numbers and Device Compatibility
+             Portico Valve        FlexNav DS                 FlexNav LS
+               PRT-23
+                                 FNAV-DS-SM                 FNAV-LS-SM
+               PRT-25
+               PRT-27
+                                 FNAV-DS-LG                 FNAV-LS-LG
+               PRT-29
+
+     A. Portico Valve
+
+     The Portico valve (Figure 1) is comprised of three main components: stent, cuff, and
+     leaflets. The stent is made from nitinol, a nickel-titanium alloy that has self-expanding
+     properties and is radiopaque. The cuff is made from porcine pericardium that is sutured to
+     the stent frame. The cuff provides the sealing area for implantation. The leaflets are made
+     from bovine pericardium and are sutured together into a tri-leaflet configuration on the
+     stent frame.
+
+     The cuff and leaflet pericardial tissue is preserved and crosslinked in glutaraldehyde.
+     Glutaraldehyde, formaldehyde and ethanol are used in the valve sterilization process. The
+     valve’s leaflets and cuff are processed using Linx™ anticalcification technology. The
+     valve is supplied sterile and non-pyrogenic.
+
+                      Figure 1: Portico Transcatheter Aortic Valve
+
+
+
+
+     The Portico valve is available in four different sizes (23 mm, 25 mm, 27 mm, and 29
+     mm) that are intended to treat patients with a native annulus size ranging from 19 - 27
+mm, respectively. Refer to Table 2, for a detailed list of available sizes that are intended
+to treat patients with the anatomical measurements indicated below.
+
+                   Table 2: Patient Anatomical Measurements
+    Portico        Model       Annulus Size       Ascending          Minimum
+   valve Size     Number         Treated        Aorta Diameter     Vascular Access
+                                                                      Diameter
+    23 mm          PRT-23        19-21 mm          26-36 mm           ≥ 5.0 mm
+    25 mm          PRT-25        21-23 mm          28-38 mm           ≥ 5.0 mm
+    27 mm          PRT-27        23-25 mm          30-40 mm           ≥ 5.5 mm
+    29 mm          PRT-29        25-27 mm          32-42 mm           ≥ 5.5 mm
+
+B. FlexNav Delivery System
+
+The FlexNav Delivery System (DS) (Figure 2) consists of a handle, integrated
+sheath, stability layer, and outer/inner member. It facilitates Portico valve
+implantation using transfemoral, subclavian/axillary, or transaortic access methods.
+The FlexNav DS is an over-the-wire, 0.035” compatible system designed to
+facilitate gradual, controlled deployment of the Portico valve. The valve is deployed
+annulus end first from the distal end of the delivery system. If needed, the valve may
+be re-sheathed and repositioned up to two times, provided the valve has not been
+fully deployed.
+
+                            Figure 2: FlexNav Delivery System
+
+
+
+
+Table 3 lists FlexNav DS model numbers, specifications, and compatibility requirements.
+                        Table 3: FlexNav Delivery System Specifications
+               Equivalent     Valve        Integrated    Delivery     Minimum
+  Delivery
+               Integrated    Capsule         Sheath      System         Vessel       Compatible
+System Model
+                 Sheath       Outer         Working      Working      Diameter       Guidewire
+  Number
+                Diameter     Diameter        Length      Length      Requirement
+                                                                                        0.035”
+FNAV-DS-SM        14F         6.0mm          30 cm        107 cm          ≥ 5.0 mm
+                                                                                      (0.89mm)
+                                                                                        0.035”
+FNAV-DS-LG        15F         6.3mm          30 cm        107 cm          ≥ 5.5 mm
+                                                                                      (0.89mm)
+
+      C. FlexNav Loading System
+
+      The FlexNav Loading System (LS) (Figure 3) is an accessory used to facilitate valve
+      preparation/loading onto the FlexNav DS. The LS includes a loading funnel, loading
+      base, base insert, loading tube, and a leaflet tester.
+
+                                Figure 3: FlexNav Loading System
+
+
+
+
+VI.   ALTERNATIVE PRACTICES AND PROCEDURES
+
+      There are several other alternatives for patients with severe symptomatic native aortic
+      valve stenosis who are deemed to be high or greater risk for surgical aortic valve
+      replacement, including treatment with other commercially available transcatheter aortic
+      valve implantation (TAVI) devices, surgical aortic valve replacement (SAVR), temporary
+      relief using a percutaneous technique called balloon aortic valvuloplasty (BAV), or
+      medical therapy (no obstruction-relieving intervention). Each alternative has its own
+      advantages and disadvantages. Patients should fully discuss these alternatives with their
+      physician to select the best method that best meets expectations and lifestyle.
+VII.   MARKETING HISTORY
+
+       The Portico System is marketed in the following countries/geographies (Table 4).
+
+                       Table 4: Countries/Geographies where the Portico System is Marketed
+                      Argentina                Hong Kong                        Philippines
+                       Algeria                     Israel                         Russia
+                       Australia                  Jordan                       Saudi Arabia
+                       Belarus                   Kuwait                         Singapore
+                        Bolivia                  Lebanon                       South Korea
+                        Brazil                  Malaysia                         Taiwan
+                         Chile                   Mexico                          Thailand
+                      Colombia                  Macedonia                        Tunisia
+                      Costa Rica                Morocco                           Turkey
+                       Ecuador                 New Zealand                         UAE
+                        Egypt                   Paraguay                         Ukraine
+                        Europe                      Peru                         Vietnam
+
+       The Portico System has not been withdrawn from any market.
+
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+       Below is a list of the potential adverse effects (e.g., complications) associated with the
+       use of the device:
+          •   access site complications (e.g., pain, bleeding, infection, hematoma,
+              pseudoaneurysm, etc.)
+          •   acute coronary obstruction
+          •   acute myocardial infarction
+          •   allergic reaction to antiplatelet agents, contrast medium, or valve components
+          •   aortic rupture
+          •   ascending aorta trauma
+          •   atrio-ventricular node block
+          •   cardiac arrhythmias
+          •   conduction system injury
+          •   dissection
+          •   embolism
+          •   endocarditis
+          •   heart failure
+          •   hemodynamic compromise
+          •   hemolysis
+          •   hemolytic anemia
+          •   hemorrhage
+          •   hypotension or hypertension
+          •   infection
+          •   myocardial ischemia
+          •   mitral valve insufficiency
+          •   multi-organ failure
+          •   non-structural dysfunction (i.e., entrapment by pannus, paravalvular leak,
+              inappropriate sizing or positioning)
+          •   pericardial effusion
+          •   perforation of the myocardium, ventricle or a blood vessel
+         •    pannus
+         •    regurgitation
+         •    renal insufficiency or renal failure
+         •    respiratory failure
+         •    sepsis
+         •    stroke
+         •    structural deterioration (i.e., calcification, leaflet tear)
+         •    thrombosis
+         •    tamponade
+         •    valve embolization or migration
+         •    vessel dissection or spasm
+         •    transfusion
+         •    conversion to open surgical procedure
+         •    reoperation
+         •    emergent balloon valvuloplasty
+         •    emergent percutaneous coronary intervention (PCI)
+         •    emergent surgery (i.e., coronary artery bypass, heart valve replacement)
+         •    explantation
+         •    permanent disability
+         •    death
+         •    permanent pacemaker implantation
+
+      For the specific adverse events that occurred in the clinical studies, please see Sections X
+      and XI below.
+
+IX.   SUMMARY OF PRECLINICAL STUDIES
+
+      A. Laboratory Testing
+
+      A series of non-clinical laboratory studies were performed on the Portico System as
+      recommended per ISO 5840, Cardiovascular implants – Cardiac valve prostheses: part 1-
+      General requirements (2015), and part 3- Heart valve substitutes implanted by Transcatheter
+      techniques (2013) along with relevant FDA Guidance Documents.
+
+      1. Biocompatibility
+
+      Biocompatibility and Toxicology evaluations were completed on the device components
+      that makeup the Portico System in accordance with ISO 10993-1: Biological Evaluation
+      of Medical Devices Part 1: Evaluation and Testing. A summary of the tests and results
+      conducted on the Portico Valve, FlexNav DS, and FlexNav LS are provided in Table 5 –
+      Table 7 respectively. Test samples for the studies consisted of all patient-contacting
+      portions of the device (direct and indirect) after all manufacturing processes, including
+      sterilant exposure. All results were acceptable.
+
+                 Table 5: Summary of the Portico Valve Biocompatibility Testing/Results
+
+             Biological Test                   Test Method                         Result
+                                  MEM elution assay on L-929 mouse           Pass
+        Cytotoxicity
+                                  fibroblast cells; ISO 10993-5              Non-cytotoxic
+          Table 5: Summary of the Portico Valve Biocompatibility Testing/Results
+
+      Biological Test                    Test Method                        Result
+                           ISO Guinea Pig Maximization Method;        Pass
+Sensitization
+                           ISO 10993-10                               Non-sensitizing
+Intracutaneous             ISO Intra-cutaneous Reactivity Test; ISO   Pass
+Reactivity (Rabbit)        10993-10                                   Non-irritant
+Acute Systemic Toxicity    ISO Acute Systematic Injection Test; ISO   Pass
+– (Mouse)                  10993-11                                   Non-toxic
+                           Materials Mediated Rabbit Pyrogen Test;    Pass
+Pyrogenicity
+                           ISO 10993-11                               Non-pyrogenic
+                           Bacterial Mutagenicity (Ames); ISO         Pass
+Genotoxicity - AMES
+                           10993-3                                    Non- Mutagenic
+Genotoxicity – Mouse       In vitro mouse Lymphoma Assay; ISO         Pass
+Lymphoma                   10993-3                                    Non-Mutagenic
+                                    Hemocompatibility
+Hemolysis                  ASTM Direct Contact; ISO 10993-4           Pass
+                           ASTM Extract Method; ISO 10993-4           Non-hemolytic
+Partial Thromboplastin                                                Pass
+                           In vitro Hemocompatibility; ISO 10993-4
+Time (PTT)                                                            Non-coagulant
+                                                                      Pass
+Leukocyte and Platelet     In vitro Hemocompatibility; ISO 10993-4
+                                                                      Hemocompatible
+                                                                      Pass
+Complement Activation      C3a and SC5b-9 Assay; ISO 10993-4
+                                                                      Non-activator
+                               Chemical Characterization
+                                                                      Acceptable based on
+                                                                      toxicological risk
+                           Gas Chromatography and Mass                assessment of
+GC/MS Direct Inject
+                           Spectrometry; ISO 10993-18                 identified
+                                                                      leachable/extractable
+                                                                      compounds
+                                                                      Acceptable based on
+                                                                      toxicological risk
+                           Liquid Chromatography-Mass                 assessment of
+LC/MS
+                           Spectrometry; ISO 10993-18                 identified
+                                                                      leachable/extractable
+                                                                      compounds
+                                                                      Acceptable based
+                                                                      on toxicological
+ICP                        Inductively Coupled Plasma; ISO 10993-     risk assessment of
+                           18                                         identified
+                                                                      leachable/extractab
+                                                                      le compounds
+                                                                      Confirmed
+FTIR                       Fourier Transform Infrared Spectroscopy;
+                                                                      Polymer
+                           ISO 10993-18
+                                                                      identification
+NVR                                                                   Pass
+                           Non-volatile residual test; ISO 10993-18
+ Table 6: Summary of the FlexNav Delivery System Biocompatibility Testing/Results
+   Biological Test                      Test Method                       Result
+                         MEM elution assay on L-929 mouse           Pass
+Cytotoxicity
+                         fibroblast cells; ISO 10993-5              Non-cytotoxic
+Sensitization            ISO Guinea Pig Maximization; ISO           Pass
+                         10993-10                                   Non-sensitizing
+Irritation – Rabbit
+                         ISO Intra-cutaneous Reactivity Test; ISO   Pass
+Intracutaneous
+                         10993-10                                   Non-irritant
+Reactivity
+Acute Systemic
+                         ISO Acute Systematic Injection Test; ISO   Pass
+Toxicity – (Mouse)
+                         10993-11                                   Non-toxic
+Pyrogenicity             Materials Mediated Rabbit Pyrogen; ISO     Pass
+                         10993-11                                   Non-pyrogenic
+                                  Hemocompatibility
+                         ASTM Direct Contact; ISO 10993-4
+Hemolysis                                                           Pass
+                         ASTM Extract Method ASTM Direct
+                                                                    Non-hemolytic
+                         Contact; ISO 10993-4
+Partial Thromboplastin                                              Pass
+                         In vitro Hemocompatibility; ISO 10993-4
+Time (PTT)                                                          Non-coagulant
+                                                                    Pass
+Leukocyte and Platelet   In vitro Hemocompatibility; ISO 10993-4
+                                                                    Hemocompatible
+Thrombogenicity                                                     Pass
+                         In vivo swine model; ISO 10993-4
+                                                                    Non-thrombogenic
+                                                                    Pass
+Complement Activation    C3a and SC5b-9 Assay; ISO 10993-4
+                                                                    Non-activator
+                              Chemical Characterization
+                                                                    Pass
+                                                                    No leachable/
+GC/MS Static and         Gas Chromatography and Mass
+                                                                    extractable of
+Dynamic headspace        Spectrometry; ISO 10993-18
+                                                                    toxicological
+                                                                    concern
+                                                                    Pass
+                                                                    Acceptable based on
+                                                                    toxicological risk
+ICP                      Inductively Coupled Plasma; ISO 10993-
+                                                                    assessment of
+                         18
+                                                                    identified
+                                                                    leachable/extractable
+                                                                    compounds
+FTIR                     Fourier Transform Infrared Spectroscopy;   Confirmed Polymer
+                         ISO 10993-18                               identification
+NVR                                                                 Pass
+                         Non-volatile residual test; ISO 10993-18
+  Table 7: Summary of the FlexNav™ Loading System Biocompatibility Testing/Results
+    Biological Test                      Test Method                     Result
+                         Agarose Overlay method using mouse       Pass
+ Cytotoxicity
+                         fibroblast cells (L-929); ISO 10993-5    Non-cytotoxic
+                         General polymers section of USP <661>
+ Heavy Metals            physicochemical tests for plastics was   Pass
+                         followed. ISO 10993-18
+                                                                  Confirmed
+ FTIR                    Fourier Transform Infrared Spectroscopy;
+                                                                  Polymer
+                         ISO 10993-18
+                                                                  identification
+                                                                  Pass
+ NVR
+                         Non-volatile residual test; ISO 10993-18 Acceptable levels
+                                                                  of residuals
+
+2. Bench Testing
+
+Comprehensive preclinical bench testing and computational analysis was performed on
+the Portico System (i.e., Portico valve, FlexNav DS and FlexNav LS). All testing was
+conducted in accordance with national and international product standards (i.e., FDA
+guidance documents and ISO 5840-1, ISO 5840-3, and ISO 10555-1). Testing verified
+that all components of the Portico System were within design specifications and met its
+specified design performance requirements. The tests are summarized in Table 8 and
+Table 9.
+
+                Table 8: Summary of Portico Valve In-Vitro Testing/Results
+
+         Test             Attribute                 Test Description              Results
+ Valve Testing: Hydrodynamic Assessment
+                     Pressure Drop    To determine the hydrodynamic
+ Hydrodynamic        EOA              performance of the Portico valve in
+                                                                                   Pass
+ Assessment                           terms of Pd, EOA, Regurgitation under
+                     Regurgitation
+                                      normal cardiac conditions.
+                     Pressure Drop    To determine the hydrodynamic
+ Variable Cardiac    EOA              performance of the Portico valve in
+                                                                                   Pass
+ Conditions                           terms of Pd, EOA, Regurgitation under
+                     Regurgitation
+                                      variable cardiac conditions.
+ Steady Forward                       To determine the pressure drop at
+                     Pressure Drop
+ Flow                                 various steady forward flow rates.
+                                                                                   Pass
+ Steady Backflow                      To determine the leakage rates at
+                     Leakage
+ Leakage                              various steady forward flow rates.
+                     Pressure drop
+                                      To determine whether the Bernoulli
+ Bernoulli           measurement
+                                      relationship applies to clinical pressure    Pass
+ Relationship        Doppler Velocity
+                                      drop measurements
+                     Measurement
+ Flow Visualization
+                     Flow             To qualitatively investigate flow
+ & Particular Image                                                                Pass
+                     Characterization characteristics near the valve
+ Velocimetry
+ Valve Testing: Migration
+              Table 8: Summary of Portico Valve In-Vitro Testing/Results
+
+       Test              Attribute                   Test Description               Results
+Chronic Outward
+                     Annulus & Aortic To determine the Portico stent is
+Radial Force
+                     Chronic outward    manufactured with acceptable COR to          Pass
+(COR) and
+                     radial force       ensure migration resistance
+Migration
+Migration                               Verify the COR of the Portico valve is
+Resistance &         Valve Migration    appropriate to assure valve migration
+                                                                                     Pass
+Cadaver Calcified    Resistance         resistance when exposed to simulated
+Annulus Pullout                         in-vitro conditions.
+Valve: Post Dilatation Testing
+                     Pressure drop
+Balloon
+                     EOA                Ensure post dilatation does not impact
+Valvuloplasty Post                                                                   Pass
+                     Regurgitation      leaflet durability and functionality.
+Dilatation
+                     Functional
+Valve Testing: Structural Performance
+                     Pressure drop
+                                        To assess long-term valve performance,
+Accelerated Wear     EOA
+                                        200 million cycles, through accelerated      Pass
+Testing              Regurgitation
+                                        wear testing.
+                     Functional
+                     Pressure Drop
+                                        To obtain information about the failure
+Dynamic Failure      EOA
+                                        mode affecting the durability of the         Pass
+Mode Analysis        Regurgitation
+                                        valve.
+                     Visual
+                                        FEA was used to characterize the
+Leaflet, Cuff, and                      structural behavior of the components of
+                     In Plane principle
+stent Finite Element                    the Portico valve using computer             Pass
+                     stress
+Analysis (FEA)                          analytics when subjected to anticipated
+                                        in vivo operational conditions
+Stent Testing
+Stent Fatigue        Freedom from       Demonstrate the Portico stent has
+                                                                                     Pass
+Resistance           fracture           fatigue resistance to 600 million cycles.
+                     Nickel Leaching
+                     Corrosion           Evaluate the corrosion resistance of the
+Stent Corrosion      Assessment          Portico stent in accordance with ASTM       Pass
+                     Surface             F2129 and ISO 16429.
+                     assessment
+                     Valve
+                     Maximum             To evaluate the relationship of the
+Stent length and
+                     Length              Portico stent length and diameter when      Pass
+Foreshortening
+                     Stent               crimped and deployed.
+                     Foreshortening
+                     Displacement and
+                     Torque
+                                         To characterize the performance of the
+Magnetic             1.5T RF Heating
+                                         Portico valve in an MR field and            Pass
+Resonance Imaging    3.0T RF Heating
+                                         determine the compatibility.
+                     MR Artifacts
+                     Visual
+        Table 9: Summary of FlexNav DS and FlexNav LS In Vitro Testing/Results
+
+            Test                               Purpose/Objective                         Results
+                              Verification that the manufacturing processes
+ Delivery System Size
+                              produce finish devices meeting design requirements
+ Profile (Visual and                                                                      Pass
+                              for dimensions and the DS surface is free from
+ Dimensional verification)
+                              defects.
+                              Verification that the bonds and tubing of the DS meet
+ Bond Strength                the strength specification when subjected to tensile        Pass
+                              testing.
+                              This test verifies the DS is resistant to kinks when
+ Delivery System Kink
+                              subjected anatomical curvature expected in a clinical       Pass
+ Resistance
+                              scenario.
+ Load and Re-sheath           This test verifies when the Portico valve is loaded or
+ Forces                       re-sheathed into the FlexNav™ DS it meets the               Pass
+                              product force requirements.
+                              Verification that the DS handle components
+                              (deployment lock button, deployment re-sheath
+ Handle Function                                                                          Pass
+                              wheel, macro slide release button and micro
+                              adjustment wheel) function as intended.
+                              Verification that the DS and radiopaque features (tip
+ Radiopaque Feature and
+                              and inner member marker band) are visible under             Pass
+ Delivery System Visibility
+                              fluoroscopy.
+ Deployment Accuracy          Verification that the DS can consistently deploy the
+                                                                                          Pass
+                              Portico valve accurately.
+                              Verification that the DS is compatible to pass a
+ Guidewire Compatibility                                                                  Pass
+                              0.035” guidewire.
+ Hydrophilic                  Verification that the integrity and effectiveness of the
+                                                                                          Pass
+ effectiveness/Integrity      hydrophilic coating on the DS is maintained.
+
+3. Sterilization
+
+The Portico valve is sterilized using a multi-component liquid sterilant (MCS), a mixture
+of ethanol, glutaraldehyde, and formaldehyde. Following sterilization, the valves are
+aseptically transferred from the sterilization container to the final jar. The validated
+aseptic transfer MCS sterilization process has demonstrated a Sterility Assurance Levels
+(SAL) of 10-6, following ISO 14160 requirements.
+
+The FlexNav DS and LS are sterilized via Ethylene Oxide (EtO) in accordance with
+ISO 11135 - Sterilization of health-care products - Ethylene oxide - Requirements for
+the development, validation and routine control of a sterilization process for medical
+devices. The validated EtO sterilization process has demonstrated Sterility Assurance
+Levels (SAL) of 10-6.
+            4. Packaging and Shelf Life
+
+            The device components which make up the Portico System are all packaged separately.
+            The Portico valve is stored in a jar filled with sterile 0.5% formaldehyde storage solution
+            which is tightly sealed with an integrated gasket lid to form the primary sterile barrier.
+            The jar is contained within the inner packaging assembly which is contained within a
+            shelf carton to complete the protective packaging system for the Portico valve. Non-
+            clinical testing on Portico valves that were real time aged for three years following
+            sterilization demonstrated the packaging integrity and valve performance are maintained
+            following ISO 11607 (as applicable). Therefore, shelf life has been established at 3
+            years for the Portico valve.
+
+            The FlexNav DS is placed in a retainer tray to hold the DS in place. The retainer tray is
+            covered with a formed cover lid and placed inside a pouch. The pouch is sealed to form
+            the primary sterile barrier and is then placed in a shelf carton. The FlexNav LS is placed
+            into a tray that is sealed with a Tyvek lid. Non-clinical testing of FlexNav DS/LS and
+            related packaging, conducted on test articles accelerated aged for two years following
+            sterilization, demonstrated that the FlexNav DS and LS performance and packaging
+            integrity, in accordance with ISO 11607, are maintained. Therefore, shelf life has been
+            established at 2 years for the FlexNav DS and LS.
+
+            B. Animal Studies
+
+            Four animal studies were performed in support of the safety and performance of the
+            Portico System (i.e., Portico valve, FlexNav DS, and FlexNav LS) and according to ISO
+            5840 parts 1 & 3 product standard. One of the four studies was conducted to specifically
+            evaluate the chronic in vivo safety and performance of the Portico valve in a domestic
+            sheep model. The other three studies were conducted to evaluate the performance of
+            FlexNav DS and the deployment/in vivo performance of the Portico valve using an acute
+            in vivo porcine model. These studies are summarized in Table 10.
+
+    Table 10: Portico Valve and FlexNav DS and LS Overview of Acute and Chronic Animal Studies
+                                                                    Acute GLP           Acute non-GLP
+   Study        Chronic GLP Animal-       Acute GLP Animal           Animal -              Animal -
+Information      Portico Valve Study      - FlexNav DS Study     Subclavian Access     Transaortic Access
+                                                                       Study                 Study
+                                          FlexNav DS (Small
+Device                                                           Portico 18F DS and   Portico 18F DS and
+               Portico valve              and Large Sizes) and
+Evaluated                                                        Portico valve        Portico valve
+                                          Portico valve
+Animal
+               Domestic Sheep             Domestic swine         Domestic swine       Domestic swine
+Model
+    Table 10: Portico Valve and FlexNav DS and LS Overview of Acute and Chronic Animal Studies
+                                                                     Acute GLP             Acute non-GLP
+   Study       Chronic GLP Animal-        Acute GLP Animal             Animal -                Animal -
+Information     Portico Valve Study       - FlexNav DS Study     Subclavian Access       Transaortic Access
+                                                                        Study                   Study
+Methods        Implant the Portico valve Delivery                Delivery               Delivery performance
+               (N=8) and control valves performance of the       performance of the     of the Portico DS
+               (N=3, commercially         FlexNav DS (N=6)       Portico DS (18F,       (N=2) was conducted
+               available surgical valves) was conducted using    N=7; 19F, N=6)         using trans-aortic
+               into the native aortic     the transfemoral       was conducted          access in a domestic
+               valve in a domestic        approach in a          using subclavian       swine model.
+               sheep model. An aortic     domestic swine         access in a domestic
+               band was placed around     model.                 swine model.
+               the aorta to simulate
+               aortic stenosis.
+Duration       Chronic 140 days           Acute (<24 hours)      Acute (<24 hours)      Acute (<24 hours)
+Objective     • Evaluate the chronic in- • Evaluate the acute    • Evaluate the         • Evaluate the acute
+                vivo safety of the TAVI     in-vivo safety of      acute in-vivo          in-vivo safety of
+                device with respect to      the FlexNav DS         safety of the          the Portico DS
+                the following items:        and Portico valve      Portico DS             deploying the
+                 o hemodynamic              in terms of the        deploying the          Portico valve by
+                     performance,           following:             Portico valve by       transaortic access
+                 o biostability,             o DS                  subclavian             by the following
+                 o calcification,               performance        access by the          endpoints:
+                 o morbidity/                   and valve          following               o DS
+                     mortality,                 deployment         endpoints:                performance
+                 o valve migration,          o In-vivo             o DS                      and valve
+                 o pathological                 hemodynamic          performance             deployment
+                     analysis.                  performance          and valve             o In-vivo
+                                                of the Portico       deployment              hemodynamic
+                                                valve              o In-vivo                 performance of
+                                             o Pathological          hemodynamic             the Portico
+                                                analysis             performance             valve
+                                                                     of the Portico        o Pathological
+                                                                     valve                   analysis.
+                                                                   o Pathological
+                                                                     analysis
+    Table 10: Portico Valve and FlexNav DS and LS Overview of Acute and Chronic Animal Studies
+                                                                         Acute GLP            Acute non-GLP
+   Study      Chronic GLP Animal-         Acute GLP Animal                Animal -                 Animal -
+Information    Portico Valve Study        - FlexNav DS Study         Subclavian Access      Transaortic Access
+                                                                            Study                    Study
+Results       The chronic animal study    The acute animal          The acute animal       The acute animal
+              demonstrated the Portico    study demonstrated        study demonstrated     study demonstrated
+              valve performed as          the FlexNav DS            the Portico DS         the Portico DS
+              expected by meeting all     performed as              performed as           performed as
+              study endpoints listed      expected by meeting       expected by            expected by meeting
+              below:                      all study endpoints       meeting all study      all study endpoints
+                • The Portico valve       listed below:             endpoints listed       listed below:
+                  demonstrated             • successfully           below:                  • successfully
+                  acceptable                   deploying the         • successfully             deploying the
+                  hemodynamic                  Portico valve in         deploying the           Portico valve in
+                  performance and              all six animals          Portico valve in        all animals
+                  migration resistance     • Acceptable                 all animals         • Acceptable device
+                  when compared to             device                • Acceptable               trackability,
+                  the control valve.           trackability,            device                  handling and
+                • There were no                handling and             trackability,           functional
+                  significant variances        functional               handling and            performance of
+                  between the Portico          performance of           functional              the DS,
+                  valve and control            the DS,                  performance of      • Acceptable
+                  group with regards to    • Acceptable                 the DS,                 hemodynamic
+                  clinical pathology           hemodynamic           • Acceptable               performance of
+                  parameters.                  performance of           hemodynamic             the Portico valve,
+                • The overall                  the Portico valve,       performance of      • Acceptable target
+                  morphologic findings     • Acceptable target          the Portico             organ pathology
+                  of this study                organ pathology          valve,                  and no device
+                  demonstrated a               and no device         • Acceptable               related thrombus.
+                  satisfactory tissue          related thrombus.        target organ
+                  healing response and                                  pathology and
+                  acceptable                                            no device
+                  biocompatibility of                                   related
+                  the Portico valve.                                    thrombus.
+
+Conclusion    The Portico valve           The FlexNav DS            This acute study       This acute study met
+              demonstrated acceptable     demonstrated the          met the study          the study endpoints
+              hemodynamic                 delivery systems          endpoints and          and supports safe use
+              performance with            provides safe and         supports safe use of   of the Portico DS to
+              satisfactory healing        effective deployment      the Portico DS to      deploy a valve using
+              response. The Portico       of the Portico valve      deploy a valve         the transaortic access
+              valve was determined to     within the aortic         using the              site.
+              be safe for clinical use.   annulus and was           subclavian access
+                                          determined to be safe     site.
+                                          for clinical use.
+X.       SUMMARY OF PRIMARY CLINICAL STUDIES
+
+         The applicant performed a clinical study, the PORTICO randomized controlled trial (RCT),
+         to establish a reasonable assurance of safety and effectiveness of transcatheter aortic valve
+         implantation with the Portico Transcatheter Aortic Valve Implantation System in patients
+         with symptomatic severe native aortic stenosis who are considered high or greater surgical
+         risk in the United States and Australia under IDE # G120263.
+
+         The FlexNav Delivery System represents a design modification to the first-generation
+         Portico Delivery System to improve the ease of use, reduce the occurrence of major vascular
+         complications, and improve procedural safety outcomes observed in the RCT. The FlexNav
+         Delivery System was evaluated in a non-randomized FlexNav DS Study arm added to the
+         PORTICO study following completion of enrollment in the RCT cohort. The PORTICO
+         FlexNav DS Study and a parallel study being conducted outside the U.S. (OUS) under a
+         similar protocol, called the FlexNav EU CE Mark Study (NCT03724812), were combined to
+         make two cohorts to supplement PORTICO RCT for the PMA approval decision: FlexNav
+         PMA Analysis Cohort and FlexNav Global Cohort.
+
+         The FlexNav PMA Analysis Cohort was a prospective study group consisting of a subset of
+         subjects from the PORTICO FlexNav DS Study and the FlexNav EU CE Mark Study. This
+         cohort excludes roll-in subjects, continued access enrollees, and those enrolled after
+         submission of the marketing application to FDA.
+
+         The Global FlexNav Cohort consists of all patients in the PORTICO FlexNav DS Study and
+         the FlexNav EU CE Mark Study plus those enrolled after submission of the marketing
+         application to FDA. The results of the Global FlexNav Cohort represent the totality of pre-
+         market evidence on the FlexNav DS while the FlexNav PMA Analysis Cohort represents a
+         subset of this evidence.
+
+         Table 11 captures the major characteristics of the primary RCT and supplemental studies.
+         Figure 4 illustrates the relationship of the FlexNav DS studies and the composition of the
+         supplemental FlexNav cohorts.
+
+                                      Table 11: Summary of Clinical Studies
+
+          Study/Cohort                  N       Device        Geographies         Design and Endpoints
+                                              Portico Valve                       Prospective Randomized (1:1)
+PORTICO RCT (ITT)                               vs. CAV                      Primary Safety: Non-inferiority of a 5-
+ • Portico Arm (n=381)                  750                     US, AUS         component composite2 at 30 days.
+ • Control Arm (n=369)                          Portico 1st                 Primary Effectiveness: Non-inferiority of
+                                              Generation DS                    a 2-component composite3 at 1 year.
+FlexNav PMA Analysis Cohort                   Portico Valve                         Prospective Single Arm
+  • PORTICO FlexNav DS Analysis         100                   US, AUS, EU       Primary Safety: Major vascular
+    Cohort (n=81)                               FlexNav
+                                                 DS/LS                           complication rate at 30 days.
+  • FlexNav EU CE Mark Study (n=19)
+                                              Portico Valve                        Observational Single Arm
+Global FlexNav Cohort1
+  • FlexNav Roll-ins (n=34)             193     FlexNav       US, AUS, EU      There were no prespecified primary
+  • PORTICO FlexNav DS Analysis                  DS/LS                         endpoints for this aggregate Global
+
+     PMA P190023: FDA Summary of Safety and Effectiveness Data                                           Page 15
+     Cohort (n=100)                                                                            FlexNav cohort, however key PORTICO
+   • FlexNav Continued Access Study                                                            RCT and FlexNav Study endpoints were
+     (n=13)                                                                                           summarized descriptively.
+   • FlexNav EU CE Mark Study (n=46)
+1 The Global FlexNav Cohort is inclusive of the patients in the FlexNav PMA Analysis Cohort, including 81 patients in the FlexNav
+
+IDE Analysis cohort and 19 patients in the FlexNav EU CE Mark Study
+2 The 5 components of the safety composite endpoint were all-cause mortality, disabling stroke, Acute Kidney Injury stage 3 requiring
+
+dialysis, life-threatening bleed requiring a transfusion and major vascular complications at 30 days.
+3 The 2 components of the effectiveness composite endpoint were all-cause mortality and disabling stroke at 1 year.
+
+CAV = Commercially Available Valves, i.e. control group in RCT
+
+
+                              Figure 4: Supplemental FlexNav Studies & Cohorts
+
+
+
+
+          A summary of the primary clinical study, PORTICO RCT, is presented below. Summaries
+          of the supplemental clinical cohorts to evaluate the safety and performance of the FlexNav
+          Delivery System design iteration (i.e., FlexNav PMA Analysis Cohort and Global FlexNav
+          Cohort) are presented in Section XI. Data from the PORTICO RCT, in conjunction with
+          supplemental data from the FlexNav PMA Analysis Cohort and Global FlexNav Cohort,
+          were the basis for the PMA approval decision.
+
+          A. Study Design
+
+               Patients in the PORTICO RCT study were enrolled between May 30, 2014 and October
+               10, 2017. The database for this PMA reflected data collected through July 31, 2019 and
+               included 750 randomized patients enrolled at 52 investigational sites in the United States
+               and Australia.
+
+         The study was a prospective, multicenter, randomized controlled, open label non-
+         inferiority trial designed to evaluate the safety and effectiveness of the Portico
+   PMA P190023: FDA Summary of Safety and Effectiveness Data                                Page 16
+        Transcatheter Aortic Valve System for transcatheter aortic valve implantation (TAVI) via
+        transfemoral, subclavian/axillary, or transaortic delivery for treatment of patients with
+        symptomatic severe native aortic stenosis who are considered to be high or extreme
+        surgical risk. All Portico valve implants in the PORTICO RCT were delivered with the
+        Portico first-generation delivery system.
+
+        The control group was any FDA-approved and commercially available TAVI System for
+        the treatment of severe symptomatic aortic stenosis in a high or extreme surgical risk
+        patient population. The following commercially available TAVI Systems were used in
+        the control group, referred to hereafter as “CAV” (Commercially Available Valves):
+        SAPIEN, SAPIEN XT, SAPIEN 3, CoreValve, CoreValve Evolut R, and CoreValve
+        Evolut PRO.
+
+        All patients were reviewed by an independent Subject Selection Committee (SSC) to
+        confirm study eligibility and access route suitability. An independent Clinical Events
+        Committee (CEC) adjudicated all primary endpoint clinical events according to Valve
+        Academic Research Consortium (VARC)-2 criteria. Independent core laboratories
+        assessed all echocardiographic and CT imaging data.
+
+        Patients were randomized in a 1:1 ratio to receive a Portico valve or CAV. Permuted
+        block randomization was used and stratified by: (1) clinical investigational site, (2)
+        surgical risk cohort (high vs extreme; as determined by the subject selection committee
+        (SSC)), and (3) vascular access method (transfemoral or alternative access). Treatment
+        assignment was not masked to the investigational site, implanting physician or study
+        participant.
+
+        The analysis plan to demonstrate non-inferiority of the Portico Transcatheter Aortic
+        Valve System compared to CAV in the safety and effectiveness endpoints was based on
+        Kaplan-Meier estimates at the analysis timepoint and standard errors. Assuming 80%
+        high risk and 20% extreme risk patients, and estimated event rates (in both Portico valve
+        and CAV groups) of 30.81% for the primary safety endpoint at 30 days and 25.0% for
+        the primary effectiveness endpoint at 1 year, 750 randomized patients were required to
+        demonstrate non-inferiority with margins of 8.5% and 8.0% respectively.
+
+        A subset of consecutive randomized patients was enrolled in a computed tomography
+        (CT) sub-study to investigate the prevalence of reduced leaflet motion (RLM). For these
+        patients with interpretable 4D-CT, leaflet motion and Hypoattenuated Leaflet Thickening
+        (HALT) were assessed by a CT core laboratory.
+
+        1. Clinical Inclusion and Exclusion Criteria
+
+        Inclusion Criteria
+
+        Enrollment in the PORTICO RCT was limited to patients who met the following
+        inclusion criteria:
+
+         • Patients must have co-morbidities such that the surgeon and cardiologist Co-
+PMA P190023: FDA Summary of Safety and Effectiveness Data                           Page 17
+               Investigators concur that the predicted risk of operative mortality is ≥15% or a
+               minimum STS score of 8%. A candidate who does not meet the STS score criteria
+               of ≥ 8% can be included in the study if a peer review by at least two surgeons
+               concludes and documents that the patient’s predicted risk of operative mortality is
+               ≥15%. The surgeon's assessment of operative comorbidities not captured by the
+               STS score must be documented in the study case report form as well as in the
+               patient medical record.
+           •   Subject is 21 years of age or older at the time of consent.
+           •   Subject has senile degenerative aortic valve stenosis with echocardiographically
+               derived criteria: mean gradient >40 mmHg or jet velocity greater than 4.0 m/s or
+               Doppler Velocity Index <0.25 and an initial aortic valve area (AVA) of ≤ 1.0 cm2
+               (indexed EOA ≤ 0.6 cm2/m2). (Qualifying AVA baseline measurement must be
+               within 60 days prior to informed consent).
+           •   Subject has symptomatic aortic stenosis as demonstrated by NYHA Functional
+               Classification of II, III, or IV.
+           •   The subject has been informed of the nature of the study, agrees to its provisions
+               and has provided written informed consent as approved by the Institutional
+               Review Board (IRB) of the respective clinical site.
+           •   The subject and the treating physician agree that the subject will return for all
+               required post-procedure follow-up visits.
+           •   Subject’s aortic annulus is 19-27mm diameter as measured by CT conducted
+               within 12 months prior to informed consent. Note: if CT is contraindicated
+               and/or not possible to be obtained for certain patients, a 3D echo and non-contrast
+               CT of chest and abdomen/pelvis may be accepted if approved by the subject
+               selection committee.
+
+           For a subject to be considered an Extreme Risk candidate they must meet # 2, 3, 4, 5,
+           6, 7 of the above criteria, and:
+
+           •   The subject, after formal consults by a cardiologist and two cardiovascular
+               surgeons agree that medical factors preclude operation, based on a conclusion that
+               the probability of death or serious, irreversible morbidity exceeds the probability
+               of meaningful improvement. Specifically, the probability of death or serious,
+               irreversible morbidity should exceed 50%. The surgeons' consult notes shall
+               specify the medical or anatomic factors leading to that conclusion and include a
+               printout of the calculation of the STS score to additionally identify the risks in
+               these patients.
+
+         Exclusion Criteria
+
+         Patients were not permitted to enroll in the PORTICO study if they met any of the
+         following exclusion criteria:
+
+           • Evidence of an acute myocardial infarction (defined as: ST Segment Elevation as
+             evidenced on 12 Lead ECG) within 30 days prior to index procedure.
+         • Aortic valve is a congenital unicuspid or congenital bicuspid valve or is non-
+PMA P190023: FDA Summary of Safety and Effectiveness Data                             Page 18
+             calcified as verified by echocardiography.
+         • Mixed aortic valve disease (aortic stenosis and aortic regurgitation with
+             predominant aortic regurgitation 3-4+).
+         • Any percutaneous coronary or peripheral interventional procedure performed
+             within 30 days prior to index procedure.
+         • Pre-existing prosthetic heart valve or other implant in any valve position,
+             prosthetic ring, severe circumferential mitral annular calcification (MAC) which
+             is continuous with calcium in the LVOT, severe (greater than 3+) mitral
+             insufficiency, or severe mitral stenosis with pulmonary compromise. Patients with
+             pre-existing surgical bioprosthetic aortic heart valve should be considered for the
+             Valve-in-Valve registry.
+         • Blood dyscrasias as defined: leukopenia (WBC<3000 mm3), acute anemia (Hb <
+             9 g/dL), thrombocytopenia (platelet count <50,000 cells/mm³).
+         • History of bleeding diathesis or coagulopathy.
+         • Cardiogenic shock manifested by low cardiac output, vasopressor dependence, or
+             mechanical hemodynamic support.
+         • Untreated clinically significant coronary artery disease requiring
+             revascularization.
+         • Hemodynamic instability requiring inotropic support or mechanical heart
+             assistance.
+         • Need for emergency surgery for any reason.
+         • Hypertrophic cardiomyopathy with or without obstruction (HOCM).
+         • Severe ventricular dysfunction with LVEF <20% as measured by resting
+             echocardiogram.
+         • Echocardiographic evidence of intracardiac mass, thrombus or vegetation.
+         • Active peptic ulcer or upper GI bleeding within 3 months prior to index
+             procedure.
+         • A known hypersensitivity or contraindication to aspirin, heparin, ticlopidine
+             (Ticlid), or clopidogrel (Plavix), or sensitivity to contrast media which cannot be
+             adequately premedicated.
+         • Recent (within 6 months prior to index procedure date) cerebrovascular accident
+             (CVA) or a transient ischemic attack (TIA).
+         • Renal insufficiency (creatinine > 3.0 mg/dL) and/or end stage renal disease
+             requiring chronic dialysis.
+         • Life expectancy < 12 months from the time of informed consent due to non-
+             cardiac co-morbid conditions.
+         • Significant aortic disease, including abdominal aortic or thoracic aneurysm
+             defined as maximal luminal diameter 5cm or greater; marked tortuosity
+             (hyperacute bend), aortic arch atheroma (especially if thick [> 5 mm], protruding
+             or ulcerated) or narrowing (especially with calcification and surface irregularities)
+             of the abdominal or thoracic aorta, severe “unfolding” and tortuosity of the
+             thoracic aorta (applicable for transfemoral patients only).
+         • Native aortic annulus size < 19 mm or > 27 mm per the baseline diagnostic
+             imaging.
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                Page 19
+           •   Aortic root angulation > 70° (applicable for transfemoral patients only).
+           •   Currently participating in an investigational drug or device study.
+           •   Active bacterial endocarditis within 6 months prior to the index procedure.
+           •   Bulky calcified aortic valve leaflets in close proximity to coronary ostia.
+           •   Non-calcified aortic annulus
+           •   Iliofemoral vessel characteristics that would preclude safe placement of the
+               introducer sheath such as severe obstructive calcification, or severe tortuosity
+               (applicable for transfemoral patients only).
+
+         Additional Exclusion Criteria (Transcatheter Access-Related)
+
+         For selection of an appropriate alternative access delivery method, patients were
+         screened using the following transaortic access specific exclusion criteria:
+
+           •   Subject has pre-existing patent right internal mammary arterial (RIMA) graft that
+               would preclude access.
+           •   Subject has a hostile chest or other condition that complicates transaortic access.
+           •   Subject has a porcelain aorta, defined as an extensive circumferential calcification
+               of the ascending aorta that would complicate transaortic access.
+
+         Subclavian/Axillary Subject Cohort Specific Exclusion Criteria
+
+           •    Subject’s access vessel (subclavian/axillary) diameter will not allow for
+                introduction of the applicable 18 Fr or 19 Fr delivery system.
+           •    Subject’s subclavian/axillary arteries have severe calcification and/or tortuosity.
+           •    Subject’s aortic root angulation is:
+                   o Left Subclavian/Left Axillary: >70◦
+                   o Right Subclavian/Right Axillary: >30◦
+           •   Subject has a history of patent LIMA/RIMA graft that would preclude access
+
+        2. Follow-up Schedule
+
+           All patients were scheduled to return for follow-up examinations at discharge, 30
+           days, 6 months, 12 months, and then annually for 5 years post-procedure. For patients
+           who were unable to attend an in-person follow-up visit at 12 months, a vital status
+           phone call to determine survival and any new adverse events within 12 months was
+           permitted. RCT patients who did not receive a study valve were followed for 12
+           months and then allowed to withdraw.
+
+           Preoperatively, patients were screened by a local Heart team to confirm they met
+           study eligibility criteria including CT and echocardiographic imaging assessments to
+           assess severity of aortic stenosis and confirm transcatheter vascular access route
+           suitability. Baseline assessments included laboratory tests, quality of life surveys,
+           functional and cognitive tests, and neurological assessments.
+
+         Postoperatively, the objective parameters measured during the study included New
+PMA P190023: FDA Summary of Safety and Effectiveness Data                           Page 20
+            York Heart Association (NYHA) functional classification, neurological assessments,
+            transthoracic echocardiogram (TTE) evaluation and quality of life surveys. Adverse
+            events and complications were recorded at all visits.
+
+            The key timepoints are shown below in the tables summarizing safety and
+            effectiveness.
+
+        3. Clinical Endpoints
+
+            Primary Safety Endpoint:
+            The primary safety endpoint was a non-hierarchical composite of all-cause mortality,
+            disabling stroke, life threatening bleeding requiring blood transfusion, acute kidney
+            injury requiring dialysis, or major vascular complications at 30 days. The primary
+            hypothesis was as follows:
+
+                                              H0: λtest ≥ λcontrol + Δp1
+                                              Ha: λtest < λcontrol + Δp1
+
+            where λtest is the probability of a subject experiencing a primary safety endpoint event
+            by 30 days in the Portico valve (test) group, λcontrol is the probability of a subject
+            experiencing a primary safety endpoint event in the CAV (control) group, and Δp1 is
+            the non-inferiority margin for the primary safety endpoint pre-defined as 8.5%.
+
+            The hypothesis test was a non-inferiority test performed in the Intention-to-Treat
+            (ITT) population by calculating a 95% one-sided upper confidence limit for the
+            difference of (λtest - λcontrol), using Kaplan-Meier estimates for the event rates and
+            standard errors. If the upper confidence limit for the difference was less than 8.5%,
+            the Portico valve group was determined to be non-inferior to the CAV group. The
+            endpoint was also analyzed for the As-Treated (AT) and Per Protocol (PP)
+            populations.
+
+            Primary Effectiveness Endpoint:
+            The primary effectiveness endpoint was a composite of all-cause mortality or
+            disabling stroke assessed at 1 year. The primary hypothesis was as follows:
+
+                                              Ho: ptest > pcontrol + Δp2
+                                              Ha: ptest < pcontrol + Δp2
+
+            where ptest is the probability of a subject experiencing a primary effectiveness
+            endpoint event by 1 year in the Portico valve (test) group, pcontrol is the probability of
+            a subject experiencing a primary effectiveness endpoint event by 1 year in the CAV
+            (control) group, and Δp2 is the non-inferiority margin for the primary effectiveness
+            endpoint pre-defined as 8.0%.
+
+         The hypothesis test was a non-inferiority test performed in the ITT population by
+         calculating the 95% one-sided upper confidence limit for the difference of (ptest -
+         pcontrol), using Kaplan-Meier estimates for the event rates and standard errors. If the
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                Page 21
+           upper confidence limit for the difference was less than 8.0%, the Portico valve group
+           was determined to be non-inferior to the CAV group. The endpoint was also analyzed
+           for the AT and PP populations.
+
+           Secondary Endpoints:
+           Four pre-specified secondary endpoints were tested in a hierarchical testing scheme
+           (as shown in Table 12 below). Non-inferiority tests were performed in the ITT
+           population for each secondary endpoint. To claim non-inferiority, both secondary
+           endpoints tested per group must be within the pre-specified non-inferiority margins.
+
+                                           Table 12: Secondary Endpoints
+                                                                                          Non-inferiority
+       Group               Secondary Endpoint            Alternative Hypothesis Test
+                                                                                             Margin
+                  Severe aortic regurgitation (AR) at
+       1                                                Ha: θtest,1 < θcontrol,1 + 0.04        4%
+                  1 year1
+       1          KCCQ Overall Score at 1 year2         Ha: θtest,2 > θcontrol,2 – 10        10 points
+                  Moderate or severe aortic
+       2                                                Ha: θtest,3 < θcontrol,3 + 0.06        6%
+                  regurgitation at 1 year1
+       2          6-minute walk at 1 year2              Ha: θtest,4 > θcontrol,4 – 36          36m
+       1 based on the Farrington-Manning method
+       2 based on a two-sample t-test
+
+
+
+
+           Descriptive Endpoints:
+           Descriptive endpoints including acute device success, quality of life, NYHA
+           functional classification, valve hemodynamics, and clinical outcomes were assessed
+           at 30 days, 6 months, and 12 months post index procedure, unless otherwise
+           specified. All descriptive endpoints were summarized using descriptive statistics.
+
+           •    Acute device success defined as:
+                   o Absence of procedural mortality AND
+                   o Correct positioning of a single prosthetic heart valve into the proper
+                        anatomical location AND
+                   o Intended performance of the prosthetic heart valve (mean aortic valve
+                        gradient <20 mmHg or peak velocity <3 m/s, no moderate or severe
+                        prosthetic valve regurgitation) AND
+                   o Successful access was obtained as intended by group assignment
+           •    Kansas City Cardiomyopathy Questionnaire (KCCQ) at 1 year
+           •    Major vascular complications at 30 days
+           •    NYHA functional classification at 30 days, 6 months, and 1 year
+           •    Six-minute walk test at 30 days, 6 months, and 1 year
+           •    Paravalvular Leak (PVL) at 30 days, 6 months, and 1 year
+           •    Aortic insufficiency greater than trace at 30 days, 6 months, 1 year, and 2 years
+           •    Reintervention to treat aortic insufficiency at 1 year and 2 years
+           •    Permanent pacemaker insertion at 30 days
+           •    Major bleeding at 30 days
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                      Page 22
+           •   Acute kidney injury at 30 days
+           •   Individual components of the primary effectiveness endpoint
+                   o All-cause mortality at 30 days, 6 months, 1 year and 2 years
+                   o Disabling stroke at 30 days, 6 months, 1year and 2 years
+           •   Non-disabling Stroke and Transient Ischemic Attack (TIA) at 30 days, 6 months,
+               1 year, and 2 years
+           •   Atrial fibrillation at 1 year and 2 years
+           •   Quality of Life (QOL) from baseline to 30 days, 6 months and 1 year
+
+    B. Accountability of PORTICO RCT Cohort
+
+       At the time of database lock, a total of 750 patients were randomized in the study,
+       including 381 Portico valve patients and 369 CAV patients.
+
+       There were four different analysis populations defined in the protocol: Intention-to-treat
+       (ITT), As-Treated (AT), Modified As-Treated (mod AT), and Per Protocol (PP), as
+       summarized in Table 13 and Figure 5 below. The primary analysis was based on the ITT
+       population, with the date of randomization considered Day 0.
+
+                 Table 13: Summary of Analysis Populations and Patient Accountability
+                                                                                           Cohort
+            Analysis                                                                  Portico
+                                                 Definition                                    CAV
+           Populations                                                                 valve
+                                                                                                (N)
+                                                                                        (N)
+        Intention-to-     All randomized patients, with the date of randomization
+        Treat (ITT;       considered Day 0                                             381     369
+        primary)
+
+        As-Treated (AT) All randomized patients in whom treatment was initiated
+                        (defined as entering the procedure room), with date of         375     362
+                        the index procedure considered Day 0.
+                          All randomized patients who were successfully treated
+        Per protocol      with the assigned valve implant and had no deviation for
+                                                                                       350     348
+        (PP)              inclusion/exclusion in the study, with date of the index
+                          procedure considered Day 0
+                          All randomized patients who were implanted with one
+                          or more valves per the assigned treatment (Portico valve
+        Modified As-
+                          or CAV) at the time of the index procedure. Patients that
+        Treated (mod                                                                   366     361
+                          died during procedure, were converted to surgery or
+        AT)
+                          received a valve different than assigned were excluded.
+                          Date of the index procedure considered Day 0
+
+
+
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                    Page 23
+                                                      Figure 5: Population Flowchart
+
+                                                                 All Randomized
+                                                                      N=750
+
+
+
+
+                           ITT PORTICO                                                              ITT CAV
+                               N=381                                                                 N=369
+
+
+                                         6 Excluded Prior to Procedure                                         7 Excluded Prior to Procedure
+                                          3 Did not meet eligibility criteria                                   3 Withdrew informed consent
+                                          2 Withdrew informed consent                                           2 Died before procedure
+                                          1 Investigator decision                                               1 Did not meet eligibility criteria
+                                                                                                                1 Investigator decision
+
+
+                            AT PORTICO                                                               AT CAV
+                               N=375                                                                  N=362
+
+
+
+                                        9 Not treated with Portico valve                                        1 Not treated with CAV
+                                         5 Implanted with a CAV                                                  1 Converted to SAVR
+                                         2 Died during implant procedure
+                                         1 Converted to SAVR
+                                         1 Unable to gain access, no TAVI
+
+
+
+                        Modified AT PORTICO                                                        Modified AT CAV
+                                 N=366                                                                   N=361
+                (Left the procedure with a functioning                                (Left the procedure with functioning CAV
+                      Portico valve in the annulus)                                                 in the annulus)
+
+
+
+
+              Of the 750 randomized patients, 82.3% were alive and available for follow-up (i.e. not
+              withdrawn) at the 12-month post-operative visit. The overall disposition of the patients
+              and compliance for each follow-up visit is presented by group in Table 14.
+
+                                Table 14: Overall Disposition and Study Compliance
+                                                                          Study Exits                                        Follow-up
+                   Visit        Completed Expected        Missed
+  Group                                                                                                                     Compliance
+                 Interval         Visits     Visits1       Visits     Death    Withdrawal2
+                                                                                                                                 %
+            Baseline                 381                 381                     0      N/A               N/A                 100.0%
+Portico     Procedure                375                 375                     0       0                 6                  100.0%
+Valve       Discharge                368                 369                     1       6                 0                   99.7%
+(Intention- 30 Days                  346                 356                     10      13                1                   97.2%
+to-Treat)   6 Months                 307                 330                     23      19                7                   93.0%
+            12 Months3               302                 308                     6       18                4                   98.1%
+            Baseline                 369                 369                    N/A     N/A               N/A                 100.0%
+CAV         Procedure                362                 362                     0       2                 5                  100.0%
+(Intention- Discharge                360                 360                     0       2                 0                  100.0%
+to-Treat) 30 Days                    347                 356                     9       4                 0                   97.5%
+            6 Months                 314                 334                     20      19                3                   94.0%
+  PMA P190023: FDA Summary of Safety and Effectiveness Data                                                                     Page 24
+                12 Months3           301               309             8              18             7        97.4%
+1 Expected = Completed + Missed
+2 Withdrawals include subject withdrawals, investigator withdrawals and lost to follow-up.
+3 12 Month visits include visits completed by phone.
+
+
+
+
+         C. Study Population Demographics and Baseline Parameters
+
+              The baseline demographics of the study population are typical for a TAVI study
+              performed in the United States and are summarized in Table 15. The treatment cohorts
+              were generally well balanced with respect to age, gender, baseline NYHA classification,
+              and STS risk score.
+
+                  Table 15: Study Population Demographics and Baseline Parameters (ITT population)
+                                                                                        Portico valve        CAV
+                                                                                          (N=381)           (N=369)
+           Demographics
+           Age, mean (SD), y                                                                83.0 (7.6)     83.7 (7.0)
+           Female                                                                          198 (52.0%)    197 (53.4%)
+           NYHA functional class
+             NYHA II                                                                       109 (28.6%)    100 (27.1%)
+             NYHA III                                                                      229 (60.1%)    234 (63.4%)
+             NYHA IV                                                                       43 (11.3%)      35 (9.5%)
+           STS PROM Score1, %
+             Mean (SD)                                                                       6.4 (3.4)      6.6 (3.4)
+             STS <4%                                                                       102 (26.8%)    88 (23.8%)
+             STS 4-7.9%                                                                    182 (47.8%)    173 (46.9%)
+             STS ≥8%                                                                       97 (25.5%)     108 (29.3%)
+           EuroSCORE II, %                                                                   6.8 (7.6)      6.6 (5.8)
+           Extreme risk                                                                    70 (18.4%)     63 (17.1%)
+           High risk                                                                       311 (81.6%)    306 (82.9%)
+           Comorbidities
+           Hypertension                                                                 358 (94.0%)       331 (89.7%)
+           Diabetes mellitus                                                            143 (37.5%)       142 (38.5%)
+            Oral controlled                                                            73/143 (51.0%)    71/142 (50.0%)
+           Kidney disease                                                                96 (25.2%)        94 (25.5%)
+           Atrial fibrillation                                                          125 (32.8%)       145 (39.3%)
+           Permanent pacemaker                                                           57 (15.0%)        63 (17.1%)
+           Pre-existing RBBB                                                             56 (14.7%)        43 (11.7%)
+           Prior stroke                                                                  29 (7.6%)         49 (13.3%)
+           Prior transient ischemic attack                                               33 (8.7%)         25 (6.8%)
+           Carotid artery disease                                                      93/380 (24.5%)      82 (22.2%)
+           Coronary artery disease                                                      266 (69.8%)       256 (69.4%)
+           Prior coronary stenting                                                      108 (28.3%)       107 (29.0%)
+           Prior bypass graft surgery                                                    88 (23.1%)        76 (20.6%)
+  PMA P190023: FDA Summary of Safety and Effectiveness Data                                                  Page 25
+            Table 15: Study Population Demographics and Baseline Parameters (ITT population)
+                                                                               Portico valve           CAV
+                                                                                 (N=381)             (N=369)
+     Prior myocardial infarction                                                55 (14.4%)          43 (11.7%)
+     Peripheral vascular disease                                                72 (18.9%)          65 (17.6%)
+     Chronic lung disease                                                      158 (41.5%)         148 (40.1%)
+     Hostile chest/Prohibitive chest deformity                                  11 (2.9%)           19 (5.1%)
+     Porcelain aorta                                                            11 (2.9%)           10 (2.7%)
+     Severe liver disease                                                        4 (1.0%)            3 (0.8%)
+     Pulmonary hypertension                                                    131 (34.4%)         126 (34.1%)
+     Total frailty score (out of 4), mean (SD)                                   1.8 (0.9)           1.9 (0.8)
+     Katz index of activities of daily living, ≤4                               40 (10.5%)          41 (11.1%)
+     Grip strength, <BMI and height-based cut-off                            298/379 (78.6%)       302 (81.8%)
+     15-foot (5m) walk test ≥Height and sex-based cut-off                    268/359 (74.7%)     256/342 (74.9%)
+     Albumin < 3.5g/dl                                                        87/380 (22.9%)      93/366 (25.4%)
+     KCCQ-OS score, mean (SD)                                                55.0 (23.2) (375)   53.9 (23.7) (358)
+     EQ-5D Index score, mean (SD)                                            0.73 (0.19) (373)   0.74 (0.19) (359)
+     Six-minute walk distance, mean (SD), m                                 207.5 (116.5) (320) 208.9 (110.2) (306)
+     Echocardiographic parameters2
+     Aortic valve area, mean (SD), cm2                                          0.68 (0.17)            0.67 (0.16) (367)
+     Mean gradient, mean (SD), mm Hg                                         46.2 (11.2) (379)         45.9 (11.9) (368)
+     Ejection fraction, mean (SD), %                                         57.3 (11.5) (377)         57.4 (11.1) (367)
+     Mitral insufficiency (moderate/severe)                                   78/380 (20.5%)            83/367 (22.6%)
+     Tricuspid insufficiency (moderate/severe)                                70/380 (18.4%)            67/367 (18.3%)
+     Data are presented as n (%), mean (SD), n/N (%) or mean (SD) (n).
+     KCCQ-OS= Kansas City Cardiomyopathy Questionnaire Overall Summary. NYHA= New York Heart Association. STS
+     PROM= Society of Thoracic Surgeons predicted risk of mortality. EuroSCORE= European System for Cardiac Operative
+     Risk Evaluation. EQ-5D= EuroQol- 5 Dimension. RBBB= Right Bundle Branch Block.
+     1 Patients screened after November 15, 2018 were evaluated using risk models developed using STS data from 2011 to 2014
+
+     and validated using 2014 to 2016 data.
+     2 Site-reported echo data
+
+
+
+
+    D. Safety and Effectiveness Results
+
+       1. Primary Safety Endpoint
+
+            The composite rate of all-cause mortality, disabling stroke, life threatening bleeding
+            requiring blood transfusion, acute kidney injury requiring dialysis, or major vascular
+            complications at 30 days for the Intention-to-Treat (ITT) and As-Treated (AT)
+            populations are shown in Table 16.
+
+            The primary analysis was prespecified for the ITT population, for which Kaplan-
+            Meier analysis shows the composite rate at 30 days was 13.8% in the Portico valve
+            group and 9.6% in the CAV group. The 95% upper confidence limit of the difference
+            was 8.1% for the ITT population, which falls within the pre-specified non-inferiority
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                                     Page 26
+                       margin of 8.5%, indicating the study’s primary safety endpoint was met for the
+                       primary analysis population. A confirmatory analysis was also pre-specified using the
+                       AT population; however, the 95% upper confidence limit of the difference for the AT
+                       population was 8.9%, which was not within the pre-specified non-inferiority margin.
+                       Thus, non-inferiority of the Portico valve for the primary safety endpoint was not
+                       confirmed by the AT population.
+
+                                   Table 16: Primary Safety Endpoint Analysis (30 Days)
+                             Kaplan-Meier Estimate (SE)                                       Upper limit of the one-
+                                                                       Difference in
+                                   of Event Rate                                              sided 95% confidence
+                                                                         event rate                                             P-value
+     Analysis Set                                                                              interval of event rate
+                              Portico valve            CAV            between groups
+                                                                                                    difference1
+Intention-to-Treat            13.8% (1.8%)        9.6% (1.5%)
+                                                                             4.2%                         8.1%                    0.03
+(N=750)                         (N=381)             (N=369)
+As-Treated                    14.4% (1.8%)        9.4% (1.5%)
+                                                                             5.0%                         8.9%                    0.07
+(N=737)                         (N=375)             (N=362)
+1 Kaplan-Meier method was used to estimate the event rate (SE). If the upper limit of the one-sided 95% confidence interval for the difference
+
+of event rate (Portico – CAV) is < 8.5%, then non-inferiority is demonstrated.
+Note: Endpoint is measured from Day of Randomization for ITT and from Day of Procedure for AT.
+
+
+
+                       Event rates for individual components of the composite primary safety endpoint for
+                       the ITT and AT analysis populations are shown in Table 17, along with 95%
+                       confidence intervals. Event rates for all-cause mortality and major vascular
+                       complications are numerically higher in the Portico group (ITT: 3.5% and 9.6%,
+                       respectively) than in the CAV group (ITT: 1.9% and 6.3%, respectively).
+                       Comparison of the component event rate differences between Portico and CAV
+                       groups across the ITT population, which included all randomized subjects with
+                       follow-up beginning at randomization, and the AT population, which included all
+                       treated subjects with follow-up beginning at the index procedure, identified that the
+                       individual component event rate differences were consistent across the two
+                       populations, except for all-cause mortality. In the AT population, there were 2 fewer
+                       patient deaths in the CAV group (occurred before index procedure) and 4 more
+                       patient deaths in the Portico group (occurred after 30 days from randomization but
+                       within 30 days of index procedure). As a result, the all-cause mortality rate
+                       difference increased 1.5% from the ITT to AT population (+1.6% vs. +3.1%,
+                       respectively) in favor of the CAV group.
+
+
+
+
+      PMA P190023: FDA Summary of Safety and Effectiveness Data                                                              Page 27
+                                Table 17: Components of Primary Safety Endpoint (30 Days)
+                                                               PORTICO RCT                                   PORTICO RCT
+                                                             (Intention-to-Treat)                              (As-Treated)
+                  Component
+                                                        Portico valve        CAV                      Portico valve        CAV
+                                                           (N=381)          (N=369)                      (N=375)         (N=362)
+ All-Cause Mortality1                                   3.5% (13/375)     1.9% (7/364)                4.5% (17/374)    1.4% (5/362)
+    [95% Confidence interval]2                         [1.86%, 5.86%] [0.78%, 3.92%]                 [2.67%, 7.18%] [0.45%, 3.19%]
+ Disabling Stroke1                                      1.6% (6/375)      1.1% (4/364)                1.6% (6/374)     0.8% (3/362)
+   [95% Confidence interval]2                          [0.59%, 3.45%] [0.30%, 2.79%]                 [0.59%, 3.46%] [0.17%, 2.40%]
+ Life Threatening Bleeding Requiring
+ Blood Transfusion1                       4.5% (17/375)  3.6% (13/364)   4.8% (18/374)  3.6% (13/362)
+                                         [2.66%, 7.16%] [1.92%, 6.03%]  [2.88%, 7.50%] [1.93%, 6.06%]
+   [95% Confidence interval]2
+ Acute Kidney Injury Requiring Dialysis1 1.1% (4/375)     0.8% (3/364)    1.1% (4/374)   0.8% (3/362)
+   [95% Confidence interval]2            [0.29%, 2.71%] [0.17%, 2.39%] [0.29%, 2.72%] [0.17%, 2.40%]
+ Major Vascular Complications1           9.6% (36/375)3 6.3% (23/364)4   9.6% (36/374)  6.6% (24/362)
+                             2
+   [95% Confidence interval]            [6.81%, 13.04%] [4.05%, 9.33%] [6.83%, 13.08%] [4.29%, 9.70%]
+¹ The proportion of patients who experienced each event was calculated. The numerator for the 30-day rate is the number of patients
+  who experienced an event by 30 days (post randomization for ITT and post index procedure for AT). The denominator for each event
+  type is the number of analysis patients excluding patients that have withdrawn before 30 days without an event.
+2 By Clopper-Pearson exact confidence interval.
+3 Of the 36 major vascular complications in the Portico ITT group, 19 (5.1%) occurred at an access site (3.2% TAVI, 1.9% non-TAVI
+
+  access site), 16 (4.3%) did not occur at an access site, and 1 subject (0.3%) had multiple events (1 at the access site and 1 non-access
+  site).
+4 Of the 23 major vascular complications in the CAV ITT group, 16 (4.4%) occurred at an access site (3.0% TAVI, 1.4% non-TAVI
+
+  access site), 6 (1.6%) did not occur at an access site, and 1 subject (0.3%) had multiple events (1 at the access site and 1 non-access
+  site).
+
+               2. Primary Effectiveness Endpoint
+                  The composite rate of all-cause mortality or disabling stroke at 1 year for the
+                  Intention-to-Treat (ITT) and As-Treated (AT) populations are shown in Table 18.
+
+                    The primary analysis was pre-specified for the ITT population, for which Kaplan-
+                    Meier analysis shows the composite rate was 14.9% in the Portico valve group and
+                    13.4% in the CAV group. A confirmatory analysis was also pre-specified using the
+                    AT population. The 95% upper confidence limit for the difference was 5.7% in the
+                    ITT population and 6.2% in the AT population, which both fall within the pre-
+                    specified non-inferiority margin of 8.0%, indicating the study’s primary effectiveness
+                    endpoint was met.
+
+
+
+
+   PMA P190023: FDA Summary of Safety and Effectiveness Data                                                                Page 28
+                               Table 18: Primary Effectiveness Endpoint Analysis (1 Year)
+                              Kaplan-Meier Estimate (SE)                    Upper limit of the one-
+                                     of Event Rate          Difference in
+                                                                            sided 95% confidence
+     Analysis Set                                        event rate between                                                     P-value
+                              Portico valve     CAV                          interval of event rate
+                                                               groups
+                                (N=381)        (N=369)                            difference1
+Intention-to-Treat            14.9% (1.8%) 13.4% (1.8%)
+                                                                1.5%                 5.7%                                         0.006
+(N=750)2                        (N=381)        (N=369)
+                              15.2% (1.9%) 13.2% (1.8%)
+As-Treated (N=737)3                                             2.0%                 6.2%                                         0.010
+                                (N=375)        (N=362)
+1 Kaplan-Meier method was used to estimate the event rate (SE). If the upper limit of the one-sided 95% confidence interval for the difference
+
+of event rate (Portico – CAV) is < 8.0%, non-inferiority is demonstrated.
+2 Endpoint is measured from Day of Randomization
+3 Endpoint is measured from Day of Procedure
+
+
+
+                       Event rates for individual components of the composite primary effectiveness
+                       endpoint for the ITT and AT analysis populations are shown in Table 19 along with
+                       95% confidence intervals. The individual component event rates of Portico and CAV
+                       groups were consistent across ITT and AT populations. While the mortality rate
+                       numerically favored the CAV group at 30-days and 1-year, the difference of all-cause
+                       mortality between Portico and CAV groups at 1-year was similar to the difference at
+                       30 days (Table 17), suggesting the post-procedural mortality risk (beyond 30-days) is
+                       consistent between the Portico and CAV groups. Although the rate of disabling
+                       stroke at 30 days favored CAV (1.6% vs. 1.1%) (Table 17), the disabling stroke rate
+                       at 1 year numerically favored the Portico valve (1.6% vs. 2.9%).
+
+                               Table 19: Components of Primary Effectiveness Endpoint (1 Year)
+                                                          PORTICO RCT                                       PORTICO RCT
+                                                        (Intention-to-Treat)                                  (As-Treated)
+                Component
+                                                  Portico valve          CAV                        Portico valve          CAV
+                                                    (N=381)             (N=369)                       (N=375)            (N=362)
+  All-Cause Mortality1                           14.4% (1.8%)                 12.0% (1.7%)          14.7% (1.8%)              11.8% (1.7%)
+      [95% Confidence interval]2               [11.17%, 18.38%]             [9.05%, 15.85%]       [11.43%, 18.71%]          [8.86%, 15.63%]
+
+  Disabling Stroke1                                1.6% (0.7%)                 2.9% (0.9%)           1.6% (0.7%)              2.6% (0.9%)
+     [95% Confidence interval]2                  [0.73%, 3.58%]             [1.56%%, 5.29%]        [0.73%, 3.54%]           [1.36%, 4.94%]
+  ¹ Kaplan-Meier method was used to estimate the event rate (SE).
+  2 The 95% confidence interval was estimated using KM method with Greenwood standard error.
+
+
+
+                  3. Secondary Endpoints
+
+                       The analysis of predefined secondary endpoints in the RCT was based on the ITT
+                       analysis population of 750 randomized patients that had available data at 1 year.
+
+                       As shown in Table 20, the Portico valve group was found to be non-inferior to CAV
+                       within the pre-specified non-inferiority margins for proportion of severe aortic
+                       regurgitation and overall KCCQ score at 1 year. However, the Portico valve group
+      PMA P190023: FDA Summary of Safety and Effectiveness Data                                                              Page 29
+                    did not meet the non-inferiority criterion for proportion of moderate or severe aortic
+                    regurgitation at 1 year with respect to the CAV group. The remaining secondary
+                    endpoint (6-minute walk) in the hierarchy test was not tested.
+
+                 Table 20: Non-Inferiority Testing of Secondary Endpoints (ITT population)
+                                                                                               95% Upper or
+                                          Portico                         Difference
+ Secondary Endpoints at 1                                 CAV                                     Lower
+                                           valve                          (Portico-                                       P-value
+ year                                                    (N=369)                                Confidence
+                                         (N=381)                            CAV)
+                                                                                                  Limit
+                                           0.4%            0.0%
+Severe aortic regurgitation                                                   0.4%                  2.34%1                0.00125
+                                          (1/269)         (0/269)
+Kansas City Cardiomyopathy
+                                            75.4            75.9
+Questionnaire (KCCQ)                                                           -0.5                  -3.502               <0.00016
+                                           (274)           (283)
+Overall Score
+Moderate or severe aortic                  7.8%            1.5%
+                                                                              6.3%                  9.24%3                0.57145
+regurgitation                            (21/269)         (4/269)
+                                           235.0           231.5
+6-minute walk distance (m)                                                     3.5                  -15.364               No test6
+                                           (227)           (225)
+Note: all available data for randomized patients
+1 If the one-sided 95% upper confidence limit for the difference of proportions (Portico – CAV) is < 4%, then non-inferiority is
+
+  demonstrated.
+2 If the one-sided 95% lower confidence limit for the difference of score (Portico – CAV) is > -10, then non-inferiority is
+
+  demonstrated.
+3 If the one-sided 95% upper confidence limit for the difference of proportions (Portico – CAV is < 6%, then non-inferiority is
+
+  demonstrated.
+4 If the one-sided 95% lower confidence limit for the difference of score (Portico – CAV) is > -36m, then non-inferiority is
+
+  demonstrated.
+5 Farrington-Manning test
+6 Hypothesis testing was stopped after non-inferiority was not met for moderate or severe aortic regurgitation non-inferiority.
+
+
+
+
+               4. Additional Effectiveness Results
+
+                    Valve Hemodynamics
+
+                    Figure 6 presents mean aortic gradients and aortic valve areas at baseline through
+                    follow-up in the PORTICO RCT. Improvements in mean aortic gradients and valve
+                    areas from baseline to discharge were maintained through 30 days and through 1 year
+                    in both the Portico and CAV groups. The randomized Portico valve group reported
+                    numerically larger valve areas and smaller mean gradients compared to the
+                    randomized CAV group at 1 year.
+
+
+
+
+   PMA P190023: FDA Summary of Safety and Effectiveness Data                                                                Page 30
+                  Figure 6: Valve Hemodynamics Through 1 Year (ITT population)
+
+
+
+
+           Total Aortic Regurgitation & Paravalvular Aortic Regurgitation
+
+           Figure 7 and Figure 8 present core laboratory observed rates of total aortic
+           regurgitation and paravalvular aortic regurgitation at discharge through follow-up in
+           the PORTICO RCT, respectively. As determined in the secondary endpoint analysis,
+           clinically significant total aortic regurgitation after 1 year was lower in the CAV
+           group (1.5%) than in the Portico group (7.8%). In the Portico group, all reported
+           moderate or severe total aortic regurgitation was attributable to paravalvular
+           regurgitation. Patients treated with the Portico valve reported a three-times higher
+           rate of clinically significant paravalvular regurgitation (6.3%) compared to the
+           patients in the CAV group (2.1%) at 30 days, which persisted through 1 year (7.5%
+           vs. 1.5%, respectively).
+
+
+
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                              Page 31
+               Figure 7: Total Aortic Regurgitation Through 1 Year (ITT population)
+
+
+
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                      Page 32
+            Figure 8: Paravalvular Aortic Regurgitation Through 1 Year (ITT population)
+
+
+
+
+           Reintervention to Treat Aortic Regurgitation
+           Table 21 presents the results for reintervention to treat aortic regurgitation (defined
+           as moderate or greater paravalvular aortic regurgitation or transvalvular aortic
+           insufficiency) among subjects after the TAVI procedure (N=732).
+           A total of 9 subjects (8 Portico, 1 CAV) required reintervention to treat moderate or
+           greater paravalvular aortic regurgitation within 365 days post-index procedure; no
+           subjects reported transvalvular aortic insufficiency. Of the 8 Portico subjects that
+           required reintervention to treat aortic regurgitation, 7 underwent a TAV-in-TAV
+           procedure with a commercially available valve and 1 was implanted with an
+           Amplatzer Vascular Plug. The CAV subject that required reintervention to treat aortic
+           regurgitation underwent a balloon aortic valvuloplasty procedure.
+
+
+
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                  Page 33
+                  Table 21: Reintervention to Treat Aortic Regurgitation at 1 Year
+
+                                                           Implanted Population
+    Characteristic                                   Portico                    CAV
+                                                    (N=371)                    (N=361)
+    Reintervention for Aortic Regurgitation       2.2% (8/371)               0.3% (1/361)
+
+            NYHA Functional Classification
+
+            Figure 9 presents NYHA functional class of patients at baseline through 1 year. The
+            presentation of severe cardiac symptoms (NYHA class III or IV) was reduced from
+            71.4% at baseline to 8.4% at 1 year in Portico patients and from 72.9% at baseline to
+            8.3% at 1 year in CAV patients, which represents a similar improvement of clinically
+            significant heart failure classification in both treatment groups.
+
+    Figure 9: New York Heart Association (NYHA) Functional Class Through 1 Year
+                                  (ITT population)
+
+
+
+
+            Quality of Life
+
+            Table 22 summarizes self-reported quality of life over time as measured by KCCQ
+            Overall Summary Score in the PORTICO RCT. KCCQ scores improved by
+            approximately 20 points in both cohorts at 1 year.
+
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                   Page 34
+                 Table 22: KCCQ Quality of Life Scores Through 1 Year (ITT population)
+                                                     Portico valve                      CAV
+             Characteristic
+                                                       (N=381)                        (N=369)
+             KCCQ score at Baseline               54.99 ± 23.17 (375)            53.93 ± 23.71 (358)
+             KCCQ score at 30 days                69.59 ± 22.98 (335)            72.05 ± 22.22 (340)
+             KCCQ score at 6 months               73.49 ± 22.70 (297)            75.66 ± 21.16 (302)
+             KCCQ score at 1 year                 75.43 ± 22.18 (274)            75.94 ± 20.48 (283)
+
+       5. Adverse Events
+
+           Table 23 presents VARC-2 defined endpoints in the PORTICO RCT at 30 days and
+           1 year.
+
+                              Table 23: VARC-2 Clinical Events (ITT population)
+                                                                  Portico valve              CAV
+            Outcomes
+                                                                    (N=381)                 (N=369)
+            At 30 Days1
+            All-cause mortality                                    13 (3.5%)               7 (1.9%)
+               Cardiovascular                                      12 (3.2%)               6 (1.6%)
+               Non-cardiovascular                                   1 (0.3%)               1 (0.3%)
+            All stroke                                             10 (2.7%)               9 (2.5%)
+               Disabling stroke                                     6 (1.6%)               4 (1.1%)
+               Non-disabling stroke                                 4 (1.1%)               5 (1.4%)
+               Transient ischemic attack                            4 (1.1%)               1 (0.3%)
+            All Bleeding                                           40 (10.6%)              30 (8.2%)
+               Life threatening or disabling bleeding              22 (5.9%)               14 (3.8%)
+               Life threatening or disabling bleeding requiring
+                                                                    17 (4.5%)              13 (3.6%)
+               transfusion
+               Major bleeding                                      19 (5.1%)              16 (4.4%)
+               Minor bleeding                                      33 (8.8%)              34 (9.3%)
+            Major vascular complications                           36 (9.6%)              23 (6.3%)
+            Minor vascular complications                           35 (9.3%)              32 (8.8%)
+            Acute kidney injury                                    22 (5.9%)              26 (7.1%)
+               Stage 1                                             10 (2.7%)              19 (5.2%)
+               Stage 2                                              5 (1.3%)               3 (0.8%)
+               Stage 3                                              7 (1.9%)               4 (1.1%)
+               Acute kidney injury requiring dialysis               4 (1.1%)               3 (0.8%)
+            Atrial fibrillation                                    15 (4.0%)              17 (4.7%)
+            New permanent pacemaker3                               88 (27.7%)             35 (11.6%)
+            Valve intervention due to prosthetic valve
+                                                                        0 (0%)               0 (0%)
+            thrombosis4
+            Valve intervention due to endocarditis4                     0 (0%)               0 (0%)
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                       Page 35
+            At 1 Year2
+            All-cause mortality                                                 53 (14.3%)              43 (12.0%)
+               Cardiovascular                                                   32 (8.8%)               28 (8.0%)
+               Non-cardiovascular                                               21 (6.0%)               15 (4.4%)
+            All stroke                                                          16 (4.5%)               19 (5.4%)
+               Disabling stroke                                                  6 (1.6%)               10 (2.9%)
+               Non-disabling stroke                                             10 (2.9%)               10 (2.9%)
+               Transient ischemic attack                                         7 (2.0%)                6 (1.8%)
+            Atrial fibrillation                                                 27 (7.5%)               25 (7.0%)
+            New permanent pacemaker3                                            98 (31.1%)              41 (13.7%)
+            Myocardial infarction4                                               7 (1.8%)                6 (1.6%)
+            Endocarditis4                                                        1 (0.3%)                1 (0.3%)
+            Valve intervention due to prosthetic valve
+                                                                                  0 (0%)                  0 (0%)
+            thrombosis4
+            Valve intervention due to endocarditis4                               0 (0%)                  0 (0%)
+            Data are presented as n (binomial proportion %) at 30 days and as n (Kaplan-Meier probability %) at 1 year
+            1 The numerator for the 30-day rate is the number of patients who experienced an event by 30 days post
+
+            randomization. The denominator for each event type is the number of patients excluding patients that have
+            withdrawn (e.g. due to subject preference or lost to follow-up) before 30 days without an event.
+            2 Kaplan-Meier method was used to estimate the event rate at 1 year
+            3 New pacemaker implant events were CEC adjudicated through 30 days and site reported at 1 year.
+            4 Site reported, data not adjudicated by CEC. Data are presented as n (binomial proportion %).
+
+            NOTE: Event rates are from day of randomization for ITT analysis Population.
+
+       6. Other Results
+
+           Procedural Outcomes and Implant Characteristics
+
+           Table 24 shows the procedural outcomes and implant characteristics of the 737
+           PORTICO RCT patients that attended the index procedure (As-Treated population).
+
+               Table 24: Procedural Outcomes and Implant Characteristics (AT population)
+                                                                            Portico valve              CAV
+           Outcome
+                                                                              (N=375)                 (N=362)
+           Procedural outcomes (final disposition)
+           Procedural success1                                               359 (95.7%)            356 (98.3%)
+           Procedural mortality                                               2 (0.5%)                0 (0%)
+           Conversion to open heart surgery                                   1 (0.3%)               1 (0.3%)
+           Need for second valve (TAV-in-TAV)                                 10 (2.7%)              5 (1.4%)
+           Unable to implant assigned valve type                              2 (0.5%)                0 (0%)
+           Unable to gain vascular access, no TAVI implant                    1 (0.3%)                0 (0%)
+           Implant characteristics
+           Conscious sedation anesthesia                                    112 (29.9%)     116 (32.0%)
+           Implantation time2, min                                           13.3 (13.8)     6.8 (13.7)
+           Pre-balloon valvuloplasty3                                     322/373 (86.3%) 200/361 (55.4%)
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                                     Page 36
+           Resheathing performed                                              144 (38.4%)                 NR
+           Post-implantation balloon valvuloplasty                            186 (49.6%)             74 (20.4%)
+           Final TAVI Access route
+           Transfemoral                                                    347/371 (93.5%) 343/361 (95.0%)
+           Subclavian/Axillary                                              8/371 (2.2%)    5/361 (1.4%)
+           Transaortic                                                      16/371 (4.3%)   12/361 (3.3%)
+           Transapical                                                       0/371 (0%)     1/361 (0.3%)
+           Implanted prosthesis size4
+                                 20 mm                                            ··        7/361 (1.9%)
+                                 23 mm                                      14/371 (3.8%)  97/361 (26.9%)
+                                 25 mm                                     77/371 (20.8%)         ··
+                                 26 mm                                            ··       151/361 (41.8%)
+                                 27 mm                                     135/371 (36.4%)        ··
+                                 29 mm                                     145/371 (39.1%) 87/361 (24.1%)
+                                 31 mm                                            ··        7/361 (1.9%)
+                                 34 mm                                            ··        12/361 (3.3%)
+           Data presented as n/N (%) or mean (SD)
+           1 Procedural success is defined as: absence of procedural mortality and successful delivery of a single TAVI
+
+             valve placed in the desired location
+           2 Total implant time: Implant Start Time is defined as delivery system from first attempted valve inserted
+
+             into the body; Implant End Time is defined as the time of last attempted valve fully deployed
+           3 Denominator is number of patients with implant attempted
+           4 Device size based on last implanted (functioning) valve; note that some device sizes are not available
+
+             across all valve brands
+
+
+           Computed Tomography (CT) Sub-study
+
+           A subset of RCT patients were enrolled in a CT sub-study to investigate the
+           prevalence of Hypoattenuated Leaflet Thickening (HALT) and reduced leaflet motion
+           (RLM). Per protocol, a minimum of 200 consecutive RCT patients implanted with
+           either a Portico valve or CAV with an adequate multi-slice 4D CT scan (or TEE, if
+           the CT scan is medically or technically contraindicated) for leaflet mobility
+           assessment at both 30 days and 6 months were required. The sub-study’s primary
+           outcome measure was the prevalence of RLM in all sub-study patients, defined as
+           moderate or severely reduced motion or immobility of at least one valve leaflet.
+
+           There were 313 randomized patients (165 Portico valve and 148 CAV) with an
+           interpretable 30-day CT/TEE, and 202 patients (111 Portico valve and 91 CAV) with
+           a corresponding interpretable 6-month CT/TEE. Presence of HALT and RLM
+           imaging findings are summarized in Table 25 along with the associated mean aortic
+           pressure gradients.
+
+                  Table 25: Leaflet Mobility Findings and Mean Gradients
+                                     At 30 Days                      At 6 Months
+  Findings                  Portico valve       CAV         Portico valve       CAV
+                              (N=165)          (N=148)        (N=111)          (N=91)
+  Oral Anticoagulant Use
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                                       Page 37
+  Proportion of patients on
+  oral anticoagulants                    13.3%                 12.8%                  9.9%                 19.8%
+  (OAC)* at the time of                 (22/165)              (19/148)              (11/111)              (18/91)
+  scan
+  HALT1
+  Any Leaflets with               34.5%           15.5%          38.7%           18.7%
+  Thickening (yes)              (57/165)        (23/148)        (43/11)         (17/91)
+  Mean Gradient (mmHg)       8.2 ± 2.5 (57) 12.9 ± 6.0 (23) 8.3 ± 3.9 (43) 11.0 ± 5.1 (17)
+                                  65.5%           84.5%          61.3%           81.3%
+  0 leaflet2
+                               (108/165)       (125/148)       (68/111)         (74/91)
+  Mean Gradient (mmHg)      8.2 ± 3.5 (107) 9.7 ± 3.8 (124) 7.7 ± 3.2 (67)  9.9 ± 3.6 (73)
+                                  27.3%           10.1%          27.0%            9.9%
+  1 leaflet
+                                (45/165)        (15/148)       (30/111)          (9/91)
+  Mean Gradient (mmHg)       8.0 ± 2.4 (45) 12.5 ± 6.1 (15) 8.3 ± 4.4 (30)  12.5 ± 6.2 (9)
+                                  6.1%            5.4%           9.9%             6.6%
+  2 leaflets
+                                (10/165)         (8/148)       (11/111)          (6/91)
+  Mean gradient (mmHg)       9.5 ± 2.9 (10) 13.8 ± 6.2 (8)  8.3 ± 2.7 (11)   9.4 ± 3.5 (6)
+                                  1.2%                           1.8%             2.2%
+  3 leaflets                                       0%
+                                 (2/165)                        (2/111)          (2/91)
+  Mean Gradient (mmHg)        6.2 ± 0.7 (2)        NA       8.5 ± 0.1 (2)    8.5 ± 1.9 (2)
+  Number of Leaflets with Reduced Motion (moderate or severe reduction in excursion, or
+  immobile)
+                                  74.5%           93.2%          79.3%           89.0%
+  0 leaflet2
+                               (123/165)       (138/148)       (88/111)         (81/91)
+                                  21.2%           4.7%           19.8%            7.7%
+  1 leaflet
+                                (35/165)         (7/148)       (22/111)          (7/91)
+                                  4.2%            2.0%           0.9%             3.3%
+  2 leaflets
+                                 (7/165)         (3/148)        (1/111)          (3/91)
+                                   0%              0%             0%               0%
+  3 leaflets
+                                 (0/165)         (0/148)        (0/111)          (0/91)
+  Degree of Leaflet Motion (5 categories)3
+                                  63.6%           83.8%          62.2%           80.2%
+  Mobile- all leaflets
+                               (105/165)       (124/148)       (69/111)         (73/91)
+  Mean Gradient (mmHg)      8.2 ± 3.5 (104) 9.7 ± 3.8 (123) 7.5 ± 3.0 (68)  9.9 ± 3.6 (72)
+  Mildly reduced in               10.9%           9.5%           17.1%            8.8%
+  ≥1leaflet                     (18/165)        (14/148)       (19/111)          (8/91)
+  Mean Gradient (mmHg)       8.6 ± 2.6 (18) 10.5 ± 4.9 (14) 7.6 ± 3.5 (19)  10.5 ± 4.8 (8)
+  Moderately reduced in           8.5%            4.7%           11.7%            4.4%
+  ≥1leaflet                     (14/165)         (7/148)       (13/111)          (4/91)
+  Mean Gradient (mmHg)       7.4 ± 1.9 (14) 15.2 ± 6.6 (7) 10.2 ± 5.2 (13)   9.6 ± 3.6 (4)
+  Severely reduced in             9.1%            0.7%           3.6%             3.3%
+  ≥1leaflet                     (15/165)         (1/148)        (4/111)          (3/91)
+  Mean Gradient (mmHg)       8.4 ± 2.7 (15)     21.4 (1)    8.9 ± 2.2 (4)   10.7 ± 4.3 (3)
+                                  7.9%            1.4%           5.4%             3.3%
+  Immobile in ≥1 leaflet
+                                (13/165)         (2/148)        (6/111)          (3/91)
+  Mean Gradient (mmHg)       8.5 ± 2.8 (13) 16.7 ± 3.8 (2)  7.7 ± 3.8 (6)   14.5 ± 8.3 (3)
+  The analysis population included all patients enrolled in the CT sub-study that had an adequate CT for assessment of
+  leaflet thickening or RLM 30 days.
+  * OACs include warfarin/coumadin, Heparin, or Enoxaparin/Levenox/Clexane, with or without anti-platelet therapy
+  1 HALT is a dichotomous measure (Yes vs No), with the presence of any hypo-attenuation in a leaflet defined as
+
+  HALT (yes).
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                                           Page 38
+   2 At 30 days, 11 patients had an adequate CT for assessment of 2 leaflets only. Both leaflets had no evidence of RLM,
+
+   therefore these patients are included in the “no leaflet thickening” and “no RLM” category at 30 days
+   3 Reduced Leaflet Motion Severity: Mildly reduced is <50% reduction in leaflet opening, Moderately reduced is
+
+   50-70% reduction in leaflet opening, Severely reduced is >70% reduction in leaflet opening; For patients with 2
+   leaflets with motion abnormalities, the degree of leaflet motion assigned is based on the most conservative reduced
+   leaflet excursion assignment
+
+
+                Table 26 and Table 27 present mean aortic gradient at 6 months for Portico valve
+                and CAV patients by leaflet thickening and leaflet mobility status at 30 days
+                follow-up, respectively.
+
+  Table 26: Mean Aortic Gradient at 6 Months Stratified by Any Leaflet Thickening at 30 Days
+                                                                      Summary Statistics
+                                           No Leaflet Thickening at 30               Any Leaflet Thickening at 30
+Findings                                              Days                                        Days
+                                          Portico valve       CAV                    Portico valve      CAV
+                                            (N=108)         (N=125)                    (N=57)          (N=23)
+Mean Gradient (mmHg) at 6                 8.1 ± 3.8 (91)       9.8 ± 3.9 (108)       7.2 ± 2.4 (51)        10.2 ± 4.2 (23)
+months
+Data presented as mean ± SD ( n patients).
+The analysis population included all patients enrolled in the CT sub-study that had an adequate CT for assessment of presence
+of leaflet thickening or RLM at 30 days.
+Note: At 30 days, 11 patients had an adequate CT for assessment of 2 leaflets only. Both leaflets had no evidence of RLM,
+therefore these patients are included in the “no leaflet thickening” category at 30 days
+
+
+
+       Table 27: Mean Aortic Gradient at 6 Months Stratified by Leaflet Mobility at 30 Days
+
+                                                                        Summary Statistics
+
+Findings                                           No RLM at 30 Days                           RLM at 30 Days
+                                             Portico valve            CAV              Portico valve             CAV
+                                               (N=123)               (N=138)             (N=42)                 (N=10)
+Mean Gradient (mmHg) at 6                   8.0 ± 3.7 (105) 9.8 ± 4.0 (121)            7.1 ± 2.2 (37)      10.7 ± 3.5 (10)
+months
+Data presented as mean ± SD (n patients).
+The analysis population included all patients enrolled in the CT sub-study that had an adequate CT for assessment of RLM at
+30 days.
+Note: At 30 days, 11 patients had an adequate CT for assessment of 2 leaflets only. Both leaflets had no evidence of RLM,
+therefore these patients are included in the “no leaflet thickening” and “no RLM” category at 30 days
+
+                Table 28 and Table 29 summarize the rate of all-cause mortality, all stroke and
+                transient ischemic attack (TIA) at 6 months from index procedure for Portico valve
+                and CAV patients stratified by any leaflet thickening and leaflet mobility at 30 days
+                follow-up, respectively.
+
+
+
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                                            Page 39
+Table 28: All-Cause Mortality, Stroke and TIA at 6 Months by Leaflet Thickening Status at 30 Days
+                                                      Kaplan-Meier Rate
+                                 No Leaflet Thickening at 30      Any Leaflet Thickening at 30
+Outcomes at 6 Months                         Days                              Days
+                                Portico valve        CAV         Portico valve         CAV
+                                  (N=108)          (N=125)          (N=57)            (N=23)
+All-cause mortality               5.6% (6)         4.8% (6)        5.3% (3)          0.0% (0)
+All stroke                        1.9% (2)         3.2% (4)        1.8% (1)          4.3% (1)
+TIA                               1.9% (2)         0.8% (1)        1.8% (1)          4.3% (1)
+Composite of mortality,           8.4% (9)         7.3% (9)        8.8% (5)          4.3% (1)
+stroke and TIA
+Adverse events adjudicated by an independent Clinical Events Committee
+
+
+
+ Table 29: All-Cause Mortality, Stroke and TIA at 6 Months by Leaflet Mobility Status at 30 Days
+                                                        Kaplan-Meier Rate
+Outcomes at 6 Months                 No RLM   at 30  Days               RLM at 30 Days
+                                Portico valve         CAV        Portico valve          CAV
+                                  (N=123)           (N=138)         (N=42)             (N=10)
+All-cause mortality               5.7% (7)          4.4% (6)       4.8% (2)           0.0% (0)
+All stroke                        2.5% (3)          3.6% (5)       0.0% (0)           0.0% (0)
+TIA                               1.7% (2)          1.5% (2)       2.4% (1)           0.0% (0)
+Composite of mortality, stroke   9.0% (11)         7.3% (10)       7.1% (3)           0.0% (0)
+and TIA
+Adverse events adjudicated by an independent Clinical Events Committee
+
+
+                The CT sub-study demonstrated that 34.5% and 38.7% of subjects receiving a Portico
+                valve exhibited some degree of leaflet thickening at 30 days and 6 months,
+                respectively, as compared to 15.5% and 18.7% of CAV subjects. In addition, 25.5%
+                and 20.7% of Portico subjects experienced some degree of reduced leaflet mobility at
+                30-days and 6 months, respectively, as compared to 6.8% and 11.0% of CAV
+                subjects. Regardless, mean aortic valve pressure gradients were clinically comparable
+                in Portico valve and CAV subjects, independent of RLM and leaflet thickening. In
+                addition, the data did not suggest that the presence of RLM or thickening result in
+                worse mortality or neurological safety outcomes in Portico valve subjects. However,
+                the CT sub-study was not designed to assess the severity of HALT, powered to
+                compare the relative incidence of RLM between the treatment cohorts, or determine
+                whether late clinical outcomes were affected by the presence of HALT or reduced
+                leaflet mobility.
+
+            7. Subgroup Analyses
+
+          The protocol pre-specified subgroup analyses of the primary safety and effectiveness
+          endpoints based on gender (male vs. female), surgical risk status (high vs. extreme
+          risk) and access route (transfemoral vs. alternative). As shown in Table 30 – Table
+          32, predefined subgroup analyses revealed no significant treatment by subgroup
+          interaction effect on the primary safety and effectiveness endpoints.
+ PMA P190023: FDA Summary of Safety and Effectiveness Data                              Page 40
+       Table 30: Analyses of Primary Safety and Effectiveness Endpoints by Gender (ITT population)
+
+                                           Primary Safety Endpoint           Primary Effectiveness Endpoint
+                                                  (30 Days)                             (1 Year)
+    Subgroup / Outcomes
+                                       Portico valve                CAV      Portico valve              CAV
+                                         (N=381)                   (N=369)     (N=381)                 (N=369)
+    Male
+        KM Estimate (SE) of            12.1% (2.4%)            5.9% (1.8%)   16.1% (2.7%)            14.4% (2.7%)
+        Event Rate (%)                   (N=183)                 (N=172)       (N=183)                 (N=172)
+    Female
+        KM Estimate (SE) of            15.4% (2.6%)          12.9% (2.4%)    13.6% (2.5%)            12.5% (2.4%)
+        Event Rate (%)                   (N=198)               (N=197)         (N=198)                 (N=197)
+    Treatment*Gender
+    interaction p-value (Cox                           0.248                                 0.995
+    model)
+    Note: Endpoint is measured from day of randomization for ITT
+
+
+
+
+    Table 31: Analyses of Primary Safety and Effectiveness Endpoints by Surgical Risk (ITT population)
+
+                                          Primary Safety Endpoint            Primary Effectiveness Endpoint
+                                                 (30 Days)                              (1 Year)
+    Subgroup / Outcomes
+                                      Portico valve                 CAV      Portico valve               CAV
+                                        (N=381)                    (N=369)     (N=381)                  (N=369)
+    High Risk
+        KM Estimate (SE) of           13.6% (2.0%)             8.9% (1.6%)   12.2% (1.9%)             11.8% (1.9%)
+        Event Rate (%)                  (N=311)                  (N=306)       (N=311)                  (N=306)
+    Extreme Risk
+        KM Estimate (SE) of           14.6% (4.3%)           12.9% (4.2%)    27.2% (5.5%)             21.0% (5.2%)
+        Event Rate (%)                   (N=70)                 (N=63)          (N=70)                   (N=63)
+    Treatment*Risk
+    interaction p-value (Cox                          0.5401                                 0.5259
+    model)
+    Note: Endpoint is measured from day of randomization for ITT
+
+
+
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                             Page 41
+        Table 32: Analyses of Primary Safety and Effectiveness Endpoints by Access Site (As-Treated
+                                               population)
+
+                                             Primary Safety Endpoint             Primary Effectiveness Endpoint
+                                                    (30 Days)                               (1 Year)
+    Subgroup / Outcomes
+                                         Portico valve               CAV         Portico valve         CAV
+                                           (N=375)                  (N=362)        (N=375)            (N=362)
+    Transfemoral Access
+        KM Estimate (SE) of              13.7% (1.8%)              9.0% (1.5%)   14.2% (1.9%)     12.2% (1.8%)
+        Event Rate (%)                     (N=351)                  (N = 343)      (N=351)          (N=343)
+    Alternative Access
+        KM Estimate (SE) of              25.0% (8.8%)          15.8% (8.4%)      30.0% (9.5%)     31.6% (10.7%)
+        Event Rate (%)                      (N=24)                (N=19)            (N=24)            (N=19)
+    Treatment*Access
+    interaction p-value (Cox                              0.9078                             0.5621
+    model)
+    Note: Endpoint is measured from day of procedure for AT
+
+
+         8. Pediatric Extrapolation
+
+              In this premarket application, existing clinical data was not leveraged to support
+              approval of a pediatric patient population.
+
+    E. Financial Disclosure
+
+         The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+         applicants who submit a marketing application to include certain information concerning
+         the compensation to, and financial interests and arrangement of, any clinical investigator
+         conducting clinical studies covered by the regulation. The clinical study included 103
+         primary investigators of which none were full-time or part-time employees of the sponsor
+         and 9 had disclosable financial interests/arrangements as defined in 21 CFR 54.2(a), (b),
+         (c) and (f) and described below:
+
+              •    Compensation to the investigator for conducting the study where the value could
+                   be influenced by the outcome of the study: 1
+              •    Significant payment of other sorts: 7
+              •    Proprietary interest in the product tested held by the investigator: 0
+              •    Significant equity interest held by investigator in sponsor of covered study: 2
+
+         The applicant has adequately disclosed the financial interest/arrangements with clinical
+         investigators. Statistical analyses were conducted by FDA to determine whether the
+         financial interests/arrangements had any impact on the clinical study outcome. The
+         information provided does not raise any questions about the reliability of the data.
+
+
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                             Page 42
+XI.   SUMMARY OF SUPPLEMENTAL CLINICAL INFORMATION
+
+      A. Description of Supplemental Clinical Cohorts
+
+          FlexNav PMA Analysis Cohort
+
+          The FlexNav PMA Analysis Cohort was a prospective study group consisting of a subset
+          of subjects from the PORTICO FlexNav DS Study and the FlexNav EU CE Mark Study
+          – prospective, multicenter, single-arm investigational studies designed to characterize the
+          safety of the FlexNav Delivery System in high or extreme surgical risk patients at 30
+          days after Portico valve implantation. Patients in the FlexNav PMA Analysis cohort were
+          enrolled between November 7, 2018 and June 14, 2019 at 23 investigational sites in the
+          United States, Australia, Italy, Demark, United Kingdom and Switzerland. The primary
+          analyses of the FlexNav PMA Analysis cohort include 100 patients that underwent a
+          Portico valve implant attempt with a FlexNav DS (FlexNav IDE Analysis cohort=81 and
+          FlexNav EU CE Mark Study=19).
+
+          The primary safety endpoint was VARC-2 defined major vascular complication rate at 30
+          days post-index procedure. The primary safety endpoint rate at 30 days was descriptively
+          compared with results of the PORTICO RCT AT population. Descriptive endpoints
+          included a selection of endpoints from the PORTICO RCT that were assessed post index
+          procedure and summarized using descriptive statistics.
+
+          Global FlexNav Cohort
+
+          The Global FlexNav Cohort was a retrospective, multicenter, single-arm analysis group
+          that included patients at high or greater surgical risk undergoing an attempted Portico
+          valve implant with the FlexNav Delivery System. Patients were enrolled between
+          October 15, 2018 and February 10, 2020 in the Global FlexNav Cohort at 28
+          investigational sites in the United States, Australia, Italy, Denmark, United Kingdom and
+          Switzerland. The Global FlexNav Cohort included 193 patients, comprised of 147
+          patients enrolled in the prospective, multicenter PORTICO IDE FlexNav DS Study arm
+          and 46 patients enrolled in the prospective, multi-center FlexNav EU CE Mark Study.
+
+          The endpoints for the Global FlexNav Cohort were not prespecified; however, the Global
+          FlexNav Cohort was assessed for key 30-day and 1-year endpoints of the PORTICO IDE
+          study, with the date of the index procedure considered Day 0. Data from this cohort that
+          contributed to the PMA approval decision are listed below:
+              • All-cause mortality at 30 days and 1 year from the index procedure
+              • Permanent pacemaker insertion at 30 days and 1 year from the index procedure
+              • Paravalvular Leak (PVL) at 30 days and 1 year
+
+          1. Clinical Inclusion and Exclusion Criteria of FlexNav Cohorts
+
+           Patient selection criteria, assessments, key data collection, and adjudication were
+           consistent across the PORTICO IDE FlexNav DS Study and the FlexNav EU CE
+           Mark study to facilitate aggregate presentation of the FlexNav DS data.
+  PMA P190023: FDA Summary of Safety and Effectiveness Data                               Page 43
+           Enrollment for both FlexNav PMA Analysis Cohort and FlexNav Global Cohort
+           followed the same inclusion and exclusion criteria as described in Section X.A, with
+           the following additional exclusion criteria for transaortic and subclavian/axillary
+           access using the FlexNav Delivery System:
+
+           Transaortic access
+              • Subject has a distance between the annular plane and the aortic access site <7
+                  cm (2.8")
+              • Subject has a distance between the annular plane and the separate introducer
+                  sheath distal tip <6 cm (2.4")
+
+           Subclavian/axillary access
+              • Subject’s access vessel (subclavian/axillary) has a distance between the
+                  annular plane and the integrated sheath distal tip <17 cm (6.7")
+              • Subject’s access vessel requires the delivery system to be advanced through a
+                  separate introducer sheath
+
+       2. Follow-up Schedule of FlexNav Cohorts
+
+           For both FlexNav cohorts, follow-up began at the date of the index procedure.
+           Patients returned for follow-up examinations according to the schedule described in
+           Section X.A, with the following exceptions: (i) a 6-month visit was not required for
+           FlexNav CAP patients, and (ii) FlexNav EU CE Mark Study patients contributing to
+           the FlexNav PMA Analysis cohort and Global FlexNav Cohort were followed for 1
+           year.
+
+    B. Accountability of FlexNav Cohorts
+
+       Table 33 presents the disposition and follow-up visit compliance of patients in the
+       FlexNav PMA Analysis Cohort up to 30 days after the index procedure and in the Global
+       FlexNav Cohort up to 1 year after the index procedure.
+
+       Of the 100 FlexNav PMA Analysis Cohort patients, all were alive and available for
+       follow-up at the 30-day visit. Of the 193 patients enrolled in the Global FlexNav Cohort,
+       99.0% (191/193) were alive and available for follow-up at the 30-day visit and 93.3%
+       (180/193) were alive and available for follow-up at the 12-month visit.
+
+
+
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                              Page 44
+                       Table 33: Overall Disposition and Compliance in FlexNav Cohorts
+                                                                        Study Exits              Follow-up
+                    Visit    Completed Expected        Missed
+   Group                                                                                        Compliance
+                  Interval      Visits      Visits1     Visits     Death     Withdrawal2
+                                                                                                     %
+FlexNav        Baseline             100         100         0             N/A          N/A        100.0%
+PMA            Procedure            100         100         0              0            0         100.0%
+Analysis       Discharge            100         100         0              0            0         100.0%
+Cohort
+               30 Days              99          100         1              0            0          99.0%
+Global         Baseline             193         193         0             N/A          N/A        100.0%
+FlexNav        Procedure            193         193         0              0            0         100.0%
+Cohort         Discharge            193         193         0              0            0         100.0%
+               30 Days              189         191         2              2            0          99.0%
+               12 Months            179         180         1              8            3          99.4%
+1 Expected = Completed + Missed
+2 Withdrawals include Lost to Follow-up.
+
+
+
+
+        C. Demographics and Baseline Parameters of FlexNav Cohorts
+
+             The baseline demographics of patients enrolled in FlexNav PMA Analysis cohort and
+             Global FlexNav Cohort are overall similar to those of the PORTICO RCT population,
+             with a few differences. FlexNav DS cohorts exhibited lower frequency of NYHA Class
+             IV, STS score ≥ 8%, and certain comorbidities in patients compared to PORTICO RCT
+             cohorts. A sub-set of patient demographics highlighting key parameters, as well as
+             similarities and differences from RCT, are presented in Table 34.
+
+                       Table 34: Study Population Demographics and Baseline Parameters
+                                                   PORTICO RCT
+                                                                             FlexNav PMA      Global FlexNav
+                                                    (As-Treated)
+Characteristic                                                              Analysis Cohort       Cohort
+                                           Portico valve       CAV
+                                                                                (N=100)          (N=193)
+                                             (N=375)         (N=362)
+Demographics
+Age, mean (SD), y                           82.96 (7.6)    83.58 (7.02)          85.2 (5.7)     84.8 (5.7)
+Female                                     193 (51.5%)     193 (53.3%)          60 (60.0%)     115 (59.6%)
+NYHA II                                    108 (28.8%)     98 (27.1%)           35 (35.0%)     77 (39.9%)
+NYHA III                                   225 (60.0%)     230 (63.5%)          61 (61.0%)     109 (56.5%)
+NYHA IV                                    42 (11.2%)       34 (9.4%)            4 (4.0%)        7 (3.6%)
+STS PROM Score1, %, Mean (SD)                6.3 (3.4)       6.6 (3.4)           5.0 (2.4)       5.2 (2.8)
+  STS <4%                                  102 (27.2%)     87 (24.0%)           42 (42.0%)     84 (43.5%)
+  STS ≥8%                                  93 (24.8%)      103 (28.5%)          12 (12.0%)     31 (16.1%)
+EuroSCORE II, %                              6.6 (7.2)       6.7 (5.9)           4.8 (3.1)       4.6 (3.5)
+Extreme risk                               69 (18.4%)      61 (16.9%)           20 (20.0%)      41(21.2%)
+High risk                                  306 (81.6%)     301 (83.1%)          80 (80.0%)     152 (78.8%)
+Comorbidities
+Kidney disease                              94 (25.1%)     93 (25.7%)           21 (21.0%)      37 (19.2%)
+
+  PMA P190023: FDA Summary of Safety and Effectiveness Data                                       Page 45
+                       Table 34: Study Population Demographics and Baseline Parameters
+                                                    PORTICO RCT
+                                                                                       FlexNav PMA            Global FlexNav
+                                                     (As-Treated)
+Characteristic                                                                        Analysis Cohort             Cohort
+                                           Portico valve        CAV
+                                                                                          (N=100)                (N=193)
+                                              (N=375)         (N=362)
+Atrial fibrillation                         122 (32.5%)      140 (38.7%)                 29 (29.0%)             57 (29.5%)
+Permanent pacemaker                          55 (14.7%)      60 (16.6%)                  11 (11.0%)              18 (9.3%)
+Prior stroke                                  28 (7.5%)      49 (13.5%)                  11 (11.0%)              15 (7.8%)
+Coronary artery disease                     261 (69.6%)      250 (69.1%)                 60 (60.0%)             114 (59.1%)
+Prior coronary stenting                     106 (28.3%)      103 (28.5%)                 25 (25.0%)             44 (22.8%)
+Prior bypass graft surgery                   86 (22.9%)      75 (20.7%)                  14 (14.0%)             27 (14.0%)
+Prior myocardial infarction                  54 (14.4%)      40 (11.0%)                  10 (10.0%)             20 (10.4%)
+Peripheral vascular disease                18.7% (70/375) 18.0% (65/362)                 14 (14.0%)             24 (12.4%)
+Chronic lung disease                        156 (41.6%)      144 (39.8%)                 27 (27.0%)             52 (26.9%)
+Porcelain aorta                               11 (2.9%)       10 (2.8%)                    0 (0%)                1 (0.5%)
+Severe liver disease                          4 (1.1%)         3 (0.8%)                    0 (0%)                 0 (0%)
+Pulmonary hypertension                      128 (34.1%)      124 (34.3%)                 40 (40.0%)             60 (31.1%)
+Total frailty score (out of 4), mean
+                                               1.8 (0.9)            1.9 (0.8)              1.7 (0.7)              1.7 (0.7)
+(SD)
+Echocardiographic parameters2
+Aortic valve area, mean (SD), cm2            0.69 (0.18)           0.67 (0.16)           0.68 (0.18)             0.69 (0.17)
+Mean gradient, mean (SD), mmHg               46.2 (11.2)           46.1 (11.8)           45.1 (13.3)             44.1 (12.0)
+Data are presented as n (%), mean (SD), n/N (%) or mean (SD) (n).
+1 Patients screened after November 15, 2018 were evaluated using risk models developed using STS data from 2011 to 2014 and
+
+validated using 2014 to 2016 data.
+2 Site-reported echo data
+
+
+
+
+             Although the FlexNav cohorts used the same enrollment criteria as the PORTICO RCT,
+             the baseline demographics suggest potential differences between the study cohorts, which
+             represents a limitation when comparing between the FlexNav cohorts and PORTICO
+             RCT groups. To mitigate confounding and reduce the uncertainty in the descriptive
+             comparisons of the FlexNav cohorts, post hoc propensity analyses of the primary safety
+             endpoint composite and components, as well as clinically significant paravalvular
+             regurgitation, were conducted and considered in the PMA approval decision. Overall,
+             the post hoc propensity analyses indicated that patient population stratification did not
+             have a significant, consistent effect on estimating the differences of the endpoints
+             between the Global FlexNav and RCT CAV cohorts, which supported assessment of the
+             FlexNav cohort data being presented in Section XI.D.
+
+        D. Safety and Effectiveness Results of FlexNav Cohorts
+
+             1. Primary Endpoint
+
+        Table 35 reports the major vascular complications for FlexNav PMA Analysis Cohort
+        and Global FlexNav Cohort compared to PORTICO RCT groups.
+  PMA P190023: FDA Summary of Safety and Effectiveness Data                         Page 46
+          Portico valve implantation with the FlexNav DS showed an observed rate of 7.0 % for
+          major vascular complications at 30 days. The observed rate was numerically lower than
+          the Portico valve group in the PORTICO RCT (9.6%) and similar to the CAV group
+          (6.6%), owing to a reduction in access-related major vascular complications.
+
+          The Global FlexNav Cohort demonstrated a 5.7% major vascular complication rate at 30
+          days. The observed rate was numerically improved from the rates observed in the
+          FlexNav PMA Analysis cohort (7.0%) and lower than the RCT CAV group (6.6%).
+
+                  Table 35: Primary Endpoint – Major Vascular Complication (30 Days)
+                                                    PORTICO RCT            FlexNav
+                                                                                          Global
+ Primary Endpoint                                    (As-Treated)            PMA
+                                                                                         FlexNav
+ (pre-defined for PORTICO FlexNav DS Study                                 Analysis
+                                              Portico valve    CAV                        Cohort
+ arm)                                                                       Cohort
+                                                (N=375)       (N=362)                    (N=193)
+                                                                           (N=100)
+ Major Vascular Complications                9.6% (36/375) 6.6% (24/362) 7.0% (7/100) 5.7% (11/193)
+     Access Sitea                            5.1% (19/375) 4.7% (17/362) 6.0% (6/100) 5.2% (10/193)
+        TAVI Delivery System Access Site     3.2% (12/375) 3.0% (11/362) 4.0% (4/100) 3.6% (7/193)
+        Non-TAVI Delivery System Access Site 1.9% (7/375) 1.7% (6/362) 2.0% (2/100) 1.6% (3/193)
+     Access-Relatedb                         4.3% (16/375) 1.7% (6/362) 1.0% (1/100) 0.5% (1/193)
+     Multiple Events (1 Access Site and 1
+                                              0.3% (1/375) 0.3% (1/362) 0.0% (0/100) 0.0% (0/193)
+       Access-Related)
+ a Access site major vascular complication is defined as vascular injury at an arterial or venous access site used by a guidewire,
+
+ vascular sheath or delivery catheter.
+ b Access-related major vascular complication is defined as vascular complication or injury that occurs along the arterial (usually) or
+
+ venous pathway to the aortic root, or rupture of the aortic annulus or perforation of the left ventricle (LV).
+
+
+          Table 36 presents all-cause mortality at 30 days for Global FlexNav Cohort subjects that
+          experienced a major vascular complication (n=11) and those that did not (n=182)
+          compared to PORTICO RCT subjects, suggesting reduced rate and severity of major
+          vascular complications with the FlexNav Delivery System.
+
+                             Table 36: Impact of Major Vascular Complication on Mortality
+                                                                        PORTICO RCT
+                                                                         (As-Treated)                               Global FlexNav
+   All-Cause Mortality
+                                                               Portico valve          CAV                           Cohort (N=193)
+                                                                  (N=375)            (N=362)
+   All Patients                                                4.5% (17/374)       1.4% (5/362)                        1.0% (2/193)
+     With MVC at 30 days                                       19.4% (7/36)        8.3% (2/24)                         9.1% (1/11)
+     No MVC at 30 days                                         2.9% (10/339)       0.9% (3/338)                        0.5% (1/182)
+
+          2. PORTICO RCT Safety Endpoint – FlexNav Cohorts
+
+          Table 37 shows the primary safety composite results and the components (as defined for
+          the PORTICO RCT) for FlexNav PMA Analysis Cohort and Global FlexNav Cohort
+          compared to PORTICO RCT cohorts (AT population). Results for the composite
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                                               Page 47
+         endpoint and individual components are consistent between the FlexNav PMA Analysis
+         Cohort and Global FlexNav Cohort, which are comparable to the RCT CAV outcomes.
+
+                 Table 37: Components of PORTICO RCT Primary Safety Endpoint (30 Days)
+                                                          PORTICO RCT                         FlexNav PMA
+                                                                                                          Global FlexNav
+                                                            (As-Treated)                         Analysis
+     Primary Endpoint/Component                                                                               Cohort
+                                                    Portico valve      CAV                        Cohort
+                                                                                                             (N=193) 4
+                                                      (N=375)         (N=362)                    (N=100)3
+  Primary Safety Endpoint (30 days)
+   Kaplan-Meier Estimate (SE) of Event
+                                       14.4% (1.8%)                       9.4% (1.5%)          8.0% (2.7%)          9.8% (2.1%)
+   Rate
+  Primary Safety Components (30 days)
+   All-Cause Mortality1                4.5% (17/374)                      1.4% (5/362)         0.0% (0/100)         1.0% (2/193)
+      [95% Confidence interval]2        [2.7%, 7.2%]                     [0.45%, 3.2%]         [0.0%, 3.6%]        [0.13%, 3.7%]
+                   1
+   Disabling Stroke                     1.6% (6/374)                      0.8% (3/362)         0.0% (0/100)         2.1% (4/193)
+     [95% Confidence interval]2        [0.59%, 3.5%]                     [0.17%, 2.4%]         [0.0%, 3.6%]        [0.57%, 5.2%]
+   Life Threatening Bleeding Requiring
+                                       4.8% (18/374)                     3.6% (13/362)         4.0% (4/100)         4.1% (8/193)
+   Blood Transfusion1
+     [95% Confidence interval]2         [2.9%, 7.5%]                      [1.9%, 6.1%]         [1.1%, 9.9%]         [1.8%, 8.0%]
+   Acute Kidney Injury Requiring
+                                        1.1% (4/374)                      0.8% (3/362)         0.0% (0/100)         0.0% (0/193)
+   Dialysis1
+                               2
+     [95% Confidence interval]         [0.29%, 2.7%]                     [0.17%, 2.4%]         [0.0%, 3.6%]  [0.0%, 1.9%]
+   Major Vascular Complications1       9.6% (36/374)                     6.6% (24/362)        7.0% (7/100)3 5.7% (11/193)3
+     [95% Confidence interval]2        [6.8%, 13.1%]                      [4.3%, 9.7%]        [2.9%, 13.9%] [2.9%, 10.0%]
+  ¹ The proportion of patients who experienced each event was calculated. The numerator for the 30-day rate is the number of patients
+    who experienced an event by 30 days post index procedure. The denominator for each event type is the number of analysis patients
+    excluding patients that have withdrawn before 30 days without an event.
+  2 By Clopper-Pearson exact confidence interval.
+  3 Of the 7 major vascular complications in the FlexNav PMA Analysis cohort, 6 (6.0%) occurred at an access site (4.0% TAVI and
+
+    2.0% non-TAVI access site), and 1 (1.0%) did not occur at an access site.
+  4 Of the 11 major vascular complications in the Global FlexNav DS cohort, 10 (5.2%) occurred at an access site (3.6% TAVI 1.6%
+
+    non-TAVI access site), and 1 (0.5%) did not occur at an access site.
+
+
+         3. PORTICO RCT Effectiveness Endpoint – Global FlexNav Cohort
+
+         Table 38 shows the primary 1-year effectiveness composite results and the components
+         (as defined for the PORTICO RCT) for Global FlexNav Cohort. The rate of all-cause
+         mortality at 1 year in the Global FlexNav Cohort was 4.7%, which is numerically lower
+         than all-cause mortality occurring in RCT Portico group (14.7%) and RCT CAV group
+         (11.8%).
+
+
+
+
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                                           Page 48
+          Table 38: Components of PORTICO RCT Primary Effectiveness Endpoint (1 Year)
+                                                                  PORTICO RCT
+                                                                                                      Global FlexNav
+                                                                    (As-Treated)
+         Primary Endpoint/Component                                                                       Cohort
+                                                           Portico valve         CAV
+                                                                                                         (N=193)
+                                                             (N=375)           (N=362)
+  Primary Effectiveness Endpoint (1 Year)
+   Kaplan-Meier Estimate (SE) of Event Rate1   15.2% (1.9%)     13.2% (1.8%)    5.7% (1.7%)
+  Primary Effectiveness Components (1 Year)
+   All-Cause Mortality1                        14.7% (1.8%)     11.8% (1.7%)    4.7% (1.5%)
+      [95% Confidence interval]2             [11.43%, 18.71%] [8.86%, 15.63%] [2.47%, 8.84%]
+   Disabling Stroke1                            1.6% (0.7%)      2.6% (0.9%)    2.1% (1.0%)
+                               2
+     [95% Confidence interval]                [0.73%, 3.54%]   [1.36%, 4.94%] [0.78%, 5.43%]
+  ¹ Kaplan-Meier method was used to estimate the event rate (SE).
+  2 The 95% confidence interval was estimated using KM method with Greenwood standard error.
+
+
+
+
+        4. Other Results
+
+        Technical device success using the FlexNav Delivery System was assessed in the Global
+        FlexNav Cohort, which was defined as successful vascular access, delivery and
+        deployment of the Portico valve; retrieval with the delivery system and correct
+        positioning of a single valve in the proper anatomical location. The composite technical
+        device success rate was 96.9%, as shown in Table 39.
+
+                        Table 39: Technical Device Success in the Global FlexNav Cohort
+                                                                                               Global FlexNav Cohort
+                           Component of Technical Success
+                                                                                                      (N=193)
+       1. Successful vascular access, delivery and deployment of the Portico
+                                                                                                 100.0% (193/193)
+         valve
+       2. Retrieval with the delivery system                                                     100.0% (193/193)
+       3. Correct positioning of a single valve in the proper anatomical
+                                                                                                  96.9% (187/193)
+         location
+       4. Technical device success                                                                96.9% (187/193)
+
+        Table 40 presents the results for CEC adjudicated VARC-2 events at 30 days in the
+        FlexNav PMA Analysis cohort. There were no deaths, disabling strokes, or acute kidney
+        injury events requiring dialysis within 30 days.
+
+                                 Table 40: VARC-2 Clinical Events at 30 Days
+                                                               PORTICO RCT
+                                                                (As-Treated)                          FlexNav PMA
+Outcomes                                                                                              Analysis cohort
+                                                     Portico valve                CAV                    (N=100)
+                                                       (N=375)                   (N=362)
+All-cause mortality                                    17 (4.5%)                 5 (1.4%)                 0 (0%)
+   Cardiovascular                                      15 (4.0%)                 4 (1.1%)                 0 (0%)
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                                  Page 49
+   Non-cardiovascular                                     2 (0.5%)                  1 (0.3%)                    0 (0%)
+All stroke                                               11 (2.9%)                  8 (2.2%)                   3 (3.0%)
+   Disabling stroke                                       6 (1.6%)                  3 (0.8%)                    0 (0%)
+   Non-disabling stroke                                   5 (1.3%)                  5 (1.4%)                   3 (3.0%)
+Transient ischemic attack                                 4 (1.1%)                  1 (0.3%)                    0 (0%)
+All Bleeding                                             42 (11.2%)                 30 (8.3%)                 11 (11.0%)
+   Life threatening or disabling bleeding                24 (6.4%)                  14 (3.9%)                  4 (4.0%)
+         Life threatening or disabling
+                                                          18 (4.8%)                 13 (3.6%)                  4 (4.0%)
+         bleeding requiring transfusion
+   Major bleeding                                        20 (5.3%)                 16 (4.4%)                  7 (7.0%)
+   Minor bleeding                                        32 (8.5%)                 33 (9.1%)                 10 (10.0%)
+Major vascular complications                             36 (9.6%)                  4 (6.6%)                  7 (7.0%)
+Minor vascular complications                             35 (9.3%)                 32 (8.8%)                 10 (10.0%)
+Acute kidney injury                                      21 (5.6%)                 26 (7.2%)                  1 (1.0%)
+   Stage 1                                               10 (2.7%)                 19 (5.2%)                  1 (1.0%)
+   Stage 2                                                4 (1.1%)                  3 (0.8%)                   0 (0%)
+   Stage 3                                                7 (1.9%)                  4 (1.1%)                   0 (0%)
+   Acute kidney injury requiring dialysis                 4 (1.1%)                  3 (0.8%)                   0 (0%)
+Atrial fibrillation                                      19 (5.1%)                 19 (5.2%)                   0 (0%)
+New permanent pacemaker2                               89/320 (27.8%)            35/302 (11.6%)             13/89 (14.6%)
+Valve intervention due to prosthetic valve
+                                                            0 (0%)                    0 (0%)                    0 (0%)
+thrombosis3
+Valve intervention due to endocarditis3                     0 (0%)                    0 (0%)                    0 (0%)
+Data are presented as n (binomial proportion %) at 30 days
+1 The numerator for the 30-day rate is the number of patients who experienced an event by 30 days post procedure. The denominator
+
+for each event type is the number of patients excluding patients that have withdrawn (e.g. due to subject preference or lost to
+follow-up) before 30 days without an event.
+2New pacemaker implant events were CEC adjudicated through 30 days and site reported at 1 year.
+3Site reported, data not adjudicated by CEC.
+
+
+
+
+          Table 41 summarizes the paravalvular aortic regurgitation at 30 days and 1 year for the
+          Global FlexNav Cohort and the PORTICO RCT patients with evaluable
+          echocardiograms. The observed rate of clinically significant PVL (moderate or greater)
+          in the Global FlexNav Cohort was 2.8% at 30 days and 0.6% at 1 year, with no subjects
+          demonstrating severe PVL at either timepoint.
+
+                  Table 41: Paravalvular Aortic Regurgitation Severity at 30 Days and 1 Year
+
+                                  Paravalvular AR at 30 Days                           Paravalvular AR at 1 Year
+                               PORTICO RCT                                         PORTICO RCT
+                             (Modified As-Treated)               Global          (Modified As-Treated)                Global
+   PVL Severity                                                 FlexNav                                              FlexNav
+                              Portico                            Cohort            Portico                            Cohort
+                                                CAV                                                  CAV
+                               valve                            (N=178)             valve                            (N=160)
+                                               (N=329)                                              (N=262)
+                             (N=329)                                              (N=262)
+   None/Trace              37.4% (123) 58.1% (191)            44.4% (79)       44.7% (117)       59.2% (155)        61.9% (99)
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                                         Page 50
+       Mild                   56.5% (186) 39.8% (131)             52.8% (94)       47.7% (125)       39.3% (103)       37.5% (60)
+       Moderate                5.8% (19)   2.1% (7)                2.8% (5)         7.3% (19)         1.5% (4)          0.6% (1)
+       Severe                   0.3% (1)   0.0% (0)                 0% (0)          0.4% (1)          0.0% (0)           0% (0)
+       Note: Results presented based on echocardiographic core laboratory assessment at 30 days and 1 year.
+       AR = aortic regurgitation
+
+
+             The rate of new permanent pacemaker implantation in the FlexNav PMA Analysis
+             Cohort was 14.6% which was reduced from 28.1% in the PORTICO RCT and
+             comparable to the RCT CAV observed rate of 11.6% (Table 42). New permanent
+             pacemaker implantation rates in the Global FlexNav Cohort remained durable through 1-
+             year follow-up, with 32 patients (18.4%) requiring new pacemaker implantation by 1
+             year.
+
+                                     Table 42: New Permanent Pacemaker Rates (30 Days)
+                                                  PORTICO RCT
+            New Permanent                       (Modified As-Treated)                     FlexNav      Global FlexNav
+            Pacemaker                                                                  Analysis Cohort    Cohort
+            Implantation                   Portico valve              CAV                 (N=100)         (N=175)
+                                             (N=366)                 (N=361)
+                                                 87                     35                      13                     27
+            Naïve Subjects a
+                                              (28.1%)                (11.6%)                 (14.6%)                (15.4%)
+            Subjects without pre-                58                     25                      10                     15
+            existing RBBBb                    (21.9%)                 (9.4%)                 (12.5%)                 (9.7%)
+           Data presented as: Number of Subjects (KM Event Rate, %)
+           a Subjects with a pre-existing pacemaker at baseline are excluded from the numerator and denominator
+           b Subjects with a pre-existing right bundle branch block (RBBB) and a pre-existing pacemaker at baseline are excluded
+
+           from the numerator and dominator
+
+
+
+XII.    PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+        In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+        Medical Devices Act of 1990, this PMA was not referred to the Circulatory Systems Devices
+        Panel, an FDA advisory committee, for review and recommendation because the information
+        in the PMA substantially duplicates information previously reviewed by this panel.
+
+
+XIII. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+        A. Effectiveness Conclusions
+
+        The primary effectiveness endpoint (composite of all-cause mortality or disabling stroke
+        at 1 year) revealed event rates of 14.9% in the randomized Portico group and 13.4% in
+        the randomized CAV group at 1 year for the predefined analysis population (ITT). The
+        primary effectiveness endpoint event rates were within the predefined non-inferior
+        margin of 8.0% for the ITT population as well as the AT population, indicating the
+        study met its primary effectiveness endpoint. The rate of disabling stroke with the
+        Portico valve at 1 year was 1.6%, which is typical for the given patient population and
+  PMA P190023: FDA Summary of Safety and Effectiveness Data                               Page 51
+       was clinically comparable to the disabling stroke rate in the CAV group. Although all-
+       cause mortality was observed to be numerically higher for the Portico group (14.4%)
+       than the CAV (12.0%) at 1 year, the difference between mortality rates was
+       predominantly due to deaths occurring within 30 days. Data collected using the
+       FlexNav Delivery System had an observed rate of all-cause mortality at both 30-days
+       and 1-year that more closely reflected observed rates of the RCT CAV population.
+
+       The secondary endpoint (hierarchical composite of severe aortic regurgitation and
+       quality of life, and moderate or greater aortic regurgitation and 6-minute walk test) was
+       not met for the PORTICO RCT due to exceeding the predefined non-inferiority margin
+       for moderate or greater aortic regurgitation. The occurrence of moderate or greater
+       aortic regurgitation was entirely attributed to paravalvular aortic regurgitation, with 1-
+       year paravalvular regurgitation rates of 7.5% in the Portico group and 1.5% in the CAV
+       group. However, this difference did not lead to a difference in mortality between the
+       groups through 2 years. In addition, clinically significant paravalvular regurgitation
+       with the Portico valve was markedly reduced when implanted with the FlexNav
+       Delivery system, with a rate of 0.6% moderate or severe paravalvular regurgitation
+       reported at 1 year in the Global FlexNav Cohort.
+
+       Analysis of functional endpoints demonstrated that the Portico valve was associated
+       with numerically larger valve areas and lower mean gradients compared to CAV, as
+       well as similar improvements from baseline to 1-year in NYHA functional classification
+       and quality of life metrics compared to the CAV group. Moreover, the hemodynamic
+       benefits and functional improvements observed for the Portico valve in the RCT were
+       similarly observed in the supplemental FlexNav clinical cohorts.
+
+       Therefore, the PORTICO RCT demonstrated overall effectiveness of the Portico TAVI
+       System and the supplemental FlexNav cohorts provided data that mitigated the concern
+       of clinically significant aortic regurgitation.
+
+    B. Safety Conclusions
+
+       The risks of the device are based on nonclinical laboratory and animal studies as well
+       as data collected in clinical studies conducted to support PMA approval as described
+       above. The results from the nonclinical laboratory studies performed on the Portico
+       TAVI System (e.g., biocompatibility, hydrodynamic performance, durability, and
+       structural integrity) demonstrated that this device is suitable for long-term implant.
+
+       The Kaplan-Meier estimate of the event rate of the primary safety endpoint (non-
+       hierarchical composite of all-cause mortality, disabling stroke, life threatening bleeding
+       requiring blood transfusion, acute kidney injury requiring dialysis or major vascular
+       complications at 30 days) was 13.8% in the randomized Portico group and 9.6% in the
+       randomized CAV group for the predefined primary analysis population (ITT). The
+       Portico valve was found to be non-inferior to CAV in the ITT population, meeting a
+       non-inferiority margin of 8.5%. The differences in the observed rate of individual
+       components of the primary safety endpoint composite at 30 days for the RCT Portico
+       group compared to the CAV group were as follows: all-cause mortality (1.6%),
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                Page 52
+       disabling stroke (0.5%), life-threatening and major bleeding events (0.9%), acute
+       kidney injury requiring dialysis (0.3%), or major vascular complications (3.3%).
+
+       Although non-inferiority was demonstrated in the ITT population, non-inferiority was
+       not confirmed when the analysis was conducted using the AT population, resulting in
+       an upper limit of the 95% confidence interval of the difference which exceeded the
+       8.5% non-inferiority margin. The discrepancy in the primary safety endpoint results
+       between ITT and AT populations was largely due to a difference of six deaths between
+       the AT population vs. the ITT population based on differences in the definitions of the
+       30-day follow-up windows for these populations. The RCT data further demonstrated
+       that major vascular complications were more frequent with Portico valve implantation
+       (9.6%) compared to CAV implantation (6.3%).
+
+       Evidence suggested that major vascular complications contributed to the higher all-
+       cause mortality within 30 days in the RCT Portico group, which the applicant
+       attributed, in part, to the first-generation Portico Delivery System that was used in the
+       RCT. In response to this finding, the FlexNav Delivery System was introduced and
+       safety outcomes were studied through supplemental FlexNav clinical cohorts. The
+       supplemental data, which represent the final device design, demonstrated that the
+       observed rate of major vascular complications at 30 days decreased from 9.6% in the
+       randomized Portico group to 7.0% and 5.7% in the FlexNav PMA Analysis Cohort and
+       Global FlexNav Cohort, respectively, which was clinically comparable to the rate
+       observed in the CAV group of the RCT (6.3%). The rate of all-cause mortality in the
+       Global FlexNav Cohort was 1.0%, which was clinically similar to the Kaplan-Meier
+       rate of the CAV group of the RCT (1.4%; AT population).
+
+       The PORTICO RCT data revealed a 27.7% rate of new permanent pacemaker
+       implantation within 30 days for the Portico group which was reduced to 15.4% in the
+       Global FlexNav Cohort. While these rates for the Portico valve are relatively higher
+       than 30-day new permanent pacemaker implantation rates for the CAV group of the
+       RCT (11.6%), the incidence is not unreasonably high when considering other self-
+       expanding valves.
+
+       The CT sub-study demonstrated that 34.5% and 38.7% of subjects receiving a Portico
+       valve exhibited some degree of leaflet thickening at 30 days and 6 months,
+       respectively, as compared to 15.5% and 18.7% of CAV subjects. In addition, 25.5%
+       and 20.7% of Portico subjects experienced some degree of reduced leaflet mobility at
+       30-days and 6 months, respectively, as compared to 6.8% and 11.0% of CAV subjects.
+       The long-term clinical sequelae of these imaging findings are presently unknown.
+
+    C. Benefit-Risk Determination
+
+       The probable benefits of the device are based on data collected in clinical studies
+       conducted to support PMA approval, as described above. The probable benefits of the
+       Portico Transcatheter Aortic Valve include improved valve hemodynamic performance,
+       improved functional status as measured by NYHA classification and 6-minute walk test
+       and improved quality of life at 1-year post-procedure (as measured by KCCQ).
+PMA P190023: FDA Summary of Safety and Effectiveness Data                                Page 53
+        The probable risks of the device are also based on data collected in clinical studies
+        conducted to support PMA approval. The probable risks of the Portico Transcatheter
+        Aortic Valve System include device and procedure-related complications including
+        death, stroke, myocardial infarction, major vascular complications, life-threatening and
+        major bleeding events, acute kidney injury, clinically significant paravalvular aortic
+        regurgitation, and conduction disturbances requiring a new pacemaker.
+
+        1. Patient perspective
+
+            This submission did not include specific information on patient perspectives for this
+            device.
+
+        In conclusion, given the available information above, the data support that for patients
+        with symptomatic severe native aortic stenosis who are at high or greater risk for open
+        aortic valve replacement surgery, the probable benefits outweigh the probable risks.
+
+     D. Overall Conclusions
+
+        The data in this application support the reasonable assurance of safety and effectiveness
+        of the Portico Transcatheter Aortic Valve Implantation System with FlexNav Delivery
+        System for the replacement of native aortic valves in patients with symptomatic severe
+        native calcific aortic stenosis who are deemed to be at high or greater surgical risk,
+        defined as predicted risk of surgical mortality ≥ 8% at 30 days based on the Society of
+        Thoracic Surgeons (STS) risk score and other clinical comorbidities unmeasured by the
+        STS risk calculator.
+
+XIV. CDRH DECISION
+
+     CDRH issued an approval order on September 17, 2021. The final clinical conditions of
+     approval cited in the approval order are described below.
+
+     The applicant must conduct one post-approval study as well as participate in and support
+     continued surveillance as follows:
+
+       1. Continued Follow-Up of the PORTICO IDE Study Premarket Cohorts: This study
+          should be conducted in accordance with protocol version L dated October 11, 2018.
+          The study will consist of all living subjects who were enrolled in the PORTICO IDE
+          randomized control trial (RCT) and FlexNav Delivery System (DS) Study, including
+          randomized, FlexNav DS single-arm, roll-in, continued access, and nested registry
+          cohorts. The objective of this PAS is to characterize the clinical outcomes annually
+          through 5 years post-procedure. The safety and effectiveness endpoints include, but are
+          not limited to: all-cause mortality, all-cause and disabling stroke, life-threatening and
+          major bleeding events, stage 2 or 3 acute kidney injury, major vascular complications,
+          paravalvular aortic regurgitation, myocardial infarction, re-operation for valve-related
+          dysfunction, rehospitalization for valve-related symptoms or worsening congestive
+          heart failure, new permanent pacemaker implantation, new-onset atrial fibrillation,
+ PMA P190023: FDA Summary of Safety and Effectiveness Data                                Page 54
+           functional status as evaluated by New York Heart Association (NYHA), health status
+           as evaluated by Kansas City Cardiomyopathy Questionnaire (KCCQ), and
+           hemodynamic performance metrics by echocardiography.
+
+       2. Registry-Based Real-World Use Surveillance of the Portico Transcatheter Aortic
+          Valve Implantation System for the “High Risk and above” Indication: The applicant
+          has agreed to work with the Society of Thoracic Surgeons/American College of
+          Cardiology Transcatheter Valve Therapy (TVT) Registry to ensure that FDA
+          surveillance occurs for the Portico Transcatheter Aortic Valve Implantation System
+          used for the “high risk and above” indication over the next 2 years (enrollment period).
+          The applicant has also agreed to link the data to Centers for Medicare and Medicaid
+          Services (CMS) database for long-term surveillance of these patients through 5 years
+          post implantation (follow-up period). This surveillance will monitor the following: (1)
+          device success (intra-procedure); (2) all-cause mortality, all stroke, life-
+          threatening/major bleeding, new requirement for dialysis, new pacemaker implant,
+          peri-procedural myocardial infarction, and repeat procedure for valve-related
+          dysfunction (surgical or interventional therapy) at 30 days and 12 months; (3)
+          neurological (non-stroke), vascular complications, and quality of life (KCCQ)
+          outcomes at 30 days and 12 months; and (4) all-cause mortality, all stroke, and repeat
+          procedure for valve-related dysfunction (surgical or interventional therapy) annually at
+          2-5 year post implantation.
+
+      The applicant’s manufacturing facilities have been inspected and found to be in compliance
+      with the device Quality System (QS) regulation (21 CFR 820).
+
+XV.   APPROVAL SPECIFICATIONS
+
+      Directions for use: See device labeling.
+
+      Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+      Precautions, and Adverse Events in the device labeling.
+
+      Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+ PMA P190023: FDA Summary of Safety and Effectiveness Data                               Page 55
+

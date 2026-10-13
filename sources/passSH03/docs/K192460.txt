@@ -1,0 +1,237 @@
+February 19, 2020
+
+Boston Scientific Corporation
+Eric Elliott
+Regulatory Affairs Manager
+Three Scimed Place
+Maple Grove, Minnesota 55311-1566
+
+Re: K192460
+    Trade/Device Name: Sentinel Cerebral Protection System
+    Regulation Number: 21 CFR 870.1251
+    Regulation Name: Temporary Catheter for Embolic Protection During Transcatheter Intracardiac
+                      Procedures
+    Regulatory Class: Class II
+    Product Code: PUM
+    Dated: January 17, 2020
+    Received: January 21, 2020
+
+Dear Mr. Elliott:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.04.13
+Silver Spring, MD 20993
+www.fda.gov
+K192460 – Mr. Eric Elliott                                                                            Page 2
+
+
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+
+                                                 Jaime Raben -S
+                                                 Jaime Raben, Ph.D.
+                                                 Assistant Director
+                                                 DHT2B: Division of Circulatory Support,
+                                                    Structural and Vascular Devices
+                                                 OHT2: Office of Cardiovascular Devices
+                                                 Office of Product Evaluation and Quality
+                                                 Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2020
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+ K192460
+Device Name
+Sentinel Cerebral Protection System
+
+
+
+Indications for Use (Describe)
+The Sentinel Cerebral Protection System is indicated for use as an embolic protection
+device to capture and remove thrombus/debris while performing transcatheter aortic valve
+replacement procedures. The diameters of the arteries at the site of filter placement should
+be between 9 – 15 mm for the brachiocephalic and 6.5 – 10 mm in the left common
+carotid.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                x Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+           The burden time for this collection of information is estimated to average 79 hours per response, including the
+           time to review instructions, search existing data sources, gather and maintain the data needed and complete
+           and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (7/17)                                        Page 1 of 1                                    PSC Publishing Services (301) 443-6740   EF
+                                                                                            K192460
+                                                                                            Page 1 of 3
+
+
+                                 510(k) Summary
+                                  per 21 CFR §807.92
+
+Sponsor                  Boston Scientific Corporation
+                         300 Boston Scientific Way
+                         Marlborough, Massachusetts 01752
+                         USA
+
+Contact Name and         Eric Elliott
+Information              Three Scimed Place
+                         Maple Grove, MN 55311-1566
+                         Phone: 763-494-1654
+
+Date Prepared            September 06, 2019
+
+Proprietary Name         Sentinel™ Cerebral Protection System
+
+Common Name              Temporary catheter, embolic protection, transcatheter
+                         intracardiac procedures
+
+Product Code             PUM
+
+Classification           Class II, 21 CFR Part 870.1251
+
+Predicate Device         Sentinel Cerebral Protection     DEN160043 June 1, 2017
+                         System
+
+Device Description
+The Sentinel™ Cerebral Protection System (Sentinel CPS) is a 6 French, 95 cm
+working length, single use, temporary, percutaneously delivered embolic protection
+device, inserted into the radial or brachial artery. The system is designed to capture
+and remove debris dislodged during transcatheter aortic valve replacement (TAVR)
+procedures. The Sentinel CPS utilizes an embolic filter delivered to the brachiocephalic
+artery (Proximal Filter) and a second embolic filter delivered to the left common carotid
+artery (Distal Filter). At the completion of the procedure, the filters and debris are
+recaptured into the catheter and removed from the patient. The device is provided
+sterile and is single-use only.
+The Sentinel CPS is available with a Proximal Filter size of 15 mm (target vessel size of
+9 – 15 mm) and a Distal Filter size of 10 mm (target vessel size of 6.5 – 10 mm).
+
+Indications for Use / Intended Use
+The Sentinel Cerebral Protection System is indicated for use as an embolic protection
+device to capture and remove thrombus/debris while performing transcatheter aortic
+valve replacement procedures. The diameters of the arteries at the site of filter
+placement should be between 9 – 15 mm for the brachiocephalic and 6.5 – 10 mm in
+the left common carotid.
+                                                                                              K192460
+                                                                                              Page 2 of 3
+
+
+Comparison of Technological Characteristics
+Replacement of filter film polyurethane material with a similar polyurethane is required
+due to material obsolescence by the supplier. Comparisons of the new and currently
+marketed predicate device cleared under DEN160043 show that the technological
+characteristics such as filter performance, materials, design, sterilization, packaging,
+and intended use/ indications for use are substantially equivalent. The subject Sentinel
+Cerebral Protection System indications for use, design, and principles of operation are
+identical to the currently marketed predicate cleared under DEN160043.
+
+Non-clinical Performance Data
+Modifications to the predicate device were assessed according to risk-based failure
+mode effects analysis and with consideration of FDA Guidance, Coronary and Carotid
+Embolic Protection Devices – Premarket Notification [510(k)] Submission (issued
+February 15, 2008). The following non-clinical testing was successfully completed on
+the modified device.
+   •   Simulated Use Proximal and Distal Filter Deployment Force
+   •   Simulated Use Proximal and Distal Filter Retrieval Force
+   •   Dimensional Verification – Filter Pore Size
+   •   Tensile Characterization – Filter Film
+   •   Shelf Life Evaluation
+
+Testing demonstrated that the modified Sentinel Cerebral Protection System met all
+previously established acceptance criteria. No new safety or effectiveness issues were
+raised during verification and validation activities; thereby supporting a determination of
+substantial equivalence.
+
+Biocompatibility testing was also assessed with consideration of evaluation
+recommendations per ISO 10993-1, Biological Evaluation of Medical Devices – Part 1:
+Evaluation and testing within a risk management process and FDA Guidance on ISO
+10993-1 (issued June 16, 2016) for devices categorized as externally communicating
+with limited (<24 hours) direct circulating blood contact. The following is a list of
+biocompatibility tests conducted on the modified Sentinel Cerebral Protection System.
+
+   •   MEM Elution Cytotoxicity
+   •   Guinea Pig Maximization Sensitization
+   •   Intracutaneous Reactivity
+   •   Acute Systemic Injection
+   •   Material Mediated Rabbit Pyrogen
+   •   Hemolysis (direct and extract methods)
+   •   Complement Activation (SC5b-9 method)
+   •   USP Physiochemical test <661>
+   •   Natural Rubber Latex ELISA Inhibition Assay for Antigenic Protein
+   •   Partial Thromboplastin Time (PTT)
+   •   Platelet/Leucocyte testing
+
+Results confirm that the modified device remains biocompatible for its intended use.
+                                                                                   K192460
+                                                                                   Page 3 of 3
+
+
+Conclusion
+Successful design verification and biocompatibility testing support substantial
+equivalency of the Sentinel Cerebral Protection System to the currently marketed
+predicate device. There were no new safety or effectiveness issues raised during
+verification and testing activities.
+

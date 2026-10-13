@@ -5,7 +5,8 @@ Q={ # file -> openFDA UDI query
 'SAFARI':'brand_name:SAFARI','Confida':'brand_name:Confida','Lunderquist':'brand_name:Lunderquist AND company_name:Cook','Amplatz_ES':'brand_name:Amplatz AND device_description:"Extra Stiff"',
 'eSheath':'brand_name:eSheath','Sentrant':'brand_name:Sentrant','DrySeal':'brand_name:DrySeal','Sentinel_BSC':'brand_name:Sentinel AND company_name:Boston',
 'TRUE_Dilatation':'brand_name:"TRUE DILATATION"','Z-MED':'brand_name:"Z-MED"','Perclose':'brand_name:Perclose','MANTA':'brand_name:MANTA AND company_name:Essential',
-'Tempo':'brand_name:Tempo AND device_description:pacing','BRK':'brand_name:BRK','VersaCross':'brand_name:VersaCross','Agilis':'brand_name:Agilis'}
+'Tempo':'brand_name:Tempo AND device_description:pacing','BRK':'brand_name:BRK','VersaCross':'brand_name:VersaCross','Agilis':'brand_name:Agilis',
+'SAPIEN_M3':'brand_name:"SAPIEN M3"','EVOQUE':'brand_name:EVOQUE','WATCHMAN':'brand_name:WATCHMAN AND company_name:Boston','Amulet':'brand_name:Amulet'}
 for f,q in Q.items():
     fn=f'raw/udi/SH_{f}.json'
     if os.path.exists(fn): continue

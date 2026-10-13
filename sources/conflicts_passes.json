@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "pass": "passSH03",
+  "model": "EVOQUE",
+  "field": "valve_sizes_mm",
+  "value": "44, 48, 52 mm outer frame diameter (original PMA). GUDID also lists 9850EV56US (56 mm), not in the original SSED",
+  "source": "FDA SSED P230013 EVOQUE p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230013B.pdf",
+  "existing": "44, 48, 52 mm",
+  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"EVOQUE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22EVOQUE%22"
+ }
+]
