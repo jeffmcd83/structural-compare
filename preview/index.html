@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Coronary Products Comparison Guide</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><meta name="theme-color" content="#111827">
-<link rel="preload" href="data/core.json?v=0f9ffb3b" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=18399d2a" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -28,7 +28,7 @@ tr.sh th{background:#e8edf5;cursor:pointer;font-size:13px}tr.sh th:before{conten
 <script>
 const $=s=>document.querySelector(s);let D,RC=null,sel=[null,null,null,null],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=0f9ffb3b').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
+fetch('data/core.json?v=18399d2a').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
  const cats=Object.keys(d.sect),TH=['Coronary','TAVI','Mitral TEER','Tricuspid TEER','Shared accessories'].filter(t=>cats.some(c=>(d.ther[c]||'Coronary')===t));
  $('#th').innerHTML=TH.map(t=>`<option>${esc(t)}</option>`).join('');
  const h=new URLSearchParams(location.hash.slice(1));const c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
@@ -56,7 +56,7 @@ function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='t
  $('#m').innerHTML=h+'</table>'+(S.length?'':'<div class="empty">All slots empty — use “+ Add device” or the pickers above.</div>');
  document.querySelectorAll('tr.sh').forEach(t=>t.onclick=()=>{const n=t.parentNode.dataset.s;collapsed[n]=!collapsed[n];t.parentNode.classList.toggle('col')});
  document.querySelectorAll('button.add').forEach(b=>b.onclick=()=>{const i=document.querySelector(`.pk input[data-i="${b.dataset.i}"]`);i.scrollIntoView({block:'center'});i.focus()});
- if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=0f9ffb3b').then(r=>r.json()).then(x=>{RC=x;render()})}
+ if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=18399d2a').then(r=>r.json()).then(x=>{RC=x;render()})}
 document.addEventListener('click',e=>{document.querySelectorAll('.pop').forEach(p=>p.remove());const b=e.target.closest('.src');if(!b)return;const [t,u]=D.ps[b.dataset.p];const p=document.createElement('div');p.className='pop';
  p.innerHTML=esc(t)+(u?`<br><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:'');document.body.appendChild(p);const r=b.getBoundingClientRect();p.style.left=Math.max(8,Math.min(innerWidth-390,r.left))+'px';p.style.top=(r.bottom+6)+'px';e.stopPropagation()});
 $('#th').onchange=()=>{fillCats();setCat()};$('#cat').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
