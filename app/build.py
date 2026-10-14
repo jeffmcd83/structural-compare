@@ -49,6 +49,7 @@ tpl=open(R+'app/template.html').read()
 ver=hashlib.md5((a+b+tpl).encode()).hexdigest()[:8]
 open(OUT+'/index.html','w').write(tpl.replace('__VER__',ver).replace('__BUILT__',core['built']))
 open(OUT+'/favicon.svg','w').write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#111827"/><path d="M8 34h12l5-12 8 24 6-16 4 4h13" fill="none" stroke="#ef4444" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>')
+open(OUT+'/manifest.webmanifest','w').write('{"name":"Structural Heart Comparison Guide","short_name":"Structural","start_url":"./","scope":"./","display":"standalone","background_color":"#111827","theme_color":"#111827","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml"}]}\n')  # PWA manifest (offline/installable)
 open(OUT+'/sw.js','w').write(f"const P='sh-preview-',C=P+'{ver}';self.addEventListener('install',e=>{{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(['./','./favicon.svg','./data/core.json?v={ver}'])))}});self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x.startsWith(P)&&x!==C).map(x=>caches.delete(x))))));self.addEventListener('fetch',e=>{{if(e.request.method!=='GET')return;const u=new URL(e.request.url);if(u.origin!==location.origin)return;e.respondWith(caches.open(C).then(c=>fetch(e.request,{{cache:'no-cache'}}).then(r=>{{if(r.ok)c.put(e.request,r.clone());return r}}).catch(()=>c.match(e.request,{{ignoreSearch:true}}))))}});")
 print('ver',ver,len(out),'rows',len(PS),'sources')
 
