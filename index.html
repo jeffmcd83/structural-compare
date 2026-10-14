@@ -1,0 +1,75 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Structural Heart Comparison Guide</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><meta name="theme-color" content="#111827">
+<link rel="preload" href="data/core.json?v=19434c58" as="fetch" crossorigin>
+<style>
+:root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
+*{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+details.gd{position:relative}details.gd summary{list-style:none;font:inherit;border-radius:8px;padding:8px 14px;background:#1f2937;color:#cbd5e1;cursor:pointer}details.gd summary::-webkit-details-marker{display:none}details.gd[open] summary{background:#2563eb;color:#fff}details.gd ul{position:absolute;z-index:50;top:110%;left:0;min-width:220px;margin:0;padding:6px;list-style:none;background:#111827;border:1px solid #374151;border-radius:8px}details.gd a{display:flex;justify-content:space-between;gap:8px;padding:8px 10px;border-radius:6px;color:#e5e7eb;text-decoration:none}details.gd a:hover{background:#1f2937}details.gd a.me{background:#2563eb;color:#fff}details.gd small{opacity:.7}
+header{background:#111827;color:#fff;padding:12px 18px;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+header h1{font-size:18px;margin:0}.pass{font-size:11px;color:#9aa3b2;margin-right:auto}
+select,input,button{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:8px}label.tg{display:flex;gap:6px;align-items:center;cursor:pointer}
+.bar{display:flex;flex-wrap:wrap;gap:10px;padding:12px 18px;align-items:flex-start}
+.pk{position:relative;flex:1 1 200px;max-width:280px}.pk input{width:100%}.pk .list{position:absolute;z-index:5;left:0;right:0;background:#fff;border:1px solid var(--line);border-radius:8px;max-height:280px;overflow:auto;display:none;box-shadow:0 6px 20px #0002}
+.pk .list div{padding:7px 10px;cursor:pointer}.pk .list div:hover{background:#eef2ff}.pk .list .dis{color:#aaa;cursor:not-allowed;background:#f6f6f6}.pk .list small{color:var(--mut)}.pk .x{position:absolute;right:6px;top:6px;border:0;background:none;cursor:pointer;color:var(--mut)}
+main{padding:0 18px 40px}table{width:100%;border-collapse:collapse;background:var(--card);border-radius:10px;overflow:hidden;table-layout:fixed}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left;word-wrap:break-word}th.a{width:22%;color:#475569;font-weight:600}
+tbody.sec tr:nth-child(even) td,tbody.sec tr:nth-child(even) th{background:#fafbfd}tr.d td{background:var(--diff)!important}
+tr.sh th{background:#e8edf5;cursor:pointer;font-size:13px}tr.sh th:before{content:'▾ '}tbody.col tr:not(.sh){display:none}tbody.col tr.sh th:before{content:'▸ '}
+.na{color:var(--mut)}.src{display:inline-block;margin-left:5px;width:16px;height:16px;border-radius:50%;background:#dbeafe;color:#1d4ed8;font-size:10px;text-align:center;line-height:16px;cursor:pointer;vertical-align:middle}
+.pop{position:fixed;z-index:9;max-width:380px;background:#111827;color:#fff;padding:10px 12px;border-radius:8px;font-size:12px;box-shadow:0 8px 24px #0004}.pop a{color:#93c5fd;word-break:break-all}
+.cat{max-height:5.6em;overflow:auto;font-size:12px}.rc{font-size:12px;margin-top:4px;border-left:3px solid #ef4444;padding-left:6px}
+.view{display:inline-flex}body.dsk main{overflow:auto;max-height:calc(100vh - 40px);padding:0;margin:0 18px 40px;border-radius:10px}body.dsk table{min-width:880px;overflow:visible;border-radius:0}body.dsk th.a{width:200px;position:sticky;left:0;z-index:2;background:#fff}body.dsk thead th{position:sticky;top:0;z-index:3;background:#fff;box-shadow:0 1px 0 var(--line)}body.dsk thead th.a{z-index:4}body.dsk tr.sh th{position:sticky;left:0}@media(max-width:720px){body.stk table,body.stk tbody,body.stk tr,body.stk td,body.stk th{display:block;width:100%!important}body.stk tr.sh th{position:sticky;top:0}body.stk td:before{content:attr(data-v);display:block;font-size:11px;color:var(--mut)}body.cmp th,body.cmp td{padding:5px 6px;font-size:12px}body.cmp th.a{width:30%}}
+.slot{background:#fafafa!important;border-left:1px dashed var(--line)}button.add{padding:4px 8px;font-size:12px;cursor:pointer;background:#eef2ff;border-color:#c7d2fe;color:#1d4ed8}.empty{padding:40px;text-align:center;color:var(--mut)}
+.pk .vend{font-weight:700;font-size:13px;margin-bottom:4px;border-top:3px solid #475569;padding-top:4px}.pk[data-v="Edwards"] .vend{border-top-color:#b91c1c}.pk[data-v="Medtronic"] .vend{border-top-color:#1d4ed8}.pk[data-v="Abbott"] .vend{border-top-color:#0ea5e9}.pk[data-v="Boston Scientific"] .vend{border-top-color:#0f766e}.pk .vend small{font-weight:400;color:var(--mut)}.pk select{width:100%}.pk .x{top:4px;bottom:auto;right:0;font-size:12px}small.vh{font-weight:700;text-transform:uppercase;letter-spacing:.03em;color:#475569}
+@media(max-width:720px){.bar{padding:8px;gap:8px}.pk{flex:1 1 calc(50% - 8px);max-width:none}}
+.bdgs{display:flex;flex-wrap:wrap;gap:4px;margin:4px 0}.bdg{font-size:10.5px;font-weight:700;letter-spacing:.02em;border-radius:999px;padding:2px 8px;line-height:1.5;white-space:nowrap}.bdg.lat{background:#dcfce7;color:#166534}.bdg.prv{background:#f1f5f9;color:#475569}.bdg.sup{background:#ede9fe;color:#5b21b6}.bdg.int{background:#e0f2fe;color:#075985}
+</style></head><body class="cmp">
+<header><h1>Structural Heart Comparison Guide</h1><span class="pass">Preview · pass __PASS__ · built 2026-10-14</span><details class="gd" id="gd" hidden><summary>Guides ▾</summary><ul id="gdl"></ul></details>
+<select id="th" aria-label="Therapy"></select><select id="cat" aria-label="Category"></select><select id="vp" aria-label="Valve position" hidden><option value="">All valve positions</option><option>Supra-annular</option><option>Intra-annular</option></select>
+<label class="tg"><input type="checkbox" id="diff"> Differences only</label>
+<span class="view"><select id="vw" aria-label="View"><option value="cmp">Compact</option><option value="stk">Stacked</option><option value="dsk">Desktop</option></select></span></header>
+<div class="bar" id="pk"></div><main id="m"><div class="empty">Loading…</div></main>
+<script>
+const $=s=>document.querySelector(s);let D,RC=null,sel=[],collapsed={};
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+fetch('data/core.json?v=19434c58').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='v1.0 · pass '+d.pass+' · built '+d.built;
+ const cats=Object.keys(d.sect),TH=['Coronary','TAVI','Mitral TEER','Mitral TMVR','Tricuspid TEER','Tricuspid TTVR','LAAO','Shared accessories'].filter(t=>cats.some(c=>(d.ther[c]||'Coronary')===t));
+ $('#th').innerHTML=TH.map(t=>`<option>${esc(t)}</option>`).join('');
+ const h=new URLSearchParams(location.hash.slice(1));const c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
+ $('#th').value=c0?(d.ther[c0]||'Coronary'):(h.get('t')&&TH.includes(h.get('t'))?h.get('t'):TH[0]);fillCats();if(c0)$('#cat').value=c0;
+ setCat(h.get('m')?h.get('m').split('~'):null)});
+function fillCats(){const t=$('#th').value;$('#cat').innerHTML=Object.keys(D.sect).filter(c=>(D.ther[c]||'Coronary')===t&&D.rows.some(r=>r.category===c)).map(c=>`<option>${esc(c)}</option>`).join('')}
+function rowsOf(c){return D.rows.filter(r=>r.category===c)}
+let V=[];
+const VPF=()=>{const e=$('#vp');return e&&!e.hidden?e.value:''};
+const vpOk=r=>!VPF()||r.valve_position===VPF();
+const gtag=r=>r.generation==='Latest'?'★ Latest':r.generation?'Previous gen':'';
+const ptag=r=>r.valve_position?(/^supra/i.test(r.valve_position)?'SUPRA':'INTRA'):'';
+function badges(r){if(!r)return'';let h='';if(r.generation)h+=`<span class="bdg ${r.generation==='Latest'?'lat':'prv'}">${esc(gtag(r))}</span>`;if(r.valve_position)h+=`<span class="bdg ${ptag(r)==='SUPRA'?'sup':'int'}" title="${esc(r.valve_position)}">${esc(r.valve_position)}</span>`;return h?`<div class="bdgs">${h}</div>`:''}
+function optLabel(r){return [r.model,gtag(r),r.valve_position?ptag(r)+'-annular':''].filter(Boolean).join(' · ')}
+function suppliers(c){const R=rowsOf(c).filter(vpOk),O=D.suporder||[],s=[...new Set(R.map(r=>r.supplier||r.manufacturer))];return s.sort((a,b)=>{const ia=O.indexOf(a),ib=O.indexOf(b);return (ia<0?99:ia)-(ib<0?99:ib)||a.localeCompare(b)})}
+function prodsOf(c,v){const P=rowsOf(c).filter(r=>(r.supplier||r.manufacturer)===v&&vpOk(r));return P.map((r,i)=>[r,i]).sort((a,b)=>(b[0].fda_approval_date||'').localeCompare(a[0].fda_approval_date||'')||a[1]-b[1]).map(x=>x[0])}
+function vpBar(c){const has=rowsOf(c).some(r=>r.valve_position),e=$('#vp');if(!e)return;e.hidden=!has;if(!has)e.value=''}
+function setCat(pre){const c=$('#cat').value;vpBar(c);V=suppliers(c);sel=V.map((v,i)=>{const P=prodsOf(c,v),m=pre&&pre[i];if(pre)return m?P.find(x=>x.model===m)||null:null;return P[0]||null});pickers();render()}
+function pickers(){const c=$('#cat').value;$('#pk').innerHTML=V.map((v,i)=>{const P=prodsOf(c,v),s=sel[i];return `<div class="pk" data-v="${esc(v)}"><div class="vend">${esc(v)} <small>${P.length} model${P.length>1?'s':''}</small></div><select data-i="${i}" aria-label="${esc(v)} product"><option value="">— Select ${esc(v)} product —</option>${P.map(r=>`<option value="${esc(r.model)}"${s===r?' selected':''}>${esc(optLabel(r))}</option>`).join('')}</select><button class="x" data-i="${i}" title="Clear">✕</button>${badges(s)}</div>`}).join('');
+ document.querySelectorAll('.pk select').forEach(x=>x.onchange=()=>{const i=+x.dataset.i;sel[i]=prodsOf(c,V[i]).find(r=>r.model===x.value)||null;pickers();render()});
+ document.querySelectorAll('.pk .x').forEach(b=>b.onclick=()=>{sel[b.dataset.i]=null;pickers();render()})}
+function cell(r,f){if(!r)return'';let v=r[f];if(v==null||v==='')return'<span class="na">—</span>';
+ let s=f==='catalog_numbers'?`<div class="cat">${esc(v)}</div>`:esc(v);const p=r._p&&r._p[f];if(p!=null)s+=`<span class="src" data-p="${p}">i</span>`;
+ if(f==='recalls'&&RC&&RC[r.model])s+=RC[r.model].map(x=>`<div class="rc"><b>${esc(x[0])}</b> ${esc(x[1])} · ${esc(x[2])}<br>${esc(x[3])}<br><small>Catalogs: ${esc(x[4])}</small></div>`).join('');return s}
+const isRep=r=>!!r&&!!r.reprocessed&&!/^no\b/i.test(String(r.reprocessed));const REPF=f=>/reprocess/i.test(f);
+function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='t='+encodeURIComponent($('#th').value)+'&c='+encodeURIComponent(c)+'&m='+encodeURIComponent(sel.map(s=>s?s.model:'').join('~'));
+ const R=rowsOf(c),diff=$('#diff').checked&&S.length>1,showRep=S.some(isRep);
+ let h='<table><thead><tr><th class="a">Attribute</th>'+sel.map((s,i)=>s?`<th><small class="vh">${esc(V[i])}</small><br>${esc(s.model)}${badges(s)}<small class="na">${esc(s.manufacturer)}</small></th>`:`<th class="slot"><small class="vh">${esc(V[i])}</small><br><button class="add" data-i="${i}">+ Select product</button><br><small class="na">No ${esc(V[i])} product selected</small></th>`).join('')+'</tr></thead>';
+ for(const [name,fs] of D.sect[c]){if(REPF(name)&&!showRep)continue;const F=fs.filter(f=>(R.some(r=>r[f]!=null&&r[f]!=='')||f==='recalls')&&(showRep||!REPF(f)));if(!F.length)continue;let b='';
+  for(const f of F){const vals=S.map(s=>s[f]??'');const d=new Set(vals).size>1;if(diff&&!d)continue;b+=`<tr class="${d&&S.length>1?'d':''}"><th class="a">${esc(D.labels[f]||f)}</th>`+sel.map(s=>s?`<td data-v="${esc(s.model)}">${cell(s,f)}</td>`:`<td class="slot" data-v="Empty slot"></td>`).join('')+'</tr>'}
+  if(b)h+=`<tbody class="sec ${collapsed[name]?'col':''}" data-s="${esc(name)}"><tr class="sh"><th colspan="${sel.length+1}">${esc(name)}</th></tr>${b}</tbody>`}
+ $('#m').innerHTML=h+'</table>'+(S.length?'':'<div class="empty">All slots empty — pick a product under any supplier above.</div>');
+ document.querySelectorAll('tr.sh').forEach(t=>t.onclick=()=>{const n=t.parentNode.dataset.s;collapsed[n]=!collapsed[n];t.parentNode.classList.toggle('col')});
+ document.querySelectorAll('button.add').forEach(b=>b.onclick=()=>{const i=document.querySelector(`.pk select[data-i="${b.dataset.i}"]`);i.scrollIntoView({block:'center'});i.focus();try{i.showPicker()}catch(_){}});
+ if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=19434c58').then(r=>r.json()).then(x=>{RC=x;render()})}
+document.addEventListener('click',e=>{document.querySelectorAll('.pop').forEach(p=>p.remove());const b=e.target.closest('.src');if(!b)return;const [t,u]=D.ps[b.dataset.p];const p=document.createElement('div');p.className='pop';
+ p.innerHTML=esc(t)+(u?`<br><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:'');document.body.appendChild(p);const r=b.getBoundingClientRect();p.style.left=Math.max(8,Math.min(innerWidth-390,r.left))+'px';p.style.top=(r.bottom+6)+'px';e.stopPropagation()});
+$('#th').onchange=()=>{fillCats();setCat()};$('#cat').onchange=()=>setCat();$('#vp').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
+if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
+</script><script>fetch('data/guides.json',{cache:'no-cache'}).then(r=>r.ok?r.json():null).then(d=>{if(!d||!d.guides||!d.guides.length)return;const e=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));document.getElementById('gdl').innerHTML=d.guides.map(g=>{const live=g.status==='live'&&g.url,u=live?g.url:g.preview_url,me=g.id===d.self,n=e(g.title||g.name||g.id);return u?`<li><a href="${e(u)}"${me?' class="me" aria-current="page"':''}>${n}${live?'':' <small>preview</small>'}</a></li>`:`<li><a aria-disabled="true" style="opacity:.5;pointer-events:none">${n} <small>coming soon</small></a></li>`}).join('');document.getElementById('gd').hidden=false}).catch(()=>{})</script></body></html>
