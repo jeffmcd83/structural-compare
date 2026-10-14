@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Structural Heart Comparison Guide</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><meta name="theme-color" content="#111827">
-<link rel="preload" href="data/core.json?v=f6937705" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=ef140c01" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -20,16 +20,18 @@ tr.sh th{background:#e8edf5;cursor:pointer;font-size:13px}tr.sh th:before{conten
 .cat{max-height:5.6em;overflow:auto;font-size:12px}.rc{font-size:12px;margin-top:4px;border-left:3px solid #ef4444;padding-left:6px}
 .view{display:inline-flex}body.dsk main{overflow:auto;max-height:calc(100vh - 40px);padding:0;margin:0 18px 40px;border-radius:10px}body.dsk table{min-width:880px;overflow:visible;border-radius:0}body.dsk th.a{width:200px;position:sticky;left:0;z-index:2;background:#fff}body.dsk thead th{position:sticky;top:0;z-index:3;background:#fff;box-shadow:0 1px 0 var(--line)}body.dsk thead th.a{z-index:4}body.dsk tr.sh th{position:sticky;left:0}@media(max-width:720px){body.stk table,body.stk tbody,body.stk tr,body.stk td,body.stk th{display:block;width:100%!important}body.stk tr.sh th{position:sticky;top:0}body.stk td:before{content:attr(data-v);display:block;font-size:11px;color:var(--mut)}body.cmp th,body.cmp td{padding:5px 6px;font-size:12px}body.cmp th.a{width:30%}}
 .slot{background:#fafafa!important;border-left:1px dashed var(--line)}button.add{padding:4px 8px;font-size:12px;cursor:pointer;background:#eef2ff;border-color:#c7d2fe;color:#1d4ed8}.empty{padding:40px;text-align:center;color:var(--mut)}
+.pk .vend{font-weight:700;font-size:13px;margin-bottom:4px;border-top:3px solid #475569;padding-top:4px}.pk[data-v="Edwards"] .vend{border-top-color:#b91c1c}.pk[data-v="Medtronic"] .vend{border-top-color:#1d4ed8}.pk[data-v="Abbott"] .vend{border-top-color:#0ea5e9}.pk[data-v="Boston Scientific"] .vend{border-top-color:#0f766e}.pk .vend small{font-weight:400;color:var(--mut)}.pk select{width:100%}.pk .x{top:4px;bottom:auto;right:0;font-size:12px}small.vh{font-weight:700;text-transform:uppercase;letter-spacing:.03em;color:#475569}
+@media(max-width:720px){.bar{padding:8px;gap:8px}.pk{flex:1 1 calc(50% - 8px);max-width:none}}
 </style></head><body class="cmp">
-<header><h1>Structural Heart Comparison Guide</h1><span class="pass">Preview · pass __PASS__ · built 2026-10-13</span><details class="gd" id="gd" hidden><summary>Guides ▾</summary><ul id="gdl"></ul></details>
+<header><h1>Structural Heart Comparison Guide</h1><span class="pass">Preview · pass __PASS__ · built 2026-10-14</span><details class="gd" id="gd" hidden><summary>Guides ▾</summary><ul id="gdl"></ul></details>
 <select id="th" aria-label="Therapy"></select><select id="cat" aria-label="Category"></select>
 <label class="tg"><input type="checkbox" id="diff"> Differences only</label>
 <span class="view"><select id="vw" aria-label="View"><option value="cmp">Compact</option><option value="stk">Stacked</option><option value="dsk">Desktop</option></select></span></header>
 <div class="bar" id="pk"></div><main id="m"><div class="empty">Loading…</div></main>
 <script>
-const $=s=>document.querySelector(s);let D,RC=null,sel=[null,null,null,null],collapsed={};
+const $=s=>document.querySelector(s);let D,RC=null,sel=[],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=f6937705').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
+fetch('data/core.json?v=ef140c01').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
  const cats=Object.keys(d.sect),TH=['Coronary','TAVI','Mitral TEER','Mitral TMVR','Tricuspid TEER','Tricuspid TTVR','LAAO','Shared accessories'].filter(t=>cats.some(c=>(d.ther[c]||'Coronary')===t));
  $('#th').innerHTML=TH.map(t=>`<option>${esc(t)}</option>`).join('');
  const h=new URLSearchParams(location.hash.slice(1));const c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
@@ -37,12 +39,12 @@ fetch('data/core.json?v=f6937705').then(r=>r.json()).then(d=>{D=d;document.query
  setCat(h.get('m')?h.get('m').split('~'):null)});
 function fillCats(){const t=$('#th').value;$('#cat').innerHTML=Object.keys(D.sect).filter(c=>(D.ther[c]||'Coronary')===t&&D.rows.some(r=>r.category===c)).map(c=>`<option>${esc(c)}</option>`).join('')}
 function rowsOf(c){return D.rows.filter(r=>r.category===c)}
-function setCat(pre){const R=rowsOf($('#cat').value);sel=[0,1,2,3].map(i=>{const m=pre&&pre[i];const r=m?R.find(x=>x.model===m):R[i];return r||null});sel=sel.map((r,i)=>r&&sel.indexOf(r)===i?r:null);pickers();render()}
-function pickers(){const R=rowsOf($('#cat').value);$('#pk').innerHTML=sel.map((s,i)=>`<div class="pk"><input placeholder="Search vendor/model…" data-i="${i}" value="${s?esc(s.model+' — '+s.manufacturer):''}"><button class="x" data-i="${i}" title="Clear">✕</button><div class="list"></div></div>`).join('');
- document.querySelectorAll('.pk input').forEach(inp=>{const L=inp.parentNode.querySelector('.list');const show=()=>{const q=inp.value.toLowerCase().trim();const sh=R.filter(r=>!q||inp.value===(sel[inp.dataset.i]&&sel[inp.dataset.i].model+' — '+sel[inp.dataset.i].manufacturer)||(r.manufacturer+' '+r.model).toLowerCase().includes(q));
-  const used=sel.filter((x,j)=>x&&j!=inp.dataset.i);L.innerHTML=sh.map(r=>used.includes(r)?`<div class="na dis" title="Already selected">${esc(r.model)} <small>${esc(r.manufacturer)} · selected</small></div>`:`<div data-m="${esc(r.model)}" data-k="${R.indexOf(r)}">${esc(r.model)} <small>${esc(r.manufacturer)}</small></div>`).join('')||'<div class="na">No match</div>';L.style.display='block'};
-  inp.onfocus=()=>{inp.select();show()};inp.oninput=show;inp.onblur=()=>setTimeout(()=>L.style.display='none',150);
-  L.onmousedown=e=>{const m=e.target.closest('[data-m]');if(!m)return;const r=R[+m.dataset.k];if(sel.some((x,j)=>x===r&&j!=inp.dataset.i))return;sel[inp.dataset.i]=r;pickers();render()}});
+let V=[];
+function suppliers(c){const R=rowsOf(c),O=D.suporder||[],s=[...new Set(R.map(r=>r.supplier||r.manufacturer))];return s.sort((a,b)=>{const ia=O.indexOf(a),ib=O.indexOf(b);return (ia<0?99:ia)-(ib<0?99:ib)||a.localeCompare(b)})}
+function prodsOf(c,v){return rowsOf(c).filter(r=>(r.supplier||r.manufacturer)===v)}
+function setCat(pre){const c=$('#cat').value;V=suppliers(c);sel=V.map((v,i)=>{const P=prodsOf(c,v),m=pre&&pre[i];if(pre)return m?P.find(x=>x.model===m)||null:null;return P[0]||null});pickers();render()}
+function pickers(){const c=$('#cat').value;$('#pk').innerHTML=V.map((v,i)=>{const P=prodsOf(c,v),s=sel[i];return `<div class="pk" data-v="${esc(v)}"><div class="vend">${esc(v)} <small>${P.length} model${P.length>1?'s':''}</small></div><select data-i="${i}" aria-label="${esc(v)} product"><option value="">— Select ${esc(v)} product —</option>${P.map(r=>`<option value="${esc(r.model)}"${s===r?' selected':''}>${esc(r.model)}</option>`).join('')}</select><button class="x" data-i="${i}" title="Clear">✕</button></div>`}).join('');
+ document.querySelectorAll('.pk select').forEach(x=>x.onchange=()=>{const i=+x.dataset.i;sel[i]=prodsOf(c,V[i]).find(r=>r.model===x.value)||null;render()});
  document.querySelectorAll('.pk .x').forEach(b=>b.onclick=()=>{sel[b.dataset.i]=null;pickers();render()})}
 function cell(r,f){if(!r)return'';let v=r[f];if(v==null||v==='')return'<span class="na">—</span>';
  let s=f==='catalog_numbers'?`<div class="cat">${esc(v)}</div>`:esc(v);const p=r._p&&r._p[f];if(p!=null)s+=`<span class="src" data-p="${p}">i</span>`;
@@ -50,14 +52,14 @@ function cell(r,f){if(!r)return'';let v=r[f];if(v==null||v==='')return'<span cla
 const isRep=r=>!!r&&!!r.reprocessed&&!/^no\b/i.test(String(r.reprocessed));const REPF=f=>/reprocess/i.test(f);
 function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='t='+encodeURIComponent($('#th').value)+'&c='+encodeURIComponent(c)+'&m='+encodeURIComponent(sel.map(s=>s?s.model:'').join('~'));
  const R=rowsOf(c),diff=$('#diff').checked&&S.length>1,showRep=S.some(isRep);
- let h='<table><thead><tr><th class="a">Attribute</th>'+sel.map((s,i)=>s?`<th>${esc(s.model)}<br><small class="na">${esc(s.manufacturer)}</small></th>`:`<th class="slot"><button class="add" data-i="${i}">+ Add device</button><br><small class="na">Empty slot ${i+1}</small></th>`).join('')+'</tr></thead>';
+ let h='<table><thead><tr><th class="a">Attribute</th>'+sel.map((s,i)=>s?`<th><small class="vh">${esc(V[i])}</small><br>${esc(s.model)}<br><small class="na">${esc(s.manufacturer)}</small></th>`:`<th class="slot"><small class="vh">${esc(V[i])}</small><br><button class="add" data-i="${i}">+ Select product</button><br><small class="na">No ${esc(V[i])} product selected</small></th>`).join('')+'</tr></thead>';
  for(const [name,fs] of D.sect[c]){if(REPF(name)&&!showRep)continue;const F=fs.filter(f=>(R.some(r=>r[f]!=null&&r[f]!=='')||f==='recalls')&&(showRep||!REPF(f)));if(!F.length)continue;let b='';
   for(const f of F){const vals=S.map(s=>s[f]??'');const d=new Set(vals).size>1;if(diff&&!d)continue;b+=`<tr class="${d&&S.length>1?'d':''}"><th class="a">${esc(D.labels[f]||f)}</th>`+sel.map(s=>s?`<td data-v="${esc(s.model)}">${cell(s,f)}</td>`:`<td class="slot" data-v="Empty slot"></td>`).join('')+'</tr>'}
   if(b)h+=`<tbody class="sec ${collapsed[name]?'col':''}" data-s="${esc(name)}"><tr class="sh"><th colspan="${sel.length+1}">${esc(name)}</th></tr>${b}</tbody>`}
- $('#m').innerHTML=h+'</table>'+(S.length?'':'<div class="empty">All slots empty — use “+ Add device” or the pickers above.</div>');
+ $('#m').innerHTML=h+'</table>'+(S.length?'':'<div class="empty">All slots empty — pick a product under any supplier above.</div>');
  document.querySelectorAll('tr.sh').forEach(t=>t.onclick=()=>{const n=t.parentNode.dataset.s;collapsed[n]=!collapsed[n];t.parentNode.classList.toggle('col')});
- document.querySelectorAll('button.add').forEach(b=>b.onclick=()=>{const i=document.querySelector(`.pk input[data-i="${b.dataset.i}"]`);i.scrollIntoView({block:'center'});i.focus()});
- if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=f6937705').then(r=>r.json()).then(x=>{RC=x;render()})}
+ document.querySelectorAll('button.add').forEach(b=>b.onclick=()=>{const i=document.querySelector(`.pk select[data-i="${b.dataset.i}"]`);i.scrollIntoView({block:'center'});i.focus();try{i.showPicker()}catch(_){}});
+ if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=ef140c01').then(r=>r.json()).then(x=>{RC=x;render()})}
 document.addEventListener('click',e=>{document.querySelectorAll('.pop').forEach(p=>p.remove());const b=e.target.closest('.src');if(!b)return;const [t,u]=D.ps[b.dataset.p];const p=document.createElement('div');p.className='pop';
  p.innerHTML=esc(t)+(u?`<br><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:'');document.body.appendChild(p);const r=b.getBoundingClientRect();p.style.left=Math.max(8,Math.min(innerWidth-390,r.left))+'px';p.style.top=(r.bottom+6)+'px';e.stopPropagation()});
 $('#th').onchange=()=>{fillCats();setCat()};$('#cat').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
