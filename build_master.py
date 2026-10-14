@@ -88,7 +88,7 @@ SPEC={'DES':['drug','drug_dose','polymer','strut_thickness_um','platform_alloy',
 'Microcatheter':['tip_od_fr','shaft_od_fr','inner_diameter_in','marker_bands'],'Guide extension':['inner_diameter_in','outer_diameter_in','guide_compat_fr'],
 'Atherectomy & IVL':['mechanism','pulses_or_runs','rbp_atm','crossing_profile_in','tip_profile_in','guide_compat'],'Imaging & physiology':['modality','frequency_mhz','pullback_speed','physiology_indices'],
 'Thrombectomy':['mechanism','aspiration_lumen_in'],
-'TAVI valve':['expansion_type','annulus_range_mm','frame_material','leaflet_tissue','skirt','delivery_system','delivery_profile','sheath_compat','access_routes','approval_indications'],
+'TAVI valve':['valve_position','expansion_type','annulus_range_mm','frame_material','leaflet_tissue','skirt','delivery_system','delivery_profile','sheath_compat','access_routes','approval_indications'],
 'TMVR valve':['expansion_type','frame_material','leaflet_tissue','skirt','anchoring','delivery_system','delivery_profile','sheath_compat','access_routes','approval_indications'],
 'TTVR valve':['expansion_type','annulus_range_mm','frame_material','leaflet_tissue','skirt','anchoring','delivery_system','delivery_profile','sheath_compat','access_routes','approval_indications'],
 'LAAO device':['implant_design','sizing_range','delivery_system','access_sheath','access_routes','approval_indications'],
@@ -126,7 +126,7 @@ exec(open('passes_apply.py').read())
 EXCLUDE={"AngioJet AVX"}  # AV-access grafts/fistulae only (BSC US AngioJet page)
 rows=[r for r in rows if r.get("model") not in EXCLUDE]
 for r in rows: r['therapy']=THER.get(r['category'],'Coronary')
-FIELDS=['therapy','category','manufacturer','model','n_skus','catalog_numbers','fda_submission','product_code','diameters_mm','lengths_mm','french_sizes','length_cm','wire_diameter_in','guidewire_compat_in','sheath_compat_fr','burr_sizes_mm','inner_diameter_mm','valve_sizes_mm','clip_width_mm','arm_length_mm','grasping_width_mm']+[x for x in allspec if x!='inner_diameter_mm']
+FIELDS=['therapy','category','manufacturer','model','family','generation','fda_approval_date','valve_position','n_skus','catalog_numbers','fda_submission','product_code','diameters_mm','lengths_mm','french_sizes','length_cm','wire_diameter_in','guidewire_compat_in','sheath_compat_fr','burr_sizes_mm','inner_diameter_mm','valve_sizes_mm','clip_width_mm','arm_length_mm','grasping_width_mm']+[x for x in allspec if x!='inner_diameter_mm']
 FIELDS=list(dict.fromkeys(FIELDS))
 with open('structural-specs-verified.csv','w',newline='') as f:
     w=csv.DictWriter(f,FIELDS);w.writeheader();[w.writerow({k:r.get(k,'') for k in FIELDS}) for r in rows]

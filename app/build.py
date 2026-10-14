@@ -3,7 +3,7 @@ R='/workspace/structural-specs/';OUT=R+'site/preview'
 os.makedirs(OUT+'/data',exist_ok=True)
 rows=list(csv.DictReader(open(R+'structural-specs-verified.csv')));prov=json.load(open(R+'provenance.json'))
 rec=list(csv.DictReader(open(R+'structural-recalls.csv')));SPEC=json.load(open(R+'spec_by_cat.json'))
-COMMON=['manufacturer','n_skus','fda_submission','product_code','catalog_numbers']
+COMMON=['family','generation','fda_approval_date','manufacturer','n_skus','fda_submission','product_code','catalog_numbers']
 SIZE={'DES':['diameters_mm','lengths_mm'],'BMS':['diameters_mm','lengths_mm'],'Covered stent':['diameters_mm','lengths_mm'],'DCB':['diameters_mm','lengths_mm'],
 'Balloon':['diameters_mm','lengths_mm'],'Guide catheter':['french_sizes','length_cm','inner_diameter_mm'],'Guidewire':['wire_diameter_in','length_cm'],
 'Microcatheter':['french_sizes','length_cm'],'Guide extension':['french_sizes','length_cm'],'Atherectomy & IVL':['diameters_mm','burr_sizes_mm','french_sizes','sheath_compat_fr','guidewire_compat_in','length_cm','nominal_pressure_atm'],
@@ -14,7 +14,7 @@ SIZE={'DES':['diameters_mm','lengths_mm'],'BMS':['diameters_mm','lengths_mm'],'C
 'TMVR valve':['valve_sizes_mm'],'TTVR valve':['valve_sizes_mm'],'LAAO device':['diameters_mm'],'LAAO access sheath':['french_sizes','length_cm','inner_diameter_mm'],'Transseptal access':['french_sizes','length_cm'],'Steerable guide/sheath':['french_sizes','length_cm']}
 THER=json.load(open(R+'therapy_by_cat.json'))
 SECT={c:[['Identity & regulatory',COMMON],['Sizes (GUDID)',SIZE[c]],['Specifications (OEM IFU / spec sheet)',[f for f in SPEC[c] if f not in SIZE[c]]],['Safety',['recalls']]] for c in SPEC}
-LAB=lambda k:{'sheath_id_od':'Sheath ID / OD','sheath_compat':'Sheath / introducer compatibility','delivery_profile':'Delivery system profile','access_routes':'Labeled access routes','approval_indications':'FDA approval / indications','annulus_range_mm':'Annulus range (mm)','implant_sizes':'Implant sizes','independent_grasping':'Independent leaflet grasping','guide_size_fr':'Guide / sheath size (Fr)','grasping_width_mm':'Grasping width, arms open (mm)','clip_width_mm':'Clip / implant width (mm)','arm_length_mm':'Arm length (mm)','implant_design':'Implant design','sizing_range':'Sizing (device → anatomy)','access_sheath':'Access / delivery sheath','anchoring':'Anchoring','inner_diameter_fr':'Inner diameter (Fr)','puncture_mechanism':'Puncture mechanism','needle_curves':'Needle / dilator curves','n_skus':'GUDID device count','fda_submission':'FDA PMA / 510(k) / HDE','catalog_numbers':'Catalog / model numbers','reprocessed':'Reprocessed (3rd-party 510(k))'}.get(k,(lambda m:(m.group(1).replace('_',' ').capitalize()+(' ('+{'mm':'mm','in':'in','cm':'cm','fr':'Fr','um':'µm','atm':'atm','gf':'gf','mhz':'MHz'}[m.group(2)]+')' if m.group(2) else '')))(re.match(r'(.*?)(?:_(mm|in|cm|fr|um|atm|gf|mhz))?$',k)))
+LAB=lambda k:{'sheath_id_od':'Sheath ID / OD','sheath_compat':'Sheath / introducer compatibility','delivery_profile':'Delivery system profile','access_routes':'Labeled access routes','approval_indications':'FDA approval / indications','annulus_range_mm':'Annulus range (mm)','implant_sizes':'Implant sizes','independent_grasping':'Independent leaflet grasping','guide_size_fr':'Guide / sheath size (Fr)','grasping_width_mm':'Grasping width, arms open (mm)','clip_width_mm':'Clip / implant width (mm)','arm_length_mm':'Arm length (mm)','valve_position':'Valve position','family':'Product family','generation':'Generation','fda_approval_date':'FDA approval (this model)','implant_design':'Implant design','sizing_range':'Sizing (device → anatomy)','access_sheath':'Access / delivery sheath','anchoring':'Anchoring','inner_diameter_fr':'Inner diameter (Fr)','puncture_mechanism':'Puncture mechanism','needle_curves':'Needle / dilator curves','n_skus':'GUDID device count','fda_submission':'FDA PMA / 510(k) / HDE','catalog_numbers':'Catalog / model numbers','reprocessed':'Reprocessed (3rd-party 510(k))'}.get(k,(lambda m:(m.group(1).replace('_',' ').capitalize()+(' ('+{'mm':'mm','in':'in','cm':'cm','fr':'Fr','um':'µm','atm':'atm','gf':'gf','mhz':'MHz'}[m.group(2)]+')' if m.group(2) else '')))(re.match(r'(.*?)(?:_(mm|in|cm|fr|um|atm|gf|mhz))?$',k)))
 PS=[];PI={}
 def ps(s):
     u=(re.findall(r'https?://\S+',s) or [''])[0];t=re.sub(r'\s*;?\s*https?://\S+','',s).strip(' ;')
@@ -41,7 +41,7 @@ for r in rows:
     o['_p']['recalls']=ps('openFDA device recall API, exact catalog-number match in code_info; https://open.fda.gov/apis/device/recall/')
     out.append(o)
 F=sorted({f for c in SECT.values() for s in c for f in s[1]})
-core={'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh05'}
+core={'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh06'}
 def dump(n,o):
     s=json.dumps(o,ensure_ascii=False,separators=(',',':'));open(f'{OUT}/data/{n}','w').write(s);return s
 a=dump('core.json',core);b=dump('recalls.json',RC)
