@@ -23,3 +23,5 @@ with sync_playwright() as p:
       print(n,v,'cols',cols,'slots',slots,'| all-empty cols',ca,'rows',rows)
       pg.goto(U+'#c=TAVI%20valve&m=');pg.evaluate('location.hash="c=TAVI%20valve"');pg.reload();pg.wait_for_timeout(1500)
   print('errors',errs)
+# Desktop sticky-label check (1440px, every therapy/category, all + diff mode): see tools/tsticky.py
+import subprocess as _sp;_sp.run([sys.executable,'/workspace/structural-specs/tools/tsticky.py',U,T])
