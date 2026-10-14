@@ -23,15 +23,25 @@ def ps(s):
     return PI[k]
 RC=collections.defaultdict(list)
 for x in rec: RC[x['model']].append([x['recall_number'],x['date'],x['status'],x['reason'],x['matched_catalogs'],x['source'].split(' ',3)[-1] if 'http' in x['source'] else ''])
+# Supplier = company that markets the device in the US (GUDID labeler shown separately as manufacturer)
+SUPMAP=[('EDWARDS','Edwards'),('MEDTRONIC','Medtronic'),('ST. JUDE','Abbott'),('ABBOTT','Abbott'),('BOSTON SCIENTIFIC','Boston Scientific'),('BAYLIS','Boston Scientific'),
+('COOK','Cook Medical'),('GORE','Gore'),('JENAVALVE','JenaValve'),('ESSENTIAL MEDICAL','Teleflex'),('BARD','BD'),('B BRAUN','B. Braun'),('BIO TRACE','BioTrace Medical')]
+SUPMODEL={'Safari':'Boston Scientific'}  # SAFARI is a Boston Scientific product; GUDID labeler is OEM Lake Region Medical
+def SUP(r):
+    if r['model'] in SUPMODEL: return SUPMODEL[r['model']]
+    m=r['manufacturer'].upper()
+    return next((v for k,v in SUPMAP if k in m),r['manufacturer'])
+SUPORDER=['Edwards','Medtronic','Abbott','Boston Scientific']
 out=[]
 for r in rows:
     o={k:v for k,v in r.items() if v}
+    o['supplier']=SUP(r)
     o['recalls']=str(len(RC[r['model']])) if RC[r['model']] else '0 matched'
     o['_p']={k:ps(v) for k,v in prov.get(r['model'],{}).items() if r.get(k)}
     o['_p']['recalls']=ps('openFDA device recall API, exact catalog-number match in code_info; https://open.fda.gov/apis/device/recall/')
     out.append(o)
 F=sorted({f for c in SECT.values() for s in c for f in s[1]})
-core={'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'built':datetime.date.today().isoformat(),'pass':'sh04'}
+core={'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh05'}
 def dump(n,o):
     s=json.dumps(o,ensure_ascii=False,separators=(',',':'));open(f'{OUT}/data/{n}','w').write(s);return s
 a=dump('core.json',core);b=dump('recalls.json',RC)

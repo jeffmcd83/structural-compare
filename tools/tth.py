@@ -12,10 +12,9 @@ with sync_playwright() as p:
       print(n,t,'->',cats)
       for v in ['cmp','stk','dsk']:
         pg.select_option('#vw',v);pg.wait_for_timeout(300)
-        for i in range(2):
-          pg.click(f'.pk input[data-i="{i}"]');pg.wait_for_timeout(200)
-          it=pg.locator('.pk .list > *:visible:not(.dis)')
-          if it.count()>i: it.nth(i).dispatch_event('mousedown');pg.wait_for_timeout(300)
+        for i in range(min(2,pg.locator('.pk select').count())):
+          o=pg.eval_on_selector_all(f'.pk select[data-i="{i}"] option','e=>e.map(x=>x.value).filter(Boolean)')
+          if o: pg.select_option(f'.pk select[data-i="{i}"]',o[-1]);pg.wait_for_timeout(300)
         rows=pg.locator('table tr:visible').count()
         print('  ',v,'rows',rows)
         if t!='Coronary': pg.screenshot(path=f'/workspace/structural-specs/app/{T}-{t.replace(" ","_")}-{v}-{n}.png',full_page=(v!='dsk'))
