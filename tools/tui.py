@@ -26,3 +26,4 @@ with sync_playwright() as p:
 # Desktop sticky-label check (1440px, every therapy/category, all + diff mode): see tools/tsticky.py
 import subprocess as _sp;_sp.run([sys.executable,'/workspace/structural-specs/tools/tsticky.py',U,T])
 _sp.run([sys.executable,'/workspace/structural-specs/tools/tnav.py',U])
+_sp.run([sys.executable,'/workspace/structural-specs/tools/tfeat.py',U])

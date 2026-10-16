@@ -24,3 +24,7 @@ History:
 
 ## sh09: mobile #cat sizing
 - <=720px: 14px (matches CRM mobile select), weight 400, padding 6px 8px, auto width; therapy prefixes shortened (M-TEER, T-TEER, TMVR, TTVR, Shared). Desktop unchanged.
+
+## sh10 (2026-10-16): search + compatibility view (preview only)
+- Header search: model/family/supplier/manufacturer + ALIAS table in template (S3UR, FX+, FLX Pro, …); results grouped by category; pick switches category and selects in supplier column.
+- Compatibility view (#cp=<model>): delivery system / sheaths / access routes from existing sourced cells; wires, embolic protection, closure, valvuloplasty from sources/passSH10/compat.csv (verbatim labeling statements from cached IFU/SSED, page-cited). Nothing inferred; empty = "Not stated in labeling". Generic requirements shown as generic (no brand implied). Embolic/valvuloplasty shown for TAVI valves only. Navitor Titan: Navitor IFU ARTMT600163776_B does not cover it -> all Not stated. Tests: tools/tfeat.py.

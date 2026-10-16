@@ -41,7 +41,19 @@ for r in rows:
     o['_p']['recalls']=ps('openFDA device recall API, exact catalog-number match in code_info; https://open.fda.gov/apis/device/recall/')
     out.append(o)
 F=sorted({f for c in SECT.values() for s in c for f in s[1]})
-core={'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh09'}
+
+# Compatibility panel: ONLY labeling-stated items (existing sourced cells + sources/passSH10/compat.csv). Never inferred.
+ANCH={'TAVI valve','Mitral TEER','Tricuspid TEER','TMVR valve','TTVR valve','LAAO device'}
+CF={'delivery_system':['delivery_system','delivery_profile'],'sheaths':['sheath_compat','access_sheath','delivery_sheath'],'access_routes':['access_routes']}
+_cc=collections.defaultdict(lambda:collections.defaultdict(list))
+for x in csv.DictReader(open(R+'sources/passSH10/compat.csv')):_cc[x['model']][x['field']].append([x['value'],ps(x['source'])])
+COMPAT={}
+for o in out:
+    if o['category'] not in ANCH: continue
+    c={k:[[o[f],o['_p'][f]] for f in fs if o.get(f) and f in o['_p']] for k,fs in CF.items()}
+    for k in ['sheaths','wires','embolic','closure','balloons']: c.setdefault(k,[]); c[k]+=_cc[o['model']].get(k,[])
+    COMPAT[o['model']]=c
+core={'compat':COMPAT,'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh10'}
 def dump(n,o):
     s=json.dumps(o,ensure_ascii=False,separators=(',',':'));open(f'{OUT}/data/{n}','w').write(s);return s
 a=dump('core.json',core);b=dump('recalls.json',RC)
