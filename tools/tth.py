@@ -5,10 +5,9 @@ with sync_playwright() as p:
   for vp,n in [({'width':1300,'height':900},'desk'),({'width':390,'height':844},'mob')]:
     pg=b.new_context(viewport=vp).new_page();pg.on('pageerror',lambda e:errs.append(str(e)));pg.on('console',lambda m:m.type=='error' and errs.append(m.text))
     pg.goto(U);pg.wait_for_timeout(2500)
-    ths=pg.eval_on_selector_all('#th option','o=>o.map(x=>x.value)')
-    for t in ths:
-      pg.select_option('#th',t);pg.wait_for_timeout(400)
-      cats=pg.eval_on_selector_all('#cat option','o=>o.map(x=>x.value)')
+    groups=pg.eval_on_selector_all('#cat optgroup','g=>g.map(x=>[x.label,[...x.querySelectorAll("option")].map(o=>o.value)])')
+    for t,cats in groups:
+      pg.select_option('#cat',cats[0]);pg.wait_for_timeout(400)
       print(n,t,'->',cats)
       for v in ['cmp','stk','dsk']:
         pg.select_option('#vw',v);pg.wait_for_timeout(300)

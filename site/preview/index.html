@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Structural Heart Comparison Guide</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#111827">
-<link rel="preload" href="data/core.json?v=3872cf13" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=959373b3" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -24,22 +24,33 @@ tr.sh th{background:#e8edf5;cursor:pointer;font-size:13px}tr.sh th:before{conten
 @media(max-width:720px){.bar{padding:8px;gap:8px}.pk{flex:1 1 calc(50% - 8px);max-width:none}}
 .bdgs{display:flex;flex-wrap:wrap;gap:4px;margin:4px 0}.bdg{font-size:10.5px;font-weight:700;letter-spacing:.02em;border-radius:999px;padding:2px 8px;line-height:1.5;white-space:nowrap}.bdg.lat{background:#dcfce7;color:#166534}.bdg.prv{background:#f1f5f9;color:#475569}.bdg.sup{background:#ede9fe;color:#5b21b6}.bdg.int{background:#e0f2fe;color:#075985}
 tr.sh td{background:#e8edf5;cursor:pointer}tr.sh th.a{color:inherit;font-weight:700;white-space:nowrap}body.dsk tbody th.a{position:sticky;left:0;z-index:2;background-clip:padding-box}body.dsk tbody tr.sh th.a{z-index:2;background:#e8edf5}body.dsk tbody tr:not(.sh) th.a{background:#fff}body.stk tr.sh td{display:none}
+#cat{min-width:260px;font-weight:600}
 </style></head><body class="cmp">
-<header><h1>Structural Heart Comparison Guide</h1><span class="pass">Preview · pass __PASS__ · built 2026-10-14</span><details class="gd" id="gd" hidden><summary>Guides ▾</summary><ul id="gdl"></ul></details>
-<select id="th" aria-label="Therapy"></select><select id="cat" aria-label="Category"></select><select id="vp" aria-label="Valve position" hidden><option value="">All valve positions</option><option>Supra-annular</option><option>Intra-annular</option></select>
+<header><h1>Structural Heart Comparison Guide</h1><span class="pass">Preview · pass __PASS__ · built 2026-10-16</span><details class="gd" id="gd" hidden><summary>Guides ▾</summary><ul id="gdl"></ul></details>
+<select id="cat" aria-label="Therapy and device category"></select><select id="vp" aria-label="Valve position" hidden><option value="">All valve positions</option><option>Supra-annular</option><option>Intra-annular</option></select>
 <label class="tg"><input type="checkbox" id="diff"> Differences only</label>
 <span class="view"><select id="vw" aria-label="View"><option value="cmp">Compact</option><option value="stk">Stacked</option><option value="dsk">Desktop</option></select></span></header>
 <div class="bar" id="pk"></div><main id="m"><div class="empty">Loading…</div></main>
 <script>
 const $=s=>document.querySelector(s);let D,RC=null,sel=[],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=3872cf13').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
- const cats=Object.keys(d.sect),TH=['Coronary','TAVI','Mitral TEER','Mitral TMVR','Tricuspid TEER','Tricuspid TTVR','LAAO','Shared accessories'].filter(t=>cats.some(c=>(d.ther[c]||'Coronary')===t));
- $('#th').innerHTML=TH.map(t=>`<option>${esc(t)}</option>`).join('');
- const h=new URLSearchParams(location.hash.slice(1));const c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
- $('#th').value=c0?(d.ther[c0]||'Coronary'):(h.get('t')&&TH.includes(h.get('t'))?h.get('t'):TH[0]);fillCats();if(c0)$('#cat').value=c0;
+fetch('data/core.json?v=959373b3').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
+ const cats=Object.keys(d.sect).filter(c=>d.rows.some(r=>r.category===c));
+ const h=new URLSearchParams(location.hash.slice(1));let c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
+ if(!c0&&h.get('t')){const g=ORDER.find(([t])=>t===h.get('t'));c0=g&&g[1].map(x=>x[0]).find(x=>cats.includes(x))||null}  // old therapy-only links
+ fillCats(cats);$('#cat').value=c0||DEF;if(!$('#cat').value)$('#cat').selectedIndex=0;
  setCat(h.get('m')?h.get('m').split('~'):null)});
-function fillCats(){const t=$('#th').value;$('#cat').innerHTML=Object.keys(D.sect).filter(c=>(D.ther[c]||'Coronary')===t&&D.rows.some(r=>r.category===c)).map(c=>`<option>${esc(c)}</option>`).join('')}
+const DEF='TAVI valve';
+const ORDER=[['TAVI',[['TAVI valve','Valves'],['Valve wire','Valve wires'],['Large-bore sheath','Large-bore sheaths'],['Cerebral embolic protection','Embolic protection'],['Valvuloplasty balloon','Valvuloplasty balloons'],['Large-bore closure','Large-bore closure'],['Temporary pacing','Temporary pacing']]],
+ ['Mitral TEER',[['Mitral TEER','Devices']]],['Tricuspid TEER',[['Tricuspid TEER','Devices']]],['Mitral TMVR',[['TMVR valve','Valves']]],['Tricuspid TTVR',[['TTVR valve','Valves']]],
+ ['LAAO',[['LAAO device','Occluders'],['LAAO access sheath','Access sheaths']]],['Shared accessories',[['Transseptal access','Transseptal access'],['Steerable guide/sheath','Steerable guides/sheaths']]]];
+function catLabel(c){for(const [t,L] of ORDER){const x=L.find(y=>y[0]===c);if(x)return t+' – '+x[1]}return (D.ther[c]||'')+' – '+c}
+function therOf(c){return D.ther[c]||''}
+function fillCats(cats){const seen=new Set();let h='';for(const [t,L] of ORDER){const o=L.filter(x=>cats.includes(x[0]));o.forEach(x=>seen.add(x[0]));
+  const extra=cats.filter(c=>!seen.has(c)&&therOf(c)===t);extra.forEach(c=>seen.add(c));
+  if(o.length||extra.length)h+=`<optgroup label="${esc(t)}">${o.map(x=>`<option value="${esc(x[0])}">${esc(t+' – '+x[1])}</option>`).join('')}${extra.map(c=>`<option value="${esc(c)}">${esc(catLabel(c))}</option>`).join('')}</optgroup>`}
+ const rest=cats.filter(c=>!seen.has(c));if(rest.length)h+=`<optgroup label="Other">${rest.map(c=>`<option value="${esc(c)}">${esc(catLabel(c))}</option>`).join('')}</optgroup>`;
+ $('#cat').innerHTML=h}
 function rowsOf(c){return D.rows.filter(r=>r.category===c)}
 let V=[];
 const VPF=()=>{const e=$('#vp');return e&&!e.hidden?e.value:''};
@@ -51,7 +62,7 @@ function optLabel(r){return [r.model,gtag(r),r.valve_position?ptag(r)+'-annular'
 function suppliers(c){const R=rowsOf(c).filter(vpOk),O=D.suporder||[],s=[...new Set(R.map(r=>r.supplier||r.manufacturer))];return s.sort((a,b)=>{const ia=O.indexOf(a),ib=O.indexOf(b);return (ia<0?99:ia)-(ib<0?99:ib)||a.localeCompare(b)})}
 function prodsOf(c,v){const P=rowsOf(c).filter(r=>(r.supplier||r.manufacturer)===v&&vpOk(r));return P.map((r,i)=>[r,i]).sort((a,b)=>(b[0].fda_approval_date||'').localeCompare(a[0].fda_approval_date||'')||a[1]-b[1]).map(x=>x[0])}
 function vpBar(c){const has=rowsOf(c).some(r=>r.valve_position),e=$('#vp');if(!e)return;e.hidden=!has;if(!has)e.value=''}
-function setCat(pre){const c=$('#cat').value;vpBar(c);V=suppliers(c);sel=V.map((v,i)=>{const P=prodsOf(c,v),m=pre&&pre[i];if(pre)return m?P.find(x=>x.model===m)||null:null;return P[0]||null});pickers();render()}
+function setCat(pre){const c=$('#cat').value;vpBar(c);V=suppliers(c);const pos=pre&&pre.length===V.length&&pre.every((m,i)=>!m||prodsOf(c,V[i]).some(x=>x.model===m));sel=V.map((v,i)=>{const P=prodsOf(c,v);if(!pre)return P[0]||null;if(pos)return pre[i]?P.find(x=>x.model===pre[i])||null:null;return P.find(x=>pre.includes(x.model))||null});pickers();render()}
 function pickers(){const c=$('#cat').value;$('#pk').innerHTML=V.map((v,i)=>{const P=prodsOf(c,v),s=sel[i];return `<div class="pk" data-v="${esc(v)}"><div class="vend">${esc(v)} <small>${P.length} model${P.length>1?'s':''}</small></div><select data-i="${i}" aria-label="${esc(v)} product"><option value="">— Select ${esc(v)} product —</option>${P.map(r=>`<option value="${esc(r.model)}"${s===r?' selected':''}>${esc(optLabel(r))}</option>`).join('')}</select><button class="x" data-i="${i}" title="Clear">✕</button>${badges(s)}</div>`}).join('');
  document.querySelectorAll('.pk select').forEach(x=>x.onchange=()=>{const i=+x.dataset.i;sel[i]=prodsOf(c,V[i]).find(r=>r.model===x.value)||null;pickers();render()});
  document.querySelectorAll('.pk .x').forEach(b=>b.onclick=()=>{sel[b.dataset.i]=null;pickers();render()})}
@@ -59,7 +70,7 @@ function cell(r,f){if(!r)return'';let v=r[f];if(v==null||v==='')return'<span cla
  let s=f==='catalog_numbers'?`<div class="cat">${esc(v)}</div>`:esc(v);const p=r._p&&r._p[f];if(p!=null)s+=`<span class="src" data-p="${p}">i</span>`;
  if(f==='recalls'&&RC&&RC[r.model])s+=RC[r.model].map(x=>`<div class="rc"><b>${esc(x[0])}</b> ${esc(x[1])} · ${esc(x[2])}<br>${esc(x[3])}<br><small>Catalogs: ${esc(x[4])}</small></div>`).join('');return s}
 const isRep=r=>!!r&&!!r.reprocessed&&!/^no\b/i.test(String(r.reprocessed));const REPF=f=>/reprocess/i.test(f);
-function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='t='+encodeURIComponent($('#th').value)+'&c='+encodeURIComponent(c)+'&m='+encodeURIComponent(sel.map(s=>s?s.model:'').join('~'));
+function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='c='+encodeURIComponent(c)+'&m='+encodeURIComponent(sel.map(s=>s?s.model:'').join('~'));
  const R=rowsOf(c),diff=$('#diff').checked&&S.length>1,showRep=S.some(isRep);
  let h='<table><thead><tr><th class="a">Attribute</th>'+sel.map((s,i)=>s?`<th><small class="vh">${esc(V[i])}</small><br>${esc(s.model)}${badges(s)}<small class="na">${esc(s.manufacturer)}</small></th>`:`<th class="slot"><small class="vh">${esc(V[i])}</small><br><button class="add" data-i="${i}">+ Select product</button><br><small class="na">No ${esc(V[i])} product selected</small></th>`).join('')+'</tr></thead>';
  for(const [name,fs] of D.sect[c]){if(REPF(name)&&!showRep)continue;const F=fs.filter(f=>(R.some(r=>r[f]!=null&&r[f]!=='')||f==='recalls')&&(showRep||!REPF(f)));if(!F.length)continue;let b='';
@@ -68,9 +79,9 @@ function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='t
  $('#m').innerHTML=h+'</table>'+(S.length?'':'<div class="empty">All slots empty — pick a product under any supplier above.</div>');
  document.querySelectorAll('tr.sh').forEach(t=>t.onclick=()=>{const n=t.parentNode.dataset.s;collapsed[n]=!collapsed[n];t.parentNode.classList.toggle('col')});
  document.querySelectorAll('button.add').forEach(b=>b.onclick=()=>{const i=document.querySelector(`.pk select[data-i="${b.dataset.i}"]`);i.scrollIntoView({block:'center'});i.focus();try{i.showPicker()}catch(_){}});
- if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=3872cf13').then(r=>r.json()).then(x=>{RC=x;render()})}
+ if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=959373b3').then(r=>r.json()).then(x=>{RC=x;render()})}
 document.addEventListener('click',e=>{document.querySelectorAll('.pop').forEach(p=>p.remove());const b=e.target.closest('.src');if(!b)return;const [t,u]=D.ps[b.dataset.p];const p=document.createElement('div');p.className='pop';
  p.innerHTML=esc(t)+(u?`<br><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:'');document.body.appendChild(p);const r=b.getBoundingClientRect();p.style.left=Math.max(8,Math.min(innerWidth-390,r.left))+'px';p.style.top=(r.bottom+6)+'px';e.stopPropagation()});
-$('#th').onchange=()=>{fillCats();setCat()};$('#cat').onchange=()=>setCat();$('#vp').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
+$('#cat').onchange=()=>setCat();$('#vp').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
 if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
 </script><script>fetch('data/guides.json',{cache:'no-cache'}).then(r=>r.ok?r.json():null).then(d=>{if(!d||!d.guides||!d.guides.length)return;const e=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));document.getElementById('gdl').innerHTML=d.guides.map(g=>{const live=g.status==='live'&&g.url,u=live?g.url:g.preview_url,me=g.id===d.self,n=e(g.title||g.name||g.id);return u?`<li><a href="${e(u)}"${me?' class="me" aria-current="page"':''}>${n}${live?'':' <small>preview</small>'}</a></li>`:`<li><a aria-disabled="true" style="opacity:.5;pointer-events:none">${n} <small>coming soon</small></a></li>`}).join('');document.getElementById('gd').hidden=false}).catch(()=>{})</script></body></html>
