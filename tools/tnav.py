@@ -12,7 +12,8 @@ with sync_playwright() as p:
     if [g[0] for g in groups]!=G: bad.append((n,'group order',[g[0] for g in groups]))
     for t,os in groups:
       for v,l in os:
-        if not l.startswith(t+' – '): bad.append((n,'label',v,l))
+        SH={'Mitral TEER':'M-TEER','Tricuspid TEER':'T-TEER','Mitral TMVR':'TMVR','Tricuspid TTVR':'TTVR','Shared accessories':'Shared'}
+        if not (l.startswith(t+' – ') if n=='desk' else l.startswith(SH.get(t,t)+' – ')): bad.append((n,'label',v,l))
     tav=[l for v,l in groups[0][1]]
     if tav[:4]!=['TAVI – Valves','TAVI – Valve wires','TAVI – Large-bore sheaths','TAVI – Embolic protection']: bad.append((n,'TAVI order',tav))
     if pg.locator('#th').count(): bad.append((n,'old therapy select still present'))

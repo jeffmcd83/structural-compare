@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Structural Heart Comparison Guide</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#111827">
-<link rel="preload" href="data/core.json?v=959373b3" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=b72a4b44" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -25,6 +25,7 @@ tr.sh th{background:#e8edf5;cursor:pointer;font-size:13px}tr.sh th:before{conten
 .bdgs{display:flex;flex-wrap:wrap;gap:4px;margin:4px 0}.bdg{font-size:10.5px;font-weight:700;letter-spacing:.02em;border-radius:999px;padding:2px 8px;line-height:1.5;white-space:nowrap}.bdg.lat{background:#dcfce7;color:#166534}.bdg.prv{background:#f1f5f9;color:#475569}.bdg.sup{background:#ede9fe;color:#5b21b6}.bdg.int{background:#e0f2fe;color:#075985}
 tr.sh td{background:#e8edf5;cursor:pointer}tr.sh th.a{color:inherit;font-weight:700;white-space:nowrap}body.dsk tbody th.a{position:sticky;left:0;z-index:2;background-clip:padding-box}body.dsk tbody tr.sh th.a{z-index:2;background:#e8edf5}body.dsk tbody tr:not(.sh) th.a{background:#fff}body.stk tr.sh td{display:none}
 #cat{min-width:260px;font-weight:600}
+@media(max-width:720px){#cat{min-width:0;width:auto;max-width:100%;flex:0 1 auto;font-size:14px;font-weight:400;padding:6px 8px}}
 </style></head><body class="cmp">
 <header><h1>Structural Heart Comparison Guide</h1><span class="pass">Preview · pass __PASS__ · built 2026-10-16</span><details class="gd" id="gd" hidden><summary>Guides ▾</summary><ul id="gdl"></ul></details>
 <select id="cat" aria-label="Therapy and device category"></select><select id="vp" aria-label="Valve position" hidden><option value="">All valve positions</option><option>Supra-annular</option><option>Intra-annular</option></select>
@@ -34,7 +35,7 @@ tr.sh td{background:#e8edf5;cursor:pointer}tr.sh th.a{color:inherit;font-weight:
 <script>
 const $=s=>document.querySelector(s);let D,RC=null,sel=[],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=959373b3').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
+fetch('data/core.json?v=b72a4b44').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
  const cats=Object.keys(d.sect).filter(c=>d.rows.some(r=>r.category===c));
  const h=new URLSearchParams(location.hash.slice(1));let c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
  if(!c0&&h.get('t')){const g=ORDER.find(([t])=>t===h.get('t'));c0=g&&g[1].map(x=>x[0]).find(x=>cats.includes(x))||null}  // old therapy-only links
@@ -45,10 +46,11 @@ const ORDER=[['TAVI',[['TAVI valve','Valves'],['Valve wire','Valve wires'],['Lar
  ['Mitral TEER',[['Mitral TEER','Devices']]],['Tricuspid TEER',[['Tricuspid TEER','Devices']]],['Mitral TMVR',[['TMVR valve','Valves']]],['Tricuspid TTVR',[['TTVR valve','Valves']]],
  ['LAAO',[['LAAO device','Occluders'],['LAAO access sheath','Access sheaths']]],['Shared accessories',[['Transseptal access','Transseptal access'],['Steerable guide/sheath','Steerable guides/sheaths']]]];
 function catLabel(c){for(const [t,L] of ORDER){const x=L.find(y=>y[0]===c);if(x)return t+' – '+x[1]}return (D.ther[c]||'')+' – '+c}
+const SHORT={'Mitral TEER':'M-TEER','Tricuspid TEER':'T-TEER','Mitral TMVR':'TMVR','Tricuspid TTVR':'TTVR','Shared accessories':'Shared'};const MQ=matchMedia('(max-width:720px)');function tl(t){return MQ.matches&&SHORT[t]||t}
 function therOf(c){return D.ther[c]||''}
 function fillCats(cats){const seen=new Set();let h='';for(const [t,L] of ORDER){const o=L.filter(x=>cats.includes(x[0]));o.forEach(x=>seen.add(x[0]));
   const extra=cats.filter(c=>!seen.has(c)&&therOf(c)===t);extra.forEach(c=>seen.add(c));
-  if(o.length||extra.length)h+=`<optgroup label="${esc(t)}">${o.map(x=>`<option value="${esc(x[0])}">${esc(t+' – '+x[1])}</option>`).join('')}${extra.map(c=>`<option value="${esc(c)}">${esc(catLabel(c))}</option>`).join('')}</optgroup>`}
+  if(o.length||extra.length)h+=`<optgroup label="${esc(t)}">${o.map(x=>`<option value="${esc(x[0])}">${esc(tl(t)+' – '+x[1])}</option>`).join('')}${extra.map(c=>`<option value="${esc(c)}">${esc(catLabel(c))}</option>`).join('')}</optgroup>`}
  const rest=cats.filter(c=>!seen.has(c));if(rest.length)h+=`<optgroup label="Other">${rest.map(c=>`<option value="${esc(c)}">${esc(catLabel(c))}</option>`).join('')}</optgroup>`;
  $('#cat').innerHTML=h}
 function rowsOf(c){return D.rows.filter(r=>r.category===c)}
@@ -79,9 +81,9 @@ function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='c
  $('#m').innerHTML=h+'</table>'+(S.length?'':'<div class="empty">All slots empty — pick a product under any supplier above.</div>');
  document.querySelectorAll('tr.sh').forEach(t=>t.onclick=()=>{const n=t.parentNode.dataset.s;collapsed[n]=!collapsed[n];t.parentNode.classList.toggle('col')});
  document.querySelectorAll('button.add').forEach(b=>b.onclick=()=>{const i=document.querySelector(`.pk select[data-i="${b.dataset.i}"]`);i.scrollIntoView({block:'center'});i.focus();try{i.showPicker()}catch(_){}});
- if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=959373b3').then(r=>r.json()).then(x=>{RC=x;render()})}
+ if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=b72a4b44').then(r=>r.json()).then(x=>{RC=x;render()})}
 document.addEventListener('click',e=>{document.querySelectorAll('.pop').forEach(p=>p.remove());const b=e.target.closest('.src');if(!b)return;const [t,u]=D.ps[b.dataset.p];const p=document.createElement('div');p.className='pop';
  p.innerHTML=esc(t)+(u?`<br><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:'');document.body.appendChild(p);const r=b.getBoundingClientRect();p.style.left=Math.max(8,Math.min(innerWidth-390,r.left))+'px';p.style.top=(r.bottom+6)+'px';e.stopPropagation()});
-$('#cat').onchange=()=>setCat();$('#vp').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
+$('#cat').onchange=()=>setCat();MQ.addEventListener('change',()=>{const v=$('#cat').value;fillCats([...$('#cat').options].map(o=>o.value));$('#cat').value=v});$('#vp').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
 if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
 </script><script>fetch('data/guides.json',{cache:'no-cache'}).then(r=>r.ok?r.json():null).then(d=>{if(!d||!d.guides||!d.guides.length)return;const e=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));document.getElementById('gdl').innerHTML=d.guides.map(g=>{const live=g.status==='live'&&g.url,u=live?g.url:g.preview_url,me=g.id===d.self,n=e(g.title||g.name||g.id);return u?`<li><a href="${e(u)}"${me?' class="me" aria-current="page"':''}>${n}${live?'':' <small>preview</small>'}</a></li>`:`<li><a aria-disabled="true" style="opacity:.5;pointer-events:none">${n} <small>coming soon</small></a></li>`}).join('');document.getElementById('gd').hidden=false}).catch(()=>{})</script></body></html>

@@ -41,7 +41,7 @@ for r in rows:
     o['_p']['recalls']=ps('openFDA device recall API, exact catalog-number match in code_info; https://open.fda.gov/apis/device/recall/')
     out.append(o)
 F=sorted({f for c in SECT.values() for s in c for f in s[1]})
-core={'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh08'}
+core={'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh09'}
 def dump(n,o):
     s=json.dumps(o,ensure_ascii=False,separators=(',',':'));open(f'{OUT}/data/{n}','w').write(s);return s
 a=dump('core.json',core);b=dump('recalls.json',RC)

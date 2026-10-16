@@ -21,3 +21,6 @@ History:
 ## sh08 (2026-10-13): single therapy+category dropdown
 - #th removed; #cat uses optgroups "Therapy – Category", order TAVI, Mitral TEER, Tricuspid TEER, TMVR, TTVR, LAAO, Shared accessories; default TAVI valve.
 - Hash now c=&m=; legacy #t= maps to the therapy's first category; legacy 4-slot m lists remapped by supplier membership. Test: tools/tnav.py.
+
+## sh09: mobile #cat sizing
+- <=720px: 14px (matches CRM mobile select), weight 400, padding 6px 8px, auto width; therapy prefixes shortened (M-TEER, T-TEER, TMVR, TTVR, Shared). Desktop unchanged.
