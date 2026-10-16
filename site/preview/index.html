@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Structural Heart Comparison Guide</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#111827">
-<link rel="preload" href="data/core.json?v=e0f9865a" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=8c53a3db" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -28,7 +28,7 @@ tr.sh td{background:#e8edf5;cursor:pointer}tr.sh th.a{color:inherit;font-weight:
 @media(max-width:720px){#cat{min-width:0;width:auto;max-width:100%;flex:0 1 auto;font-size:14px;font-weight:400;padding:6px 8px}}
 #q{width:220px;padding:7px 10px;border:1px solid var(--line);border-radius:8px;font:inherit}.qw{position:relative}#qr{position:absolute;top:100%;left:0;z-index:50;background:#fff;color:var(--ink);border:1px solid var(--line);border-radius:10px;box-shadow:0 8px 24px #0003;width:min(420px,92vw);max-height:60vh;overflow:auto;margin-top:4px}#qr[hidden]{display:none}#qr .g{font-size:11px;font-weight:700;color:var(--mut);text-transform:uppercase;padding:8px 12px 2px}#qr button{display:block;width:100%;text-align:left;border:0;background:none;padding:7px 12px;font:inherit;cursor:pointer;color:var(--ink)}#qr button:hover,#qr button.on{background:#eef3ff}#qr small{color:var(--mut)}#qr .no{padding:10px 12px;color:var(--mut)}
 #cpb{padding:7px 12px;border-radius:8px;border:1px solid var(--line);background:#fff;font:inherit;cursor:pointer}body.cpm #cpb{background:var(--acc);color:#fff;border-color:var(--acc)}body.cpm #pk,body.cpm #m{display:none}#cp{max-width:1000px;margin:16px auto;padding:0 18px}#cp[hidden]{display:none}#cpsel{font:inherit;padding:8px 10px;border-radius:8px;border:1px solid var(--line);max-width:100%}.cpc{background:#fff;border:1px solid var(--line);border-radius:10px;margin:12px 0;overflow:hidden}.cpc h3{margin:0;padding:10px 14px;font-size:14px;background:#eef1f6}.cpi{padding:10px 14px;border-top:1px solid var(--line)}.cpi:first-of-type{border-top:0}.cpi .d{font-size:12px;color:#5b6474;margin-top:4px;word-break:break-word}.cpi .d a{color:var(--acc)}.ns{padding:10px 14px;color:#8a5a00;font-style:italic}.cpn{font-size:12px;color:#5b6474;margin:6px 0}
-@media(max-width:720px){.qw{flex:1 1 100%}#q{width:100%;font-size:16px}#cp{padding:0 8px}.cpc h3{font-size:13px}}
+#qr{right:0;left:auto}@media(max-width:720px){#qr{left:0;right:auto}.qw{flex:1 1 100%}#q{width:100%;font-size:16px}#cp{padding:0 8px}.cpc h3{font-size:13px}}
 .pk.hit{outline:3px solid var(--acc);outline-offset:2px;border-radius:8px}</style></head><body class="cmp">
 <header><h1>Structural Heart Comparison Guide</h1><span class="pass">Preview · pass __PASS__ · built 2026-10-16</span><details class="gd" id="gd" hidden><summary>Guides ▾</summary><ul id="gdl"></ul></details>
 <span class="qw"><input id="q" type="search" placeholder="Search devices (e.g. S3UR, FX+)" aria-label="Search devices" autocomplete="off"><div id="qr" hidden role="listbox"></div></span><button id="cpb" type="button" aria-pressed="false">Compatibility</button><select id="cat" aria-label="Therapy and device category"></select><select id="vp" aria-label="Valve position" hidden><option value="">All valve positions</option><option>Supra-annular</option><option>Intra-annular</option></select>
@@ -38,7 +38,7 @@ tr.sh td{background:#e8edf5;cursor:pointer}tr.sh th.a{color:inherit;font-weight:
 <script>
 const $=s=>document.querySelector(s);let D,RC=null,sel=[],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=e0f9865a').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
+fetch('data/core.json?v=8c53a3db').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
  const cats=Object.keys(d.sect).filter(c=>d.rows.some(r=>r.category===c));
  const h=new URLSearchParams(location.hash.slice(1));let c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
  if(!c0&&h.get('t')){const g=ORDER.find(([t])=>t===h.get('t'));c0=g&&g[1].map(x=>x[0]).find(x=>cats.includes(x))||null}  // old therapy-only links
@@ -84,7 +84,7 @@ function render(){const c=$('#cat').value,S=sel.filter(Boolean);if(!document.bod
  $('#m').innerHTML=h+'</table>'+(S.length?'':'<div class="empty">All slots empty — pick a product under any supplier above.</div>');
  document.querySelectorAll('tr.sh').forEach(t=>t.onclick=()=>{const n=t.parentNode.dataset.s;collapsed[n]=!collapsed[n];t.parentNode.classList.toggle('col')});
  document.querySelectorAll('button.add').forEach(b=>b.onclick=()=>{const i=document.querySelector(`.pk select[data-i="${b.dataset.i}"]`);i.scrollIntoView({block:'center'});i.focus();try{i.showPicker()}catch(_){}});
- if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=e0f9865a').then(r=>r.json()).then(x=>{RC=x;render()})}
+ if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=8c53a3db').then(r=>r.json()).then(x=>{RC=x;render()})}
 document.addEventListener('click',e=>{document.querySelectorAll('.pop').forEach(p=>p.remove());const b=e.target.closest('.src');if(!b)return;const [t,u]=D.ps[b.dataset.p];const p=document.createElement('div');p.className='pop';
  p.innerHTML=esc(t)+(u?`<br><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:'');document.body.appendChild(p);const r=b.getBoundingClientRect();p.style.left=Math.max(8,Math.min(innerWidth-390,r.left))+'px';p.style.top=(r.bottom+6)+'px';e.stopPropagation()});
 $('#cat').onchange=()=>setCat();MQ.addEventListener('change',()=>{const v=$('#cat').value;fillCats([...$('#cat').options].map(o=>o.value));$('#cat').value=v});$('#vp').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();

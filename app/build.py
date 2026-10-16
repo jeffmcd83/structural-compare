@@ -53,7 +53,7 @@ for o in out:
     c={k:[[o[f],o['_p'][f]] for f in fs if o.get(f) and f in o['_p']] for k,fs in CF.items()}
     for k in ['sheaths','wires','embolic','closure','balloons']: c.setdefault(k,[]); c[k]+=_cc[o['model']].get(k,[])
     COMPAT[o['model']]=c
-core={'compat':COMPAT,'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh10'}
+core={'compat':COMPAT,'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh10b'}
 def dump(n,o):
     s=json.dumps(o,ensure_ascii=False,separators=(',',':'));open(f'{OUT}/data/{n}','w').write(s);return s
 a=dump('core.json',core);b=dump('recalls.json',RC)
