@@ -31,3 +31,4 @@ History:
 
 ## sh11 (2026-10-16): study evidence in Compatibility view
 - sources/passSH11/study.csv (27 items, 20 papers), kept separate from labeling (core.json compat[m].label vs .study). Rule: peer-reviewed clinical study (trial/registry/cohort; no case reports, bench, reviews) whose text names BOTH exact products as used in the cohort. Generic "eSheath", "DrySeal" without Flex, "Perclose" without model, "Sapien S3/Ultra" style ambiguity, and "e.g." lists excluded. Cohort-level co-use flagged in the quote text. Links: PMC when available, else PubMed; tools/tlinks.py verifies PMC citation_title and, for PubMed-only items, E-utilities record + DOI handle (PubMed blocks automated fetches from the box with 403/203).
+- 2026-10-16: v1.1 released (Jeff approved): search, Compatibility view (labeling + study evidence), single category dropdown, mobile dropdown sizing.
