@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Structural Heart Comparison Guide</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#111827">
-<link rel="preload" href="data/core.json?v=3872cf13" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=aedd7b91" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -24,22 +24,38 @@ tr.sh th{background:#e8edf5;cursor:pointer;font-size:13px}tr.sh th:before{conten
 @media(max-width:720px){.bar{padding:8px;gap:8px}.pk{flex:1 1 calc(50% - 8px);max-width:none}}
 .bdgs{display:flex;flex-wrap:wrap;gap:4px;margin:4px 0}.bdg{font-size:10.5px;font-weight:700;letter-spacing:.02em;border-radius:999px;padding:2px 8px;line-height:1.5;white-space:nowrap}.bdg.lat{background:#dcfce7;color:#166534}.bdg.prv{background:#f1f5f9;color:#475569}.bdg.sup{background:#ede9fe;color:#5b21b6}.bdg.int{background:#e0f2fe;color:#075985}
 tr.sh td{background:#e8edf5;cursor:pointer}tr.sh th.a{color:inherit;font-weight:700;white-space:nowrap}body.dsk tbody th.a{position:sticky;left:0;z-index:2;background-clip:padding-box}body.dsk tbody tr.sh th.a{z-index:2;background:#e8edf5}body.dsk tbody tr:not(.sh) th.a{background:#fff}body.stk tr.sh td{display:none}
-</style></head><body class="cmp">
-<header><h1>Structural Heart Comparison Guide</h1><span class="pass">Preview · pass __PASS__ · built 2026-10-14</span><details class="gd" id="gd" hidden><summary>Guides ▾</summary><ul id="gdl"></ul></details>
-<select id="th" aria-label="Therapy"></select><select id="cat" aria-label="Category"></select><select id="vp" aria-label="Valve position" hidden><option value="">All valve positions</option><option>Supra-annular</option><option>Intra-annular</option></select>
+#cat{min-width:260px;font-weight:600}
+@media(max-width:720px){#cat{min-width:0;width:auto;max-width:100%;flex:0 1 auto;font-size:14px;font-weight:400;padding:6px 8px}}
+#q{width:220px;padding:7px 10px;border:1px solid var(--line);border-radius:8px;font:inherit}.qw{position:relative}#qr{position:absolute;top:100%;left:0;z-index:50;background:#fff;color:var(--ink);border:1px solid var(--line);border-radius:10px;box-shadow:0 8px 24px #0003;width:min(420px,92vw);max-height:60vh;overflow:auto;margin-top:4px}#qr[hidden]{display:none}#qr .g{font-size:11px;font-weight:700;color:var(--mut);text-transform:uppercase;padding:8px 12px 2px}#qr button{display:block;width:100%;text-align:left;border:0;background:none;padding:7px 12px;font:inherit;cursor:pointer;color:var(--ink)}#qr button:hover,#qr button.on{background:#eef3ff}#qr small{color:var(--mut)}#qr .no{padding:10px 12px;color:var(--mut)}
+#cpb{padding:7px 12px;border-radius:8px;border:1px solid var(--line);background:#fff;font:inherit;cursor:pointer}body.cpm #cpb{background:var(--acc);color:#fff;border-color:var(--acc)}body.cpm #pk,body.cpm #m{display:none}#cp{max-width:1000px;margin:16px auto;padding:0 18px}#cp[hidden]{display:none}#cpsel{font:inherit;padding:8px 10px;border-radius:8px;border:1px solid var(--line);max-width:100%}.cpc{background:#fff;border:1px solid var(--line);border-radius:10px;margin:12px 0;overflow:hidden}.cpc h3{margin:0;padding:10px 14px;font-size:14px;background:#eef1f6}.cpi{padding:10px 14px;border-top:1px solid var(--line)}.cpi:first-of-type{border-top:0}.cpi .d{font-size:12px;color:#5b6474;margin-top:4px;word-break:break-word}.cpi .d a{color:var(--acc)}.ns{padding:10px 14px;color:#8a5a00;font-style:italic}.cpn{font-size:12px;color:#5b6474;margin:6px 0}
+#qr{right:0;left:auto}@media(max-width:720px){#qr{left:0;right:auto}.qw{flex:1 1 100%}#q{width:100%;font-size:16px}#cp{padding:0 8px}.cpc h3{font-size:13px}}
+.pk.hit{outline:3px solid var(--acc);outline-offset:2px;border-radius:8px}.tag{display:inline-block;font-size:10px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;padding:1px 6px;border-radius:9px;vertical-align:1px;margin-right:4px}.tl{background:#e8eefc;color:#2a4fa8}.ts{background:#eaf6ee;color:#1f7a45}.cpi.stu .d a{color:#1f7a45}</style></head><body class="cmp">
+<header><h1>Structural Heart Comparison Guide</h1><span class="pass">Preview · pass __PASS__ · built 2026-10-16</span><details class="gd" id="gd" hidden><summary>Guides ▾</summary><ul id="gdl"></ul></details>
+<span class="qw"><input id="q" type="search" placeholder="Search devices (e.g. S3UR, FX+)" aria-label="Search devices" autocomplete="off"><div id="qr" hidden role="listbox"></div></span><button id="cpb" type="button" aria-pressed="false">Compatibility</button><select id="cat" aria-label="Therapy and device category"></select><select id="vp" aria-label="Valve position" hidden><option value="">All valve positions</option><option>Supra-annular</option><option>Intra-annular</option></select>
 <label class="tg"><input type="checkbox" id="diff"> Differences only</label>
 <span class="view"><select id="vw" aria-label="View"><option value="cmp">Compact</option><option value="stk">Stacked</option><option value="dsk">Desktop</option></select></span></header>
-<div class="bar" id="pk"></div><main id="m"><div class="empty">Loading…</div></main>
+<section id="cp" hidden><label for="cpsel"><b>Compatibility for</b></label> <select id="cpsel" aria-label="Device for compatibility"></select><p class="cpn">Only compatibility stated in a document (IFU, SSED or manufacturer page) is shown, each with document, page and URL. Nothing is inferred. Generic requirements (e.g. “0.035 in guidewire”) are shown as written; no brand is implied.</p><div id="cpp"></div></section><div class="bar" id="pk"></div><main id="m"><div class="empty">Loading…</div></main>
 <script>
 const $=s=>document.querySelector(s);let D,RC=null,sel=[],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=3872cf13').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='v1.0.1 · pass '+d.pass+' · built '+d.built;
- const cats=Object.keys(d.sect),TH=['Coronary','TAVI','Mitral TEER','Mitral TMVR','Tricuspid TEER','Tricuspid TTVR','LAAO','Shared accessories'].filter(t=>cats.some(c=>(d.ther[c]||'Coronary')===t));
- $('#th').innerHTML=TH.map(t=>`<option>${esc(t)}</option>`).join('');
- const h=new URLSearchParams(location.hash.slice(1));const c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
- $('#th').value=c0?(d.ther[c0]||'Coronary'):(h.get('t')&&TH.includes(h.get('t'))?h.get('t'):TH[0]);fillCats();if(c0)$('#cat').value=c0;
- setCat(h.get('m')?h.get('m').split('~'):null)});
-function fillCats(){const t=$('#th').value;$('#cat').innerHTML=Object.keys(D.sect).filter(c=>(D.ther[c]||'Coronary')===t&&D.rows.some(r=>r.category===c)).map(c=>`<option>${esc(c)}</option>`).join('')}
+fetch('data/core.json?v=aedd7b91').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='v1.1 · pass '+d.pass+' · built '+d.built;
+ const cats=Object.keys(d.sect).filter(c=>d.rows.some(r=>r.category===c));
+ const h=new URLSearchParams(location.hash.slice(1));let c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
+ if(!c0&&h.get('t')){const g=ORDER.find(([t])=>t===h.get('t'));c0=g&&g[1].map(x=>x[0]).find(x=>cats.includes(x))||null}  // old therapy-only links
+ fillCats(cats);$('#cat').value=c0||DEF;if(!$('#cat').value)$('#cat').selectedIndex=0;
+ setCat(h.get('m')?h.get('m').split('~'):null);initX(h)});
+const DEF='TAVI valve';
+const ORDER=[['TAVI',[['TAVI valve','Valves'],['Valve wire','Valve wires'],['Large-bore sheath','Large-bore sheaths'],['Cerebral embolic protection','Embolic protection'],['Valvuloplasty balloon','Valvuloplasty balloons'],['Large-bore closure','Large-bore closure'],['Temporary pacing','Temporary pacing']]],
+ ['Mitral TEER',[['Mitral TEER','Devices']]],['Tricuspid TEER',[['Tricuspid TEER','Devices']]],['Mitral TMVR',[['TMVR valve','Valves']]],['Tricuspid TTVR',[['TTVR valve','Valves']]],
+ ['LAAO',[['LAAO device','Occluders'],['LAAO access sheath','Access sheaths']]],['Shared accessories',[['Transseptal access','Transseptal access'],['Steerable guide/sheath','Steerable guides/sheaths']]]];
+function catLabel(c){for(const [t,L] of ORDER){const x=L.find(y=>y[0]===c);if(x)return t+' – '+x[1]}return (D.ther[c]||'')+' – '+c}
+const SHORT={'Mitral TEER':'M-TEER','Tricuspid TEER':'T-TEER','Mitral TMVR':'TMVR','Tricuspid TTVR':'TTVR','Shared accessories':'Shared'};const MQ=matchMedia('(max-width:720px)');function tl(t){return MQ.matches&&SHORT[t]||t}
+function therOf(c){return D.ther[c]||''}
+function fillCats(cats){const seen=new Set();let h='';for(const [t,L] of ORDER){const o=L.filter(x=>cats.includes(x[0]));o.forEach(x=>seen.add(x[0]));
+  const extra=cats.filter(c=>!seen.has(c)&&therOf(c)===t);extra.forEach(c=>seen.add(c));
+  if(o.length||extra.length)h+=`<optgroup label="${esc(t)}">${o.map(x=>`<option value="${esc(x[0])}">${esc(tl(t)+' – '+x[1])}</option>`).join('')}${extra.map(c=>`<option value="${esc(c)}">${esc(catLabel(c))}</option>`).join('')}</optgroup>`}
+ const rest=cats.filter(c=>!seen.has(c));if(rest.length)h+=`<optgroup label="Other">${rest.map(c=>`<option value="${esc(c)}">${esc(catLabel(c))}</option>`).join('')}</optgroup>`;
+ $('#cat').innerHTML=h}
 function rowsOf(c){return D.rows.filter(r=>r.category===c)}
 let V=[];
 const VPF=()=>{const e=$('#vp');return e&&!e.hidden?e.value:''};
@@ -51,7 +67,7 @@ function optLabel(r){return [r.model,gtag(r),r.valve_position?ptag(r)+'-annular'
 function suppliers(c){const R=rowsOf(c).filter(vpOk),O=D.suporder||[],s=[...new Set(R.map(r=>r.supplier||r.manufacturer))];return s.sort((a,b)=>{const ia=O.indexOf(a),ib=O.indexOf(b);return (ia<0?99:ia)-(ib<0?99:ib)||a.localeCompare(b)})}
 function prodsOf(c,v){const P=rowsOf(c).filter(r=>(r.supplier||r.manufacturer)===v&&vpOk(r));return P.map((r,i)=>[r,i]).sort((a,b)=>(b[0].fda_approval_date||'').localeCompare(a[0].fda_approval_date||'')||a[1]-b[1]).map(x=>x[0])}
 function vpBar(c){const has=rowsOf(c).some(r=>r.valve_position),e=$('#vp');if(!e)return;e.hidden=!has;if(!has)e.value=''}
-function setCat(pre){const c=$('#cat').value;vpBar(c);V=suppliers(c);sel=V.map((v,i)=>{const P=prodsOf(c,v),m=pre&&pre[i];if(pre)return m?P.find(x=>x.model===m)||null:null;return P[0]||null});pickers();render()}
+function setCat(pre){const c=$('#cat').value;vpBar(c);V=suppliers(c);const pos=pre&&pre.length===V.length&&pre.every((m,i)=>!m||prodsOf(c,V[i]).some(x=>x.model===m));sel=V.map((v,i)=>{const P=prodsOf(c,v);if(!pre)return P[0]||null;if(pos)return pre[i]?P.find(x=>x.model===pre[i])||null:null;return P.find(x=>pre.includes(x.model))||null});pickers();render()}
 function pickers(){const c=$('#cat').value;$('#pk').innerHTML=V.map((v,i)=>{const P=prodsOf(c,v),s=sel[i];return `<div class="pk" data-v="${esc(v)}"><div class="vend">${esc(v)} <small>${P.length} model${P.length>1?'s':''}</small></div><select data-i="${i}" aria-label="${esc(v)} product"><option value="">— Select ${esc(v)} product —</option>${P.map(r=>`<option value="${esc(r.model)}"${s===r?' selected':''}>${esc(optLabel(r))}</option>`).join('')}</select><button class="x" data-i="${i}" title="Clear">✕</button>${badges(s)}</div>`}).join('');
  document.querySelectorAll('.pk select').forEach(x=>x.onchange=()=>{const i=+x.dataset.i;sel[i]=prodsOf(c,V[i]).find(r=>r.model===x.value)||null;pickers();render()});
  document.querySelectorAll('.pk .x').forEach(b=>b.onclick=()=>{sel[b.dataset.i]=null;pickers();render()})}
@@ -59,7 +75,7 @@ function cell(r,f){if(!r)return'';let v=r[f];if(v==null||v==='')return'<span cla
  let s=f==='catalog_numbers'?`<div class="cat">${esc(v)}</div>`:esc(v);const p=r._p&&r._p[f];if(p!=null)s+=`<span class="src" data-p="${p}">i</span>`;
  if(f==='recalls'&&RC&&RC[r.model])s+=RC[r.model].map(x=>`<div class="rc"><b>${esc(x[0])}</b> ${esc(x[1])} · ${esc(x[2])}<br>${esc(x[3])}<br><small>Catalogs: ${esc(x[4])}</small></div>`).join('');return s}
 const isRep=r=>!!r&&!!r.reprocessed&&!/^no\b/i.test(String(r.reprocessed));const REPF=f=>/reprocess/i.test(f);
-function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='t='+encodeURIComponent($('#th').value)+'&c='+encodeURIComponent(c)+'&m='+encodeURIComponent(sel.map(s=>s?s.model:'').join('~'));
+function render(){const c=$('#cat').value,S=sel.filter(Boolean);if(!document.body.classList.contains('cpm'))location.hash='c='+encodeURIComponent(c)+'&m='+encodeURIComponent(sel.map(s=>s?s.model:'').join('~'));
  const R=rowsOf(c),diff=$('#diff').checked&&S.length>1,showRep=S.some(isRep);
  let h='<table><thead><tr><th class="a">Attribute</th>'+sel.map((s,i)=>s?`<th><small class="vh">${esc(V[i])}</small><br>${esc(s.model)}${badges(s)}<small class="na">${esc(s.manufacturer)}</small></th>`:`<th class="slot"><small class="vh">${esc(V[i])}</small><br><button class="add" data-i="${i}">+ Select product</button><br><small class="na">No ${esc(V[i])} product selected</small></th>`).join('')+'</tr></thead>';
  for(const [name,fs] of D.sect[c]){if(REPF(name)&&!showRep)continue;const F=fs.filter(f=>(R.some(r=>r[f]!=null&&r[f]!=='')||f==='recalls')&&(showRep||!REPF(f)));if(!F.length)continue;let b='';
@@ -68,9 +84,39 @@ function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='t
  $('#m').innerHTML=h+'</table>'+(S.length?'':'<div class="empty">All slots empty — pick a product under any supplier above.</div>');
  document.querySelectorAll('tr.sh').forEach(t=>t.onclick=()=>{const n=t.parentNode.dataset.s;collapsed[n]=!collapsed[n];t.parentNode.classList.toggle('col')});
  document.querySelectorAll('button.add').forEach(b=>b.onclick=()=>{const i=document.querySelector(`.pk select[data-i="${b.dataset.i}"]`);i.scrollIntoView({block:'center'});i.focus();try{i.showPicker()}catch(_){}});
- if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=3872cf13').then(r=>r.json()).then(x=>{RC=x;render()})}
+ if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=aedd7b91').then(r=>r.json()).then(x=>{RC=x;render()})}
 document.addEventListener('click',e=>{document.querySelectorAll('.pop').forEach(p=>p.remove());const b=e.target.closest('.src');if(!b)return;const [t,u]=D.ps[b.dataset.p];const p=document.createElement('div');p.className='pop';
  p.innerHTML=esc(t)+(u?`<br><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:'');document.body.appendChild(p);const r=b.getBoundingClientRect();p.style.left=Math.max(8,Math.min(innerWidth-390,r.left))+'px';p.style.top=(r.bottom+6)+'px';e.stopPropagation()});
-$('#th').onchange=()=>{fillCats();setCat()};$('#cat').onchange=()=>setCat();$('#vp').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
+$('#cat').onchange=()=>setCat();MQ.addEventListener('change',()=>{const v=$('#cat').value;fillCats([...$('#cat').options].map(o=>o.value));$('#cat').value=v});$('#vp').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
 if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
+</script><script>
+const ALIAS={'SAPIEN 3':['S3'],'SAPIEN 3 Ultra':['S3U','S3 Ultra'],'SAPIEN 3 Ultra RESILIA':['S3UR','S3 Ultra RESILIA','RESILIA'],'Evolut FX+':['FX+','EFX+','Evolut FX Plus'],'Evolut FX':['FX','EFX'],'Evolut PRO+':['PRO+','Evolut Pro Plus'],'Navitor Titan':['Titan'],'Trilogy':['JenaValve'],'MitraClip G4':['MC G4','G4'],'MitraClip G5':['MC G5','G5'],'TriClip G4':['TC G4'],'TriClip G5':['TC G5'],'PASCAL Precision (PASCAL Ace implant)':['Ace','PASCAL Ace'],'PASCAL Precision (PASCAL implant)':['PASCAL'],'WATCHMAN FLX':['FLX'],'WATCHMAN FLX Pro':['FLX Pro','FLXPro'],'Amplatzer Amulet':['Amulet'],'SAPIEN M3':['M3'],'EVOQUE':['Evoque TTVR'],'Perclose ProGlide':['ProGlide'],'Perclose ProStyle':['ProStyle'],'Lunderquist Extra Stiff':['Lunderquist'],'Amplatz Extra Stiff':['AES','Amplatz'],'eSheath+':['eSheath plus'],'Sentinel':['CEP','Sentinel CPS']};
+const nz=s=>String(s||'').toLowerCase().replace(/plus/g,'+').replace(/[^a-z0-9+]/g,'');
+function catOrder(){const o=[];ORDER.forEach(([t,L])=>L.forEach(x=>o.push(x[0])));return o}
+function search(q){const n=nz(q);if(!n)return[];const o=catOrder(),hits=[];
+ D.rows.forEach(r=>{const al=ALIAS[r.model]||[];let sc=0;
+  if(al.some(a=>nz(a)===n)||nz(r.model)===n)sc=3;else if([r.model,...al].some(a=>nz(a).includes(n)))sc=2;else if([r.family,r.supplier,r.manufacturer].some(a=>nz(a).includes(n)))sc=1;
+  if(sc)hits.push([sc,r])});
+ hits.sort((a,b)=>b[0]-a[0]||((o.indexOf(a[1].category)+1||99)-(o.indexOf(b[1].category)+1||99)));
+ const g=[];hits.forEach(([,r])=>{let x=g.find(y=>y[0]===r.category);if(!x)g.push(x=[r.category,[]]);x[1].push(r)});return g}
+function showQ(){const q=$('#q').value,g=search(q),R=$('#qr');if(!q.trim()){R.hidden=true;return}
+ R.innerHTML=g.length?g.map(([c,L])=>`<div class="g">${esc(catLabel(c).replace(/ – /,' · '))}</div>`+L.map(r=>`<button type="button" role="option" data-m="${esc(r.model)}" data-c="${esc(r.category)}">${esc(r.model)} <small>${esc(r.supplier)}</small></button>`).join('')).join(''):'<div class="no">No matching devices</div>';R.hidden=false}
+function pick(c,m){$('#q').value='';$('#qr').hidden=true;if(document.body.classList.contains('cpm')&&D.compat[m]){$('#cpsel').value=m;renderCp();return}
+ if(document.body.classList.contains('cpm'))toggleCp(false);$('#cat').value=c;setCat();const r=D.rows.find(x=>x.model===m&&x.category===c);const i=V.indexOf(r.supplier);if(i>=0){sel[i]=r;pickers();render()}
+ const el=document.querySelector(`.pk[data-v="${CSS.escape(r.supplier)}"]`);if(el){el.classList.add('hit');setTimeout(()=>el.classList.remove('hit'),1500)}}
+const CPS=[['delivery_system','Delivery system'],['sheaths','Sheath sizes & compatible sheaths'],['access_routes','Indicated access routes'],['wires','Compatible wires'],['embolic','Embolic protection'],['closure','Closure devices'],['balloons','Valvuloplasty balloons']];
+function cpFields(m){const r=D.rows.find(x=>x.model===m);return r&&r.category==='TAVI valve'?CPS:CPS.filter(x=>!['embolic','balloons'].includes(x[0]))}
+function srcLine(p){const [t,u]=D.ps[p];const mm=t.match(/^(.*?)\s*p\.\s*(.+)$/);const doc=mm?mm[1]:t,pg=mm?mm[2]:'not given';return `<div class="d"><b>Doc:</b> ${esc(doc)} · <b>Page:</b> ${esc(pg)}${u?` · <b>URL:</b> <a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:''}</div>`}
+function renderCp(){const m=$('#cpsel').value,C=D.compat[m]||{},c=C.label||{},st=C.study||{},r=D.rows.find(x=>x.model===m);location.hash='cp='+encodeURIComponent(m);
+ $('#cpp').innerHTML=`<div class="cpn">${esc(r.supplier)} · ${esc(catLabel(r.category))}</div>`+cpFields(m).map(([k,l])=>{const L=c[k]||[],S=st[k]||[];return `<div class="cpc" data-k="${k}"><h3>${l}</h3>${L.length?L.map(([v,p])=>`<div class="cpi lab"><span class="tag tl">Label</span> ${esc(v)}${srcLine(p)}</div>`).join(''):'<div class="ns">Not stated in labeling</div>'}${S.map(([a,q,ci,u])=>`<div class="cpi stu"><span class="tag ts">Study</span> <b>${esc(a)}</b> · ${esc(q)}<div class="d"><a href="${esc(u)}" target="_blank" rel="noopener">${esc(ci)}</a></div></div>`).join('')}</div>`}).join('')+'<p class="cpn"><span class="tag tl">Label</span> stated in the device\'s IFU, SSED or manufacturer page. <span class="tag ts">Study</span> combination named in a peer-reviewed study (clinical use reported, not a labeling claim).</p>'}
+function fillCp(){const o=catOrder();let h='';o.forEach(c=>{const L=D.rows.filter(r=>r.category===c&&D.compat[r.model]);if(L.length)h+=`<optgroup label="${esc(catLabel(c))}">${L.map(r=>`<option value="${esc(r.model)}">${esc(r.model)} (${esc(r.supplier)})</option>`).join('')}</optgroup>`});$('#cpsel').innerHTML=h}
+function toggleCp(on,m){document.body.classList.toggle('cpm',on);$('#cp').hidden=!on;$('#cpb').setAttribute('aria-pressed',on);['#cat','#vp','#diff'].forEach(s=>{const e=$(s);if(e)e.disabled=on});
+ if(on){const cur=m||sel.filter(Boolean).map(x=>x.model).find(x=>D.compat[x]);if(cur)$('#cpsel').value=cur;renderCp()}else render()}
+function initX(h){fillCp();$('#cpb').onclick=()=>toggleCp(!document.body.classList.contains('cpm'));$('#cpsel').onchange=renderCp;
+ $('#q').oninput=showQ;$('#q').onfocus=showQ;$('#q').onkeydown=e=>{const B=[...$('#qr').querySelectorAll('button')];let i=B.findIndex(b=>b.classList.contains('on'));
+  if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();B.forEach(b=>b.classList.remove('on'));i=e.key==='ArrowDown'?Math.min(B.length-1,i+1):Math.max(0,i-1);if(B[i]){B[i].classList.add('on');B[i].scrollIntoView({block:'nearest'})}}
+  else if(e.key==='Enter'){const b=B[i>=0?i:0];if(b)pick(b.dataset.c,b.dataset.m)}else if(e.key==='Escape')$('#qr').hidden=true};
+ $('#qr').onclick=e=>{const b=e.target.closest('button');if(b)pick(b.dataset.c,b.dataset.m)};
+ document.addEventListener('click',e=>{if(!e.target.closest('.qw'))$('#qr').hidden=true});
+ if(h.get('cp')&&D.compat[h.get('cp')])toggleCp(true,h.get('cp'))}
 </script><script>fetch('data/guides.json',{cache:'no-cache'}).then(r=>r.ok?r.json():null).then(d=>{if(!d||!d.guides||!d.guides.length)return;const e=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));document.getElementById('gdl').innerHTML=d.guides.map(g=>{const live=g.status==='live'&&g.url,u=live?g.url:g.preview_url,me=g.id===d.self,n=e(g.title||g.name||g.id);return u?`<li><a href="${e(u)}"${me?' class="me" aria-current="page"':''}>${n}${live?'':' <small>preview</small>'}</a></li>`:`<li><a aria-disabled="true" style="opacity:.5;pointer-events:none">${n} <small>coming soon</small></a></li>`}).join('');document.getElementById('gd').hidden=false}).catch(()=>{})</script></body></html>
