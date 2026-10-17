@@ -27,3 +27,4 @@ with sync_playwright() as p:
 import subprocess as _sp;_sp.run([sys.executable,'/workspace/structural-specs/tools/tsticky.py',U,T])
 _sp.run([sys.executable,'/workspace/structural-specs/tools/tnav.py',U])
 _sp.run([sys.executable,'/workspace/structural-specs/tools/tfeat.py',U])
+_sp.run([sys.executable,'/workspace/structural-specs/tools/tlinks.py'])
