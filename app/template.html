@@ -73,7 +73,7 @@ function pickers(){const c=$('#cat').value;$('#pk').innerHTML=V.map((v,i)=>{cons
  document.querySelectorAll('.pk .x').forEach(b=>b.onclick=()=>{sel[b.dataset.i]=null;pickers();render()})}
 function cell(r,f){if(!r)return'';let v=r[f];if(v==null||v==='')return'<span class="na">—</span>';
  let s=f==='catalog_numbers'?`<div class="cat">${esc(v)}</div>`:esc(v);const p=r._p&&r._p[f];if(p!=null)s+=`<span class="src" data-p="${p}">i</span>`;
- if(f==='recalls'&&RC&&RC[r.model])s+=RC[r.model].map(x=>`<div class="rc"><b>${esc(x[0])}</b> ${esc(x[1])} · ${esc(x[2])}<br>${esc(x[3])}<br><small>Catalogs: ${esc(x[4])}</small></div>`).join('');return s}
+ if(f==='recalls'&&RC&&RC[r.model])s+=RC[r.model].map(x=>`<div class="rc"><b>${esc(x[0])}</b> ${esc(x[1])} · ${esc(x[2])}<br>${esc(x[3])}<br><small>Catalogs: ${esc(x[4])}${x[5]?` · <a href="${esc(x[5])}" target="_blank" rel="noopener">Source</a>`:''}</small></div>`).join('');return s}
 const isRep=r=>!!r&&!!r.reprocessed&&!/^no\b/i.test(String(r.reprocessed));const REPF=f=>/reprocess/i.test(f);
 function render(){const c=$('#cat').value,S=sel.filter(Boolean);if(!document.body.classList.contains('cpm'))location.hash='c='+encodeURIComponent(c)+'&m='+encodeURIComponent(sel.map(s=>s?s.model:'').join('~'));
  const R=rowsOf(c),diff=$('#diff').checked&&S.length>1,showRep=S.some(isRep);

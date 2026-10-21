@@ -24,6 +24,10 @@ for r in rows:
           'recalling_firm':x.get('recalling_firm',''),'status':x.get('recall_status',''),'date':x.get('event_date_initiated',''),'reason':(x.get('reason_for_recall','') or '')[:300],
           'matched_catalogs':'; '.join(mt[:20])+(' …' if len(mt)>20 else ''),'n_matched':len(mt),'source':'openFDA device recall API https://api.fda.gov/device/recall.json?search=product_res_number:"%s"'%x.get('product_res_number','')})
     per[m]=len(hits);print(m,len(seen),len(hits))
+import os
+if os.path.exists('raw/recall_manual.csv'):  # FDA Early Alerts / safety comms not yet in openFDA (exact model, source URL in 'source')
+    for x in csv.DictReader(open('raw/recall_manual.csv')):
+        if not any(o['model']==x['model'] and o['recall_number']==x['recall_number'] for o in out): out.append(x); per[x['model']]=per.get(x['model'],0)+1
 F2=list(out[0].keys()) if out else ['model']
 with open('structural-recalls.csv','w',newline='') as f:
     w=csv.DictWriter(f,F2);w.writeheader();w.writerows(out)

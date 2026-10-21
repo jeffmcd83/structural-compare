@@ -11,3 +11,8 @@ Gaps: wires/sheaths/Sentinel/valvuloplasty/Tempo/BRK/VersaCross/Agilis spec fiel
 
 ## Split — 2026-10-13
 Moved to standalone /workspace/structural-specs. Reprocessing attribute dropped (no reprocessed structural devices; TAVI etc). Not yet published; overall fill 65.0% (34 rows).
+
+## 2026-10-21 weekly recall check (pass sh12)
+- New openFDA recall: Amplatzer Amulet, Z-0191-2027 (event 99844), Class 2, initiated 2026-09-10, posted 2026-10-16, IFU update re pulmonary artery injury risk; 8 models 9-ACP2-* matched by catalog/GTIN. Source: https://api.fda.gov/device/recall.json?search=product_res_number:"Z-0191-2027" and https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=222724
+- New FDA Early Alert (not yet in openFDA): Edwards Commander M delivery system 9880CM29 for SAPIEN M3, lots 67718561/67804014/67887043/67887044, balloon burst, 1 death. Posted 2026-10-15. Stored in raw/recall_manual.csv (merged by recalls.py). Source: https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-transcatheter-mitral-valve-delivery-system-issue-edwards-lifesciences
+- Recall entries now show a Source link on the page.
