@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-12",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "pma_number": "P200049",
+      "supplement_number": "",
+      "applicant": "ABBOTT MEDICAL",
+      "street_1": "177 County Rd. B E.",
+      "street_2": "",
+      "city": "St. Paul",
+      "state": "MN",
+      "zip": "55117",
+      "zip_ext": "",
+      "generic_name": "System, appendage closure, left atrial",
+      "trade_name": "Amplatzer Amulet Left Atrial Appendage Occluder",
+      "product_code": "NGV",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "",
+      "supplement_reason": "",
+      "expedited_review_flag": "N",
+      "date_received": "2020-12-31",
+      "decision_date": "2021-08-14",
+      "docket_number": "21M-0911",
+      "fed_reg_notice_date": "2021-08-21",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for The Amplatzer Amulet Left Atrial Appendage Occluder.  The device is a percutaneous transcatheter device intended to reduce the risk of thrombus embolization from the left atrial appendage (LAA) in patients who have nonvalvular atrial fibrillation and who are at increased risk for stroke and systemic embolism based on CHADS2 or CHA2DS2-VASc scores, are suitable for short term anticoagulation therapy, and have appropriate rationale to seek a non-pharmacologic alternative to oral anticoagulation, taking into consideration the safety and effectiveness of the device.",
+      "openfda": {
+        "device_name": "System, Appendage Closure, Left Atrial",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3",
+        "registration_number": [
+          "2135147",
+          "3012179728",
+          "3010273872",
+          "3007113487",
+          "2124215",
+          "2134265",
+          "3014918977",
+          "3005334138",
+          "1928237",
+          "9681260",
+          "1721676",
+          "3005012805",
+          "1225687",
+          "2183744",
+          "1000121056",
+          "3010220595",
+          "3002807314"
+        ],
+        "fei_number": [
+          "3012179728",
+          "3010273872",
+          "3007113487",
+          "2124215",
+          "3014918977",
+          "3005334138",
+          "3001451463",
+          "1928237",
+          "1721676",
+          "3005012805",
+          "3002095335",
+          "2183744",
+          "1000121056",
+          "3010220595",
+          "3002806565",
+          "3002807314"
+        ]
+      }
+    }
+  ]
+}

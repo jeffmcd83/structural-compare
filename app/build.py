@@ -57,7 +57,7 @@ for o in out:
 STUDY=collections.defaultdict(lambda:collections.defaultdict(list))
 for x in csv.DictReader(open(R+'sources/passSH11/study.csv')):STUDY[x['model']][x['field']].append([x['accessory'],x['quote'],x['citation'],x['url'],x['pmid'],x['doi']])
 COMPAT={m:{'label':c,'study':dict(STUDY.get(m,{}))} for m,c in COMPAT.items()}
-core={'compat':COMPAT,'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh12'}
+core={'compat':COMPAT,'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh13'}
 def dump(n,o):
     s=json.dumps(o,ensure_ascii=False,separators=(',',':'));open(f'{OUT}/data/{n}','w').write(s);return s
 a=dump('core.json',core);b=dump('recalls.json',RC)

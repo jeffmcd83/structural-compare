@@ -7,5 +7,23 @@
   "source": "FDA SSED P230013 EVOQUE p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230013B.pdf",
   "existing": "44, 48, 52 mm",
   "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"EVOQUE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22EVOQUE%22"
+ },
+ {
+  "pass": "passSH13",
+  "model": "EVOQUE",
+  "field": "valve_sizes_mm",
+  "value": "44, 48, 52, 56 mm",
+  "source": "FDA PMA database P230013/S004 (decision 2024-10-03; approval for addition of the 56 mm valve size) p.record; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P230013S004",
+  "existing": "44, 48, 52 mm",
+  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"EVOQUE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22EVOQUE%22"
+ },
+ {
+  "pass": "passSH13",
+  "model": "EVOQUE",
+  "field": "access_routes",
+  "value": "Transfemoral venous; internal jugular venous (added by P230013/S027, 2026-09-16)",
+  "source": "FDA PMA database P230013/S027 (decision 2026-09-16; labeling modifications incl. addition of internal jugular venous access and revised sizing table) p.record; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P230013S027",
+  "existing": "Transfemoral venous",
+  "existing_source": "FDA SSED P230013 EVOQUE p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230013B.pdf"
  }
 ]

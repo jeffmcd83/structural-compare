@@ -37,11 +37,8 @@ Standalone hand-off, split from /workspace/coronary-specs on 2026-10-13. It cove
 ## Rules
 See STANDING_DECISIONS.md. FILL_LOG.md has the pass history and gaps; SOURCES.md lists the sources.
 
-## Open gaps
-- Navitor Titan IFU.
-- Evolut PRO+/FX annulus, tissue and skirt.
-- Trilogy annulus table.
-- SAPIEN 3 / S3 Ultra PMA number (P140031).
-- Accessory specs (wires, sheaths, Sentinel, TRUE/Z-MED, Tempo, BRK, VersaCross, Agilis).
-- Perclose closure range.
+## Open gaps (after pass sh13)
+- Navitor Titan: commercial US IFU not found (only annulus range is filled, from the Abbott US page).
+- EVOQUE: an updated IFU for S004 (56 mm) and S027 (jugular access, new sizing table) is not posted. Conflicts are logged.
+- Accessory specs: wires (Safari/Confida/Lunderquist/Amplatz), large-bore sheath type/ID/OD, TRUE/Z-MED pressures, BRK, VersaCross, Tempo, WATCHMAN access sheaths.
 - TEER independent grasping (OEM source needed).
