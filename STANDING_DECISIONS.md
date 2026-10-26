@@ -34,3 +34,4 @@ History:
 - 2026-10-16: v1.1 released (Jeff approved): search, Compatibility view (labeling + study evidence), single category dropdown, mobile dropdown sizing.
 - 2026-10-21: v1.1.1 released (Jeff approved): pass sh12 recall update — Amulet Class 2 recall Z-0191-2027 (IFU update, PA injury risk), SAPIEN M3 Commander M (9880CM29) FDA Early Alert; Source links on recall entries.
 - 2026-10-26: pass sh14 (preview only): passes_apply.py supports optional 'hold' column; hold=1 rows are logged to conflicts_passes.json and never applied (used for EVOQUE values from the Edwards US eIFU while FDA-posted labeling for P230013/S004+S027 is unavailable). Rows mixing models get catalog-prefixed values (e.g. "GWBC30: …", "14000ES14: …"). Generic 510(k) indications for large-bore sheaths are shown as "General: …" (no brand implied).
+- 2026-10-26: v1.2 released (Jeff approved): passes sh13+sh14 (gap-fill). EVOQUE eIFU values remain held/unapplied.
