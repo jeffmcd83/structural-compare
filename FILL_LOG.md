@@ -35,3 +35,28 @@ Gaps / declined:
 - Safari: the BSC US page covers SAFARI² (H74939406/407, 275 cm), a different model from the master Safari (H74939271/272, 260/300 cm), so nothing was copied. Confida, Lunderquist and Amplatz specs: no OEM US IFU fetched.
 - TRUE nominal/RBP: not in the 510(k) summary, the BD sell sheet is blocked (403), and the BD US page gives no numbers. Z-MED II, eSheath+/Optima/Sentrant/DrySeal type/ID/OD, BRK, VersaCross, Tempo, WATCHMAN access sheaths: not attempted this pass.
 - Agilis 13 F SI-1371 (US ordering page) is not in master/GUDID family: candidate for a future row.
+
+## Pass SH14 — gap fill (2026-10-26, /preview/ only, tag preview-passsh14). 38 values applied (35 spec fields + 3 fda_submission numbers), 4 new held conflicts (not applied). Backup structural-specs-verified.pre-passSH14.csv. Overall 75.0% → 81.8% (Large-bore sheath 57→89%, Valve wire 44→62%, Temporary pacing 64→100%, Transseptal 45→55%, Valvuloplasty 58→62%, LAAO access sheath 59→77%).
+Filled (sources/passSH14/values.csv, docs in sources/passSH14/docs/; page numbers are PDF pages):
+- eSheath Optima: type, ID/OD (14000ES14 14F 4.5 mm / 6.3 mm; 14000ES16 16F 5.2 mm / 6.9 mm), compatible THVs, hydrophilic coating. Edwards US IFU DOC-0555495A Table 1 p.2.
+- eSheath+: type (partially expandable), ID 14/16 F (US IFU states no OD), compatible THVs, coating. Edwards US IFU DOC-0254143A pp.1–2. Not used: K200258 (names 914ES/916ES, not ESP) and DOC-0215926A (OUS multilingual, has OD).
+- Sentrant (K171866 p.5) and DrySeal Flex (K160254 p.5): construction/type, hydrophilic coating, compatible devices (generic: indication names no device). ID/OD still blank (no US IFU table fetched).
+- Tempo (K160260 pp.3,5–7): bipolar 2 electrodes + balloon, active fixation, 6F introducer, indication (≤7 days temporary pacing).
+- BRK / BRK-1 (K122587 p.1): beveled SS needle puncture, compatible with SJM transseptal introducer sets. Curves not stated.
+- Z-MED II: indication only (K122012 p.1, BAV, cleared 2012-10-04). OCR'd burst table unreliable → pressures not used.
+- Confida GWBC30 (K181001 p.5): 360° preformed curved tip, stainless steel 0.035"/260 cm, PTFE (Cr VI-free), heart chambers incl. TAVI; not coronary/cerebrovascular. Values prefixed "GWBC30:" (row also holds CES122230 sheath SKU).
+- Lunderquist Extra Stiff (K251596 pp.5–6): tip configs by catalog family, "long and stiff" (no numeric), SS mandril+coil, PTFE, aortic/TEVAR/EVAR use (indication does not name TAVI).
+- Amulet Steerable Delivery Sheath (K250426 p.5): dual 3-D curve, 120° CW / 0° CCW deflection; compatible with Amplatzer Amulet.
+- WATCHMAN TruSeal (K180864 p.4), FXD Curve (K212228 p.4), TruSteer (K240018 p.4): compatible devices per indication + fda_submission numbers (openFDA 510(k) records).
+Conflicts (held, hold=1, logged to sources/conflicts_passes.json, existing values kept):
+- EVOQUE valve_sizes_mm (44/48/52/56), access_routes (TF or internal jugular), annulus_range_mm (new perimeter-derived sizing table): Edwards US eIFU DOC-0586345A (2026-06, pp.1–2). Not applied because the parent rule requires an FDA-POSTED updated IFU; accessdata P230013S004/S027 labeling PDFs still 404. Ready to apply if Jeff accepts the Edwards eIFU.
+- Confida tip_config: K132623 (2013, original Brecker Curve) describes a 540° loop, 30 mm wide vs K181001 360° tip. Kept the newer K181001 value.
+Tooling: passes_apply.py now honours an optional 'hold' column (hold=1 → logged as conflict, never applied).
+Gaps / declined:
+- Navitor Titan: still only the IDE IFU (PRT-NG-35) → declined again.
+- Safari (H74939271/272): no exact-model US doc and no 510(k) in GUDID/openFDA by name; SAFARI² not copied. Amplatz Extra Stiff: not attempted.
+- TRUE nominal/RBP, Z-MED II pressures/shaft/sheath/wire: no clean US source.
+- VersaCross Access / Steerable Access Solution: K190688 covers "VersaCross Steerable Sheath" kit (S/M/L curves, 90° CCW/180° CW), not the exact "Access Solution" (RF wire kit) → not applied.
+- WATCHMAN access sheath curves, Amulet sheath ID/OD, Sentrant/DrySeal ID/OD, BRK curves: not in 510(k) summaries.
+- Agilis 13F SI-1371: not checked in GUDID this pass (time).
+- MitraClip G5 / TriClip G5 fields: not attempted.

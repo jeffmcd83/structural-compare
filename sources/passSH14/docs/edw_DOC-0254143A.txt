@@ -1,0 +1,132 @@
+Edwards eSheath+ Introducer Set
+Instructions for Use
+CAUTION: Federal (USA) law restricts this device to sale by or on the order of a physician.
+Please verify that you have the latest version of the instructions for use prior to using the device by visiting
+http://THVIFU.edwards.com or by calling 1.800.822.9837. In order to access the instructions for use, an IFU Code will
+be required.
+This product should be used by physicians trained and experienced in interventional techniques.
+
+1.0 Device Description
+The Edwards eSheath+ introducer set contains one introducer, one dilator, one expansion tool and a sheath, as well as a loader
+packaged with an Edwards delivery system. The working lengths of the introducer, dilator, and sheath contain a hydrophilic
+coating.
+
+
+
+
+                                                             Sheath
+
+
+
+                                                           Introducer
+
+
+                                                             Dilator
+
+
+                                                         Expansion Tool
+
+                                   Sheath                                          Introducer                       Dilator
+                                   Working        Compatible        Introducer      Working                         Working
+    Model         Sheath I.D.      Length            THV               O.D.          Length       Dilator O.D.      Length
+                                                     20 mm
+    914ESP            14 F           36 cm           23 mm              14 F         57 cm             16 F           38 cm
+                                                     26 mm
+    916ESP            16 F           36 cm           29 mm              16 F         57 cm             18 F           38 cm
+
+
+
+
+Edwards, Edwards Lifesciences, the stylized E logo, Edwards eSheath, Edwards eSheath+, eSheath, and eSheath+ are trademarks
+of Edwards Lifesciences Corporation. All other trademarks are the property of their respective owners.
+
+                                                                1
+2.0 Indications
+The Edwards eSheath+ introducer set is indicated for the introduction and removal of devices used with the Edwards
+transcatheter heart valves.
+
+3.0 Contraindications
+There are no known contraindications.
+
+4.0 Warnings
+The devices are designed, intended, and distributed for single use only.
+Do not resterilize or reuse the devices. There is no data to support the sterility, nonpyrogenicity, and functionality of the
+devices after reprocessing.
+The Edwards eSheath+ introducer set must be used with a compatible 0.035" (0.89 mm) guidewire to prevent vessel injury.
+
+5.0 Precautions
+• Caution should be used in vessels that have diameters less than 5.5 mm or 6 mm as it may preclude safe placement of the 14F
+  and 16F Edwards eSheath+ introducer set respectively.
+• Use caution in tortuous or calcified vessels that would prevent safe entry of the introducer set.
+• Do not use the Edwards eSheath+ introducer set if the packaging sterile barriers and any components have been opened or
+  damaged.
+• When inserting, manipulating or withdrawing a device through the sheath, always maintain sheath position.
+• When puncturing, suturing or incising the tissue near the sheath, use caution to avoid damage to the sheath.
+• Expansion tool does not contain a hydrophilic coating. Do not use as a dilator.
+
+6.0 Potential Adverse Events
+Complications associated with standard catheterization and use of angiography include, but are not limited to, injury including
+perforation or dissection of vessels, thrombosis and/or plaque dislodgement which may result in emboli formation, distal vessel
+obstruction, hemorrhage, infection, and/or death.
+
+7.0 Directions for Use
+1. Inspect the length of the introducer, dilator, expansion tool and sheath for surface defects and damage prior to clinical use.
+2. Flush the introducer and dilator using heparinized saline through the guidewire lumen.
+3. Hydrate the length of the introducer, dilator, and sheath with heparinized saline to activate the hydrophilic coating. Wet the
+   surface of the expansion tool.
+4. Flush the sheath using heparinized saline through the flush port; close the flush port.
+5. Use the expansion tool to pre-expand the partially expandable portion of the sheath prior to procedural use.
+   Note: After pre-expanding the sheath, inspect the length of the expandable portion for damage prior to use.
+6. After removing the expansion tool, flush the sheath a second time using heparinized saline through the flush port; close the
+   flush port.
+7. Insert the introducer completely into the sheath and turn clockwise to lock the introducer hub to the sheath hub.
+8. Using standard catheterization techniques, gain access to the vessel and dilate as necessary with the dilator to accommodate
+   the sheath.
+9. Orient the sheath appropriately and maintain orientation for the duration of the procedure. Insert the sheath assembly using
+   standard technique while following its progression on fluoroscopy.
+   Note: The proximal tapered end of the sheath working length is larger in diameter.
+10. If possible, suture the sheath into place.
+11. Remove the introducer from the sheath by turning counterclockwise to unlock the introducer hub from the sheath.
+12. Insert the device into the sheath (reference device specific instructions for use).
+    a. When using the loader, flush the loader with heparinized saline and insert the device into the loader.
+    b. Insert the loader into the sheath until the loader stops. Advance device through the loader and into the sheath.
+
+
+
+                                                                 2
+    c. Retract the loader once the device is passed through the sheath. If additional working length is needed unscrew the cap
+       from the loader and peel the loader from the shaft of the device.
+13. After the completion of the procedure, remove the device from the sheath.
+    Note: The sheath should be intermittently flushed with heparinized saline per standard technique.
+14. Remove the suture (if necessary) and remove the sheath entirely without torquing. Do not reinsert the sheath.
+
+8.0 How Supplied
+The Edwards eSheath+ introducer set is supplied pouched and sterilized by ethylene oxide.
+
+9.0 Storage
+The Edwards eSheath+ introducer set should be stored in a cool, dry place.
+
+10.0 Device Disposal
+Used sheath sets may be handled and disposed of in the same manner as hospital waste and biohazardous materials. There are no
+special risks related to the disposal of these devices.
+These products are manufactured and sold under one or more of the following US patent(s): US Patent No. 8,690,936; 8,790,387;
+9,301,840; and 9,301,841; and corresponding foreign patents.
+
+
+
+
+                                                               3
+                                                                                             2024-10
+                                                                                     10045593003 A
+                                                          © Copyright 2024, Edwards Lifesciences LLC
+                                                                                 All rights reserved.
+                           Telephone       949.250.2500
+    Manufacturer                           800.424.3278
+Edwards Lifesciences LLC   FAX             949.250.2525                                     Web IFU
+One Edwards Way
+Irvine, CA 92614 USA
+
+
+
+                                       4
+

@@ -1,0 +1,2920 @@
+Edwards EVOQUE Tricuspid Valve Replacement System
+Instructions for Use
+
+
+Caution: Implantation of the transcatheter tricuspid valve should only be performed by
+physicians who have received training for the Edwards EVOQUE tricuspid valve replacement
+system.
+• Do not attempt to use the Edwards EVOQUE valve (herein referred to as the EVOQUE valve), delivery system, or associated
+  accessories before completely reading and understanding the information contained in this booklet.
+• Failure to follow these instructions, warnings, and precautions may lead to device damage or patient injury. Use of the EVOQUE
+  system should be restricted to those physicians trained to perform invasive endovascular procedures and to those physicians
+  trained in the proper use of the system.
+• Consult with authorized Edwards personnel for appropriate selection of EVOQUE valve size.
+• The EVOQUE valve, delivery system, dilator kit, loading system, and stabilizer are supplied STERILE. The single-use accessories
+  (base and plate) and reusable accessories (rail, platform, and plate) are supplied NON-STERILE.
+• For the Edwards reusable platform and plate, refer to the reprocessing instructions in the Edwards Reusable Accessories IFU for
+  wipe down steps. For the Edwards reusable rail assembly, refer to the reprocessing instructions in the Edwards Reusable Rail
+  Set IFU. All other devices are supplied for single-use only. After use, dispose in accordance with hospital administrative and/or
+  government policy.
+
+1.0 Introduction
+The Edwards EVOQUE tricuspid valve replacement system (herein referred to as the EVOQUE system) is designed to replace the
+native tricuspid valve in patients with tricuspid valve regurgitation without the need for conventional open-heart surgery. The
+EVOQUE system consists of four (4) elements which are used with either of the two (2) accessories sets, as outlined below:
+             Product Name                        44 mm                48 mm              52 mm                   56 mm
+ Edwards EVOQUE Valve (EVOQUE Valve)           9850EV44              9850EV48          9850EV52                 9850EV56
+                                                                      9850LS                                         -
+    Edwards EVOQUE Loading System                                                  9850LSA
+ Edwards EVOQUE Loading System and
+                                                                                   9850LSB
+             Trimmer
+   Edwards EVOQUE Tricuspid Delivery
+                                                                                   9850TDS
+               System
+       Edwards EVOQUE Dilator Kit                                                  9850DK
+
+
+
+
+Edwards, Edwards Lifesciences, the stylized E logo, Edwards EVOQUE, EVOQUE, TRISCEND, and TRISCEND II are trademarks of
+Edwards Lifesciences Corporation. All other trademarks are the property of their respective owners.
+
+                                                                 1
+                                                            Accessories Set 1
+                                Product Name                                                       Model Number
+                          Edwards EVOQUE Stabilizer                                                     9850SB
+                       Edwards EVOQUE Stabilizer Base                                                   9850BA
+                       Edwards EVOQUE Stabilizer Plate                                                  9850PT
+
+                                                            Accessories Set 2
+                                Product Name                                                       Model Number
+                          Edwards EVOQUE Stabilizer                                                     9850SZ
+                             Edwards Reusable Rail                                                     10500RL
+                          Edwards Reusable Platform                                                    10000UP
+                            Edwards Reusable Plate                                                     10000PT
+
+Note: The EVOQUE system is designed for use with either Accessories set 1 or Accessories set 2. Accessories set 1 is
+considered an optional and single-use set for use with the EVOQUE system. Components from set 1 and set 2 are not
+interchangeable.
+Note: The devices that comprise the EVOQUE system are intended to be used together and are not intended to be used as
+standalone devices. The information in this IFU is applicable to all the EVOQUE system devices.
+
+2.0 Device Description
+• Edwards EVOQUE Valve (Figure 1)
+The EVOQUE valve consists of a trileaflet bovine pericardial tissue valve, nitinol frame, and fabric skirt, and is packaged and
+terminally sterilized in glutaraldehyde.
+Valve size recommendations are based on native valve annulus size, as measured by computed tomography (CT). Patient
+anatomical factors and imaging modalities should be considered during valve size selection.
+                                               Systole                                                Diastole
+ Device Diameter          Recommended                                           Recommended
+ (Recommended                                        Maximum Treatable
+                          Treatable Perimeter                                   Treatable Perimeter    Maximum Treatable
+ Valve Size)                                         Annulus Length
+                          - Derived Diameter                                    - Derived Diameter     Annulus Length (mm)
+                                                     (mm)
+                          Range (mm)                                            Range (mm)
+ 44                       36.5 - 43                  45.5                       39.6 - 45.5            50
+ 48                       40 - 47                    49.5                       43.2 - 49.5            54
+ 52                       45 - 51                    53.5                       46.8 - 53.5            58
+ 56                       48 - 55                    57.5                       50.4 - 57.5            62
+
+• Edwards EVOQUE Tricuspid Delivery System (Figure 2, Figure 3, and Figure 4)
+The delivery system has an outer diameter of 28 F and is intended to deliver the EVOQUE valve in the crimped position via the
+transfemoral venous approach. The delivery system handle contains a primary flex knob, secondary flex knob, and depth knob
+to facilitate EVOQUE valve alignment and positioning in the native valve, and a capsule knob and release knob to control the
+expansion and release of the EVOQUE valve.
+• Edwards EVOQUE Dilator Kit (Figure 5)
+The 24 F, 28 F, and 33 F diameter hydrophilic-coated dilators are intended to dilate the access site, facilitating delivery system
+insertion. All dilators accommodate a 0.035 inch (0.89 mm) guidewire and are tapered to minimize access site trauma.
+• Edwards EVOQUE Loading System (Figure 6) / Loading System and Trimmer (Figure 7)
+The loading system, which consists of multiple components, is intended to facilitate loading and attachment of the EVOQUE valve
+onto the delivery system. The loading system assists in crimping the EVOQUE valve to the appropriate diameter, which allows the
+outer capsule to advance over the EVOQUE valve.
+• Edwards EVOQUE System Accessories Set 1: Stabilizer (Model 9850SB), Base, and Plate (Figure 8)
+The single-use stabilizer with single-use base and plate are intended to secure the delivery system at an angle appropriate for
+the transfemoral venous approach and to enable fine adjustments of the position of the delivery system during the implantation
+
+
+                                                                   2
+procedure. The base is height-adjustable to accommodate patient lower extremities and is intended to provide a stable base for
+the stabilizer. The plate is intended to provide a stable, flat surface for the base on the operating table.
+• Edwards EVOQUE System Accessories Set 2: Stabilizer (Model 9850SZ) and Reusable Rail, Platform, and Plate (Figure 9)
+The reusable accessories compatible with the EVOQUE system include the reusable rail, platform, and plate. The reusable rail is
+a stable, sterilizable rail that provides a surface to secure compatible stabilizer to the reusable platform. The reusable platform
+allows for positioning and stabilization of Edwards transcatheter replacement delivery systems through adjustable leg height and
+a stable platform. The reusable plate is placed below the reusable platform, providing a flat and stable surface during use. The
+single-use stabilizer is intended to aid with positioning and stabilization of the EVOQUE system during implantation procedures.
+For the Accessories set utilizing reusable accessories (Figure 9), refer to the Edwards Reusable Accessories IFU for set up of the
+platform and plate. If reusable rail is non-sterile or if unpackaging for the first time, refer to the Edwards Reusable Rail Assembly
+IFU.
+
+3.0 Facilities and Training Requirement
+Facilities that intend to perform an implantation procedure utilizing the EVOQUE system must have access to cine fluoroscopy
+and transesophageal echocardiography (TEE) throughout the procedure. In addition, the implanting physicians must have
+prompt access to facilities with the necessary equipment, instruments, supplies, and personnel to perform emergency tricuspid
+valve surgery, if required.
+A comprehensive training program is provided by Edwards Lifesciences and must be completed by the implanting physicians
+before use of the EVOQUE system. The implanting physicians should have advanced technical knowledge and experience in
+related catheter-based procedures.
+
+4.0 Indications for Use
+4.1 Intended Use
+The EVOQUE tricuspid valve replacement system is indicated for the improvement of health status in patients with symptomatic
+severe tricuspid regurgitation despite being treated optimally with medical therapy for whom tricuspid valve replacement is
+deemed appropriate by a Heart Team.
+
+5.0 Contraindications
+The EVOQUE valve is contraindicated in patients who cannot tolerate an anticoagulation/antiplatelet regimen, who have active
+bacterial endocarditis or other active infections, or who have untreatable hypersensitivity to nitinol alloys (nickel and titanium).
+
+6.0 Warnings
+• The EVOQUE valve, delivery system, loading system, dilator kit, and stabilizer are designed, intended, and distributed for STERILE
+  single-use only. The EVOQUE stabilizer base and EVOQUE stabilizer plate are provided nonsterile for single-use only. Do not
+  resterilize or reuse any of the single-use devices. There are no data to support the sterility, nonpyrogenicity, or functionality of
+  the single-use devices after reprocessing.
+• Ensure proper sterile techniques are utilized during the preparation, transfer, and use of the devices.
+• Do not use the valve if the tamper evident seal is broken, the storage solution does not completely cover the valve, the
+  temperature indicator has been activated, the valve is damaged, or the expiration date has elapsed. The EVOQUE valve must
+  remain hydrated at all times. The valve cannot be exposed to solutions, antibiotics, or chemicals other than its shipping storage
+  solution and sterile physiologic saline solution. This will help prevent leaflet damage that may impact valve functionality. Keep
+  the EVOQUE valve hydrated with normal saline until ready for implantation.
+• Ensure the correct valve size is selected. Implantation of the improper size (i.e., undersizing or oversizing) may lead to
+  paravalvular leak (PVL), migration, embolization, and/or annular damage.
+• Patients with previously implanted devices (e.g., inferior vena cava (IVC) filter) should be carefully assessed prior to insertion of
+  the delivery system to avoid potential damage to vasculature or a previously implanted device.
+• Patients with pre-existing cardiac leads should be carefully assessed prior to implantation to avoid potential adverse interaction
+  between devices.
+• Care should be taken when implanting cardiac leads after EVOQUE valve implantation to avoid potential adverse interaction
+  between the devices.
+• Patients implanted with the EVOQUE valve should be maintained on anticoagulant/antiplatelet therapy as determined by their
+  physicians in accordance with current guidelines, to minimize the risk of valve thrombosis or thromboembolic events.
+• There are no data to support device safety or effectiveness if the patient has:
+ • Echocardiographic evidence of severe right ventricular dysfunction;
+
+
+                                                                  3
+ • Pulmonary arterial systolic pressure (PASP) > 70 mmHg by echo Doppler;
+ • A trans-tricuspid pacemaker or defibrillator lead that has been implanted in the RV within the last 3 months;
+ • Dependency on a trans-tricuspid pacemaker without alternative pacing options.
+
+7.0 Precautions
+7.1 Precautions Prior to Use
+• The patient's eligibility depends on the anatomic conditions based on CT scan.
+• It is advised that a multi-disciplinary heart team be of the opinion that EVOQUE valve implantation is preferable to alternative
+  percutaneous device solutions, including minimally-invasive open heart surgery.
+• It is advised that a multi-disciplinary heart team takes into consideration the severity of disease and the chances of reversibility
+  of right heart failure based on a complete hemodynamic assessment.
+7.2 Precautions
+• The EVOQUE valve is to be used only with the EVOQUE delivery system and EVOQUE loading system.
+• The procedure should be conducted under appropriate imaging modalities, such as transesophageal echocardiography (TEE),
+  fluoroscopy, and/or intracardiac echocardiography (ICE).
+• Glutaraldehyde may cause irritation of the skin, eyes, nose, and throat. Avoid prolonged or repeated exposure to, or breathing
+  of, the solution. Use only with adequate ventilation. If skin contact occurs, immediately flush the affected area with water; in the
+  event of contact with eyes, seek immediate medical attention. For more information about glutaraldehyde exposure, refer to the
+  Safety Data Sheet available from Edwards Lifesciences.
+• Conduction disturbances may occur before, during, or following implantation of the EVOQUE valve, which may require
+  continuous ECG monitoring before hospital discharge. If a patient has confirmed or suspected conduction disturbances,
+  consider patient monitoring and/or electrophysiology evaluation. The risk of conduction disturbances may increase with the
+  56 mm valve size.
+• Appropriate antibiotic prophylaxis is recommended post-procedure in patients at risk for prosthetic valve infection and
+  endocarditis.
+• Long-term durability has not been established for the EVOQUE valve. Regular medical follow-up is advised to evaluate EVOQUE
+  valve performance.
+• Implantation of the EVOQUE valve should be postponed in patients with (1) a history of myocardial infarction within one month
+  (30 days) of planned intervention, (2) pulmonary emboli within 3 months (90 days) of planned intervention, (3) cerebrovascular
+  accident (stroke or TIA) within 3 months (90 days) of planned intervention, (4) active upper GI bleeding within 3 months
+  (90 days) prior to procedure requiring transfusion.
+
+8.0 Potential Adverse Events
+Potential adverse events related to standard cardiac catheterization, use of anesthesia, the EVOQUE valve, and the implantation
+procedure include:
+• Abnormal lab values
+• Allergic reaction to anesthesia, contrast media, anti-coagulation medication, or device materials
+• Anaphylactic shock
+• Anemia or decreased hemoglobin (Hgb), may require transfusion
+• Aneurysm or pseudoaneurysm
+• Angina or chest pain
+• Arrhythmia – atrial (i.e., atrial fibrillation, supraventricular tachycardia)
+• Arrhythmias – ventricular (i.e., ventricular tachycardia, ventricular fibrillation)
+• Arterio-venous fistula
+• Bleeding
+• Cardiac arrest
+• Cardiac (heart) failure
+• Cardiac injury, including perforation
+• Cardiac tamponade / pericardial effusion
+• Cardiogenic shock
+• Chordal entanglement or rupture that may require intervention
+• Coagulopathy, coagulation disorder, bleeding diathesis
+• Conduction system injury, which may require implantation of a pacemaker (temporary or permanent)
+
+
+                                                                   4
+• Conversion to open heart surgery
+• Coronary artery occlusion
+• Damage to or interference with function of pacemaker or implantable cardioverter defibrillator (ICD)
+• Death
+• Edema
+• Electrolyte imbalance
+• Embolization including air, particulate, calcific material, or thrombus
+• Emergent cardiac surgery
+• Endocarditis
+• Esophageal irritation
+• Esophageal perforation or stricture
+• EVOQUE system component(s) embolization
+• Failure to retrieve any EVOQUE system components
+• Fever
+• Gastrointestinal bleeding
+• Hematoma
+• Hemodynamic compromise
+• Hemolysis / hemolytic anemia
+• Hemorrhage requiring transfusion/surgery
+• Hypertension
+• Hypotension
+• Inflammation
+• Injury to the tricuspid apparatus including chordal damage, rupture, papillary muscle damage
+• Local and systemic infection
+• Mesenteric ischemia or bowel infarction
+• Multi-system organ failure
+• Myocardial infarction
+• Nausea and/or vomiting
+• Nerve injury
+• Neurological symptoms, including dyskinesia, without diagnosis of TIA or stroke
+• Non-emergent reoperation
+• Pain
+• Pannus formation
+• Paralysis
+• Percutaneous valve intervention
+• Peripheral ischemia
+• Permanent disability
+• Pleural effusion
+• Pneumonia
+• Pulmonary edema
+• Pulmonary embolism
+• Reaction to anti-platelet or anticoagulation agents
+• Rehospitalization
+• Renal failure
+• Respiratory failure, atelectasis – may require prolonged intubation
+• Retroperitoneal bleed
+• Right ventricular outflow tract (RVOT) obstruction
+• Septicemia, sepsis
+• Skin burn, injury, or tissue changes due to exposure to ionizing radiation
+• Stroke
+• Structural deterioration (wear, fracture, calcification, leaflet tear, leaflet thickening, stenosis of implanted device, or new leaflet
+  motion disorder)
+• Thromboembolism
+
+
+                                                                     5
+• Transient ischemic attack (TIA)
+• Valve dislodgement/embolization
+• Valve endocarditis
+• Valve explant
+• Valve leaflet entrapment
+• Valve malposition
+• Valve migration
+• Valve paravalvular leak (PVL)
+• Valve regurgitation (new or worsening tricuspid, aortic, mitral, pulmonary)
+• Valve thrombosis
+• Vascular injury or trauma, including dissection or occlusion
+• Vessel spasm
+• Wound dehiscence, delayed or incomplete healing
+
+9.0 Additional Equipment
+The implantation procedure requires additional equipment that is not supplied with the EVOQUE system. The additional
+equipment is provided below.
+9.1 Equipment for EVOQUE Valve Loading
+Note: Volumes reflect adequate amount for preparing 1 implant.
+• 3500 ml (minimum) sterile physiological saline solution at ambient temperature (~ 23 °C)
+• 500 ml (minimum) heparinized saline solution (2 units/ml) at ambient temperature (~ 23 °C)
+• 4 sterile bowls (≥ 500 ml, ≥ 7 cm depth, plastic)
+• 1 large sterile bowl (≥ 2 L, ≥ 10 cm depth, plastic)
+• 1 scalpel, no. 11 scalpel blade
+• 1 luer locking syringe (≥ 20 cc)
+• Gauze pads
+• Blunt tip forceps
+• Blunt tip scissors
+• Sterile towels
+9.2 Equipment for Access, Procedure, and Monitoring
+• Standard cardiac catheterization lab equipment
+• Femoral vessel introducer sheath
+• Fluoroscopy (fixed, mobile, or semi-mobile fluoroscopy systems appropriate for use in percutaneous coronary interventions)
+• Transesophageal echocardiography capabilities
+• Steerable introducer sheath
+• Exchange length 0.035 inch (0.89 mm) max guidewire
+• Extra small curve 0.035 inch (0.89 mm) max guidewire
+• Right coronary arterial catheter and guidewire
+• Sterile table for EVOQUE valve and device preparation
+9.3 Standby Equipment
+• Arterial bypass cannula (~18 F)
+• Cardiopulmonary bypass machine
+• Compliant balloon (> 20 mm diameter, 9 cc contrast volume)
+• Diluted radiopaque contrast medium (15:85 medium to saline dilution)
+• High pressure contrast injector
+• Intra-aortic balloon pump and appropriately sized balloon
+• Pigtail angiographic catheter
+• Venous return bypass cannula (~18 F)
+• Transthoracic echocardiographic (TTE) equipment
+• Vascular access lubricant
+• Temporary pacing equipment
+
+
+                                                                 6
+10.0 Directions for Use
+10.1 Prior to Use Inspection
+Before using the EVOQUE system, visually examine each element and accessory for evidence of gross damage (e.g., a cracked jar
+or lid, leakage, broken or missing seals) that may have compromised the packaging sterility (if applicable) or functionality of the
+components.
+WARNING: Do not mishandle the delivery system or use the delivery system and accessory devices if the packaging and/or
+sterile barriers and any components have been opened or damaged, or the expiration date has elapsed, as sterility and/or
+function may be compromised.
+WARNING: Do not mishandle the EVOQUE valve or use device/container if found to be damaged, leaking, or without
+adequate sterilant (not fully submerged in glutaraldehyde, or missing intact seals). The EVOQUE valve must not be used
+for implantation, as sterility may be compromised.
+WARNING: Do not use the EVOQUE valve if the expiration date has elapsed, as either sterility or valve function may be
+compromised.
+WARNING: Do not use the EVOQUE valve if the temperature indicator has been activated, as valve function may be
+compromised.
+WARNING: Do not use the EVOQUE valve if the tamper evident seal is broken, as sterility may be compromised.
+10.2 Accessories Setup
+10.2.1 Accessories Set 1 Setup
+       Step          Procedure
+         1           Place the plate on the operating table beneath the patient's leg to support the base during the procedure.
+         2           After the patient has been positioned on the operating table, place single-use base over the patient's leg, on
+                     top of the plate, at the desired distance from the mid-sternum.
+         3           Establish sterile barrier.
+         4           After sterile draping, place single-use base adapter in-line with the access site and attached to the front of
+                     the base using a clamp (Figure 8).
+
+Note: In the Accessories set 1 configuration, the base adapter and clamp are both supplied with the stabilizer.
+10.2.2 Accessories Set 2 Setup
+For the Accessories set 2 configuration utilizing reusable accessories (Figure 9), refer to the Edwards Reusable Accessories IFU for
+set up of the platform and plate. If reusable rail is non-sterile or if unpackaging for the first time, refer to Edwards Reusable Rail Set
+IFU. Once reusable rail is sterile, refer to below instructions.
+        Step         Procedure
+         1           Remove Edwards reusable rail from sterilization wrap (blue wrap) and inspect for damage.
+         2           Prior to sterile draping the patient, assemble and position the reusable plate and reusable platform around
+                     the legs of patient, adjusting the height and angle of the platform as needed. Refer to the Edwards Reusable
+                     Accessories IFU.
+         3           Establish sterile barrier.
+         4           After sterile draping, assemble and attach Edwards reusable rail and stabilizer to the reusable platform.
+         5           Following the procedure, remove the reusable rail from the reusable platform. Perform standard wipe down
+                     of reusable rail before sending for reprocessing. Refer to the Edwards Reusable Rail Set IFU.
+
+10.3 Device Handling and Preparation
+Follow sterile technique during device preparation and implantation. Preparation to be performed by two operators, an implant
+operator (operating the distal section of the delivery system) and a handle operator (operating the proximal section of the
+delivery system). Edwards personnel will always serve as implant operator. Handle operator can be an Edwards personnel or
+hospital staff. The handle operator is to follow instructions below:
+WARNING: Do not mishandle the EVOQUE valve. EVOQUE valve leaflets mishandled or damaged during any part of the
+loading process will require replacement of the EVOQUE valve.
+
+
+                                                                    7
+WARNING: The EVOQUE valve should not remain fully crimped for a period of time longer than 120 minutes, as it may
+impair valve functionality.
+CAUTION: Do not place the jar or the pouch of the delivery system into the sterile field. The outside of the jar and the
+pouch are not sterile, and the contents within the jar and pouch should be handled using standard aseptic techniques to
+prevent contamination.
+CAUTION: To reduce the risk of contamination, do not open the EVOQUE valve jar until implantation is certain.
+CAUTION: Ensure that the entire suture is removed when removing the serial number tag from the EVOQUE valve, as it
+may lead to emboli.
+CAUTION: Do not allow the EVOQUE valve to come in contact with any sharp instrument, as it may impair valve function.
+WARNING: Adequate rinsing with normal saline must be performed before implantation to reduce glutaraldehyde
+concentration, as it may result in glutaraldehyde toxicity.
+CAUTION: Avoid contact of the leaflet tissue or the rinse solution with towels, linens, or other sources of lint or particulate
+matter that could be transferred to the leaflet tissue, as it may lead to emboli.
+10.3.1 Delivery System Preparation
+Follow sterile technique during device preparation and implantation. Edwards personnel will direct the handle operator to do the
+following:
+
+       Step         Procedure
+         1          Wipe only the handle of the delivery system using gauze soaked in saline via syringe.
+         2          Remove stylets from proximal and distal end of the delivery system, then flush the guidewire lumen (Figure
+                    4(3)) with heparinized saline as the instructed amount by Edwards personnel.
+         3          Flush the handle flush port (Figure 3(4)) then sheath port (Figure 3(1)) with heparinized saline as the
+                    instructed amount by Edwards personnel.
+         4          Retract outer capsule: Rotate the white knob (Figure 3(2)) in the direction of the arrows until it comes to a
+                    hard stop to ensure outer capsule (Figure 4(8)) is fully retracted.
+         5          Retract inner capsule: Rotate the blue knob (Figure 3(3)) in the direction of the arrows until it comes to a hard
+                    stop to ensure inner capsule (Figure 4(6)) is fully retracted.
+         6          Ensure primary and secondary knobs (Figure 3(5 and 6)) are at 0 (zero). Ensure black depth knob (Figure 3(7))
+                    is at ½. (if not, rotate to ½ or instructed by Edwards personnel).
+         7          Fully advance tapered tip: Press tapered tip locking button and advance the tapered tip slider (Figure 3(8)),
+                    releasing tapered tip locking button when complete.
+
+10.3.2 Implant Preparation
+Authorized Edwards personnel will perform the necessary steps to ensure the implant is ready for loading.
+10.3.3 Implant Locking and Loading
+Loading system components will be attached to the implant and delivery system by authorized Edwards personnel serving as the
+implant operator.
+Edwards personnel will direct the handle operator to:
+
+       Step         Procedure
+         1          Slowly turn the white knob (Figure 3(2)) counterclockwise in the opposite direction of the arrows to advance
+                    the outer capsule (Figure 4(8)), stopping as indicated by Edwards personnel.
+         2          Rotate white knob (Figure 3(2)) in the direction of the arrows to retract outer capsule until the knob
+                    hard-stops (Figure 4(8)).
+         3          Rotate the blue knob (Figure 3(3)) in the opposite direction of the arrows to advance the inner capsule
+                    (Figure 4(6)), stopping when indicated by Edwards personnel.
+                    Note: Edwards personnel will remove the lock driver and prepare the implant for loading then direct
+                    the handle operator to do the following:
+
+
+
+
+                                                                 8
+       Step        Procedure
+         4          Rotate the white knob (Figure 3(2)) in the opposite direction of the arrows to continuously advance the outer
+                    capsule (Figure 4(8)), stopping at several stages as indicated by Edwards personnel until the guidewire shield
+                    and the implant anchors are at the appropriate position.
+         5          Fully advance inner capsule (Figure 4(6)) by rotating the blue knob (Figure 3(3)) in the opposite direction of
+                    the arrows until it hard-stops.
+         6          Fully advance outer capsule (Figure 4(8)) by rotating the white knob (Figure 3(2)) in the opposite direction of
+                    the arrows until it hard-stops.
+                    Note: Edwards personnel will remove loader funnel and direct the handle operator to do the
+                    following:
+
+         7          Relieve tension in the outer and inner capsule.
+                    Note: Edwards personnel will pull tension on the support tube assembly to fully seat valve, while
+                    simultaneously directing the handle operator to do the following:
+
+         8          Pull tension on delivery system handle while rotating white knob (Figure 3(2)) in the opposite direction of
+                    the arrows to relieve tension.
+                    Note: Edwards personnel will perform final preparations steps to trim the capsule and direct the
+                    handle operator to do the following:
+
+         9          Flush the handle flush port (Figure 3(4)) with the instructed amount of saline until the capsule is filled.
+        10          Slowly retract the tapered tip (Figure 4(1)) by pressing tapered tip button and retracting tapered tip slider
+                    (Figure 3(8)) until it contacts capsule.
+        11          Rotate the black depth knob (Figure 3(7)) counterclockwise in the opposite direction of the arrows until
+                    depth knob hard-stops.
+        12          Flush the handle flush port (Figure 3(4)) with the instructed amount of saline.
+        13          Flush the sheath port (Figure 3(1)) with the instructed amount to eliminate air and advance the sheath
+                    distally until mated flush to capsule.
+        14          Remove stylets from ends of the delivery system.
+        15          Flush the handle flush port (Figure 3(4)) and guidewire lumen (Figure 4(3)) with the instructed amount of
+                    heparinized saline.
+        16          Wipe the coated components (sheath, capsule, and tapered tip) using heparinized saline-soaked gauze.
+
+10.4 EVOQUE Valve Implant
+10.4.1 Guidewire Placement
+Prepare femoral venous access using standard interventional techniques.
+WARNING: Do not use excessive force and/or manipulation during advancement and positioning of the guidewire, as
+it may result in perforation/dissection of arteries, veins, and/or other cardiac structures. This may also result in cardiac
+arrhythmias and conduction disturbances.
+
+       Step        Procedure
+         1          Advance steerable sheath into the right atrium at the exit of the IVC.
+         2          Insert a guidewire through the steerable sheath.
+         3          Advance the guidewire across the tricuspid valve.
+                    Note: Other interventional devices and techniques (e.g., guide catheters) may be used to assist the
+                    guidewire in crossing the tricuspid valve.
+         4          Establish proper guidewire path and confirm no entanglement with cardiac structures.
+
+
+
+
+                                                                  9
+10.4.2 EVOQUE Valve Delivery
+WARNING: Avoid excessive movement of the delivery system while executing the procedure to protect vasculature or
+cardiac structures. Avoid excessive rotation of the delivery system to maintain functionality of the delivery system.
+WARNING: If functionality of the delivery system is compromised (e.g. significant increase in resistance during knob
+rotations, lack of responsiveness of knobs), do not proceed to deploy the valve, as it may result in inability to deploy the
+valve or valve malposition.
+Note: Flush the delivery system with heparinized saline as needed throughout the procedure.
+
+       Step        Procedure
+        1          Ensure the hydrophilic coating on dilators and delivery system is activated prior to use. Dilate access site. An
+                   Edwards EVOQUE dilator kit should be used as needed.
+        2          Insert the delivery system over the guidewire.
+        3          Advance the delivery system until the distal end of the tapered tip is positioned at the junction between IVC
+                   and right atrium.
+        4          Using fluoroscopy, ensure the delivery system is oriented in the proper orientation.
+                   WARNING: The primary flex on the delivery system flexes in the direction of the flush ports; care
+                   should be taken to ensure that the delivery system is orientated correctly at this point.
+        5          Retract the sheath.
+        6          Flex and orient the delivery system towards the tricuspid valve.
+        7          Advance the delivery system to cross the tricuspid valve.
+                   Note: Delivery system flex, delivery system rotation, and guidewire position may be adjusted during
+                   valve crossing to optimize crossing position.
+        8          Using echocardiography and fluoroscopic guidance, verify that the delivery system has crossed through the
+                   tricuspid valve into the right ventricle.
+        9          If using the Accessories set 1 configuration, dock the stabilizer onto the base adapter and secure it to the
+                   base. If using the Accessories set 2 configuration, dock the rail onto the platform and secure it. Next, dock the
+                   stabilizer onto the rail and secure it.
+        10         Attach the delivery system and sheath to the stabilizer.
+        11         Adjust the delivery system as needed to ensure hemodynamic stability.
+        12         Using pre-operative CT data (if available), position the C-arm at the optimal viewing projection.
+        13         Position the delivery system to be coaxial to the tricuspid annulus while minimizing contact with the native
+                   anatomy.
+        14         Using echocardiography and fluoroscopic guidance, confirm that the EVOQUE valve is positioned at the
+                   appropriate depth and coaxiality with relation to the native valve.
+                   CAUTION: Once the capsule is retracted to expose the EVOQUE valve anchors, the valve is unable to
+                   be retrieved or recaptured into the delivery system.
+                   WARNING: Maintain central position of the delivery system within the native valve during
+                   deployment to ensure proper positioning of the valve.
+        15         Retract the outer capsule until the anchors are exposed.
+        16         Adjust the position of the EVOQUE valve so that the anchors are positioned within native leaflets as dictated
+                   by patient anatomy.
+        17         Retract the outer and inner capsule until the desired EVOQUE valve diameter is achieved.
+        18         Engage the leaflets.
+        19         Confirm positioning of the EVOQUE valve by using echo imaging to assess engagement of the leaflets.
+                   Adjust the EVOQUE valve positioning as needed.
+        20         Using echo imaging, observe the motion of the native leaflets and adjust the position of the EVOQUE valve
+                   as required to fully engage native tricuspid valve leaflets.
+
+                                                                10
+       Step         Procedure
+        21          Once full engagement has been confirmed, ensure that the EVOQUE valve is perpendicular to the tricuspid
+                    annular plane.
+        22          Retract the tapered tip until it is positioned within the EVOQUE valve.
+        23          Retract the inner capsule until the EVOQUE valve is released from the delivery system.
+                    CAUTION: Care should be taken during final release of the EVOQUE valve using the release knob, as
+                    premature release may impact performance of the EVOQUE valve.
+        24          Using echo and fluoroscopic imaging, assess final position and functionality of the EVOQUE valve.
+
+10.4.3 Delivery System Removal
+WARNING: Take care to maintain position of delivery system central within the EVOQUE valve during delivery system
+removal, as failure to do so may impact valve functionality or lead to dislodgement of the valve.
+Note: Delivery system can be removed from the stabilizer at any point during removal, if applicable.
+
+       Step         Procedure
+         1          Fully retract the tapered tip.
+         2          Unflex and retract delivery system as needed until the tapered tip is above the locking tabs of the EVOQUE
+                    valve. Adjust the guidewire as needed to maintain a central position relative to the EVOQUE valve.
+                    Ensure that the locking ring is free from the EVOQUE valve.
+         3          Rotate the release knob so that the inner capsule is in contact with the tapered tip.
+         4          Unflex and retract the delivery system as needed.
+         5          Rotate the capsule retraction knob until the outer capsule is in contact with the inner capsule.
+         6          Ensure the delivery system is fully unflexed and remove the delivery system from the access site.
+                    Note: A sheath may be used to seal the femoral vein following system removal.
+         7          Perform femoral closure as applicable using standard interventional techniques.
+         8          Perform a ventriculogram if needed to assess final position of the EVOQUE valve.
+
+11.0 How Supplied
+11.1 Sterilization and Packaging
+The EVOQUE valve is provided sterile by terminal liquid sterilization and is non-pyrogenic. It is packaged and sterilized in a
+glutaraldehyde solution inside a jar to which a seal has been applied. The outer surface of the jar is not sterile and must not be
+placed in the sterile field. The EVOQUE valve is supplied with a temperature indicator and should not be used if the indicator has
+been activated.
+The delivery system, dilator kit, and loading system are supplied sterilized by ethylene oxide and provided non-pyrogenic. The
+components are secured on a card and packaged in a pouch and shelf box.
+The stabilizer is provided ethylene oxide sterilized. The components are secured on a card and packaged in a pouch and shelf box.
+The single-use base and plate or the reusable rail, platform, and plate are provided non-sterile.
+The components are packaged in individual shipper boxes.
+11.2 Storage
+The EVOQUE valve should be stored between 10 °C and 25 °C (50 °F and 77 °F). Stock inspection and rotation at regular intervals
+are recommended so that the EVOQUE valve with an earlier expiration date is used first.
+The delivery system, dilator kit, loading system, single-use stabilizer/base/plate and reusable platform/plate should be stored in a
+cool, dry place that is contamination free. Refer to the Edwards Reusable Rail Set IFU for storage of the reusable rail.
+
+
+
+
+                                                                 11
+12.0 Magnetic Resonance (MR) Safety Information
+
+
+
+Non-clinical testing has demonstrated that the Edwards EVOQUE valve is MR Conditional. A patient with the valve can be safely
+scanned in an MR system meeting the following conditions:
+• Static magnetic field of 1.5 and 3 T only
+• Maximum spatial gradient magnetic field of 3000 gauss/cm (30.0 T/m) or less
+• Maximum MR system-reported, whole body averaged specific absorption rate (SAR) of 2.0 W/kg
+• Normal operating mode of the MR system for both gradients and SAR
+Under the scan conditions defined above, the EVOQUE valve is expected to produce a maximum temperature rise of 4 °C after
+15 minutes of continuous scanning.
+In non-clinical testing, the image artifact caused by the EVOQUE valve extends approximately 0.8 cm from the device when
+imaged with a gradient echo or spin echo pulse sequence and a 3 T MRI system.
+
+13.0 Patient Information
+Patient education brochures are provided to each site and should be given to the patient to inform them of the risks and benefits
+of the procedure and alternatives in adequate time before the procedure to be read and discussed with their physician. A copy of
+this brochure may also be obtained from Edwards Lifesciences by calling 1.888.713.1564.
+A patient implant card request form is provided with each transcatheter heart valve. After implantation, all requested information
+should be completed on this form. The serial number may be found on the package and on the identification tag attached to the
+transcatheter heart valve. The original form should be returned to the Edwards Lifesciences address indicated on the form and
+upon receipt, Edwards Lifesciences will provide an identification card to the patient.
+
+14.0 Recovered Implant and Device Disposal
+Edwards Lifesciences is interested in obtaining recovered clinical specimens of the EVOQUE valve for analysis. A written report
+summarizing our findings will be provided upon completion of our evaluation. Please contact Edwards for return of the recovered
+valve.
+If you do decide to return any of the devices, please follow the following instructions:
+• Unopened Package with Sterile Barrier Intact: If the pouches have not been opened, return the device in its original
+  packaging.
+• Package Opened but Not Implanted: If a pouch is opened, the device is no longer sterile. Please return the device in its
+  original packaging.
+• Explanted Implant: The explanted implant should be placed into a suitable histological fixative such as 10% formalin or 2%
+  glutaraldehyde. Refrigeration is not necessary under these circumstances. Contact Edwards Lifesciences to request an Explant
+  Kit for return to Edwards.
+14.1 Disposal
+Use universal precautions for biohazards and sharps to avoid user injury. Used devices (includes all devices that come in contact
+with patients) should be handled and disposed of in accordance with institutional guidelines on biohazardous materials and
+hospital waste to avoid possible cross-contamination. For disposal of the reusable platform and plate accessories, refer to the
+Edwards Reusable Accessories IFU.
+
+15.0 Clinical Data
+The EVOQUE system was studied in the TRISCEND II pivotal trial.
+A. Study Design
+The TRISCEND II pivotal trial was a prospective, multicenter, randomized study designed to demonstrate the safety and
+effectiveness of transcatheter tricuspid valve replacement with optimal medical therapy (OMT) compared to OMT alone in
+patients with severe TR. Eligible patients were randomized 2:1 into either the EVOQUE system with OMT ( "Device Group" ) or OMT
+alone ( "Control Group" ).
+
+
+
+
+                                                                  12
+The TRISCEND II pivotal trial enrolled 400 patients and used two primary analysis phases. The trial evaluated 30-day safety and
+6-month effectiveness endpoints for the first 150 randomized patients ( "Breakthrough Pathway Cohort" ) and a 1-year safety and
+effectiveness endpoint for the full cohort of 400 patients ( "Full Cohort" ) in the second phase.
+The TRISCEND II pivotal trial employed a Central Screening Committee (CSC) that ensured patient appropriateness for enrollment,
+an independent Data Safety Monitoring Board (DSMB) that was instructed to notify the applicant of any safety or compliance
+issues, a Clinical Events Committee (CEC) that was responsible for adjudicating endpoint related events reported during the trial,
+and an echocardiographic core laboratory (ECL) for independently analyzing all echocardiograms.
+1. Clinical Inclusion and Exclusion Criteria
+Enrollment in the TRISCEND II pivotal trial was limited to patients who met the following inclusion criteria:
+• Age ≥ 18 years old.
+• Despite OMT per the local heart team, patient has signs of TR, symptoms from TR, or prior heart failure (HF) hospitalization from
+  TR. Patient must be on OMT per the local heart team at the time of TR assessment (transthoracic echocardiogram; TTE) for trial
+  eligibility. OMT includes stable oral diuretic medications, unless patient has a documented history of intolerance.
+• Functional and/or degenerative TR graded as at least severe on a TTE (assessed by the ECL using a 5-grade classification
+  proposed by Hahn et al. [2017]).
+• The local heart team determines that the patient is appropriate for transcatheter tricuspid valve replacement.
+• Patient is willing and able to comply with all study evaluations and provides written informed consent.
+Patients were not permitted to be enrolled in the TRISCEND II pivotal trial if they met any of the following exclusion criteria:
+• Anatomy precluding proper device delivery, deployment, and/or function.
+• Left ventricular ejection fraction (LVEF) < 25%.
+• Evidence of severe right ventricular dysfunction.
+• Any of the following pulmonary pressure parameters:
+ • Pulmonary arterial systolic pressure (PASP) > 60 mmHg by Doppler echocardiogram (unless right heart catheterization [RHC]
+   demonstrates PASP ≤ 70 mmHg)
+ • PASP > 70 mmHg by RHC
+ • Pulmonary Vascular Resistance (PVR) > 5 Wood units by RHC (unless PVR ≤ 5 Wood units and systolic blood pressure > 85
+   mmHg after vasodilator challenge)
+• Previous tricuspid surgery or intervention.
+• Presence of trans-tricuspid pacemaker or defibrillator lead with any of the following:
+ • Implanted in the right ventricle within the last 90 days
+ • Patient is pacemaker dependent on trans-tricuspid lead without alternative pacing option
+ • Has delivered appropriate implantable cardioverter defibrillator (ICD) therapy
+• Severe aortic, mitral, and/or pulmonic valve stenosis and/or regurgitation.
+• Active endocarditis within the last 90 days or infection requiring antibiotic therapy (oral or intravenous) within the last 14 days.
+• Hemodynamically significant pericardial effusion.
+• Significant intra-cardiac mass, thrombus, or vegetation.
+• Clinically significant, untreated coronary artery disease requiring revascularization, evidence of acute coronary syndrome, recent
+  myocardial infarction within the last 30 days.
+• Any of the following cardiovascular procedures:
+ • Percutaneous coronary, intracardiac or endovascular intervention within the last 30 days
+ • Carotid surgery within the last 30 days
+ • Direct current cardioversion within the last 30 days
+ • Leadless right ventricular pacemaker implant within the last 30 days
+ • Cardiac surgery within the last 90 days
+• Known history of untreated severe symptomatic carotid stenosis (> 50% by ultrasound) or asymptomatic carotid stenosis (> 70%
+  by ultrasound).
+• Need for emergent or urgent surgery for any reason, any planned cardiac surgery within the next 12 months (365 days), or any
+  planned percutaneous cardiac procedure within the next 90 days.
+• Hypotension (systolic pressure < 90 mmHg) or requirement for inotropic support or hemodynamic support within the last 30
+  days.
+
+
+
+                                                                  13
+• Patient with refractory HF that requires or required advanced intervention (i.e., left ventricular assist device or transplantation)
+  (American College of Cardiology/American Heart Association/European Society of Cardiology/European Association for Cardio-
+  Thoracic Surgery Stage D HF).
+• Deep vein thrombosis or pulmonary embolism in the last 6 months (180 days).
+• Stroke within the last 90 days.
+• Modified Rankin Scale ≥ 4 disability.
+• Severe renal insufficiency with estimated glomerular filtration rate (eGFR) ≤ 25 mL/min/1.73m², calculated using the
+  Modification of Diet in Renal Disease (MDRD) equation, or requiring chronic renal replacement therapy.
+• Patients with hepatic insufficiency, or cirrhosis with Child-Pugh score class C.
+• Patient is oxygen-dependent or requires continuous home oxygen.
+• Chronic anemia with transfusion dependency or Hgb < 9 g/dL not corrected by transfusion.
+• Unable to walk at least 100 meters in a 6-minute walk test (6MWT).
+• Thrombocytopenia (platelet count < 75,000/ mm³) or thrombocytosis (platelet count > 750,000/ mm³).
+• Known bleeding or clotting disorders or patient refuses blood transfusion.
+• Active gastrointestinal bleeding within the last 90 days.
+• Pregnant, breastfeeding, or planning pregnancy within the next 12 months (365 days).
+• Patients in whom (any of the following):
+ • Transesophageal echocardiography (TEE) is contraindicated or cannot be completed
+ • Tricuspid valve anatomy is not evaluable by TTE or TEE
+• In the opinion of the investigator, access to and through the femoral vein/inferior vena cava with a guide sheath and delivery
+  catheter is deemed not feasible (e.g., occluded femoral veins, occluded or thrombosed inferior vena cava filter).
+• Currently participating in another investigational biologic, drug or device study.
+• Co-morbid condition(s) that, in the opinion of the investigator, limit life expectancy to < 12 months (365 days).
+• Presence of infiltrative cardiomyopathy or valvulopathy, including carcinoid, amyloidosis, sarcoidosis, hemochromatosis, or
+  significant uncorrected congenital heart disease, including but not limited to hemodynamically significant atrial septal defect,
+  right ventricular dysplasia, and arrhythmogenic right ventricle.
+• Any condition, in the opinion of the investigator, making it unlikely the patient will be able to complete all protocol procedures
+  and follow-ups.
+• Other medical, social, or psychological conditions that preclude appropriate consent and follow-up, including patients under
+  guardianship.
+• Any patient considered to be vulnerable.
+2. Follow-up Schedule
+The follow-up time points included 30 days, 6 months, and 1 year, following the procedure with the EVOQUE system (Device
+patients) or randomization (Control patients) and continue annually through 5 years. Patients randomized to device were also
+assessed on the day of their procedure and at discharge. Follow-up assessments included physical assessments and changes
+in medical history, laboratory measurements, imaging tests, and health status/quality-of-life (QOL) surveys. Adverse events and
+complications were recorded at all visits.
+3. Statistical Analysis Populations
+The analysis populations used for analyses of patients enrolled and randomized in the TRISCEND II pivotal trial are shown in
+Table 1.
+
+                                             Table 1: Statistical Analysis Populations
+
+ Analysis Population                                                Definition
+ Intent-to-Treat (ITT)                                              All patients randomized to a treatment group
+ Modified ITT (mITT) Safety                                         ITT patients who either had a study procedure attempted (skin
+                                                                    incision to access the femoral vein) in the device group or were
+                                                                    randomized to the control group
+ mITT Effectiveness                                                 mITT Safety patients who either had a study device attempted
+                                                                    (insertion of guide sheath into femoral vein) in the device
+                                                                    group or were randomized to the control group
+
+
+
+
+                                                                  14
+ Analysis Population                                               Definition
+ As-Treated (AT)                                                   mITT Effectiveness patients who either had a study device
+                                                                   implanted at exit from procedure room in the device group or
+                                                                   who were randomized to the control group and treated with
+                                                                   medical therapy
+
+4. Clinical Endpoints
+Primary Safety Endpoint – Breakthrough Pathway Cohort
+The primary safety endpoint assessed in the Breakthrough Pathway Cohort was a composite of major adverse events (MAEs) at 30
+days consisting of the following components:
+• Cardiovascular mortality
+• Myocardial infarction
+• Stroke
+• New need for renal replacement therapy
+• Severe bleeding (fatal, life-threatening, extensive, or major bleeding, as defined in the Mitral Valve Academic Research
+  Consortium (MVARC) consensus document)
+• Non-elective tricuspid valve re-intervention, percutaneous or surgical
+• Major access site and vascular complications
+• Major cardiac structural complications due to access-related issues
+• Device-related pulmonary embolism
+• Arrhythmia and conduction disorder requiring permanent pacing
+The null and alternative hypotheses for the primary safety endpoint were as follows:
+H0: P(MAE) ≥ 70%
+Ha: P(MAE) < 70%
+
+Where P(MAE) was the proportion of patients with an MAE at 30 days and 70% was a performance goal derived from reported
+safety outcomes after isolated tricuspid valve replacement surgery. The null hypothesis would be rejected if the one-sided 97.5%
+confidence interval was less than 70%.
+Primary Effectiveness Endpoints – Breakthrough Pathway Cohort
+There were two co-primary effectiveness endpoints assessed for the Breakthrough Pathway Cohort, as listed below:
+• Co-primary effectiveness endpoint #1: TR grade reduction to moderate or less at 6 months
+• Co-primary effectiveness endpoint #2: A hierarchical composite endpoint at 6 months of the following components:
+ • Health status improvement assessed by KCCQ overall summary score (KCCQ-OS) of ≥ 10 points
+ • New York Heart Association (NYHA) functional class improvement of ≥ 1 class
+ • 6-minute walk distance (6MWD) improvement of ≥ 30 meters
+The null and alternative hypotheses for co-primary effectiveness endpoint #1 were as follows:
+H0: PD(TR) – PC(TR) ≤ 0
+Ha: PD(TR) – PC(TR) > 0
+
+Where PT(TR) and Pc(TR) were the proportions of patients with TR grade reduction to moderate or less at 6 months in the
+device and control groups, respectively. The alternative hypothesis that PT(TR) was superior to Pc(TR) was tested at a one-sided
+significance level of 0.025.
+The null and alternative hypotheses for co-primary effectiveness endpoint #2 were as follows:
+H0: None of the components is improved in the device group
+Ha: At least one component is improved in the device group
+
+The alternative hypothesis for co-primary effectiveness endpoint #2 was tested using the Finkelstein-Schoenfeld method at a
+one-sided significance level of 0.025. As a supplementary analysis, the unmatched win-ratio method was used to evaluate the
+treatment effect of the composite endpoint. In this analysis, each pair of patients from the device group and the control group
+were compared in the order of the defined hierarchy; and the win ratio was defined as the number of winners divided by the
+number of losers in the device group.
+
+
+                                                                15
+Primary Safety and Effectiveness Endpoint – Full Cohort
+The primary safety and effectiveness endpoint for the Full Cohort was a hierarchical composite at 1 year of the following
+components:
+1. All-cause mortality
+2. Right ventricular assist device (RVAD) implantation or heart transplant
+3. Tricuspid valve surgical or percutaneous intervention
+4. Annualized rate of heart failure hospitalizations
+5. KCCQ-OS score improvement of ≥ 10 points
+6. NYHA functional class improvement of ≥ 1 class
+7. 6MWD improvement of ≥ 30 meters
+The null and alternative hypotheses for the primary safety and effectiveness endpoint were as follows:
+H0: None of the components is improved in the device group
+Ha: At least one component is improved in the device group
+
+The alternative hypothesis that the device group was superior to the control group in at least one component of the primary
+safety and effectiveness endpoint was tested using the Finkelstein-Schoenfeld method at a one-sided significance level of 0.025.
+As a supplementary analysis, the unmatched win ratio method was used to evaluate the treatment effect of the composite
+endpoint. In the analysis, each pair of patients from the device group and the control group were compared in the order of the
+defined hierarchy; and the win ratio was defined as the number of winners divided by the number of losers in the device group.
+It was determined that a sample size of 400 patients would provide adequate power to test the hypothesis for the primary safety
+and effectiveness endpoint of the Full Cohort. Study success of the Full Cohort was defined as meeting the primary safety and
+effectiveness endpoint.
+Secondary Effectiveness Endpoint - Full Cohort
+After the extended phase primary safety and effectiveness endpoint claimed success, the following endpoints and hypotheses
+were tested using the hierarchical testing method in the Full Cohort at 1 year.
+1. Reduction in TR grade by at least one grade
+Null and alternative hypotheses:
+H0: PD - PC ≤ 0
+Ha: PD - PC > 0
+
+Where PD and PC represent the proportion of patients with at least one grade reduction in the device and control groups at 1 year.
+This endpoint was evaluated at the 2.5% level of significance in the mITT (effectiveness) analysis population.
+2. Reduction in NYHA functional class by at least one class
+Null and alternative hypotheses:
+H0: PD,NYHA - PC,NYHA ≤ 0
+Ha: PD,NYHA - PC,NYHA > 0
+
+Where PD,NYHA and PC,NYHA present the proportion of patients with at least one class reduction in the device and control groups at
+1 year, respectively. This endpoint was evaluated at the 2.5% level of significance in the mITT (effectiveness) analysis population.
+3. Change in QoL (KCCQ-OS) from baseline
+Null and alternative hypotheses:
+H0: μD,ΔKCCQ - μC,ΔKCCQ ≤ 0
+Ha: μD,ΔKCCQ - μC,ΔKCCQ > 0
+
+Where μD,ΔKCCQ and μC,ΔKCCQ represent the mean change in KCCQ-OS between 1 year and baseline in the device and control
+groups respectively.
+A one-sided t-test at the 2.5% level of significance was used to compare the mean changes in the two groups. The analysis was
+performed in patients with matched KCCQ-OS data at baseline and 1 year.
+
+
+
+
+                                                                 16
+Based upon the N=400 (267 device vs. 133 control group patients), alpha=0.025, Std=22 and superiority margin=0, the lowest
+observed mean difference in KCCQ-OS at 1 year was 4.6 to claim superiority. This endpoint was tested in the mITT (effectiveness)
+analysis population.
+4. Death and heart failure hospitalization
+Null and alternative hypotheses:
+H0: λD,Death - λC,Death ≥ 0 AND λD,HFH - λC,HFH ≥ 0
+Ha: λD,Death - λC,Death < 0 OR λD,HFH - λC,HFH < 0
+
+Where λD,Death and λC,Death represented the rate of all-cause mortality in the Device and Control groups respectively
+λD,HFH and λC,HFH represented the rate of recurrent HF hospitalizations in the Device and Control groups, respectively
+The composite endpoint was analyzed at the 2.5% level of significance using the Finkelstein and Schoenfeld method with death
+higher in the hierarchy than recurrent HF. This endpoint was tested in the mITT (safety) analysis population.
+5. All-cause hospitalizations through 1 year
+Null and alternative hypotheses:
+H0: HR ≥ 1.0
+Ha: HR < 1.0
+
+Where HR was the hazard ratio of recurrent hospitalizations due to treatment with the EVOQUE device.
+All available follow-up through 1 year at the time of data cut-off was to be included in the analysis. Patients who did not
+experience any hospitalizations were to be censored on their data cut‑off date. Patients who died were to be censored on the
+date of death. Patients who withdrew from the trial without hospitalization were to be censored on the date of withdrawal. This
+endpoint was to be evaluated at the 2.5% level of significance in the mITT (safety) analysis population.
+6. All-cause mortality at 1 year
+Null and alternative hypotheses:
+H0: HR ≥ 1.0
+Ha: HR < 1.0
+
+Where HR was the hazard ratio of all-cause mortality at 1 year between the device and control groups. Follow-up was to be
+truncated at 1 year. A Cox regression model with only treatment effect as covariate was to be used to estimate the hazard ratio.
+This endpoint was to be evaluated at the 2.5% level of significance in the mITT (safety) analysis population.
+7. Change in 6-minute walk distance (6MWD) from baseline to 1 year
+Null and alternative hypotheses:
+H0: μD,Δ6MWD - μC,Δ6MWD ≤ 0
+Ha: μD,Δ6MWD - μC,Δ6MWD > 0
+
+Where μD,Δ6MWD and μC,Δ6MWD represented the mean change in 6MWD between 1 year and baseline in the device and control
+groups, respectively. A one-sided t-test at the 2.5% level of significance was to be used to compare the mean changes in the two
+groups. The analysis was to be performed in patients with matched 6MWD data at baseline and 1 year. This endpoint was to be
+tested in the mITT (effectiveness) analysis population.
+Additional Outcomes – Full Cohort
+Additional outcomes assessed included the following:
+• Echocardiographic parameters by echocardiogram core laboratory assessment
+• Clinical and functional parameters
+B. Accountability of Breakthrough Pathway Cohort
+The enrollment and randomization of patients in the Breakthrough Pathway Cohort in the TRISCEND II pivotal trial took place
+between May 2021 and April 2022. A total of 153 patients were randomized at 30 investigational sites in the United States and
+Germany.
+The disposition of patients in the Breakthrough Pathway Cohort as are detailed in Figure 10.
+
+
+
+                                                                17
+                                   Figure 10: Patient Disposition - Breakthrough Pathway Cohort
+                                                           Study Patients Enrolled
+                                                                   N=153
+
+
+                                            Device Group                        Control Group
+                                               N=99                                 N=54
+            3 Without Procedure
+                 Attempted
+                                         Procedure Attempted
+                                                N=96
+                                                                               Medical Therapy
+                                                                                  Treated
+                                          Device Attempted
+                                                                                   N=54
+                                                N=96
+                  2 Deaths                                                                                    1 Withdrew
+                                          30-Day Follow-up                     30-Day Follow-up
+                                               N=94                                 N=53
+                   6 Deaths                                                                                     2 Deaths
+                 2 Withdrew                                                                                   4 Withdrew
+                                          6-Month Follow-up                   6-Month Follow-up
+                                               N=86                                N=47                         2 Deaths
+                  4 Deaths
+                                                                                                            18 Visit Not Due
+              38 Visit Not Due
+                                           1-Year Follow-up                    1-Year Follow-up               1 Withdrew
+                                                N=44                                N=26
+
+The analysis populations for the Breakthrough Pathway Cohort are defined in Table 2. The primary safety and effectiveness
+analyses were performed on the mITT Safety and mITT Effectiveness Populations, respectively.
+
+                                   Table 2: Analysis Populations – Breakthrough Pathway Cohort
+
+                                                                                                              Number of Patients
+ Analysis Population                          Definition                                                      Device       Control
+                                                                                                              Group        Group
+ Intent-to-Treat (ITT)                        All patients randomized to each treatment group.                99           54
+                                              All ITT patients who had the study procedure attempted
+                                              (initiation of skin incision to access the femoral vein) in
+ Modified ITT (mITT) Safety                                                                                   96           54
+                                              the device group or who were randomized to the control
+                                              group.
+                                              All patients in the mITT Safety Population who had a study
+                                              device attempted (insertion of guide sheath into femoral
+ mITT Effectiveness                                                                                           96           54
+                                              vein) in the device group or who were randomized to the
+                                              control group.
+                                              All patients in the mITT Effectiveness Population who had
+                                              a study device implanted at exit from procedure room in
+ As-Treated (AT)                                                                                              92*          54
+                                              the device group or who were randomized to the control
+                                              group and treated with medical therapy.
+ *Four (4) patients had aborted procedure due to challenging anatomy or imaging.
+
+At the time of database lock, of the randomized patients eligible for the 6-month visit, 96.5% in the device group and 95.7% in the
+control group completed the visit, as shown in Table 3.
+
+                        Table 3: Visit Compliance – Breakthrough Pathway Cohort, mITT (Safety) Population
+
+                              30 Days                                                6 Months
+ Visit Status
+                              Device Group (N=96)      Control Group (N=54)          Device Group (N=96)      Control Group (N=54)
+ Ineligible for visit         2                        1                             10                       7
+ Eligible for visit*          94                       53                            86                       47
+
+
+
+                                                                     18
+                             30 Days                                            6 Months
+ Visit Status
+                             Device Group (N=96)      Control Group (N=54)      Device Group (N=96)          Control Group (N=54)
+ Follow-up visit             95.7% (90/94)            90.6% (48/53)             96.5% (83/86)                95.7% (45/47)
+ completed †
+ * Patients were considered eligible if they completed the visit, or their visit windows were open, they were alive, and had not
+ exited the study prior to the window opening.
+ †Categorical variables: % (no./total no.)
+
+
+C. Study Population Demographics and Baseline Characteristics - Breakthrough Pathway Cohort
+The demographics and baseline characteristics of the study population in the Breakthrough Pathway Cohort are summarized in
+Table 4, which are typical for a TR study performed in the U.S. A majority of the study patients were female. Overall, the two
+treatment groups were well-balanced except that there were more patients in the device group than in the control group that
+were in NYHA functional class III/IV (79.2% vs. 70.4%) or had a prior stroke (19.8% vs. 5.6%) and there were fewer patients in the
+device group than in the control group that had myocardial infarction (5.2% vs. 14.8%) or had ≥ 1 open-heart surgeries (31.2% vs.
+42.6%).
+
+  Table 4: Patient Demographics and Baseline Characteristics – Breakthrough Pathway Cohort, mITT (Safety) Population
+
+ Demographics and Baseline                   Summary Statistics* (N=150)
+ Characteristics                             Device Group (N=96)                         Control Group (N=54)
+ Age (years)                                 79.4 ± 7.71 (96)                            78.2 ± 8.32 (54)
+ Female                                      82.3% (79/96)                               75.9% (41/54)
+ Race
+   American Indian or Alaskan Native         1.0% (1/96)                                 0.0% (0/54)
+   Asian                                     7.3% (7/96)                                 9.3% (5/54)
+   Black or African American                 6.3% (6/96)                                 1.9% (1/54)
+   White                                     65.6% (63/96)                               68.5% (37/54)
+   Not available                             11.5% (11/96)                               11.1% (6/54)
+   Other                                     8.3% (8/96)                                 9.3% (5/54)
+ Body mass index (BMI, kg/m2)                26.4 ± 5.93 (96)                            26.6 ± 5.68 (54)
+ New York Heart Association (NYHA) functional class
+   Class I                                   1.0% (1/96)                                 0.0% (0/54)
+   Class II                                  19.8% (19/96)                               29.6% (16/54)
+   Class III                                 75.0% (72/96)                               68.5% (37/54)
+   Class IV                                  4.2% (4/96)                                 1.9% (1/54)
+ Left ventricular ejection fraction
+                                             55.1 ± 8.60 (96)                            52.4 ± 11.57 (54)
+ (LVEF, %)
+ Society of Thoracic Surgeons (STS)
+ Mortality Score - mitral valve              10.2 ± 5.66 (96)                            9.4 ± 4.49 (54)
+ replacement (%)
+ STS Mortality Score - mitral valve
+                                             7.0 ± 4.58 (96)                             6.7 ± 4.17 (54)
+ repair (%)
+ European System for Cardiac Operative
+                                             5.3 ± 3.28 (96)                             5.4 ± 3.33 (54)
+ Risk Evaluation (EuroSCORE) II (%)
+ Katz Activities of Daily Living Score       5.8 ± 0.44 (96)                             5.9 ± 0.39 (54)
+ Canadian Study of Health and Aging (CSHA) Clinical Frailty Score
+   Non-frail to mildly frail (1-5)           85.3% (81/95)                               90.7% (49/54)
+   Moderate-to-severely frail (6-9)          14.7% (14/95)                               9.3% (5/54)
+ Cardiomyopathy                              13.5% (13/96)                               16.7% (9/54)
+   Dilated                                   9.4% (9/96)                                 16.7% (9/54)
+
+
+                                                                 19
+Demographics and Baseline                  Summary Statistics* (N=150)
+Characteristics                            Device Group (N=96)                          Control Group (N=54)
+   Restrictive                             1% (1/96)                                    0% (0/54)
+   Hypertrophic                            2.1% (2/96)                                  0% (0/54)
+Coronary artery disease
+                                           26.0% (25/96)                                29.6% (16/54)
+(≥ 50% stenosis)
+Hypertension                               91.7% (88/96)                                87.0% (47/54)
+Pulmonary Hypertension                     70.8% (68/96)                                74.1% (40/54)
+Myocardial infarction                      5.2% (5/96)                                  14.8% (8/54)
+Stroke                                     19.8% (19/96)                                5.6% (3/54)
+Atrial fibrillation                        97.9% (94/96)                                96.3% (52/54)
+Pacemaker/implantable cardioverter
+                                           36.5% (35/96)                                42.6% (23/54)
+defibrillator
+Percutaneous coronary intervention
+                                           12.5% (12/96)                                11.1% (6/54)
+(PCI)/stent
+Total number of prior open-heart surgeries (valve or coronary artery bypass grafting)
+  0                                        65.6% (63/96)                                57.4% (31/54)
+  1                                        22.9% (22/96)                                38.9% (21/54)
+  ≥2                                       8.3% (8/96)                                  3.7% (2/54)
+Number of hospitalizations for heart
+failure in the last 12 months prior to     1.7 ± 0.96 (30)                              1.7 ± 0.92 (17)
+consent
+Total number of days hospitalized for
+heart failure in the last 12 months
+                                           9.3 ± 7.48 (28)                              11.8 ± 9.31 (17)
+(for those who had heart failure
+hospitalization)
+Diabetes                                   19.8% (19/96)                                27.8% (15/54)
+Chronic obstructive pulmonary disease
+                                           19.8% (19/96)                                16.7% (9/54)
+(COPD)
+Renal insufficiency or failure             50% (48/96)                                  57.4% (31/54)
+  Stage I (eGFR ≥ 90)                      0.0% (0/96)                                  0.0% (0/54)
+  Stage II (eGFR 60-89)                    7.3% (7/96)                                  5.6% (3/54)
+  Stage III (eGFR 30-59)                   38.5% (37/96)                                44.4% (24/54)
+  Stage IV (eGFR 15-29)                    4.2% (4/96)                                  7.4% (4/54)
+  Stage V (eGFR < 15)                      0.0% (0/96)                                  0.0% (0/54)
+History of renal replacement therapy
+                                           0.0% (0/96)                                  1.9% (1/54)
+(e.g., dialysis)
+Baseline KCCQ Overall Score                49.1 ± 21.47 (95)                            49.7 ± 22.30 (54)
+Baseline 6MWD (meter)                      232.2 ± 89.61 (96)                           244.0 ± 91.02 (54)
+TR severity greater than severe†
+  Severe                                   43.8% (42/96)                                40.7% (22/54)
+  Massive                                  21.9% (21/96)                                27.8% (15/54)
+  Torrential                               34.4% (33/96)                                31.5% (17/54)
+Pulmonary arterial systolic pressure
+                                           37.5 ± 9.57 (93)                             38.0 ± 11.53 (54)
+(PASP; mmHg)
+TAPSE (mm)                                 15.9 ± 4.25 (80)                             16.0 ± 4.00 (45)
+
+
+
+
+                                                                20
+ Demographics and Baseline                  Summary Statistics* (N=150)
+ Characteristics                            Device Group (N=96)                         Control Group (N=54)
+ eGFR: estimated glomerular filtration rate; KCCQ: Kansas City Cardiomyopathy Questionnaire; 6MWD: 6-minute walk distance;
+ TR: tricuspid regurgitation; TAPSE: tricuspid annular plane systolic excursion.
+ *Categorical variables: % (no./total no.); continuous variables: mean ± standard deviation (no.)
+ †TR severity was evaluated on the 5-grade scale by Hahn et al. (2017).
+
+
+D. Safety and Effectiveness Results - Breakthrough Pathway Cohort
+This section summarizes the results of the Breakthrough Pathway Cohort from the initial phase of the TRISCEND II pivotal trial.
+1. Primary Safety Endpoint - Breakthrough Pathway Cohort
+The primary safety endpoint results are presented in Table 5. The proportion of patients with MAEs at 30 days was 27.4% in the
+device group, with a one-sided 97.5% upper confidence bound of 36.9%, which was less than the pre-specified performance goal
+of 70%. Thus, the primary safety endpoint was met.
+
+                    Table 5: MAEs at 30 Days – Breakthrough Pathway Cohort, mITT (Safety) Population
+
+                                          No.             Event Rate*                One-sided               Endpoint Result
+              Endpoint                   Events                                     97.5% Upper
+                                                                                 Confidence Bound†
+ Composite MAEs                             36      27.4% (26/95)                    36.9% < 70%               Endpoint met
+    Cardiovascular mortality                3       3.2% (3/95)                            –                         –
+    Myocardial infarction                   1       1.1% (1/95)                            –                         –
+    Stroke                                  0       0.0% (0/95)                            –                         –
+    New need for renal replacement          1       1.1% (1/95)                            –                         –
+    therapy
+    Severe bleeding‡                        10      10.5% (10/95)                          –                         –
+ Non-elective tricuspid valve re-           0       0.0% (0/95)                            –                         –
+ intervention, percutaneous or surgi‐
+ cal
+ Major access site and vascular com‐        3       3.2% (3/95)                            –                         –
+ plications
+ Major cardiac structural complica‐         2       2.1% (2/95)                            –                         –
+ tions due to access-related issues
+ Device-related pulmonary embo‐             1       1.1% (1/95)                            –                         –
+ lism
+ Arrhythmia and conduction disor‐           14      14.7% (14/95)                          –                         –
+ der requiring permanent pacing
+ MAEs: major adverse events
+ *% (no./total no.).
+ Denominator included patients who had been in the trial for ≥ 30 days or had an MAE prior to 30 days. One patient had an
+ aborted procedure and withdrew from the trial on post operative day (POD) 22 without experiencing an MAE and thus was not
+ included in the denominator.
+ †Based on the normal approximation method with continuity correction for the proportion of patients with the MAEs and
+
+ compared to the pre-specified performance goal of
+ 70%.
+ ‡Fatal, life-threatening, extensive, or major bleeding, as defined by Mitral Valve Academic Research Consortium (MVARC; Stone
+
+ et al. 2015).
+
+2. Primary Effectiveness Endpoints - Breakthrough Pathway Cohort
+Co-primary Effectiveness Endpoint #1:
+The primary analysis result of co-primary effectiveness endpoint #1 is shown in Table 6. The proportions of patients with TR
+reduction to moderate or less at 6 months were 98.8% (80/81) in the device group and 21.6% (8/37) in the control group, a
+difference of 77.1% between the two groups, with one-sided p-value of < 0.001, which was less than the pre-specified one-sided
+
+                                                                  21
+significance level of 0.025. Thus, co-primary effectiveness endpoint #1 was met, indicating superiority of the device group to the
+control group.
+
+ Table 6: Co-Primary Effectiveness Endpoint #1 Result – Breakthrough Pathway Cohort, mITT (Effectiveness) Population
+
+                                   Summary Statistics*               Difference                 p-Value†            Endpoint Result
+                          Device Group       Control Group
+                             (N=96)             (N=54)
+ TR grade reduc‐          98.8% (80/81)        21.6% (8/37)               77.1%                 < 0.001                  Endpoint met
+ tion to moder‐
+ ate or less at
+ 6 months
+ *% (no./total no.). The total number of patients included patients with available data only. Fifteen (15) device patients did not
+ have a 6-month TR grade available: 3 had aborted procedures; 8 died prior to the visit; and 4 missed the visit or did not have
+ transthoracic echocardiogram (TTE) collected. Seventeen (17) control patients did not have a 6-month TR grade available: 2
+ died; 1 missed the visit; 4 were pending records from outside hospitals; 4 had TTE with unmeasurable TR grade; and 6 withdrew
+ consent prior to the visit.
+ †Pooled Z-test with continuity correction. Compared with one-sided significance level of 0.025.
+
+
+Co-primary Effectiveness Endpoint #2:
+The primary analysis result of co-primary effectiveness endpoint #2 is shown in Table 7. The Finkelstein-Schoenfeld test statistic
+result was 5.299 with a one-sided p-value of < 0.001, which is less than the pre-specified one-sided significance level of 0.025.
+Thus, co-primary effectiveness endpoint #2 was met indicating the device group was superior to the control group.
+
+ Table 7: Co-Primary Effectiveness Endpoint #2 Result – Breakthrough Pathway Cohort, mITT (Effectiveness) Population
+
+     Primary Endpoint                     Test Statistic                    p-Value*                              Result
+ Finkelstein-Schoenfeld                       5.299                          < 0.001                           Endpoint met
+ analysis
+ *One-sided p-value calculated using the Finkelstein-Schoenfeld method. Compared with one-sided significance level of 0.025.
+
+The supplementary win ratio analysis of co-primary effectiveness endpoint #2 is shown in Figure 11. The win ratio of the device
+group vs. the control group was 4.6 (95% confidence interval: [2.6, 8.0]).
+   Figure 11: Win Ratio Analysis of Co-Primary Effectiveness Endpoint #2 Result - Breakthrough Pathway Cohort, mITT
+                                               (Effectiveness) Population.
+    KCCQ: Kansas City Cardiomyopathy Questionnaire; NYHA: New York Heart Association; 6MWD: 6-minute walk distance; CI:
+                                                   confidence interval.
+                                                  Device Group                                      Control Group
+                                                     N = 90                                            N = 46
+
+                                                                          4,140 Patient Pairs
+                                             Device Win                                                     Control Win
+          KCCQ Improvement                    1,560 (38%)                   2,256 Ties (54%)                  324 (8%)
+          ∆ Overall Summary Score ≥ 10
+          NYHA Improvement                     811 (20%)                    1,353 Ties (33%)                  92 (2%)
+          ∆ ≥ 1 class
+
+          6MWD Improvement                     116 (3%)                     1,108 Ties (27%)                  129 (3%)
+          ∆ ≥ 30 meters
+
+                                             2,487 Wins                       1,108 Ties                     545 Wins
+                                                60%                              27%                           13%
+
+
+                                                            Win Ratio =        = 4.6 (95% CI: [2.6, 8.0])
+
+
+3. Other Study Observations - Breakthrough Pathway Cohort
+TR Severity Grade - Breakthrough Pathway Cohort:
+
+
+
+                                                                    22
+The TR severity grades by visit are presented in Figure 12. The proportion of patients with severe or greater TR decreased from
+100% at baseline in both groups to 1.2% in the device group compared to 78.4% in the control group at 6 months.
+                      Figure 12: TR Severity Grade by Visit - Breakthrough Pathway Cohort, mITT (Effectiveness) Population
+                                    Torrential    Massive     Severe        Moderate   Mild     None/Trace
+                    100.0                                      1.2                               1.2
+                                                               4.7                               4.9
+
+                                                              16.5                               16.0    24.3
+                             34.4    31.5                              32.6
+                     80.0
+   Percentage (%)
+
+
+
+
+                     60.0                                              14.0                              27.0
+                             21.9    27.8
+
+
+                     40.0                                     77.6                               77.8
+                                                                       34.9                              27.0
+
+
+                     20.0    43.8    40.7
+                                                                                                         16.2
+                                                                       18.6
+                                                                                                          5.4
+                      0.0
+                            Device Control                   Device Control                    Device Control
+                            (n=96) (n=54)                    (n=85) (n=43)                     (n=81) (n=37)
+                               Baseline                         30 Days                          6 Months
+
+KCCQ Score - Breakthrough Pathway Cohort:
+The results for the KCCQ score are presented in Figure 13. The mean score increased from 49.1 at baseline to 67.4 at 30 days and
+72.2 at 6 months in the device group, while it remained mostly unchanged from baseline (49.7) to 30 days (49.2) and increased
+slightly at 6 months (54.9) in the control group.
+
+
+
+
+                                                                       23
+    Figure 13: KCCQ Overall Summary Score by Visit - Breakthrough Pathway Cohort, mITT (Effectiveness) Population.
+                                                         The error bars represent standard deviations
+
+        Mean Overall Summary Score   100
+
+
+                                      80
+                                                                                                                  72.2
+                                                                67.4
+                                      60
+                                           49.7                49.2                                               54.9
+                                                  49.1
+                                      40
+
+
+                                      20
+                                                                                                              Device
+                                                                                                              Control
+                                       0
+                                           Baseline       30 Days                                          6 Months
+                       Device                95             83                                                79
+                      Control                54             45                                                42
+
+
+EQ-5D-5L Score - Breakthrough Pathway Cohort:
+The results for the EQ-5D-5L visual analog score (VAS) are presented in Figure 14. The mean score in the device group increased
+from 63.2 at baseline to 73.3 at 30 days and mostly sustained at 6 months (74.7). In contrast, the mean score in the control group
+remained largely unchanged from baseline (59.8) to 30 days (58.5) and to 6 months (59.1).
+
+
+
+
+                                                                             24
+    Figure 14: EQ-5D-5L Visual Analog Score by Visit - Breakthrough Pathway Cohort, mITT (Effectiveness) Population.
+                                                   The error bars represent standard deviations
+
+                               100
+
+
+                                80                                                                             74.7
+                                                         73.3
+         Visual Analog Score
+
+
+
+                                     63.2
+                                60                       58.5                                                  59.1
+                                            59.8
+
+                                40
+
+
+                                20
+                                                                                                           Device
+                                                                                                           Control
+                                 0
+                                     Baseline       30 Days                                             6 Months
+                Device                 95             82                                                   78
+               Control                 54             44                                                   42
+
+
+SF-36 Score - Breakthrough Pathway Cohort:
+The results for the SF-36 physical component summary score and mental component summary score are presented in Figure 15.
+In the device group, the mean SF-36 physical component score increased from baseline by 4.4 points at 30 days and 6.7 points at
+6 months, while in the control group, it remained mostly unchanged from baseline to 30 days and increased slightly by 2.2 points
+from baseline to 6 months. The mean SF-36 mental component score increased from baseline by 2.1 points at 30 days and 4.2
+points at 6 months, while it decreased slightly from baseline to 30 days and 6 months in the control group.
+
+
+
+
+                                                                       25
+                                        Figure 15: SF-36 Score by Visit - Breakthrough Pathway Cohort, mITT (Effectiveness) Population.
+                                                                  The error bars represent standard deviations
+                                                                    A. Physical Component Summary Score
+
+                                         100
+                                                                                                                                Device
+        Mean Physical Component Score
+
+
+                                                                                                                                Control
+                                          80
+
+
+                                          60
+
+
+                                                                         39.2                                                      41.5
+                                          40      34.8
+                                                         34.8            35.0                                                      37.0
+
+                                          20
+
+
+                                           0
+                                                   Baseline         30 Days                                                  6 Months
+                        Device                       95               80                                                        77
+                       Control                       53               43                                                        40
+
+                                                                    B. Mental Component Summary Score
+
+                                         100
+        Mean Mental Component Score
+
+
+
+
+                                          80
+
+
+                                          60                                                                                       54.1
+                                                         49.9            52.0
+                                                         48.7            47.4                                                      48.6
+                                          40
+
+
+                                          20
+                                                                                                                                Device
+                                                                                                                                Control
+                                           0
+                                                   Baseline         30 Days                                                  6 Months
+                        Device                       95               80                                                        77
+                       Control                       53               43                                                        40
+
+
+NYHA Functional Class - Breakthrough Pathway Cohort:
+
+
+
+
+                                                                                      26
+The NYHA functional class by visit are presented in Figure 16. At baseline, 79.2% of device patients and 70.4% of control patients
+were in NYHA class III/IV. The proportion of patients in NYHA class III/IV decreased to 10.1% in the device group compared to
+65.9% in the control group at 6 months.
+                    Figure 16: NYHA Functional Class by Visit - Breakthrough Pathway Cohort, mITT (Effectiveness) Population
+                                                    Class I   Class II    Class III   Class IV
+                    100.0    4.2     1.9                       1.2                                1.3
+                                                                         4.3
+                                                               12.0                               8.8     12.2
+
+
+                     80.0
+
+
+                                                                                                  50.0
+   Percentage (%)
+
+
+
+
+                                     68.5                      50.6      65.2
+                     60.0                                                                                 53.7
+                             75.0
+
+
+                     40.0
+
+
+
+                     20.0                                      36.1                               40.0    29.3
+                                     29.6                                28.3
+                             19.8
+
+                              1.0                                       2.2                               4.9
+                      0.0
+                            Device Control                    Device Control                     Device Control
+                            (n=96) (n=54)                     (n=83) (n=46)                      (n=80) (n=41)
+                               Baseline                          30 Days                           6 Months
+
+6MWD - Breakthrough Pathway Cohort:
+The 6MWD results are presented in Figure 17. The mean 6MWD increased by about 25 meters from baseline to 6 months in the
+device group compared to about 1.1 meters in the control group.
+
+
+
+
+                                                                         27
+                             Figure 17: 6MWD by Visit - Breakthrough Pathway Cohort, mITT (Effectiveness) Population.
+                                                            The error bars represent standard deviations
+
+                             500
+                             450
+                             400
+         Mean Distance (m)
+
+
+
+                             350
+                             300
+                                                                                                                                       257.6
+                             250       232.2 244.0                 238.3
+                                                                   239.0                                                     245.1
+                             200
+                             150
+                             100
+                                                                                                                                     Device
+                              50                                                                                                     Control
+                               0
+                                          Baseline           30 Days                                                           6 Months
+               Device                       96                 81                                                                 73
+              Control                       54                 39                                                                 34
+
+
+Echocardiographic Parameters - Breakthrough Pathway Cohort:
+Key echocardiographic (TTE) parameters for the mITT Effectiveness population at baseline, 30 days, and 6 months are presented in
+Table 8.
+
+   Table 8: Echocardiographic Parameters – Breakthrough Pathway Cohort, mITT Effectiveness Population (Unpaired)
+
+                                                                                  Summary Statistics*
+                                                 Baseline                                30 Days                                6 Months
+     Variable
+                                   Device Group        Control Group       Device Group        Control Group       Device Group        Control Group
+                                   (N=96)              (N=54)              (N=88)              (N=45)              (N=81)              (N=41)
+ Cardiac output
+                                   3.9 ± 1.97 (92)     3.7 ± 1.64 (54)     4.3 ± 1.34 (80)     4.3 ± 2.38 (44)     4.4 ± 1.58 (73)     4.3 ± 1.95 (40)
+ (LVOT; L/min)
+ CW TV mean
+ gradient                          1.8 ± 0.98 (94)     1.7 ± 1.16 (51)     4.3 ± 1.83 (87)     2.0 ± 1.70 (44)     3.3 ± 1.33 (80)     1.5 ± 0.89 (41)
+ (mmHg)
+ RV fractional
+                                   40.2 ± 8.36 (85)    39.4 ± 10.00 (50) 25.7 ± 9.90 (68)      36.5 ± 9.63 (36)    27.5 ± 12.54 (67) 36.0 ± 8.46 (39)
+ area change (%)
+ RV end diastolic
+ mid diameter                      39.0 ± 8.51 (94)    39.2 ± 6.30 (52)    34.2 ± 7.65 (76)    38.9 ± 7.35 (39)    33.1 ± 7.61 (69)    38.0 ± 7.64 (39)
+ (mm)
+ RVOT VTI (cm)                     11.1 ± 3.54 (90)    10.8 ± 4.19 (48)    13.0 ± 4.11 (84)    10.8 ± 3.66 (44)    13.0 ± 4.35 (73)    10.8 ± 3.37 (38)
+ RVOT stroke vol‐
+                  52.0 ± 22.20 (80) 53.2 ± 27.13 (45) 71.5 ± 41.57 (72) 60.7 ± 24.53 (33) 68.6 ± 29.32 (54) 58.3 ± 23.38 (30)
+ ume (mL)
+ RV free wall lon‐
+ gitudinal strain                  -20.7 ± 7.38 (28)   -20.0 ± 8.17 (20)   -13.4 ± 5.23 (29)   -22.0 ± 8.06 (21)   -11.3 ± 4.49 (33)   -21.1 ± 5.95 (23)
+ (3D only; %)
+ IVC diameter
+                  25.0 ± 5.78 (94)                     24.2 ± 7.10 (54)    22.1 ± 5.33 (82)    23.9 ± 8.14 (39)    20.5 ± 5.18 (79)    23.9 ± 7.91 (39)
+ (expiration; mm)
+
+                                                                                  28
+                                                                   Summary Statistics*
+                                  Baseline                               30 Days                               6 Months
+    Variable
+                    Device Group       Control Group      Device Group         Control Group      Device Group       Control Group
+                    (N=96)             (N=54)             (N=88)               (N=45)             (N=81)             (N=41)
+Hepatic vein flow
+  S-dominant        8.5% (7/82)        11.1% (5/45)       31.6% (18/57)        5.3% (2/38)        25.0% (15/60)      8.8% (3/34)
+  D-dominant        6.1% (5/82)        15.6% (7/45)       40.4% (23/57)        21.1% (8/38)       56.7% (34/60)      23.5% (8/34)
+  S-reversal        85.4% (70/82)      73.3% (33/45)      28.1% (16/57)        73.7% (28/38)      18.3% (11/60)      67.6% (23/34)
+PASP (mmHg)         37.5 ± 9.57 (93)   38.0 ± 11.53 (54) 35.8 ± 10.45 (31) 36.9 ± 11.74 (38) 34.3 ± 10.25 (33) 37.5 ± 11.37 (38)
+TAPSE (mm)          15.9 ± 4.25 (80)   16.0 ± 4.00 (45)   11.8 ± 4.42 (64)     15.6 ± 3.83 (39)   11.3 ± 3.28 (61)   15.4 ± 4.41 (36)
+LVOT: left ventricular outflow tract; CW: continuous wave; TV: tricuspid valve; RV: right ventricular; RVOT: right ventricular
+outflow tract; VTI: velocity time integral; 3D: 3-three dimensional; IVC: inferior vena cava; PASP: pulmonary artery systolic
+pressure; TAPSE: tricuspid annular plane systolic excursion.
+*Continuous variables: mean ± standard deviation (no.); categorical variables: % (no./total no.)
+
+Procedural Data - Breakthrough Pathway Cohort:
+The general procedural data for the randomized cohort are summarized in Table 9.
+
+                      Table 9: General Procedure Data - Breakthrough Pathway Cohort, AT Population
+
+                                                                     Result*
+Variable
+                                                                     (N=92)
+General anesthesia                                                   100.0% (92/92)
+Implant rate†                                                        100.0% (92/92)
+                                                                     115.7 ± 48.93 (92)
+Total procedure time (min)‡                                          101.0 (53.0, 351.0)
+                                                                     65.7 ± 28.42 (91)
+Device time (min)§                                                   60.0 (31.0, 167.0)
+                                                                     30.6 ± 14.03 (92)
+Fluoroscopy duration (min)
+                                                                     27.5 (10.0, 72.0)
+Total length of stay in days for the index hospitalization (from     5.9 ± 6.09 (92)
+procedure date)                                                      4.0 (1.0, 46.0)
+*Continuous variables: Mean ± standard deviation (n); median (min, max); categorical variables: % (no/total no.).
+†Implant rate: % of patients who had study device implanted, deployed as intended, and delivery system retrieved successfully.
+
+‡Total procedure time: from procedure start time (femoral vein puncture/skin incision) to femoral vein access closure.
+
+§Device time: from implant system insertion to removal.
+
+
+Adverse Events - Breakthrough Pathway Cohort
+The site-reported device-or procedure-related serious adverse events that occurred through 6 months in the Breakthrough
+Pathway Cohort are presented in Table 10.
+
+         Table 10: Site-Reported Device- or Procedure-Related Serious Adverse Events - mITT (Safety) Population
+
+                                                             Device Group (N=96)
+                                                             30 Days                               6 Months
+Event
+                                                             No.                                   No.
+                                                                           Event Rate*                          Event Rate*
+                                                             Events                                Events
+Acute kidney injury                                          4             4.2% (4/96)             4            4.2% (4/96)
+Acute left ventricular failure                               0             0.0% (0/96)             1            1.0% (1/96)
+Acute respiratory distress syndrome                          1             1.0% (1/96)             1            1.0% (1/96)
+
+
+                                                                   29
+                                       Device Group (N=96)
+                                       30 Days                   6 Months
+Event
+                                       No.                       No.
+                                                 Event Rate*                Event Rate*
+                                       Events                    Events
+Acute respiratory failure              1         1.0% (1/96)     1          1.0% (1/96)
+Altered mental status                  1         1.0% (1/96)     1          1.0% (1/96)
+Anemia                                 2         2.1% (2/96)     2          2.1% (2/96)
+Arrhythmia                             2         2.1% (2/96)     2          2.1% (2/96)
+Arterial repair                        1         1.0% (1/96)     1          1.0% (1/96)
+Atrial fibrillation                    2         2.1% (2/96)     3          3.1% (3/96)
+Atrioventricular block complete        11        11.5% (11/96)   11         11.5% (11/96)
+Bradycardia                            4         4.2% (4/96)     5          5.2% (5/96)
+Cardiac arrest                         1         1.0% (1/96)     1          1.0% (1/96)
+Cardiac failure                        7         7.3% (7/96)     9          9.4% (9/96)
+Cardiac perforation                    2         2.1% (2/96)     2          2.1% (2/96)
+Cardiogenic shock                      3         3.1% (3/96)     3          3.1% (3/96)
+Cellulitis                             1         1.0% (1/96)     1          1.0% (1/96)
+Chest pain                             1         1.0% (1/96)     1          1.0% (1/96)
+Decubitus ulcer                        1         1.0% (1/96)     1          1.0% (1/96)
+Deep vein thrombosis                   1         1.0% (1/96)     1          1.0% (1/96)
+Fall                                   1         1.0% (1/96)     1          1.0% (1/96)
+Hemorrhagic shock                      1         1.0% (1/96)     1          1.0% (1/96)
+Heparin-induced thrombocytopenia       1         1.0% (1/96)     1          1.0% (1/96)
+Hepatic congestion                     1         1.0% (1/96)     1          1.0% (1/96)
+Hypotension                            2         2.1% (2/96)     2          2.1% (2/96)
+Hypovolemic shock                      1         1.0% (1/96)     1          1.0% (1/96)
+Ileus paralytic                        1         1.0% (1/96)     1          1.0% (1/96)
+Intracardiac thrombus                  1         1.0% (1/96)     2          2.1% (2/96)
+Jailed pacing lead                     1         1.0% (1/96)     1          1.0% (1/96)
+Junctional rhythm                      1         1.0% (1/96)     1          1.0% (1/96)
+Leukocytosis                           2         2.1% (2/96)     2          2.1% (2/96)
+Low cardiac output syndrome            1         1.0% (1/96)     1          1.0% (1/96)
+Mallory-Weiss tear                     1         1.0% (1/96)     1          1.0% (1/96)
+Pleural effusion                       3         3.1% (3/96)     3          3.1% (3/96)
+Prosthetic cardiac valve malfunction   0         0.0% (0/96)     1          1.0% (1/96)
+Prosthetic cardiac valve thrombosis    0         0.0% (0/96)     2          2.1% (2/96)
+Prosthetic valve endocarditis          0         0.0% (0/96)     1          1.0% (1/96)
+Pulmonary edema                        5         5.2% (5/96)     5          5.2% (5/96)
+Pulmonary embolism                     1         1.0% (1/96)     1          1.0% (1/96)
+Respiratory failure                    1         1.0% (1/96)     1          1.0% (1/96)
+Respiratory insufficiency              1         1.0% (1/96)     1          1.0% (1/96)
+Retroperitoneal hematoma               1         1.0% (1/96)     1          1.0% (1/96)
+Right bundle branch block              1         1.0% (1/96)     1          1.0% (1/96)
+Right ventricular dysfunction          4         4.2% (4/96)     4          4.2% (4/96)
+Right ventricular failure              2         2.1% (2/96)     2          2.1% (2/96)
+Septic shock                           1         1.0% (1/96)     1          1.0% (1/96)
+
+
+                                            30
+                                                                            Device Group (N=96)
+                                                                            30 Days                                             6 Months
+ Event
+                                                                            No.                                                 No.
+                                                                                                  Event Rate*                                      Event Rate*
+                                                                            Events                                              Events
+ Thrombocytopenia                                                           1                     1.0% (1/96)                   1                  1.0% (1/96)
+ Thrombosis                                                                 1                     1.0% (1/96)                   1                  1.0% (1/96)
+ Uremia                                                                     1                     1.0% (1/96)                   1                  1.0% (1/96)
+ Vascular access site bleeding                                              2                     2.1% (2/96)                   2                  2.1% (2/96)
+ Vascular access site hematoma                                              1                     1.0% (1/96)                   1                  1.0% (1/96)
+ Vascular access site infection                                             0                     0.0% (0/96)                   1                  1.0% (1/96)
+ Ventricular extrasystoles                                                  1                     1.0% (1/96)                   1                  1.0% (1/96)
+ *% (no./total no.)
+
+E. Accountability of the Full Cohort
+Enrollment and randomization of all patients into the TRISCEND II pivotal trial took place between May 2021 and April 2023. A
+total of 400 patients were randomized at 45 investigational sites in the United States and Germany. The disposition of patients in
+the Full Cohort as of June 28, 2024 are detailed in Figure 18.
+                                               Figure 18: Patient Disposition – Full Cohort
+                                                                        Study patients enrolled
+                                                                               N=400
+                                                                            (Enrolled/ITT)
+
+
+                                                                            Randomized 2:1
+
+                                                        Device Group                              Control Group
+                                                           N=267                                     N=133
+                                                            (ITT)                                     (ITT)
+
+
+
+
+                                                                                           Medical therapy treated
+                                                                                                   N=133
+                                                                                         (mITT safety/effectiveness)
+
+
+
+
+                                   6 deaths
+                                                                                                                             2 withdrew
+                                  1 withdrew
+
+                                                       30-Day follow-up                       30-Day follow-up
+                                                            N=252                                  N=131
+                                                      240 visit completed                    116 visit completed
+
+
+                                  14 deaths                                                                                  6 deaths
+                                  5 withdrew                                                                                11 withdrew
+
+
+                                                      6-Month follow-up                      6-Month follow-up
+                                                            N=233                                  N=114
+                                                      220 visit completed                    109 visit completed
+
+
+                                                                                                                              7 deaths
+                                  9 deaths
+                                                                                                                             3 withdrew
+
+
+                                                       1-Year follow-up                       1-Year follow-up
+                                                            N=224                                   N=104
+                                                      215 visit completed                     97 visit completed
+
+
+                                                                                                                        22 crossover patients
+                                                                                                                       included in 1Y endpoint
+
+
+
+
+The analysis populations for the Full Cohort are defined in Table 11. The primary safety and effectiveness analyses were performed
+on the mITT Safety and mITT Effectiveness Populations, respectively.
+
+                                               Table 11: Analysis Populations – Full Cohort
+
+                                                                                                                                                 Number of Patients
+ Analysis Population                             Definition                                                                                      Device     Control
+                                                                                                                                                 Group      Group
+ Intent-to-Treat (ITT)                           All patients randomized to each treatment group.                                                267        133
+
+
+
+                                                                                31
+                                                                                                               Number of Patients
+ Analysis Population                          Definition                                                       Device    Control
+                                                                                                               Group     Group
+                                              All ITT patients who had the study procedure attempted
+                                              (initiation of skin incision to access the femoral vein) in
+ Modified ITT (mITT) Safety                                                                                    259       133
+                                              the device group or who were randomized to the control
+                                              group.
+                                              All patients in the mITT Safety Population who had a study
+                                              device attempted (insertion of guide sheath into femoral
+ mITT Effectiveness                                                                                            258       133
+                                              vein) in the device group or who were randomized to the
+                                              control group.
+                                              All patients in the mITT Effectiveness Population who had
+                                              a study device implanted at exit from procedure room in
+ As-Treated (AT)                                                                                               247*      133
+                                              the device group or who were randomized to the control
+                                              group and treated with medical therapy.
+ *Eleven (11) patients had aborted procedure due to challenging anatomy or imaging.
+
+At the time of database lock, of the randomized patients eligible for the 1-year visit, 96.0% in the device group and 93.3% in the
+control group completed the visit, as shown in Table 12.
+
+                                 Table 12: Visit Compliance – Full Cohort, mITT (Safety) Population
+
+                     30 Days                           6 Months                           1 Year
+ Visit Status        Device Group     Control Group Device Group        Control Group Device Group               Control Group
+                     (N=259)          (N=133)       (N=259)             (N=133)       (N=259)                    (N=133)
+ Ineligible for      7                2                26               19                35                     29
+ visit
+ Eligible for vis‐   252              131              233              114               224                    104
+ it*
+ Follow-up visit     95.2%            88.5%            94.4%            95.6%             96.0% (215/224)        93.3% (97/104)
+ completed †         (240/252)        (116/131)        (220/233)        (109/114)
+ * Patients were considered eligible if they completed the visit, or their visit windows were open, they were alive, and had not
+ exited the study prior to the window opening.
+ †Categorical variables: % (no./total no.)
+
+
+F. Study Population Demographics and Baseline Characteristics – Full Cohort
+Patient demographics and baseline characteristics for the Full Cohort are provided in Table 13. Patients were older (median age
+80 years in both treatment groups), mostly female (75.5%, 296/392), and had multiple co-morbidities. Over 70% (281/392) of
+patients were classified as NYHA class III/IV. Baseline KCCQ-OS averaged ≤ 53 points in both groups. The device and control
+groups were well-balanced in their demographics and baseline characteristics.
+
+                     Table 13: Patient Demographics and Baseline Characteristics – mITT (Safety) Population
+
+ Demographics and Baseline                    Summary Statistics* (N=392)
+ Characteristics                              Device Group (N=259)                         Control Group (N=133)
+ Age (years)                                  79.3 ± 7.42 (259)                            79.1 ± 7.83 (133)
+ Female                                       74.9% (194/259)                              76.7% (102/133)
+ Race
+     American Indian or Alaskan Native        0.8% (2/259)                                 0.0% (0/133)
+     Asian                                    5.4% (14/259)                                6.0% (8/133)
+     Black or African American                4.6% (12/259)                                3.8% (5/133)
+     Native Hawaiian or Other Pacific
+                                              0.0% (0/259)                                 0.8% (1/133)
+     Islander
+
+
+
+                                                                   32
+Demographics and Baseline                  Summary Statistics* (N=392)
+Characteristics                            Device Group (N=259)                         Control Group (N=133)
+    White                                  75.3% (195/259)                              73.7% (98/133)
+    Not available                          8.9% (23/259)                                8.3% (11/133)
+    Other                                  5.0% (13/259)                                7.5% (10/133)
+Body mass index (BMI, kg/m2)               26.8 ± 5.93 (259)                            27.0 ± 5.49 (133)
+New York Heart Association (NYHA) functional class
+    Class I                                0.8% (2/259)                                 0.0% (0/133)
+    Class II                               26.3% (68/259)                               30.8% (41/133)
+    Class III                              69.1% (179/259)                              65.4% (87/133)
+    Class IV                               3.9% (10/259)                                3.8% (5/133)
+Left ventricular ejection fraction
+                                           54.4 ± 9.91 (259)                            54.3 ± 11.07 (133)
+(LVEF, %)
+Society of Thoracic Surgeons (STS)
+Mortality Score - mitral valve             9.6 ± 5.08 (259)                             10.0 ± 5.20 (133)
+replacement (%)
+STS Mortality Score - mitral valve
+                                           6.7 ± 4.75 (259)                             7.0 ± 4.39 (133)
+repair (%)
+European System for Cardiac Operative
+                                           5.4 ± 4.09 (259)                             5.6 ± 4.27 (133)
+Risk Evaluation (EuroSCORE) II (%)
+Katz Activities of Daily Living Score      5.8 ± 0.47 (258)                             5.9 ± 0.38 (132)
+Canadian Study of Health and Aging (CSHA) Clinical Frailty Score
+    Non-frail to mildly frail (1-5)        89.5% (230/257)                              91.7% (121/132)
+    Moderate-to-severely frail (6-9)       10.5% (27/257)                               8.3% (11/132)
+Cardiomyopathy                             13.1% (34/259)                               15.0% (20/133)
+    Dilated                                9.3% (24/259)                                13.5% (18/133)
+    Restrictive                            1.2% (3/259)                                 0.0% (0/133)
+    Hypertrophic                           1.2% (3/259)                                 0.8% (1/133)
+Coronary artery disease
+                                           25.9% (67/259)                               30.1% (40/133)
+(≥ 50% stenosis)
+Hypertension                               90.7% (235/259)                              91.7% (122/133)
+Pulmonary Hypertension                     69.5% (180/259)                              75.9% (101/133)
+Myocardial infarction                      11.2% (29/259)                               14.3% (19/133)
+Stroke                                     15.1% (39/259)                               9.0% (12/133)
+Atrial fibrillation                        96.1% (249/259)                              92.5% (123/133)
+Pacemaker/implantable cardioverter
+                                           38.2% (99/259)                               39.8% (53/133)
+defibrillator
+Percutaneous coronary intervention
+                                           16.6% (43/259)                               17.3% (23/133)
+(PCI)/stent
+Total number of prior open-heart surgeries (valve or coronary artery bypass grafting)
+    0                                      61.0% (158/259)                              64.7% (86/133)
+    1                                      29.7% (77/259)                               30.1% (40/133)
+    ≥2                                     7.7% (20/259)                                5.3% (7/133)
+Number of hospitalizations for heart
+failure in the last 12 months prior to     1.9 ± 1.54 (88)                              1.5 ± 0.71 (48)
+consent
+
+
+
+
+                                                               33
+ Demographics and Baseline                    Summary Statistics* (N=392)
+ Characteristics                              Device Group (N=259)                      Control Group (N=133)
+ Total number of days hospitalized for
+ heart failure in the last 12 months
+                                              10.6 ± 10.13 (83)                         10.4 ± 7.84 (47)
+ (for those who had heart failure
+ hospitalization)
+ Diabetes                                     22.0% (57/259)                            24.8% (33/133)
+ Chronic obstructive pulmonary disease
+                                              15.4% (40/259)                            19.5% (26/133)
+ (COPD)
+ Renal insufficiency or failure               54.1% (140/259)                           59.4% (79/133)
+    Stage I (eGFR ≥ 90)                       0.0% (0/259)                              0.0% (0/133)
+    Stage II (eGFR 60-89)                     6.2% (16/259)                             6.8% (9/133)
+    Stage III (eGFR 30-59)                    42.9% (111/259)                           45.9% (61/133)
+    Stage IV (eGFR 15-29)                     5.0% (13/259)                             6.8% (9/133)
+    Stage V (eGFR < 15)                       0.0% (0/259)                              0.0% (0/133)
+ History of renal replacement therapy
+                                              1.2% (3/259)                              0.8% (1/133)
+ (e.g., dialysis)
+ Baseline KCCQ Overall Summary Score          52.8 ± 21.98 (258)                        50.6 ± 21.39 (133)
+ Baseline 6MWD (meter)                        236.4 ± 92.82 (259)                       240.8 ± 87.71 (133)
+ TR severity (severe or greater)†
+    Severe                                    47.1% (122/259)                           37.6% (50/133)
+    Massive                                   23.2% (60/259)                            25.6% (34/133)
+    Torrential                                29.7% (77/259)                            36.8% (49/133)
+ Pulmonary arterial systolic pressure
+                                              38.6 ± 10.85 (249)                        37.6 ± 11.25 (133)
+ (PASP; mmHg)
+ TAPSE (mm)                                   16.3 ± 4.45 (231)                         15.6 ± 4.24 (117)
+ eGFR: estimated glomerular filtration rate; KCCQ: Kansas City Cardiomyopathy Questionnaire; 6MWD: 6-minute walk distance;
+ TR: tricuspid regurgitation; TAPSE: tricuspid annular plane systolic excursion.
+ *Categorical variables: % (no./total no.); continuous variables: mean ± standard deviation (no.)
+ †TR severity was evaluated on the 5-grade scale by Hahn et al. (2017).
+
+
+G. Safety and Effectiveness Results – Full Cohort
+This section summarizes the results and outcomes for the Full Cohort, from the second analysis phase of the TRISCEND II pivotal
+trial.
+1. Primary Safety and Effectiveness Endpoint – Full Cohort
+The primary safety and effectiveness endpoint analysis result for the Full Cohort is presented in Table 14. The Finkelstein-
+Schoenfeld test statistic result was 5.283 with a one-sided p-value of < 0.001, which is less than the pre-specified one-sided
+significance level of 0.025. Thus, the primary safety and effectiveness endpoint was met indicating the device group was superior
+to the control group.
+
+              Table 14: Primary Safety and Effectiveness Endpoint Result - Full Cohort, mITT (Safety) Population
+
+     Primary Endpoint                   Test Statistic                   p-Value*                            Result
+ Finkelstein-Schoenfeld                     5.283                        < 0.001                  Superiority Endpoint met
+ analysis
+ *One-sided p-value calculated using the Finkelstein-Schoenfeld method. Compared with one-sided significance level of 0.025.
+
+The supplementary win ratio analysis of the primary safety and effectiveness endpoint is shown in Figure 19. The win ratio of the
+device group vs. the control group was 2.02 (97.5% confidence interval: 1.56 lower bound).
+
+
+
+
+                                                                    34
+     Figure 19: Win Ratio Analysis of the Primary Safety and Effectiveness Endpoint Result - Full Cohort, mITT (Safety)
+                                                        Population.
+ RVAD: Right Ventricular Assist Device; TV: Tricuspid Valve; HFH: Heart Failure Hospitalization; KCCQ: Kansas City Cardiomyopathy
+           Questionnaire; NYHA: New York Heart Association; 6MWD: 6-minute walk distance; CI: confidence interval.
+
+                                                         Device Group                                    Control Group
+                                                            N=259                                           N=133
+                                                                              34,447 Patient Pairs
+                                                     Device Win                                              Control Win
+     All-Cause Mortality
+     Site reported + vital status checks           5,100 (14.8%)                 25,050 (72.7%)              4,297 (12.5%)
+     RVAD or Heart Transplant
+     CEC Adjudicated                                  0 (0.0%)                   25,050 (72.7%)                 0 (0.0%)
+     TV Surgery/Intervention
+     CEC Adjudicated                                 1,105 (3.2%)                23,731 (68.9%)                214 (0.6%)
+     Annualized HFH                                  3,340 (9.7%)
+     CEC Adjudicated                                                             16,952 (49.2%)              3,439 (10.0%)
+     KCCQ Improvement
+     ∆ Overall Summary ≥ 10                        7,959 (23.1%)                  6,927 (20.1%)              2,066 (6.0%)
+     NYHA Improvement                              3,502 (10.2%)                                               277 (0.8%)
+     ∆ ≥ 1 Class                                                                  3,148 (9.1%)
+     6MWD Improvement                                391 (1.1%)                   2,459 (7.1%)                 298 (0.9%)
+     ∆ ≥ 30 Meters
+
+                                                     21,397 Wins                    2,459 Ties               10,591 Wins
+                                                       62.1%                          7.1%                     30.7%
+
+                                                          Win Ratio = 21,397
+                                                                      10,591 = 2.02 (97.5% CI lower bound: 1.56)
+
+
+2. Secondary Effectiveness Endpoint (Hierarchical Hypothesis Testing) – Full Cohort
+The secondary effectiveness endpoint analysis results are presented in Table 15. Hierarchical hypothesis testing was successful
+for the first 3 outcomes. Treatment with the EVOQUE system was superior to OMT alone for TR grade reduction (p<0.001), NYHA
+functional class reduction by ≥ 1 class (p<0.001), and improvement in KCCQ-OS at 1 year (p<0.001). Although the device group
+had a greater number of "wins" for the composite of death and heart failure hospitalization compared to the control group
+(9,163 device vs. 7,737 control), the win ratio for the composite of death and heart failure hospitalization did not meet statistical
+significance and the endpoint was not met.
+
+                Table 15: Secondary Effectiveness Endpoint Result – Full Cohort, mITT (Effectiveness) Population
+
+                                       Device              Control             Difference         p-value          Hierarchical
+ Secondary Endpoint*
+                                                                                                                    Outcome
+ Reduction in TR grade           210/212 (99.1%)         35/87 (40.2%)        58.8% [47.6%]       < 0.001            SUCCESS
+ by at least one grade†
+ Reduction in NYHA               168/212 (79.2%)         23/96 (24.0%)        55.3% [44.4%]       < 0.001            SUCCESS
+ functional class by at
+ least one grade†
+ Change in quality of           18.4 ± 22.07 (211)      2.8 ± 24.28 (96)       15.6 [10.1]        < 0.001            SUCCESS
+ life (KCCQ Overall
+ Summary Scores) from
+ baseline‡
+ Death and heart fail‐                     9163              7737                1.2 [0.8]         0.198              FAILURE
+ ure hospitalization§
+ All-cause hospitaliza‐                     –                  –                 1.2 [1.6]           –                   –
+ tionǁ
+ All-cause mortality#                  13.2%                16.8%               0.8 [1.4]            –                   –
+                                   [9.6%, 17.9%]        [11.4%, 24.4%]
+
+
+                                                                         35
+                                  Device                   Control              Difference            p-value            Hierarchical
+ Secondary Endpoint*
+                                                                                                                          Outcome
+ Change in 6MWD from        23.2 ± 95.39 (185)       -14.8 ± 95.00 (88)         38.0 [13.8]                –                  –
+ baseline‡
+ *mITT effectiveness for TR grade, NYHA, KCCQ and 6MWD and mITT safety for death/heart failure hospitalization and all-cause
+
+ hospitalization.
+ †n/Total N (%); difference in proportions [97.5% lower bound]; pooled Z-Test with continuity correction to be compared with
+
+ one-sided significance level of 0.025.
+ ‡Mean ± SD (n); mean difference ± STD, [97.5% lower bound]; t-test to be compared with one-sided significance level of 0.025.
+ §Number of wins; Win Ratio [97.5% lower bound]; One-sided p-value using Finkelstein-Schoenfeld method to be compared with
+
+ a one-sided significance level of 0.025.
+ ǁHazard Ratio [97.5% upper bound]; p-value using joint frailty model to be compared with one-sided significance level of 0.025.
+ #Kaplan-Meier estimates [95% CI]; Hazard Ratio [97.5% upper bound]; p-value using Cox Proportional Hazards model. 6MWD
+
+ entries of 0m are considered missing values.
+
+3. Adverse Events – Full Cohort
+CEC-adjudicated safety events for the Full Cohort through 1 year are shown in Table 16. The device group had higher rates during
+the first 30 days of follow-up due to periprocedural complications. Both treatment groups had similar rates with onset between
+Day 31 through Day 365 of follow-up.
+
+                  Table 16: CEC-Adjudicated Safety Events Through 1 Year - Full Cohort, mITT Safety Population
+
+                                      Early Events                                                   Late Events
+                                      (≤ 30 Days)                                                 (30 < Days ≤ 365)*
+                             Device                       Control                      Device                           Control
+                            (N=259)                       (N=133)                     (N=259)                           (N=133)
+    Event           No. Event     Patients       No. Event        Pa‐         No. Event         Patients        No. Event      Patients
+                                                                tients
+ Cardiovascu‐           8       8/259 (3.1%)          0         0/133            14           14/247 (5.7%)        10       10/128 (7.8%)
+ lar mortality                                                  (0.0%)
+ Myocardial             2       2/259 (0.8%)          0         0/133            3            3/247 (1.2%)         10        1/128 (0.8%)
+ infarction                                                     (0.0%)
+ Stroke                 1       1/259 (0.4%)          0         0/133            3            3/247 (1.2%)         0         0/128 (0.0%)
+                                                                (0.0%)
+ New need for           4       4/259 (1.5%)         NA             NA           4            4/247 (1.6%)         NA             NA
+ renal replace‐
+ ment therapy
+ Severe bleed‐         27         27/259              2         2/133            15           13/247 (5.3%)        6         6/128 (4.7%)
+ ing†                             (10.4%)                       (1.5%)
+ Non-elective           2       2/259 (0.8%)          1         1/133            0            0/247 (0.0%)         3         3/128 (2.3%)
+ tricuspid                                                      (0.8%)
+ valve re-
+ intervention,
+ percutaneous
+ or surgical
+ Major access           8       8/259 (3.1%)         NA             NA           0            0/247 (0.0%)         NA             NA
+ site and vas‐
+ cular compli‐
+ cations
+ Major cardiac          3       3/259 (1.2%)         NA             NA           0            0/247 (0.0%)         NA             NA
+ structural
+ complica‐
+ tions
+
+
+
+                                                                         36
+                                                 Early Events                                                         Late Events
+                                                 (≤ 30 Days)                                                       (30 < Days ≤ 365)*
+                                       Device                           Control                         Device                            Control
+                                      (N=259)                           (N=133)                        (N=259)                            (N=133)
+     Event                    No. Event       Patients           No. Event       Pa‐        No. Event         Patients         No. Event        Patients
+                                                                               tients
+ Device-                         2           2/259 (0.8%)           NA            NA             1          1/247 (0.4%)             NA             NA
+ related pul‐
+ monary em‐
+ bolism
+ New Pace‐                       40            40/162‡              0           0/80‡            5          5/118§ (4.2%)            3        3/76§ (3.9%)
+ maker/                                        (24.7%)                         (0.0%)
+ Implantable
+ Cardioverter
+ Defibrillator
+ *For Late Events, patients must have at least 31 days in study follow-up to count in denominator. Numerator for Late Events
+
+ includes events with start date after day 30.
+ †Fatal, life-threatening, extensive, or major bleeding, as defined by MVARC.
+ ‡Patients who have a pre-existing pacemaker/defibrillator are excluded from both numerator and denominator.
+ §Patients who have a pre-existing pacemaker/defibrillator or had one placed in the first 30 days are excluded from both the
+
+ numerator and denominator. Patients must also have at least 31 days in follow-up to count in the denominator.
+ NA = Event Not Applicable for control patients.
+ Categorical variables: n/Total N (%)
+
+4. Other Study Observations – Full Cohort
+TR Severity Grade - Full Cohort:
+The TR severity grades at baseline and 1 year are presented in Figure 20. Patients with severe or greater TR decreased from 100%
+at baseline in both groups to 0.9% in the device group compared to 83.9% in the control group at 1 year.
+                        Figure 20: TR Severity Grade at Baseline and 1 Year - Full Cohort, mITT (Effectiveness) Population
+                               None/Trace           Mild            Moderate            Severe          Massive         Torrential
+
+                                                                    0.9
+                        100
+                                                           3.8
+
+                                                                                                                       23.0
+                                      29.7                 22.6                                      29.9
+                        80
+
+
+                                                                                                                       19.5
+                                                                             99.0%
+         Patients (%)
+
+
+
+
+                        60            20.8
+                                                                             ≤ moderate              26.4
+
+                                                                          95.2%
+                        40                                                ≤ mild
+                                                           72.6                                                        41.4
+
+                                      49.5
+                        20                                                                           43.7
+
+                                                                                                                                     16.1%
+                                                                                                             2.3       13.8
+                                                                                                                                     ≤ moderate
+                          0
+                                  Baseline               1 Year                                  Baseline             1 Year
+
+                                              Device                                                        Control
+                                              n=212                                                          n=87
+
+KCCQ-OS Score - Full Cohort:
+
+
+
+                                                                                       37
+The results for the KCCQ-OS score are presented in Figure 21. The mean score in the device group increased from 52.8 at baseline
+to 67.6 at 30 days, 74.8 at 6 months, and mostly sustained at 1 year (73.5). In contrast, the mean score in the control group
+remained largely unchanged from baseline (50.6) to 30 days (53.5), 6 months (52.7), and 1 year (55.3).
+                                       Figure 21: KCCQ Overall Summary Score by Visit - Full Cohort, mITT (Effectiveness) Population.
+                                                                The error bars represent standard deviations.
+                                 100
+    Mean Overall Summary Score
+
+
+
+
+                                 80                                                       74.8
+                                                 67.6                                                                                   73.5
+                                          52.8
+                                 60
+                                                  53.5                                    52.7                                          55.3
+                                          50.6
+                                 40
+
+
+
+
+                                 20
+                                                                                                                                  Device
+                                                                                                                                  Control
+                                  0
+                                   Baseline 30 Days                               6 Months                                         1 Year
+   Device
+   Control
+EQ-5D-5L Score:
+The results for the EQ-5D-5L visual analog score (VAS) are presented in Figure 22. The mean score in the device group increased
+from 63.1 at baseline to 72.9 at 30 days, 75.2 at 6 months, and mostly sustained at 1 year (73.7). In contrast, the mean score in the
+control group remained largely unchanged from baseline (63.0) to 30 days (61.0), to 6 months (60.1), and to 1 year (61.6).
+
+
+
+
+                                                                                     38
+                               Figure 22: EQ-5D-5L Visual Analog Score by Visit - Full Cohort, mITT (Effectiveness) Population.
+                                                         The error bars represent standard deviations.
+                         100
+   Visual Analog Score
+
+
+
+                         80                                                        75.2
+                                 63.1    72.9
+                                                                                                                                  73.7
+
+                                         61.0                                      60.1                                           61.6
+                         60      63.0
+
+
+
+                         40
+
+
+
+
+                         20
+                                                                                                                             Device
+                                                                                                                             Control
+                          0
+        Baseline 30 Days                                                   6 Months                                           1 Year
+ Device 257 222                                                              207                                               208
+ Control 132 103                                                              97                                                96
+SF-36 Score - Full Cohort:
+The results for the SF-36 physical component summary score and mental component summary score outcomes are presented in
+Figure 23 A and B. In the device group, the mean SF-36 physical component score increased from baseline by 4.1 points at 30 days
+and 6.3 points at 6 months; this increase was sustained through 1 year. In the control group, the mean SF-36 physical component
+score remained mostly unchanged from baseline (34.5) to 30 days (35.3), to 6 months (36.0), and to 1 year (36.1).
+In the device group, the mean SF-36 mental component score increased from baseline by 1.8 points at 30 days and 4.8 points
+at 6 months; this increase was mostly sustained through 1 year. In contrast, the mean SF-36 mental component score remained
+largely unchanged through 1 year.
+
+
+
+
+                                                                              39
+                                                          Figure 23: SF-36 Score by Visit - Full Cohort, mITT (Effectiveness) Population.
+                                                                           The error bars represent standard deviations.
+                                                                             A. Physical Component Summary Score
+                                  100
+  Mean Physical Component Score
+
+
+
+
+                                   80
+
+
+
+
+                                   60
+
+
+                                                  35.5
+                                                          39.6                                       41.8
+                                   40                                                                                                          41.0
+                                                          35.3                                       36.0                                      36.1
+                                                  34.5
+
+                                   20
+                                                                                                                                            Device
+                                                                                                                                            Control
+                                          0
+        Baseline 30 Days                                                                     6 Months                                       1 Year
+ Device 253 216                                                                                204                                           208
+ Control 132 102                                                                                95                                            96
+
+                                                                             B. Mental Component Summary Score
+
+                                          100
+            Mean Mental Component Score
+
+
+
+
+                                          80
+
+
+
+                                                   50.2
+                                          60                                                         55.0
+                                                            52.0                                                                               54.5
+                                                            48.8                                     47.8                                      48.6
+                                                   49.4
+                                          40
+
+
+
+
+                                          20
+                                                                                                                                            Device
+                                                                                                                                            Control
+                                              0
+            Baseline 30 Days                                                                  6 Months                                      1 Year
+     Device 253 216                                                                             204                                          208
+     Control 132 102                                                                             95                                           96
+NYHA Functional Class - Full Cohort:
+
+
+
+
+                                                                                                40
+NYHA functional class by visit are presented in Figure 24. At baseline, 69.8% of device patients and 69.8% of control patients were
+in NYHA class III/IV. At 1 year, the percent of patients in NYHA class III/IV decreased to 9% in the device group compared to 65.6%
+in the control group at 1 year.
+                              Figure 24: NYHA Functional Class by Visit - Full Cohort, mITT (Effectiveness) Population
+
+                                          Class I                 Class II         Class III              Class IV
+                                                                                                                         1.0
+                              100         2.8                                                  3.1
+                                                             9
+
+
+                               80
+
+                                                           42.9
+                                                                                                                64.6
+               Patients (%)
+
+
+
+
+                                         67.0                                                  66.7
+                               60
+
+
+
+                               40
+
+
+                                                           48.1
+                               20                                                                               30.2
+                                         29.2                                                  30.2
+
+                                                    0.9                                                          4.2
+                                0
+                                       Baseline            1 Year                          Baseline             1 Year
+
+                                                  Device                                              Control
+                                                  n=212                                                n=96
+
+6MWD - Full Cohort:
+The 6MWD results are presented in Figure 25. The mean 6MWD increased by about 31.8 meters from baseline to 1 year in the
+device group compared to a reduction by about 3 meters in the control group.
+
+
+
+
+                                                                             41
+                                     Figure 25: 6MWD by Visit - Full Cohort, mITT (Effectiveness) Population.
+                                                       The error bars represent standard deviations.
+                      500
+
+                      450
+
+                      400
+  Mean Distance (m)
+
+
+
+
+                      350
+
+                      300   236.3                                                 273.1
+                                    245.6
+                                                                                                                                         268.1
+                      250           243.6                                         238.4
+                                                                                                                                         237.8
+                            240.8
+                      200
+
+                      150
+
+                      100
+                                                                                                                                   Device
+                      50
+                                                                                                                                   Control
+                       0
+        Baseline 30 Days                                                  6 Months                                                  1 Year
+ Device 258 205                                                             185                                                      185
+ Control 133     91                                                          84                                                       88
+Echocardiographic Parameters - Full Cohort:
+Key echocardiographic (TTE) parameters for the mITT Effectiveness population at baseline and 1 year are presented in Table 17.
+
+  Table 17: Echocardiographic Parameters at Baseline vs. at 1 Year - Full Cohort, mITT Effectiveness Population (Paired)
+
+                                                                             Summary Statistics*
+                                            Baseline                                 1 Year                         Change from Baseline
+        Variable
+                              Device Group        Control Group       Device Group        Control Group       Device Group        Control Group
+                              (N=213)             (N=93)              (N=213)             (N=93)              (N=213)             (N=93)
+ Cardiac output                                                                                               0.43 ± 1.869
+                              4.1 ± 1.68 (195)    4.0 ± 1.54 (88)     4.6 ± 1.50 (195)    4.2 ± 1.45 (88)                         0.27 ± 1.627 (88)
+ (LVOT; L/min)                                                                                                (195)
+ CW TV mean
+ gradient                     1.7 ± 1.07 (204)    1.7 ± 1.10 (84)     3.2 ± 1.36 (204)    1.7 ± 1.21 (84)     1.5 ± 1.63 (204)    0.03 ± 0.800 (84)
+ (mmHg)
+ RV fractional                                                                                                -9.3 ± 10.63
+                              39.5 ± 8.10 (149) 41.4 ± 8.68 (80)      30.2 ± 9.02 (149) 37.5 ± 9.38 (80)                          -3.9 ± 10.21 (80)
+ area change (%)                                                                                              (149)
+ RV end diastolic
+                                                                                                              -5.8 ± 10.13
+ mid diameter                 39.2 ± 8.37 (175) 38.0 ± 6.60 (88)      33.4 ± 7.28 (175) 38.0 ± 9.15 (88)                          0.00 ± 8.636 (88)
+                                                                                                              (175)
+ (mm)
+ RVOT VTI (cm)                11.1 ± 3.45 (193) 11.1 ± 3.98 (83)      13.2 ± 4.68 (193) 11.6 ± 3.34 (83)      2.1 ± 5.09 (193)    0.50 ± 3.435 (83)
+ RVOT stroke vol‐ 63.0 ± 28.42                                        72.6 ± 26.85
+                                                  55.3 ± 32.16 (56)                       66.0 ± 20.42 (56) 9.6 ± 36.58 (116) 10.8 ± 34.53 (56)
+ ume (mL)         (116)                                               (116)
+ RV free wall lon‐
+                                                  -24.7 ± 11.03                                                                   0.70 ± 11.196
+ gitudinal strain             -22.3 ± 5.87 (40)                       -13.3 ± 4.05 (40)   -24.0 ± 5.25 (20)   9.0 ± 6.34 (40)
+                                                  (20)                                                                            (20)
+ (3D only; %)
+ IVC diameter                                                                                                                     -0.27 ± 6.054
+                  25.3 ± 6.33 (198) 24.1 ± 7.19 (91)                  20.5 ± 5.35 (198) 23.8 ± 8.05 (91)      -4.8 ± 6.82 (198)
+ (expiration; mm)                                                                                                                 (91)
+ PASP (mmHg)                  38.9 ± 11.59 (93) 38.0 ± 11.16 (88) 32.7 ± 11.68 (93) 39.7 ± 11.86 (88) -6.3 ± 14.09 (93)           1.7 ± 10.57 (88)
+
+
+                                                                             42
+                                                                    Summary Statistics*
+                                  Baseline                                    1 Year                           Change from Baseline
+     Variable
+                     Device Group      Control Group       Device Group           Control Group        Device Group         Control Group
+                     (N=213)           (N=93)              (N=213)                (N=93)               (N=213)              (N=93)
+                                                                                                                            -0.19 ± 5.005
+ TAPSE (mm)          16.2 ± 4.74 (151) 15.8 ± 4.63 (70)    12.0 ± 3.71 (151) 15.6 ± 4.63 (70)          -4.2 ± 4.95 (151)
+                                                                                                                            (70)
+ LVOT: left ventricular outflow tract; CW: continuous wave; TV: tricuspid valve; RV: right ventricular; RVOT: right ventricular
+ outflow tract; VTI: velocity time integral; 3D: 3-three dimensional; IVC: inferior vena cava; PASP: pulmonary artery systolic
+ pressure; TAPSE: tricuspid annular plane systolic excursion.
+ *Continuous variables: mean ± standard deviation (no.); categorical variables: % (no./total no.)
+
+Procedural Data - Full Cohort:
+The general procedural data for the randomized cohort are summarized in Table 18.
+
+                                  Table 18: General Procedure Data - Full Cohort, AT Population
+
+                                                                      Result*
+ Variable
+                                                                      (N=247)
+ General anesthesia                                                   100.0% (247/247)
+ Implant rate†                                                        (246/247) 99.6%
+                                                                      106.0 ± 42.27 (247)
+ Total procedure time (min)‡                                          98.0 (50.0, 351.0)
+                                                                      61.5 ± 27.45 (243)
+ Device time (min)§                                                   56.0 (16.0, 189.0)
+                                                                      29.7 ± 13.24 (247)
+ Fluoroscopy duration (min)
+                                                                      27.0 (10.0, 74.1)
+ Total length of stay in days for the index hospitalization (from     5.4 ± 6.32 (247)
+ procedure date)                                                      3.0 (1.0, 46.0)
+ *Continuous variables: Mean ± standard deviation (n); median (min, max); categorical variables: % (no/total no.).
+ †Implant rate: % of patients who had study device implanted, deployed as intended, and delivery system retrieved successfully.
+
+ ‡Total procedure time: from procedure start time (femoral vein puncture/skin incision) to femoral vein access closure.
+
+ §Device time: from implant system insertion to removal.
+
+
+Adverse Events - Full Cohort:
+The site-reported device-or procedure-related serious adverse events that occurred through 1 year in the Full Cohort are
+presented in Table 19.
+
+   Table 19: Site-Reported Device- or Procedure-Related Serious Adverse Events - Full Cohort, mITT (Safety) Population
+
+                                             Device Group (N=259)
+                                             30 Days                     6 Months                          1 Year
+ Event
+                                             No.       Event             No.                               No.
+                                                                                       Event Rate*                         Event Rate*
+                                             Events    Rate*             Events                            Events
+ Acute kidney injury                         14        5.0%              14            5.0% (13/259)       15              5.4% (14/259)
+                                                       (13/259)
+ Acute left ventricular failure              1         0.4%              2             0.8% (2/259)        2               0.8% (2/259)
+                                                       (1/259)
+ Acute respiratory distress syndrome         2         0.8%              2             0.8% (2/259)        2               0.8% (2/259)
+                                                       (2/259)
+ Acute respiratory failure                   2         0.8%              2             0.8% (2/259)        2               0.8% (2/259)
+                                                       (2/259)
+
+
+                                                                    43
+                                    Device Group (N=259)
+                                    30 Days                   6 Months                    1 Year
+Event
+                                    No.       Event           No.                         No.
+                                                                         Event Rate*               Event Rate*
+                                    Events    Rate*           Events                      Events
+Altered mental status               1         0.4%            1          0.4% (1/259)     1        0.4% (1/259)
+                                              (1/259)
+Anemia                              3         1.2%            3          1.2% (3/259)     3        1.2% (3/259)
+                                              (3/259)
+Angina                              1         0.4%            1          0.4% (1/259)     1        0.4% (1/259)
+                                              (1/259)
+Arrhythmia                          4         1.5%            5          1.9% (5/259)     5        1.9% (5/259)
+                                              (4/259)
+Arterial repair                     1         0.4%            1          0.4% (1/259)     1        0.4% (1/259)
+                                              (1/259)
+Ascites                             0         0.0%            0          0.0% (0/259)     1        0.4% (1/259)
+                                              (0/259)
+Atrial fibrillation                 5         1.9%            6          2.3% (6/259)     7        2.7% (7/259)
+                                              (5/259)
+Atrial septal defect                1         0.4%            1          0.4% (1/259)     1        0.4% (1/259)
+                                              (1/259)
+Atrioventricular block complete     25        9.7%            26         10.0% (26/259)   26       10.0% (26/259)
+                                              (25/259)
+Bradycardia                         10        3.9%            11         4.2% (11/259)    12       4.6% (12/259)
+                                              (10/259)
+Cardiac arrest                      2         0.8%            2          0.8% (2/259)     2        0.8% (2/259)
+                                              (2/259)
+Cardiac failure                     14        5.0%            19         6.6% (17/259)    23       7.7% (20/259)
+                                              (13/259)
+Cardiac pacemaker insertion         0         0.0%            1          0.4% (1/259)     1        0.4% (1/259)
+                                              (0/259)
+Cardiac perforation                 3         1.2%            3          1.2% (3/259)     3        1.2% (3/259)
+                                              (3/259)
+Cardiogenic shock                   6         2.3%            6          2.3% (6/259)     6        2.3% (6/259)
+                                              (6/259)
+Cerebrovascular accident            1         0.4%            1          0.4% (1/259)     1        0.4% (1/259)
+                                              (1/259)
+Chest pain                          2         0.8%            2          0.8% (2/259)     3        1.2% (3/259)
+                                              (2/259)
+Compartment syndrome                0         0.0%            0          0.0% (0/259)     1        0.4% (1/259)
+                                              (0/259)
+Decubitus ulcer                     1         0.4%            1          0.4% (1/259)     1        0.4% (1/259)
+                                              (1/259)
+Deep vein thrombosis                2         0.8%            2          0.8% (2/259)     2        0.8% (2/259)
+                                              (2/259)
+Device electrical impedance issue   1         0.4%            1          0.4% (1/259)     1        0.4% (1/259)
+                                              (1/259)
+Device lead damage                  1         0.4%            1          0.4% (1/259)     2        0.8% (2/259)
+                                              (1/259)
+Dysphagia                           3         1.2%            3          1.2% (3/259)     3        1.2% (3/259)
+                                              (3/259)
+
+
+
+
+                                                         44
+                                   Device Group (N=259)
+                                   30 Days                  6 Months                  1 Year
+Event
+                                   No.       Event          No.                       No.
+                                                                       Event Rate*             Event Rate*
+                                   Events    Rate*          Events                    Events
+Electrolyte imbalance              1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Encephalopathy                     1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Fall                               1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Fever                              1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Gastrointestinal bleeding          1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Hematoma                           1         0.4%           1          0.4% (1/259)   2        0.8% (2/259)
+                                             (1/259)
+Hematuria                          1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Hemorrhagic shock                  1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Heparin-induced thrombocytopenia   2         0.8%           2          0.8% (2/259)   2        0.8% (2/259)
+                                             (2/259)
+Hepatic congestion                 1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Hepatic function abnormal          1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Hyperkalemia                       0         0.0%           0          0.0% (0/259)   1        0.4% (1/259)
+                                             (0/259)
+Hypervolemia                       1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Hyponatremia                       1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Hypotension                        7         2.7%           7          2.7% (7/259)   7        2.7% (7/259)
+                                             (7/259)
+Hypothermia                        1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Hypovolemic shock                  1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Ileus paralytic                    1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Infection                          3         1.2%           3          1.2% (3/259)   3        1.2% (3/259)
+                                             (3/259)
+Inflammatory marker increased      1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Infusion site extravasation        1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+Intracardiac thrombus              1         0.4%           2          0.8% (2/259)   2        0.8% (2/259)
+                                             (1/259)
+Junctional rhythm                  1         0.4%           1          0.4% (1/259)   1        0.4% (1/259)
+                                             (1/259)
+
+
+
+
+                                                       45
+                                         Device Group (N=259)
+                                         30 Days                   6 Months                   1 Year
+Event
+                                         No.       Event           No.                        No.
+                                                                              Event Rate*              Event Rate*
+                                         Events    Rate*           Events                     Events
+Leukocytosis                             4         1.5%            4          1.5% (4/259)    4        1.5% (4/259)
+                                                   (4/259)
+Low cardiac output syndrome              1         0.4%            1          0.4% (1/259)    1        0.4% (1/259)
+                                                   (1/259)
+Mallory-Weiss tear                       1         0.4%            1          0.4% (1/259)    1        0.4% (1/259)
+                                                   (1/259)
+Metabolic encephalopathy                 1         0.4%            1          0.4% (1/259)    1        0.4% (1/259)
+                                                   (1/259)
+Mitral valve incompetence                1         0.4%            1          0.4% (1/259)    1        0.4% (1/259)
+                                                   (1/259)
+Mouth bleeding                           1         0.4%            1          0.4% (1/259)    1        0.4% (1/259)
+                                                   (1/259)
+Pleural effusion                         4         1.5%            4          1.5% (4/259)    5        1.9% (5/259)
+                                                   (4/259)
+Pneumonia                                4         1.5%            4          1.5% (4/259)    4        1.5% (4/259)
+                                                   (4/259)
+Procedural pain                          1         0.4%            1          0.4% (1/259)    1        0.4% (1/259)
+                                                   (1/259)
+Prosthetic cardiac valve malfunction     1         0.4%            3          1.2% (3/259)    3        1.2% (3/259)
+                                                   (1/259)
+Prosthetic cardiac valve regurgitation   2         0.8%            2          0.8% (2/259)    3        1.2% (3/259)
+                                                   (2/259)
+Prosthetic cardiac valve thrombosis      4         1.5%            7          2.7% (7/259)    8        3.1% (8/259)
+                                                   (4/259)
+Prosthetic valve endocarditis            1         0.4%            2          0.8% (2/259)    2        0.8% (2/259)
+                                                   (1/259)
+Pulmonary edema                          6         2.3%            6          2.3% (6/259)    7        2.7% (7/259)
+                                                   (6/259)
+Pulmonary embolism                       2         0.8%            2          0.8% (2/259)    2        0.8% (2/259)
+                                                   (2/259)
+Respiratory failure                      1         0.4%            1          0.4% (1/259)    1        0.4% (1/259)
+                                                   (1/259)
+Respiratory insufficiency                1         0.4%            1          0.4% (1/259)    1        0.4% (1/259)
+                                                   (1/259)
+Retroperitoneal bleeding                 4         1.5%            4          1.5% (4/259)    4        1.5% (4/259)
+                                                   (4/259)
+Right bundle branch block                4         1.5%            4          1.5% (4/259)    4        1.5% (4/259)
+                                                   (4/259)
+Right ventricular dysfunction            11        4.2%            11         4.2% (11/259)   11       4.2% (11/259)
+                                                   (11/259)
+Right ventricular failure                3         1.2%            3          1.2% (3/259)    4        1.5% (4/259)
+                                                   (3/259)
+Sepsis                                   1         0.4%            1          0.4% (1/259)    1        0.4% (1/259)
+                                                   (1/259)
+Septic shock                             2         0.8%            2          0.8% (2/259)    2        0.8% (2/259)
+                                                   (2/259)
+
+
+
+
+                                                              46
+                                          Device Group (N=259)
+                                          30 Days                    6 Months                  1 Year
+ Event
+                                          No.        Event           No.                       No.
+                                                                                Event Rate*             Event Rate*
+                                          Events     Rate*           Events                    Events
+ Shock                                    1          0.4%            1          0.4% (1/259)   3        1.2% (3/259)
+                                                     (1/259)
+ Sinus arrest                             1          0.4%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (1/259)
+ Sinus node dysfunction                   0          0.0%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (0/259)
+ Supraventricular tachycardia             1          0.4%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (1/259)
+ Syncope                                  3          1.2%            3          1.2% (3/259)   3        1.2% (3/259)
+                                                     (3/259)
+ Thrombocytopenia                         2          0.8%            2          0.8% (2/259)   2        0.8% (2/259)
+                                                     (2/259)
+ Thrombosis                               1          0.4%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (1/259)
+ Traumatic bleeding                       1          0.4%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (1/259)
+ Traumatic hematoma                       1          0.4%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (1/259)
+ Ureteric obstruction                     1          0.4%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (1/259)
+ Urinary retention postoperative          1          0.4%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (1/259)
+ Urosepsis                                1          0.4%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (1/259)
+ Vascular access site bleeding            5          1.9%            5          1.9% (5/259)   5        1.9% (5/259)
+                                                     (5/259)
+ Vascular access site complication        3          1.2%            3          1.2% (3/259)   3        1.2% (3/259)
+                                                     (3/259)
+ Vascular access site hematoma            1          0.4%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (1/259)
+ Vascular access site infection           0          0.0%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (0/259)
+ Ventricular extrasystoles                1          0.4%            1          0.4% (1/259)   1        0.4% (1/259)
+                                                     (1/259)
+ Ventricular tachycardia                  3          1.2%            3          1.2% (3/259)   3        1.2% (3/259)
+                                                     (3/259)
+ *% (no./total no.)
+
+All-Cause Mortality - Full Cohort:
+The Kaplan-Meier curves for All-Cause Mortality are shown in Figure 26 for the Full Cohort.
+
+
+
+
+                                                                47
+                              Figure 26: Kaplan-Meier Analysis of Site-Reported All-Cause Mortality - Full Cohort, mITT Safety Population
+                                             100
+                                                                                                                         Device
+                                                                                                                         Control
+                                                    80
+    All-Cause Mortality (%)
+
+
+
+
+                                                    60
+
+
+
+                                                    40
+
+
+                                                                                                                                          16.8
+                                                    20
+                                                                                                     9.3
+                                                                                                                                          13.2
+
+                                                          0                                         6.0
+
+                                                                  0     1 Month          6 Months                                1 Year
+
+                                                                                               Visit
+    No. At Risk
+                                  Device 259                                 248              234                                 221
+                                  Control 133                                130              124                                 108
+
+Tricuspid Valve Surgical or Percutaneous Intervention - Full Cohort:
+The Kaplan-Meier curves for Tricuspid Valve Surgical of Percutaneous Intervention are shown in Figure 27 for the Full Cohort.
+                              Figure 27: Kaplan-Meier Analysis of Site-Reported All-Cause Mortality - Full Cohort, mITT Safety Population
+
+                                                                100
+                                                                                                                       Device
+                                                                                                                       Control
+                              (Surgical or Percutaneous) (%)
+
+
+
+
+                                                                  80
+                              Tricuspid Valve Intervention
+
+
+
+
+                                                                 60
+
+
+
+                                                                  40
+
+
+
+                                                                 20
+
+                                                                                                     3.3                                6.1
+
+                                                                   0                                 1.6                                1.6
+                                                                       0      1 Month     6 Months                             1 Year
+
+                                                                                                Visit
+                                      No. At Risk
+                                                               Device 259          243         229                               215
+                                                               Control 133         121         109                               93
+
+
+Annualized Heart Failure Rehospitalization Rate - Full Cohort:
+The Annualized Heart Failure Hospitalization Rates (events/patient/year) are shown in Figure 28 for the Full Cohort.
+
+
+
+                                                                                         48
+                   Figure 28: Annualized HF Hospitalization Rate - Full Cohort, mITT Safety Population.
+ The error bars represent the 95% confidence interval (CI). The CIs were calculated without multiplicity adjustment. The adjusted
+                                           CIs could be wider than presented here.
+
+                                                                              0.6
+                                                                                         Device      Control
+                                                                              0.5
+
+
+
+                              Annualized HFH Rate
+                                                                                                   0.40
+
+
+                                                    (events / patient-year)
+                                                                              0.4
+                                                                                         0.34
+
+                                                                              0.3
+
+
+                                                                              0.2
+
+
+                                                                              0.1
+
+
+                                                                              0.0
+                                                                                          1 Year
+
+
+
+
+KCCQ-OS, NYHA, and 6MWD - Full Cohort:
+The improvements in KCCQ-OS, NYHA, and 6MWD are shown in Figure 29 for the Full Cohort.
+
+
+
+
+                                                                                    49
+            Figure 29: KCCQ-OS, NYHA, and 6MWD Improvements at 1 Year - Full Cohort, mITT Safety Population.
+      KCCQ-OS: Kansas City Cardiomyopathy Questionnaire Overall Summary Score; NYHA: New York Heart Association; 6MWD:
+                                                  6-minute walk distance
+                                                                                             Device      Control
+    100%
+
+
+
+                                                         78.9%
+     75%
+                    66.4%
+
+
+
+
+     50%                                                                                      47.6%
+
+
+                               36.5%
+                                                                                                        31.8%
+
+                                                                   24.0%
+     25%
+
+
+
+
+      0%
+
+           KCCQ improvement ≥ 10                 NYHA improvement ≥ 1                    6MWD ≥ 30 meters
+                   points                               class
+
+           N=       211        96                        213        96                        185        88
+
+
+
+
+alized HFH Rate
+ts / patient-year)
+
+
+                                                            50
+                                        Figures
+
+
+
+
+Figure 1: Edwards EVOQUE Valve                   Figure 2: Edwards EVOQUE Tricuspid Delivery System
+
+
+
+
+                                        1. Sheath port
+                       2. White knob (advances/retracts outer capsule)
+                        3. Blue knob (advances/retracts inner capsule)
+                                     4. Handle flush port
+                                        5. Primary flex
+                                      6. Secondary flex
+                                           7. Depth
+                               8. Tapered tip button and slider
+                                   9. Implant release knob
+                                10. Implant positioning knob
+
+      Figure 3: Edwards EVOQUE Tricuspid Delivery System – Close Up of Proximal End
+
+
+
+
+                                            51
+                                1. Tapered tip
+                         2. Guidewire shield stopper
+                            3. Guidewire lumen
+                             4. Guidewire shield
+                               5. Locking ring
+                               6. Inner capsule
+                                   7. Tabs
+                              8. Outer capsule
+
+Figure 4: Edwards EVOQUE Tricuspid Delivery System – Close Up of Distal End
+
+
+
+
+                               1. 24 F Dilator
+                               2. 28 F Dilator
+                               3. 33 F Dilator
+
+                   Figure 5: Edwards EVOQUE Dilator Kit
+
+
+
+
+                Figure 6: Edwards EVOQUE Loading System
+
+
+
+                                    52
+Figure 7: Edwards EVOQUE Loading System and Trimmer
+
+
+
+
+  Figure 8: Edwards EVOQUE System Accessories Set 1
+
+
+
+
+  Figure 9: Edwards EVOQUE System Accessories Set 2
+
+
+
+
+                         53
+                                                      Symbol Legend
+                       English                                      English                          English
+                                                        Sterilized using ethylene ox‐
+                   Model Number                                       ide                      Temperature limit
+
+                                                         Sterilized using irradiation
+                 Catalogue Number                                                                Medical device
+                                                        Sterilized using liquid chem‐
+                                                                      ical
+                    Lot Number                                                                  Exterior diameter
+                                                             Do not resterilize
+
+                      Quantity                                                                   Inner diameter
+                                                                 Non-sterile
+
+                      Contents                                                             Recommended guidewire
+                                                              Non-pyrogenic                       length
+                   Usable length
+                                                                                           Recommended guidewire
+                                                                 Non-DEHP                          size
+                    Do not re-use
+
+                                                                                            Guidewire compatibility
+                       Caution                                  Use-by date
+
+                                                                                                       Size
+            Consult instructions for use
+            or consult electronic instruc‐                     Serial Number
+                    tions for use                                                              Catheter shaft size
+                                                         Authorized representative
+              Do not use if package is                  in the European Communi‐                Balloon diameter
+              damaged and consult in‐                        ty/European Union
+                 structions for use
+                                                                                             Balloon working length
+            Do not use product if indica‐                      Manufacturer
+                   tion is shown
+                                                                                                 MR Conditional
+             Use product if indication is                  Date of manufacture
+                      shown
+                                                                                                   MR Unsafe
+                                                          For use with size 44 mm
+              Store in a cool, dry place                Edwards transcatheter heart
+                                                                   valve
+                                                                                            Unique device identifier
+                                                          For use with size 48 mm
+              Keep away from sunlight                   Edwards transcatheter heart
+                                                                                            Contains hazardous sub‐
+                                                                   valve
+                                                                                                    stances
+                                                          For use with size 52 mm
+                      Keep dry
+                                                        Edwards transcatheter heart
+                                                                   valve                   Single sterile barrier system
+            Consult instructions for use
+                 on the website                           For use with size 56 mm
+                                                        Edwards transcatheter heart        Contains biological material
+             Caution: Federal (USA) law                            valve                        of animal origin
+             restricts this device to sale
+               by or on the order of a
+                      physician.
+
+Note: The labeling of this product may not contain every symbol depicted in this legend.
+
+
+
+
+                                                               54
+                                                                                             2026-03
+                                                                                     10055365003 A
+                                                          © Copyright 2026, Edwards Lifesciences LLC
+                                                                                 All rights reserved.
+
+                           Telephone    +1.949.250.2500
+                                        +1.800.424.3278
+Edwards Lifesciences LLC
+                           FAX          +1.949.250.2525                                     Web IFU
+One Edwards Way
+Irvine, CA 92614 USA
+
+
+                                   55
+

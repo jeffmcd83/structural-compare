@@ -1,0 +1,251 @@
+                                                                                                 April 25, 2025
+
+Abbott Medical
+Meghann Kayoum
+Senior Regulatory Affairs Specialist
+177 County Road B East
+St. Paul, Minnesota 55117
+
+
+Re: K250426
+    Trade/Device Name: Amulet™ Steerable Delivery Sheath
+    Regulation Number: 21 CFR 870.1250
+    Regulation Name: Percutaneous Catheter
+    Regulatory Class: Class II
+    Product Code: DQY
+    Dated: February 13, 2025
+    Received: February 14, 2025
+
+Dear Meghann Kayoum:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.07.05
+Silver Spring, MD 20993
+www.fda.gov
+K250426 - Meghann Kayoum                                                                             Page   2
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K250426 - Meghann Kayoum                                                                                Page   3
+
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                              Sincerely,
+                                               LYDIA S.          Digitally signed by LYDIA S. GLAW -S
+
+
+                                               GLAW -S
+                                                                 Date: 2025.04.25 16:45:22 -04'00'
+
+
+
+
+                                              Lydia Glaw
+                                              Assistant Director
+                                              DHT2C: Division of Coronary and
+                                                Peripheral Intervention Devices
+                                              OHT2: Office of Cardiovascular Devices
+                                              Office of Product Evaluation and Quality
+                                              Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2023
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K250426
+
+Device Name
+Amulet™ Steerable Delivery Sheath
+
+
+
+Indications for Use (Describe)
+The Amulet™ Steerable Delivery Sheath is indicated to facilitate the delivery of the Amplatzer™ Amulet™ Left
+Atrial Appendage Occluder.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+ V                                          K250426                             Amulet™ Steerable Delivery Sheath
+                                                                                                   Special 510(k)
+
+
+                                            510(k) SUMMARY
+
+The 510(k) summary is submitted in accordance with 21 CFR 807.92 and the requirements of the Safe Medical Device
+Act (SMDA) of 1990.
+     I. SUBMITTER INFORMATION
+       Submitter Name:          Abbott Medical
+       Submitter Address:       177 County Road B East
+                                St. Paul, MN 55117 USA
+       Phone:                   (651) 756-5833
+       Contact Person:          Meghann Kayoum
+       Date Prepared:           13 February 2025
+     II. DEVICE
+       Name of Device:          Amulet™ Steerable Delivery Sheath
+       Common Name:             Catheter Delivery Sheath
+       Classification Name:     Catheter, Percutaneous (21 CFR 870.1250)
+       Device Class:            II
+       Product Code:            DQY
+     III. PREDICATE DEVICES
+       Primary Predicate: Amulet™ Steerable Delivery Sheath (K232690, cleared 29 September 2023)
+     IV. DEVICE DESCRIPTION
+       The Amulet™ Steerable Delivery Sheath is designed to provide a pathway through which a device may be
+       delivered. The sheath is provided in one size (14F), with a working length of 75 cm and a bi-directional distal
+       tip to provide positioning in the cardiac anatomy. The handle is equipped with a deflection knob to deflect the
+       tip clockwise 120° and counterclockwise 0°. The body of the sheath is radiopaque for visibility under
+       fluoroscopy and has a marker band located in the distal tip. The dilator eases penetration of tissue. The sheath
+       and dilator utilize a dual curve in two dimensions, resulting in a three-dimensional geometry. The 14F flush
+       adapter facilitates the attachment of additional components.
+     V. INDICATIONS FOR USE
+       The Amulet™ Steerable Delivery Sheath is indicated to facilitate the delivery of the Amplatzer™ Amulet™ Left
+       Atrial Appendage Occluder.
+     VI. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS
+       The Amulet Steerable Delivery Sheath incorporates substantially equivalent design, function, packaging,
+       sterilization process, materials, fundamental technology, indication for use, and operating principles as those
+       shared by the predicate Amulet Steerable Delivery Sheath (K232690).
+       A comparison of the proposed Amulet Steerable Delivery Sheath and the predicate Amulet Steerable Delivery
+       Sheath show these devices have substantially equivalent design characteristics, including a deflectable
+       sheath, dilator, and adapter. The difference between the subject device and predicate is the in-process solvent
+       used to prepare the surface of the distal tip PEBAX extrusions. Additionally, a tip bond tensile specification and
+       in-process tensile test method are being implemented. The tip bond tensile specification aligns with currently
+       defined product requirements.
+
+
+
+
+                                                      Confidential
+                                                                                                              Page 1 of 2
+V                                                                            Amulet™ Steerable Delivery Sheath
+                                                                                                Special 510(k)
+
+
+                                         510(k) SUMMARY
+
+VII. SUMMARY OF NON-CLINICAL PERFORMANCE TESTING
+    The following testing was provided in support of a substantial equivalence determination.
+    Process Qualification
+    Product performance qualification (PPQ) testing was conducted to demonstrate that the Amulet Steerable
+    Delivery Sheath met performance specifications impacted by these changes, including:
+
+            Number of Occluder Retrievals
+            Delivery Sheath and Implant Damage
+            Tensile Bonds During Handoff/Advancement
+
+    Biocompatibility
+    A biocompatibility safety evaluation of the Amulet Steerable Delivery Sheath was conducted in accordance
+    with the FDA Guidance: Use of International Standard ISO 10993-1 Biological evaluation of medical devices -
+    Part 1: Evaluation and testing within a risk management process” (2023), ISO 10993-1, ISO 14971, and ASTM
+    F2475. No new materials of construction were introduced with this change, and the subject device has
+    identical patient contact types and durations and the predicate device. Potential risks identified with changing
+    the surface preparation chemical present negligible risk to the established biocompatibility profile of the device,
+    and no further testing was required.
+
+    Sterilization and Microbiology
+    The Amulet Steerable Delivery Sheath is intended for single use only and is provided sterile via ethylene oxide
+    (EO) gas to achieve a Sterility Assurance Level (SAL) of 10-6 per ISO 11135. There are no proposed changes
+    to the sterilization method, sterilization facilities, packaging system, product design, or materials of
+    construction with this change. A microbiology product assessment evaluated the microbiological impact of this
+    change and determined there is no increased microbiological or sterilization risk. The currently established
+    SAL of 10-6 is not impacted by this change.
+
+VIII. CONCLUSION
+    Based on the indication for use, technological characteristics, and non-clinical performance testing provided,
+    the subject Amulet Steerable Delivery Sheath device is substantially equivalent to the predicate Amulet
+    Steerable Delivery Sheath (K232690). The Amulet Steerable Delivery Sheath should perform as intended in
+    the specified use conditions.
+
+
+
+
+                                                   Confidential
+                                                                                                            Page 2 of 2
+

@@ -1,4 +1,4 @@
-# Passes 03+: values from sources/passNN/values.csv (model,field,value,source). IFU > brochure: rank by 'IFU' in source.
+# Passes 03+ (optional 'hold' column: hold=1 rows are logged to conflicts, never applied): values from sources/passNN/values.csv (model,field,value,source). IFU > brochure: rank by 'IFU' in source.
 import glob as _g,csv as _c,json as _j
 _conf=[];_app=[]
 rk=lambda s:2 if 'IFU' in s else 1
@@ -8,6 +8,8 @@ for f in sorted(set(_g.glob('sources/passSH*/values.csv'))):
         r=byname.get(v['model'])
         if not r: print('NO ROW',v['model']);continue
         cur=r.get(v['field'],'');cs=prov[v['model']].get(v['field'],'')
+        if (v.get('hold') or '').strip()=='1':  # SH14: held = log as conflict, never apply
+            _conf.append({'pass':pn,**v,'existing':cur,'existing_source':cs});continue
         if cur and cur!=v['value']:
             _conf.append({'pass':pn,**v,'existing':cur,'existing_source':cs})
             if not (rk(v['source'])>rk(cs)): continue

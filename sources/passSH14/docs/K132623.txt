@@ -1,0 +1,258 @@
+                                                                                         DEC 1 9 2013
+
+5.0          510(k) Summary
+As required by the Safe Medical Devices Act of 1990, coded under Section 513, part
+(1)(3)(A) of the Food, Drug and Cosmetic Act, a 510(k) summary upon which substantial
+equivalence determination is based is as follows:
+
+Date Prepared:         August 21, 2013
+
+Applicant:             Medtronic CoreValve, LLC
+                       1851 E: Deere Ave.
+                       Santa Ana, CA 92705
+                       U.S.A.
+                       Establishment Registration No. 2025587
+
+Contact Person:        Monica Heniandez-Soto
+                       Regulatory Affairs Specialist
+                       Phone: (707) 591-2285
+                       Fax: (707) 573-4443
+                       E-mail: Monica. hemandez-soto@medtronic, com
+
+Subject Device Name:
+
+Device Trade Name: Medtronic Confida) Brecker CurvO" Guidewire
+
+Common Name:           Guidewire
+
+Classification Name: Wire, Guide, Catheter
+
+Classification:        Class 11, 21 CER 870.1330
+
+Product Code:          DQX
+
+Predicate Device(s):
+                       * Medtronic Archerm Super Stiff Guidewire (K101339, cleared
+                         Aug. 31, 2010), manufactured by Medtronic, Inc.
+                       * Tonay TORAYGUDEm Guidewire (K042370, cleared Dec. 17,
+                         2004), anufactured by Toray Industries, Inc.
+
+Device Description: The Medtronic Confidarm Brecker CurveTm Guidewire is
+                    manufactured of 304 stainless steel and is polytetrafluoroethylene
+                    (PTFE) coated, which is consistent wit guidewires presently in
+                    commercial distribution and with the same intended use. The device
+                    diameter is 0.035 inches and 260 cm.in lene4 . The distal end
+                    of the Medtronic Confidarm Brecker Curve Guidewire is comprised
+                          of a preformed curved tip. The loop configuration has a 540'
+                          curved tip which is 30mnm in width and aids in anchoring of the distal
+                          spring tip during diagnostic and interventional procedures, including
+                          TAVI.
+
+   Statement of
+   Intended Use:          The Medtronic ConfidaTm Brecker Curve~i' Guidewire is intended to
+                          to facilitate the placement of devices during diagnostic and
+                          interventional procedures.
+
+   Statement of
+   Indications for Use: The Medtronic Confidam Brecker Curve~m Guidewire is intended for
+            -            use to introduce and position catheters during diagnostic and
+                        -interventional procedures within the chambers of the heart, including
+                         transcatheter aortic valve implantation (TAVI).
+
+
+   Comparison of
+   Indications-for Use
+   to Predicate Devices: The Indications for Use of the Medtronic Confidar" Brecker CurveTM
+                         Guidewire is within the scope of the Indications for Use of both
+                         predicate devices. While the Indications for Use are different between
+                         the subject device and the predicate devices, the differences do not
+                         raise any new issues of safety and effectiveness of the device or
+                         change the intended use of the device.
+
+   Contraindications:    The Medtronic ConfidaT' Brecker Curve'im Guidewire is
+                         contraindicated for patients presenting with an intolerance to
+                         anticoagulation therapy and unheparinized patients.
+                         The Guidewfre is contraindicated for use in the coronary arteries and
+                         in the cerebrovasculature.
+
+   Comparison of
+   Technological
+   Characteristics
+   to Predicate Devices: The Medtronic Confidam Brecker CurveTM Guidewire has the
+                         following similarities to the predicate devices:
+
+                            * Intended use (all predicates)
+                            * Indications for use (all predicates)
+                            * Target population (all predicates)
+                            * Fundamental scientific technology (all predicates)
+Curve Response to Questions e Operating principle (all predicates)
+                            s Packaging materials (all predicates)
+                     *Sterility assurance level and method of sterilization (all predicates)
+
+
+
+
+Summary of
+Non-Clinical Data:      In order to demonstrate substantial equivalence of the subject
+                        device, the Medtronic ConidaTm Brecker Cuive~m Guidewire, to
+                        the predicate devices, the following non-clinical evaluations were
+                        performed:
+
+                                          *   Visual Inspection
+                                          "   Overall Length
+                                          *   Proximal Outer Diameter
+                                          "   Coil Outer Diameter
+                                          "   Tip Curve Rotation
+                                          "   Tip Curve Outer Diameter
+                                          "   Tip Tensile
+                                          "   Tip Stiffness
+                                          "   Loop Compression
+                                          *   Proximal Stiffiess
+                                          *   Coil Length
+                                          "   PTFE Coating Adhesion
+                                          "   PTFE Coating, Simulated Clinical Use
+                                          "   Corrosion Resistance
+                                          "   Anchoring
+                                          *   Usability for Design Validation
+                                          "   Flexibility
+                                          *   Torque
+
+                        Biocompatibility testing was also performed per the requirements
+                        of ISO 10993-1:2009 on the Medtronic Confida TM Brecker
+                        Cuve~ Guidewire as listed below:
+
+                                          *   ISO Cytotoxicity Study
+                                          *   ISO Maximization Sensitization Study
+                                          *   ISO Intracutaneous Study
+                                          *   ISOIUSP Pyrogen Study Material Mediated
+                                          *   ISO Acute Systematic Toxicity Study
+                                          a   In Vivo Tliromboresistance
+                                          *   In Vitro Nemolysis Study (Modified ASTM
+                                               -Extraction Method)
+                               * CMa Compliment Activation
+                               * SC5b-9 Compliment Activation
+
+              Packaging and shelf life testing (product and package) was
+              performed on the Medtronic Conflda'm Brecker Curv&
+              Guidewi-e. In addition, a sterilization validation adoption was
+              performed to ensure the Medtronic ConfidaTM Brecker CurveT'
+              Guidewire adequately %imet  a Sterility Assurance Level (SAL) of
+              l0-6t The non-clinical evaluations verify the Medtronic ConfidaTm
+              Brecker Curvem Guidewire is substantially equivalent to the
+              predicate devices and is adequate for its intended use.
+
+Conclusion:   Based on the information above, the Medtronic ConfidaTm
+              Brecker Curve~m Guidew ire is substantially equivalent in
+              intended use performance, and fundamental scientific
+              technology to the predicate devices, the Archerkm Super Stiff
+              Guidewire (KIC0 1339), and Toray TORAYGUIDEThI Guidewire
+              (K042370).
+       DEPARTMENT OF HEALTH & HUMAN SERVICES                                 Public Health Service
+
+                                                                             Food and Drug Adminisraton
+                                                                             10903 New Hampshire Avenue
+                                                                             Documnent control Center - W066-69
+                                                                             Silver Spring. MD 20993-002
+
+                                     December 19, 2013
+
+
+Medtronic
+Ms. Monica Hernandez-Soto
+Regulatory Affairs Specialist
+3576 Unocal Place
+Santa Rosa, CA 95403
+
+Re:    K132623
+       Trade/Device Name: Confida Brecker Curve Guidewire
+       Regulation Number: 21 CFR 870.1330
+       Regulation Name: Catheter Guidewire
+       Regulatory Class: Class 11
+       Product Code: DQX
+       Dated: November 15, 2013
+       Received: November 18, 2013
+
+Dear Ms. Hemandez-Soto:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+
+If your device isclassified (see above) into either class 11 (Special Controls) or class IIl (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act's requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical
+device-related adverse events) (21 CFR 803); goad manufacturing practice requirements as set
+Page 2 - Ms. Monica Hemandez-Soto
+
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Division of Small Manufacturers, International and Consumer Assistance at its toll-
+free number (800) 638-2041 or (301) 796-7 100 or at its Internet address
+littp)://www.fda.gov/MedicalDevices/ResourcesforYou/lndustry/default.htm. Also, please note
+the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CER Part 803), please go to
+htt://www.fdasiov/McdicalDevices/SafetvfRegRLtlaProblem/default.htmn for the CDRI-'s Office
+of Surveillance and BiometricslDivision of Posimarket Surveillance.
+
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638 2041 or (301) 796-7 100 or at its Internet address
+http://www.fda.aov/MedicalDev ices/ReiourcesforYou/Industrv/default.htm.
+
+                                                     Sincerely yours,
+
+
+                                                  for Brain D. Zuckerman, MD
+                                                     Director
+                                                     Division of Cardiovascular Devices
+                                                     Office of Device Evaluation
+                                                     Center for Devices and
+                                                      Radiological Health
+
+Enclosure
+4.0          Indication for Use Statement
+
+510(k) Number (ifknown):            .I$ 4 } $
+Device Name:
+Meduoniuc Confida~h Brecker Curve~h Guidewire
+
+
+Indication for Use:
+The Medtronic ConfidaTh Smocker CurveTh Guidewire is intended fo~r use to introduce and
+position catheters during diagnostic and interventional procedures within the chambers of the
+heart, including trumwathetur aortic valve implantation (TAVI).
+
+
+
+
+Prescuiption Use    -X        AND/OR Over-The Counter Use____
+(Part 21 CFR 80l Subpart D)              (21 CFR801 Subpart C)
+
+    (PLEASE DO NOT WRITE BELOW THIS LINE-CONTIUE ON ANOTHER PAGE IF NEEDED)
+
+
+                   Lnulrran orcLJmm, Offce or Device Evaluation k1IrI)
+
+
+
+
+F      ------.
+

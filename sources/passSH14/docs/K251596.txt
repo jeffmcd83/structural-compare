@@ -1,0 +1,273 @@
+                                                                                             November 9, 2025
+
+Anette Hulstrom
+Specialist, Submissions, Regulatory Affairs
+William Cook Europe ApS
+Sandet 6
+Bjaeverskov, 4632
+Denmark
+
+Re: K251596
+    Trade/Device Name: Lunderquist Extra Stiff Wire Guide
+    Regulation Number: 21 CFR 870.1330
+    Regulation Name: Catheter Guide Wire
+    Regulatory Class: Class II
+    Product Code: DQX
+    Dated: October 8, 2025
+    Received: October 10, 2025
+
+Dear Anette Hulstrom:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.08.02
+Silver Spring, MD 20993
+www.fda.gov
+K251596 - Anette Hulstrom                                                                            Page   2
+
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+K251596 - Anette Hulstrom                                                        Page   3
+
+                                 Sincerely,
+
+                            Jenny R.                  Digitally signed by Jenny R.
+                                                      Katsnelson -S
+
+                            Katsnelson -S             Date: 2025.11.09 11:46:24
+                                                      -05'00'
+                                 for Lydia Glaw
+                                 Assistant Director
+                                 DHT2C: Division of Coronary and
+                                   Peripheral Intervention Devices
+                                 OHT2: Office of Cardiovascular Devices
+                                 Office of Product Evaluation and Quality
+                                 Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 07/31/2026
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K251596
+
+Device Name
+Lunderquist Extra Stiff Wire Guide
+
+
+
+Indications for Use (Describe)
+The Lunderquist Extra Stiff Wire Guides are intended to facilitate catheterization and/or placement of devices during
+vascular interventional procedures.
+The Lunderquist Extra Stiff Wire Guides are intended for use in the aorta, including its access vessels and major adjacent
+vessels.
+The Lunderquist Extra Stiff Wire Guides are auxiliary devices and hence not primary interventional devices themselves.
+Instead, they are intended to facilitate vascular access and/or delivery of over-the-wire medical devices during
+endovascular procedures, including TEVAR/EVAR procedures.
+The Lunderquist Extra Stiff Wire Guides are both long and stiff; features that make them suitable for facilitating
+endovascular procedures that involve placement of large devices e.g., stent grafts in the aorta. The wire guides are not
+intended for coronary or neurovascular use.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/23)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                                                 K251596
+                                                                                               Page 1 of 3
+
+
+
+
+Special 510(k) Summary: K251596
+Lunderquist Extra Stiff Wire Guide
+
+
+Date prepared:                           13 May 2025
+
+
+Submitted By                             William Cook Europe ApS
+                                         Sandet 6
+                                         4632 Bjaeverskov, Denmark
+
+Contact:                                 Mie Dyrholm
+Phone Number:                            +45 56 86 84 92
+Email:                                   Mie.Dyrholm@CookMedical.com
+
+
+Device Information
+Trade Name:                              Lunderquist® Extra Stiff Wire Guide
+Common Name:                             Guidewire
+Classification Name:                     Catheter guide wire
+Regulation:                              21 CFR 870.1330
+Product Code:                            DQX
+Classification/Review Panel:             Class II / Cardiovascular
+
+
+Predicate Device
+The subject Lunderquist® Extra Stiff Wire Guide is substantially equivalent to the predicate
+Lunderquist® Extra Stiff Wire Guide (K220137, cleared 17 Feb 2022).
+
+
+Device Description
+The Lunderquist® Extra Stiff Wire Guides are 0.035 inch PTFE coated stainless steel wire guides
+consisting of a mandril and a 15 cm or 18 cm long coil. The mandril has a tapered end with a length of
+11 cm and an additional 4 or 7 cm flexible tip. The Lunderquist wire guides are available in the
+following configurations:
+                                                                                                K251596
+                                                                                              Page 2 of 3
+
+
+
+
+    Straight Lunderquist wire guides (TSMG-/-LES) are available in lengths of 90, 145, 180, 260, and
+    300 cm and either a 4 cm or 7 cm flexible tip. For the 260 cm and 300 cm lengths, the flexible tip
+    includes an inner gold coil.
+    Curved Lunderquist wire guides (TSCMG-/-LES) are available in lengths of 90, 145, 180, 260, and
+    300 cm and either a 4 cm or 7 cm flexible tip. For the 260 cm and 300 cm lengths, the flexible tip
+    includes an inner gold coil. The J-curve radius for the curved wire guides is either 3 mm or 7 mm.
+    Double Curved Lunderquist wire guides (TSCMG-/-LESDC) are available in lengths of 260 and
+    300 cm with a 4 cm flexible tip that includes an inner gold coil. The Double Curved Lunderquist
+    wire guides have a large curve/J-curve radius of 75/15 mm.
+    Extended Double Curved Lunderquist wire guides (TSCMG-/-E-LESDC) are available in lengths
+    of 260 and 300 cm with a 4 cm flexible tip that includes an inner gold coil. The Extended Double
+    Curved Lunderquist wire guides have an extended large curve/J-curve radius of 55/15 mm.
+
+
+Indications for Use
+The Lunderquist Extra Stiff Wire Guides are intended to facilitate catheterization and/or placement of
+devices during vascular interventional procedures.
+The Lunderquist Extra Stiff Wire Guides are intended for use in the aorta, including its access vessels
+and major adjacent vessels.
+
+
+The Lunderquist Extra Stiff Wire Guides are auxiliary devices and hence not primary interventional
+devices themselves. Instead, they are intended to facilitate vascular access and/or delivery of over-the-
+wire medical devices during endovascular procedures, including TEVAR/EVAR procedures.
+
+
+The Lunderquist Extra Stiff Wire Guides are both long and stiff; features that make them suitable for
+facilitating endovascular procedures that involve placement of large devices e.g., stent grafts in the
+aorta. The wire guides are not intended for coronary or neurovascular use.
+
+
+
+Comparison to Predicate Device:
+The subject device is substantially equivalent to the predicate Lunderquist Extra Stiff Wire Guide
+cleared under K220137. The principles of operation, design, materials of construction, manufacturing
+processes, packaging, sterilization process, and basic technological characteristics of the subject
+device are identical to the predicate device. The device labeling has been updated in alignment with
+the risk documentation, post market data and global harmonization of the labeling. The labeling
+updates the indications for use statement, specifically removing the vena cava and specifying the
+major vessels in alignment with postmarket data.
+                                                                                               K251596
+                                                                                             Page 3 of 3
+
+
+
+
+Technological Characteristics
+The technological characteristics remain the same as for the predicate device.
+ The Lunderquist® Extra Stiff Wire Guides are 0.035 inch PTFE coated stainless steel wire guides
+consisting of a mandril and a 15 or 18 cm long coil. The mandril has a tapered end with a length of 11
+cm and an additional 4 or 7 cm flexible tip. The device is supplied as single use in a Tyvek® peel
+pouch, sterilized by ethylene oxide gas.
+
+
+Performance Testing
+No changes to the design, manufacturing, sterilization, or principles of operation have been
+introduced with the subject device. Therefore, no performance testing was warranted in support of
+this Special 510(k).
+
+
+Conclusion
+The subject device is substantially equivalent to the predicate The Lunderquist Extra Stiff Wire Guide
+cleared under K220137. The design and technological characteristics of the subject device are identical
+to the predicate device. The changes proposed in this submission are to device labeling in alignment
+with risk documentation and in an effort to gain global harmonization of the labeling.
+

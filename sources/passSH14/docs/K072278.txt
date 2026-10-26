@@ -1,0 +1,183 @@
+                                                                        SEFP10 01
+                                  510(k) Summary
+                           As required by 21 CFR 807.92(c)
+
+                                   510(k) Number:        401 2Z1
+Date Prepared:                         August 13, 2007
+
+Submitter Information:
+       Submitter's Name/               St. Jude Medical
+       Address:                        14901 DeVeau Place
+                                       Minnetonka, MN 55345-2126
+       Contact Person:                 Laura Moen-Ftacek
+                                       Regulatory Affairs Specialist
+                                       Tel: 952-351-1453
+                                       Fax: 952-930-9481
+                                       lmoen-ftacek(&sjim.cor
+
+Device Information:
+       Trade Name:                     BRKTM Transseptal Needle
+       Common Name:                    Transseptal Needle
+       Classification Name:            Trocar
+       Class:                          Class 11, 21 CFR 870.1390, Product Code DRC
+
+Predicate Device:
+       1. Thomas Medical Products, Inc., Transseptal Needle/Trocar (KOI 1727)
+       2. St. Jude Medical ACrossTMTransseptal Access System (K070417)
+
+
+Device Description:
+
+The St. Jude Medical Transseptal Needle consists of a luminal stainless steel needle
+and solid stainless steel stylet. The distal section of the needle is curved to facilitate
+positioning within the heart when used with a St. Jude Medical Transseptal Introducer
+set. Within this curved section, there is an abrupt step down in the outer diameter of
+the needle to mate with the internal diameter of the dilator of the St. Jude Medical
+Transseptal Introducer set. The distal tip of the needle is beveled to facilitate the
+puncture process. The proximal end of the needle is configured with a pointer flange
+and is fitted with a 2-way stopcock to provide needle lumen access for aspiration,
+fluid injection/infusion, blood sampling, pressure monitoring, and stylet and or
+guidewire insertion.
+
+
+
+                                                                            Page l of2
+Indications for Use:
+
+The St. Jude Medical Transseptal Needle is used to puncture the interatrial septum
+during a transseptal catheterization procedure to gain left heart access.
+Comparison to Predicate Devices:
+
+The BRKTM Transseptal Needle has the same general intended use and fundamental scientific
+technology as the predicate device.
+
+Summary of Non-Clinical Testing:
+
+Bench testing of the BRKTM Transseptal Needle was performed to support substantial
+equivalence. Results of the testing demonstrate that the BRKTM Transseptal Needle design
+meets product specifications and performance requirements.
+
+Statement of Equivalence:
+
+The St. Jude BRKTm Transseptal Needle has similar indications for use and technological
+characteristics as the predicate devices. Based on this and the design and engineering data
+provided in the pre-market notification, SJM's BRKTM Transseptal Needle has been shown to
+be substantially equivalent.
+
+
+
+
+                                                                             Page 2 of 2
+  DEPARTMENT OF HEALTH & HUMAN SERVICES                                          Public Health Service
+
+
+                                                                                 Food and Drug Administration
+                                                                                 9200 Corporate Boulevard
+                                                                                 Rockville MD 20850
+
+                                                      $E? i S' 2007
+
+St. Jude Medical Inc.
+c/o Mr. Mark Job
+Regulatory Technology Services LLC
+1394 2 5 th Street NW
+Buffalo, MN 55313
+
+Re:     K072278
+        Trade/Device Name: BRKTM Transseptal Needle
+        Regulation Number: 21 CFR 870.1390
+        Regulation Name: Trocar
+        Regulatory Class: Class IL
+        Product Code: DRC
+        Dated: August 15, 2007
+        Received: August 16, 2007
+
+Dear Mr. Job:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act's requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+Page 2 - Mr. Mark Job
+
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health's (CDRH's) Office of Compliance at
+(240) 276-0120. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification" (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH's Office of Surveillance and Biometric's (OSB's) Division of Postmarket
+Surveillance at 240-276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems at 240-
+276-3464. You may obtain other general information on your responsibilities under the Act from
+the Division of Small Manufacturers, International and Consumer Assistance at its toll-free
+number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www.fda.gov/cdrh/industry/support/index.html.
+
+
+                                              Sincerely yours,
+
+
+
+                                        ,%    Brain D. Zuckerman, M.D.
+                                              Director
+                                              Division of Cardiovascular Devices
+                                              Office of Device Evaluation
+                                              Center for Devices and
+                                               Radiological Health
+
+Enclosure
+                            INDICATIONS FOR USE
+
+510(K) Number (if known):      10 q      "
+
+
+Device Name: BRKTM Transseptal Needle
+
+
+Indications for Use:
+
+The St. Jude Medical Transseptal Needle is used to puncture the interatrial septum during
+a transseptal catheterization procedure to gain left heart access.
+
+
+
+
+      Prescription Use     X                         Over-The-Counter Use
+    (Part 21 CFR 801 Subpart D)                      (21 CFR 801 Subpart C)
+
+ (PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE
+                           OF NEEDED)
+
+
+               Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+                                                                              Page 1 of 1
+
+
+               (Division Sign-Off)
+               Division of Cardiovascular Devices
+               510(k) Number 10o 1 2.2- 1
+

@@ -1,0 +1,226 @@
+May 3, 2018
+
+
+Medtronic Core Valve LLC
+Ə Mark Job
+Regulatory Technology Services, LLC
+1394 25th Street, NW
+Buffalo, Minnesota 55313
+
+Re: K181001
+    Trade/Device Name: Medtronic ConfidaTM Brecker Guidewire
+    Regulation Number: 21 CFR 870.1330
+    Regulation Name: Catheter Guide Wire
+    Regulatory Class: Class II
+    Product Code: DQX
+    Dated: April 12, 2018
+    Received: April 16, 2018
+
+Dear Mr. Job:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding
+and adulteration. Please note: CDRH does not evaluate information related to contract liability warranties.
+We remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803); good
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.02.08
+Silver Spring, MD 20993
+www.fda.gov
+Page 2 - Mark Job                                                                               K181001        
+
+
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820);
+and if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR
+1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's
+Office of Surveillance and Biometrics/Division of Postmarket Surveillance.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+
+                                                  Sincerely,
+
+                                                  Nicole G. Ibrahim -S
+                                            for
+                                                  Bram D. Zuckerman, M.D.
+                                                  Director
+                                                  Division of Cardiovascular Devices
+                                                  Office of Device Evaluation
+                                                  Center for Devices and Radiological Health
+
+Enclosure
+
+
+
+
+
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2020
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+
+  ,
+Device Name
+Medtronic Confida™ Brecker Guidewire
+
+
+
+Indications for Use (Describe)
+The Medtronic Confida™ Brecker Guidewire is intended for use to introduce and position catheters during diagnostic and
+interventional procedures within the chambers of the heart, including transcatheter aortic valve implantation (TAVI).
+
+
+
+
+Type of Use (Select one or both, as applicable)
+
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (7/17)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+5.0 510(k) Summary
+As required by the Safe Medical Devices Act of 1990, coded under Section 513, part
+(1)(3)(A) of the Food, Drug and Cosmetic Act, a 510(k) summary upon which substantial
+equivalence determination is based is as follows:
+ Date Prepared:             March 30, 2018
+
+ Applicant:                 Medtronic CoreValve LLC
+                            1851 E Deere Ave
+                            Santa Ana, CA 92705
+                            USA
+                            Establishment Registration NO. 2025587
+
+ Contact Person:            Gerardine Drummond
+                            Senior Regulatory Affairs Specialist
+                            Medtronic Ireland
+                            Parkmore Business Park West
+                            Galway, Ireland
+                            Phone: (+353-91)-708914
+                            Fax: (+353-91)-708672
+                            Email: Gerardine.drummond@medtronic.com
+ Subject Device Name:       Medtronic ConfidaTM Brecker Guidewire
+ Model Number:              GWBC30
+ Common Name:               Guidewire
+ Classification Name:       Wire, Guide, Catheter
+ Product Code:              DQX
+ Predicate Device(s):       Medtronic ConfidaTM Brecker Guidewire (K150465 cleared
+                            August 03, 2015)
+Device Description:        The Medtronic ConfidaTM Brecker Guidewire was developed
+                           for use in diagnostic and interventional procedures including
+                           transcatheter aortic valve implantation (TAVI) procedures for
+                           the treatment of aortic valve disease. The Medtronic
+                           Confida™ Brecker Guidewire (model number GWBC30) is
+                           available in one size and is comprised of a stainless steel wire,
+                           0.035” in diameter, and 260cm in length. The distal end of the
+                           Medtronic Confida™ Brecker Guidewire is comprised of a
+                           preformed 360° curved tip. The Medtronic ConfidaTM Brecker
+                           Guidewire is an external communicating device having limited
+                           contact (<24 hours) with circulating blood. The Medtronic
+                           ConfidaTM Brecker Guidewire has a polytetrafluoroethylene
+                           (PTFE) coating applied to the entire length of the device in
+                           order to aid in lubricity.
+                           The Medtronic ConfidaTM Brecker Guidewire is a patient
+                           contacting, single use only device and not intended for re-use
+                           or re-sterilization. The device is intended to be used only by
+                           physicians trained in percutaneous, intravascular techniques
+                           and procedures. The Medtronic ConfidaTM Brecker Guidewire
+                           is sterilized via Ethylene Oxide to a Sterility Assurance Level
+                           (SAL) of 10-6.
+                           The purpose of this 510(k) is to notify FDA of a change to the
+                           PTFE coating applied to the core wire section of the ConfidaTM
+                           Brecker Guidewire. The change is to replace the existing low
+                           Chromium VI PTFE coating with Chromium VI free PTFE
+                           coating.
+
+
+Statement of               The Medtronic ConfidaTM Brecker Guidewire is intended to
+Intended Use:              facilitate the placement of devices during diagnostic and
+                           interventional procedures.
+Statement of Indications The Medtronic ConfidaTM Brecker Guidewire is intended for
+for Use:                 use to introduce and position catheters during diagnostic and
+                         interventional procedures within the chambers of the heart,
+                         including transcatheter aortic valve implantation (TAVI).
+
+Contraindications:         The Medtronic ConfidaTM Brecker CurveTM Guidewire
+                           is contraindicated for patients presenting with an
+                           intolerance to anticoagulation therapy and
+                           unheparinized patients. The guidewire is
+                           contraindicated for use in the coronary arteries and in
+                           the cerebrovasculature.
+Comparison to       The Medtronic ConfidaTM Brecker Guidewire is identical to
+Predicate device:   the predicate device for the following characteristics:
+                        • Intended use
+                        • Indications for use
+                        • Contraindications
+                        • Target population
+                        • Fundamental scientific technology, including design
+                        • Operating principle
+                        • Packaging materials
+                        • Shelf life
+                        • Sterility assurance level and method of sterilization
+
+Summary of Non-     In order to demonstrate substantial equivalence of the subject
+Clinical Data       device, the Medtronic ConfidaTM Brecker Guidewire, to the
+                    predicate device, the following non-clinical evaluations were
+                    performed:
+                        • PTFE Coating Adhesion Test (Coating Integrity)
+                        • ISO Cytotoxicity Study
+                        • ISO Maximization Sensitization Study
+                        • ISO Intracutaneous Study
+                        • ISO/USP Pyrogen Study Material Mediated
+                        • ISO Acute Systematic Toxicity Study
+                        • In Vivo Thromboresistance
+                        • In Vitro Hemolysis Study (Modified ASTM –
+                            Extraction Method)
+                        • SC5b-9 Compliment Activation
+                    All testing met the specified acceptance criteria
+
+Conclusion:         Based on the information above, the subject device, the
+                    Medtronic ConfidaTM Brecker Guidewire, is substantially
+                    equivalent in intended use, performance, and fundamental
+                    scientific technology to the predicate device, the
+                    Medtronic Confida™ Brecker Guidewire (K150465).
+

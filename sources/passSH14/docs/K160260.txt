@@ -1,0 +1,340 @@
+
+
+     DEPARTMENT OF HEALTH & HUMAN SERVICES                                    Public Health Service
+
+
+                                                                              Food and Drug Administration
+                                                                              10903 New Hampshire Avenue
+                                                                              Document Control Center - WO66-G609
+                                                                              Silver Spring, MD 20993-0002
+                                      October 25, 2016
+
+
+Bio Trace Medical, Inc.
+Laura Dietch
+President and CEO
+831 Bransten Rd, Suite L
+San Carlos, California 94070
+
+Re: K160260
+    Trade/Device Name: Tempo Temporary Pacing Lead
+    Regulation Number: 21 CFR 870.3680
+    Regulation Name: Cardiovascular Permanent Or Temporary Pacemaker Electrode
+    Regulatory Class: Class II
+    Product Code: LDF
+    Dated: September 23, 2016
+    Received: September 26, 2016
+
+Dear Laura Dietch:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must comply
+with all the Act's requirements, including, but not limited to: registration and listing (21 CFR
+Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-
+related adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in
+
+
+Page 2 - Laura Dietch
+
+the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041
+or (301) 796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note
+the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+
+You may obtain other general information on your responsibilities under the Act from the
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301)
+796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+
+                                                 Sincerely yours,
+
+
+                                              for
+                                                 Bram D. Zuckerman, M.D.
+                                                 Director
+                                                 Division of Cardiovascular Devices
+                                                 Office of Device Evaluation
+                                                 Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: January 31, 2017
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K160260
+
+Device Name
+Tempo Temporary Pacing Lead
+
+
+
+Indications for Use (Describe)
+
+The BioTrace Medical Tempo Temporary Pacing Lead is indicated for use in temporary intracardiac pacing for a
+maximum of seven (7) days and is designed to transmit an electrical signal from an external pulse generator to the heart or
+from the heart to a monitoring device.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/14)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                          510(k) SUMMARY for K160260
+
+General Information:
+
+Date of Summary Preparation:       October 20, 2016
+
+Name and Address of                BioTrace Medical, Inc.
+Manufacturer:                      831 Bransten Road, Suite L
+                                   San Carlos, CA 94070
+
+Contact Person:                    Laura N. Dietch
+                                   President and CEO
+
+Device Trade Name:                 Tempo® Temporary Pacing Lead
+
+Common Name:                       Temporary Lead
+
+Regulation Number:                 21 CFR 870.3680(a)
+
+Regulation Name:                   Temporary Pacemaker Electrode
+
+Regulatory Class:                  Class II
+
+Classification Panel:              Cardiovascular
+
+Product Code:                      LDF
+
+
+
+
+                                                                   Page 1 of 5
+Performance Standards: No performance standards currently exist for these
+devices. However, BioTrace Medical has followed, in part, FDA’s Guidance for
+Industry: Guidance for the Submission of Research and Marketing Applications for
+Permanent Pacemaker Leads and for Pacemaker Lead Adaptor 510(k) Submissions
+(November 1, 2000). Specifically, BioTrace Medical has considered the following
+sections of the aforementioned guidance document during the design verification and
+validation testing:
+
+Bench Testing
+    Bond Joint Strength
+    Fatigue Resistance
+    Corrosion Resistance
+Electrical Safety Testing
+Biocompatibility Testing
+GLP Animal Studies
+Clinical Study
+
+Device Description: The BioTrace Medical Tempo Temporary Pacing Lead is designed
+for temporary transvenous intracardiac pacing. The lead provides access to the right
+ventricle via either the femoral vein, subclavian vein or the internal jugular vein approach
+and may be shaped near the distal end to facilitate delivery. It is a radiopaque, polymeric
+lead featuring a balloon, active fixation, bipolar electrodes and a soft tip.
+
+Indications for Use: The BioTrace Medical Tempo Temporary Pacing Lead is indicated
+for use in temporary intracardiac pacing for a maximum of seven (7) days and is designed
+to transmit an electrical signal from an external pulse generator to the heart or from the
+heart to a monitoring device.
+
+Predicate Device: BioTrace Medical cites the following as predicate and reference
+devices.
+
+ Predicate Device          Medtronic Temporary              K042190
+                           Transvenous Pacing Lead
+                           System (Model 6416)
+ Reference Devices         C.R. Bard Temporary Pacing       K800298
+                           Electrode Catheters
+
+
+
+
+                                                                                 K160260
+                                                                                 Page 2 of 5
+Technological Comparison:
+
+For the purpose of demonstrating the substantial equivalence of the Tempo Temporary
+Pacing Lead in this 510(k), BioTrace Medical has selected the Medtronic Temporary
+Transvenous Pacing Lead System (Model 6416), #K042190. The Tempo Temporary
+Pacing Lead was assessed for substantial equivalence relative to the legally marketed
+predicate device with respect to intended use, indications for use, and technological
+characteristics as summarized below.
+
+Design/Technological   BioTrace Medical                 Predicate Device
+Characteristic         (Subject Device, K160260)        (K042190)
+                                                        The Medtronic Model 6416
+                                                        Temporary, Transvenous Pacing
+                                                        Lead System features an active
+                                                        fixation, bipolar lead and a soft-
+                                                        tipped lubricated guide catheter.
+                                                        The system is designed for
+                                                        temporary intracardiac pacing
+                       The BioTrace Medical
+                                                        and/or EGM recording.
+                       Tempo Temporary Pacing
+                       Lead is indicated for use in
+                                                        The system is disposable, for
+                       temporary intracardiac
+                                                        temporary single patient use, with
+                       pacing for a maximum of
+                                                        contemplated implant duration of 7
+Indications for Use    seven (7) days and is
+                                                        days or less. The lead and
+                       designed to transmit an
+                                                        accessories are supplied sterile.
+                       electrical signal from an
+                       external pulse generator to
+                                                        The lead is introduced
+                       the heart or from the heart to
+                                                        transvenously using the guide
+                       a monitoring device.
+                                                        catheter. Once within the
+                                                        appropriate chamber, the helical tip
+                                                        electrode of the lead is actively
+                                                        fixed into the endocardium. After
+                                                        lead placement the guide catheter is
+                                                        removed by sliding it over the
+                                                        lead’s bifurcated connector.
+Lead Type              Temporary, single-use            Temporary, single-use
+                       By cutdown or by use of a        By cutdown or by use of a
+Lead Introduction
+                       percutaneous catheter            percutaneous catheter introducer or
+Method
+                       introducer or needle cannula     needle cannula
+
+                       Cannula or percutaneous          Cannula or percutaneous introducer
+Device Compatibility
+                       introducer set to                set to accommodate a 6F catheter
+                       accommodate a 6F catheter
+                       Straight with fixation
+Distal Configuration                                    Straight with fixation (helix)
+                        (stabilizers)
+Balloon                Yes                              No
+                                                                                             K160260
+                                                                                             Page 3 of 5
+Lead Type               Bipolar                     Bipolar
+Fixation                Yes                         Yes
+Number of Electrodes    Two (2)                     Two (2)
+                        Yes                         Yes
+Single-use only
+
+Non-pyrogenic           Yes                         Yes
+
+
+
+Testing Summary: To demonstrate intended device performance, as well as to support
+the substantial equivalence of the subject Tempo Temporary Pacing Lead to the predicate
+device, the technological and performance characteristics were evaluated by completion
+of the following testing:
+
+   Design Verification
+        Bond Joint Strength
+        Fatigue Resistance
+        Corrosion Resistance
+        Simulated Use
+        Electrical Resistance
+   Electrical Safety Testing
+   Packaging Validation
+   Sterilization Validation
+   Shelf Life Testing (Accelerated Aging)
+   Biocompatibility
+        Cytotoxicity
+        Sensitization
+        Irritation Reactivity
+        Systemic Toxicity
+        Subchronic Toxicity
+        Genotoxicity
+        Implantation
+        Hemocompatibility
+        Hemolysis
+        Complement Activation
+        In Vivo Thrombogenicity
+        Pyrogenicity
+   GLP Animal Testing
+   Clinical Study:
+        The Tempo® Study was a prospective, multicenter, non-randomized, single arm
+        study to evaluate the safety and effectiveness of the Tempo® Temporary Pacing
+        Lead in patients requiring temporary cardiac pacing for transcatheter aortic valve
+        replacement, balloon aortic valvuloplasty or electrophysiology (EP) procedures.
+        Twenty five (25) patients were enrolled in two centers. The device was evaluated
+        for safety (freedom from pericardial effusion requiring intervention and/or
+        echocardiographic evidence of tamponade) and technical feasibility (intracardiac
+                                                                                K160260
+                                                                                Page 4 of 5
+       delivery and pace capture). Additional evaluations included pace capture
+       thresholds (PCT), success of rapid pacing, and incidence of dislodgement or
+       sustained ventricular arrhythmias (>30 seconds). Transthoracic echocardiograms
+       were obtained at baseline and 24 hours after lead removal. Follow up was to 30
+       days.
+
+       The safety endpoint was met in all patients (100%) with no device-related adverse
+       events. The technical feasibility endpoint was met in 23 patients (92%). No
+       patient had a sustained ventricular arrhythmia or lead dislodgement. Average final
+       procedural PCT was 0.7±0.5 mA. Rapid pacing was successful in all cases, with
+       no loss of pace capture. In 5 patients the lead was successfully used post-
+       procedure.
+
+       This first-in-human study demonstrates that the Tempo Lead is safe and effective
+       for temporary cardiac pacing.
+The results from these tests and studies demonstrate that the technological and
+performance characteristics of the subject Tempo Temporary Pacing Lead are adequate
+for its intended use and ensure the subject device can perform in a manner equivalent to
+devices currently on the market with the same intended use.
+
+Conclusion: The data and information presented within this submission (including in
+vitro bench, in vivo animal testing and the clinical study) support a determination of
+substantial equivalence of the Tempo Temporary Pacing Lead to marketed temporary
+pacing leads.
+
+
+
+
+                                                                                K160260
+                                                                               Page 5 of 5
+

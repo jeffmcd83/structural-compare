@@ -1,0 +1,249 @@
+April 17, 2019
+
+Baylis Medical Company Inc.
+May Tsai
+Regulatory Affairs Manager
+2580 Matheson Blvd. E
+Mississauga, Ontario L4W 4J1
+Canada
+
+Re: K190688
+    Trade/Device Name: VersaCross Steerable Sheath, VersaCross Transseptal Dilator
+    Regulation Number: 21 CFR 870.1340
+    Regulation Name: Catheter Introducer
+    Regulatory Class: Class II
+    Product Code: DYB
+    Dated: March 15, 2019
+    Received: March 18, 2019
+
+Dear May Tsai:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.03.08
+Silver Spring, MD 20993
+www.fda.gov
+K190688 - May Tsai                                                                                    Page 2
+
+
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+
+
+                                                 Jaime Raben
+                                             for Bram D. Zuckerman, M.D.
+                                                 Director
+                                                 Division of Cardiovascular Devices
+                                                 Office of Device Evaluation
+                                                 Center for Devices and Radiological Health
+
+Enclosure
+VersaCross Steerable Sheath Kit                                   Baylis Medical Company Inc.
+
+
+                                      7. 510(k) Summary
+
+
+7.1    Submitter Information
+
+A. Company Name:               Baylis Medical Company Inc.
+B. Company Address:            2580 Matheson Blvd. East
+                               Mississauga, Ontario L4W 4J1
+                               Canada
+C. Company Phone:              (905)602-4875
+D. Company Facsimile:          (905)602-5671
+E. Contact Person:             May Tsai
+F. Summary Prepared on:        15-Mar-2019
+
+
+
+7.2    Device Identification
+
+A. Device Trade Name:          VersaCross Steerable Sheath
+                               VersaCross Transseptal Dilator
+B. Device Common Name:         Catheter introducer
+C. Classification Name:        21 CFR 870.1340, Catheter introducer
+D. Product Code:               DYB
+E. Device Class:               Class II
+
+
+
+7.3    Identification of Predicate Device
+
+The predicate for the VersaCross Steerable Sheath kit is listed in Table 1.
+
+Table 1: Legally Marketed Predicate Device
+ Predicate Device    Manufacturer     Intended Use                                 510(k)
+                                      Indicated for introducing various
+ SureFlex Steerable Baylis Medical cardiovascular catheters to the heart,
+                                                                                   K122926
+ Guiding Sheath      Company Inc. including the left side of the heart
+                                      through the interatrial septum
+
+
+
+
+Special 510(k)
+VersaCross Steerable Sheath Kit                                  Baylis Medical Company Inc.
+
+
+7.4    Indications for Use
+
+The VersaCross Steerable Sheath and VersaCross Transseptal Dilator is indicated for
+introducing various cardiovascular catheters to the heart, including the left side of the
+heart through the interatrial septum.
+
+
+7.5    Device Description
+
+The VersaCross Steerable Sheath kit is a sterile, single-use device designed for safe and
+easy catheterization and angiography of specific heart chambers and locations. The
+VersaCross Steerable Sheath kit is comprised of a steerable sheath, a transseptal dilator
+and a J-tip guidewire. The steerable sheath is comprised of a stainless steel braided nylon
+tube with a Pebax distal tip. The sheath has a platinum/iridium marker band positioned
+near the distal tip to facilitate tracking and placement of the sheath under fluoroscopy
+during procedures. The sheath is finished at the proximal end with a hemostatic valve
+and two distal side ports and has a 3-way stopcock to facilitate the injection or aspiration
+of fluids. The sheath is available in three curve options (i.e. small, medium, and large)
+that can be deflected 90° counter-clockwise and 180° clockwise. The transseptal dilator
+is comprised of a high density polyethylene (HDPE) tube and a stainless steel hypotube.
+The dilator also has a tungsten coil positioned near the distal tip to facilitate tracking and
+placement of the dilator under fluoroscopy during procedures. The dilator has a tapered
+tip and a male luer hub connector at the proximal end for connection to the sheath. The J-
+tip guidewire is comprised of stainless steel coated with polytetrafluoroethylene (PTFE).
+
+
+7.6    Comparison to Predicate Device
+
+The characteristics of the proposed and predicate devices are compared in Table 2.
+
+Table 2: Comparison between Characteristics of Proposed and Predicate Devices
+Characteristic                                                    Status
+Intended Use                                                     Identical
+Indications for Use                                              Identical
+Fundamental scientific technology                                Identical
+Operating principles                                             Identical
+Mechanism of action                                              Identical
+Materials                                                         Similar
+Key technological characteristics (e.g. dimensions)               Similar
+Accessory devices                                                Identical
+Packaging configuration                                           Similar
+Environment of use                                               Identical
+Sterility and Reusability                                        Identical
+Sterilization method                                             Identical
+
+
+Special 510(k)
+VersaCross Steerable Sheath Kit                                           Baylis Medical Company Inc.
+
+
+7.7      Performance Testing
+
+Non-clinical performance testing was completed for the VersaCross Steerable Sheath kit
+to support its safety and effectiveness with regards to the intended use as well as
+substantial equivalence1 to the predicate device. The following verifications and
+validations were completed to support the changes incorporated in the proposed device:
+
+      1. Biocompatibility Verification: The biological safety of the VersaCross Steerable
+         Sheath kit was verified as per the requirements of ISO 10993-1:2009/Cor.1:2010
+         and FDA’s modified ISO guidelines in accordance with the FDA guidance
+         document Use of International Standard ISO 10993-1, “Biological evaluation of
+         medical devices – Part 1: Evaluation and testing within a risk management
+         process”.
+      2. General Physical Verification: General physical verification was performed to
+         verify compliance of the VersaCross Steerable Sheath kit with ISO 11070:2014,
+         ISO 594-1:1986, ISO 594-2:1998 and specified Baylis Medical requirements.
+      3. Mechanical Verification: Mechanical verification was performed to verify
+         compliance of the VersaCross Steerable Sheath kit with ISO 11070:2014 and
+         specified Baylis Medical requirements.
+      4. Packaging Verification: Ship testing verification was performed to ensure the
+         integrity of the packaging of VersaCross Steerable Sheath kit through the rigors of
+         shipping and handling. Stability testing was also completed to demonstrate the
+         integrity of the primary packaging (i.e. sterile barrier) as per ANSI/AAMI/ISO
+         11607-1:2006 and ANSI/AAMI/ISO 11607-2:2006 over the proposed device
+         shelf life.
+      5. Sterilization Verification: Sterilization verification was performed to verify that
+         the VersaCross Steerable Sheath kit is sterilized as per ISO 11135:2014 to a
+         sterility assurance level of 10-6 and meets the requirements of ISO 10993-
+         7:2008/Cor.1:2009.
+      6. Bench Validation: Validation testing was completed to evaluate the performance
+         of the kit during normal use as per specified Baylis Medical requirements.
+         Testing was also completed to validate the radiopacity of the kit as per ISO
+         11070:2014.
+
+The VersaCross Steerable Sheath kit met all requirements as specified by the test protocols.
+
+
+1
+  This document uses the term “substantial equivalence” as defined in 21 CFR 807.100 and not as defined
+in Title 35 of the U.S. Code. Any statement made in conjunction with this submission regarding substantial
+equivalence as well as any reference to features being “identical” with respect to any other product only
+relates to whether the product can be lawfully marketed without pre-market approval or reclassification and
+is not to be interpreted as an admission or used as evidence in patent infringement litigation. As the
+Commissioner of the FDA has indicated, “. . . a determination of substantial equivalence under the Federal
+Food, Drug, and Cosmetic Act relates to the fact that the product can be lawfully marketed without
+premarket approval or reclassification. The determination is not intended to have any bearing whatsoever
+on the resolution of patent infringement suits.” 42 Fed. Reg. 42.520 et seg. (1977).
+
+
+Special 510(k)
+VersaCross Steerable Sheath Kit                                Baylis Medical Company Inc.
+
+
+7.8    Conclusion
+
+The proposed and predicate devices share the same intended use and fundamental
+scientific technology, including principles of operation and mechanism of action. Design
+and technological differences between the proposed and predicate devices do not raise
+any new concerns of safety and effectiveness. The results of verification and validation
+testing demonstrate that the VersaCross Steerable Sheath kit is as safe, as effective, and
+performs in a manner that is substantially equivalent to the predicate device.
+
+
+
+
+Special 510(k)
+

@@ -1,0 +1,243 @@
+                                         %FDFNCFS 
+
+
+Medtronic Vascular, Inc.
+Wee Wen Leow
+Senior Regulatory Affairs Specialist
+3576 Unocal Place
+Santa Rosa, California 95403
+
+Re: K171866
+    Trade/Device Name: Sentrant Introducer Sheath with Hydrophilic Coating
+    Regulation Number: 21 CFR 870.1340
+    Regulation Name: Catheter Introducer
+    Regulatory Class: Class II
+    Product Code: DYB
+    Dated: November 20, 2017
+    Received: November 21, 2017
+
+Dear Wee Wen Leow:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding
+and adulteration. Please note: CDRH does not evaluate information related to contract liability warranties.
+We remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820);
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.02.03
+Silver Spring, MD 20993
+www.fda.gov
+Page 2 - Wee Wen Leow                                                                           K171866
+
+and if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR
+1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's
+Office of Surveillance and Biometrics/Division of Postmarket Surveillance.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+
+                                                  Kenneth J. Cavanaugh -S
+                                          GPS
+                                                Bram D. Zuckerman, M.D.
+                                                Director
+                                                Division of Cardiovascular Devices
+                                                Office of Device Evaluation
+                                                Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2020
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K171866
+
+Device Name
+Sentrant Introducer Sheath with Hydrophilic Coating
+
+
+
+Indications for Use (Describe)
+The Sentrant Introducer Sheath with Hydrophilic Coating is intended to provide a conduit for the insertion of diagnostic
+or endovascular devices into the vasculature and minimize blood loss associated with such insertions.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (7/17)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+510(k) Summary - K171866
+Submitter:                           Medtronic Vascular, Inc.
+                                     3576 Unocal Place
+                                     Santa Rosa, CA 95403
+                                     (707) 591-2091
+                                     (707) 566-1432
+
+Contact Person:                      Wee Wen Leow
+                                     Sr. Regulatory Affairs Specialist
+                                     3576 Unocal Place
+                                     Santa Rosa, CA 95403
+                                     (707) 543-5043
+                                     (707) 566-1245
+                                     wee.wen.leow@medtronic.com
+
+Date Prepared:                       June 21, 2017
+
+Device Trade Name:                   SentrantTM Introducer Sheath with Hydrophilic
+                                     Coating
+
+Device Classification:               Class II
+
+Classification Name:                 Catheter Introducer
+
+Regulation Number:                   21 CFR 870.1340
+
+Classification Product Code:         DYB
+
+Classification Panel:                Cardiovascular
+
+Predicate Device:                    Sentrant Introducer Sheath with Hydrophilic
+                                     Coating (K123990)
+
+
+
+
+Sentrant Introducer - Special 510k
+Device Description:
+The Sentrant Introducer Sheath is a single-use, disposable, hydrophilic-coated catheter designed
+to provide a flexible and hemostatic conduit for the insertion of endovascular devices and to
+minimize blood loss associated with vascular procedures. The system is comprised of a dilator
+and an introducer sheath. The system accommodates a 0.035 in (0.89 mm) guidewire and is
+available in 28 and 64 cm lengths and in sizes from 12 to 26 Fr in 2 French increments.
+The dilator is radiopaque and has a flexible tapered tip that facilitates atraumatic tracking
+through the vasculature. There is a dilator grip at the proximal end of the dilator shaft. The
+dilator grip has a female Luer taper fitting on the proximal end to allow flushing of the device,
+and a threaded-feature at the distal end to allow the dilator to be secured to the sheath seal
+housing (dilator locking mechanism).
+The introducer sheath is comprised of a hydrophilic-coated, coil-reinforced catheter that is
+attached to a rigid seal housing containing the hemostatic valve assembly. A sideport extension
+assembly with a 3-way valve is attached to the seal housing. A radiopaque (RO) marker band is
+located at the distal tip of the sheath. The device also has a suture loop for attaching it to the
+patient and a strain relief to minimize kinking of the catheter where it joins to the seal housing.
+Intended Use:
+The Sentrant Introducer Sheath with Hydrophilic Coating is intended to provide a conduit for the
+insertion of diagnostic or endovascular devices into the vasculature and minimize blood loss
+associated with such insertions.
+Comparison of Technical Characteristics:
+The Sentrant Introducer Sheath with Hydrophilic Coating, sterilized via Ethylene Oxide, has the
+same fundamental technological characteristics as the predicate device, Sentrant Introducer
+Sheath with Hydrophilic Coating, sterilized via E-beam irradiation. The form, fit, function, and
+principles of operation are the same.
+
+
+                                             Predicate Device                   Subject Device
+          Description
+                                                (K123990)                (in comparison with predicate)
+       Condition of Use                          Single use                          Same
+       Sheath Diameters               12 Fr to 26 Fr (2 Fr increments)               Same
+                                                  28 cm
+   Sheath Working Length                                                             Same
+                                                  64 cm
+   Guidewire Compatibility                        0.035”                             Same
+     Hydrophilic Coating                            Yes                              Same
+                                         Dilator- fully radiopaque
+          Radiopacity                                                                Same
+                                        Sheath - marker band at tip
+   Hemostasis Technology                      Silicone Seals                         Same
+                                               Dilator:
+       Device Materials               HDPE or HDPE/LDPE Blend,                       Same
+                                               BaSO4
+
+
+
+
+ Sentrant Introducer - Special 510k
+                                              Predicate Device                     Subject Device
+          Description
+                                                 (K123990)                  (in comparison with predicate)
+                                                   Sheath:
+                                       Composite structure composed of
+                                       HDPE, Orevac and Pebax with an
+                                        encapsulated stainless steel coil
+             Sterility                     Sterile to the SAL of 10-6                   Same
+
+       Sterilization Method                         E-beam                         Ethylene Oxide
+
+            Shelf Life                              1 year                             2 years
+
+
+Substantial Equivalence to K123990:
+The assessment of non-clinical performance data demonstrates that the Sentrant Introducer
+Sheath with Hydrophilic Coating, sterilized via Ethylene Oxide (EtO), is substantially equivalent
+to the Sentrant Introducer Sheath with Hydrophilic Coating, sterilized via E-beam irradiation.
+Non-Clinical Performance Data:
+The following tests were performed on the subject device to demonstrate that the device meets
+performance requirements for its intended use. All the predetermined acceptance criteria were
+met and results passed to support a determination of substantial equivalence.
+   •      Design Verification Testing
+   •      Sterilization Validation per requirements of ISO 11135
+   •      Biocompatibility Testing per the requirements of ISO 10993-1
+   •      Packaging Design Verification Testing per requirements of ISO 11607-1
+   •      Shelf Life Testing
+Conclusion:
+The Sentrant Introducer Sheath with Hydrophilic Coating, sterilized via Ethylene Oxide (EtO), is
+substantially equivalent in intended use, technological characteristics, and performance to the
+previously cleared Sentrant Introducer Sheath (K123990). The subject device has the same
+fundamental technological characteristics, principles of operation, and applications as the
+predicate device.
+
+
+
+
+  Sentrant Introducer - Special 510k
+

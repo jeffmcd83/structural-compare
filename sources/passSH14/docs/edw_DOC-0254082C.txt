@@ -1,0 +1,153 @@
+Edwards eSheath Optima Introducer Set
+Instructions For Use
+CAUTION: Federal (USA) law restricts this device to sale by or on the order of a physician.
+Please verify that you have the latest version of the instructions for use prior to using the device by visiting http://
+eifu.edwards.com/ or by calling 1.888.570.4016.
+The product is intended for use by physicians trained and experienced in interventional techniques. Standard techniques for
+placement of vascular access sheaths should be employed.
+
+1.0 Device Description
+The eSheath Optima introducer set contains:
+• one expandable sheath (eSheath Optima) (Fig 1) with hydrophilic coating that provides access into the target vessel while
+  maintaining hemostasis and temporarily enlarges its diameter to allow for passage of a device.
+• one introducer (Fig 2) with hydrophilic coating that is used to facilitate entry and trackability of the sheath into the vessel.
+• one vessel dilator (Fig 3) with hydrophilic coating that is used to dilate the vessel to accommodate the sheath.
+• one in-sheath dilator (Fig 4) that can be used to expand the sheath during device use at the physician’s discretion.
+
+
+
+
+                                                           Figure 1: Sheath
+
+
+
+
+                                                         Figure 2: Introducer
+
+
+
+
+                                                       Figure 3: Vessel Dilator
+
+
+
+
+Edwards, Edwards Lifesciences, the stylized E logo, Edwards eSheath, eSheath, and eSheath Optima are trademarks of
+Edwards Lifesciences Corporation. All other trademarks are the property of their respective owners.
+
+                                                                   1
+                                                   Figure 4: In-Sheath Dilator
+
+                                            Table 1: eSheath Optima Introducer Set
+
+                              REF                                                           14000ES14
+                   Sheath I.D. (unexpanded)                                                14F (4.5 mm)
+                  Sheath O.D. (unexpanded)                                                    6.3 mm
+                    Sheath Working Length                                                      36 cm
+                        Compatible THV                                                 20 mm, 23 mm,26 mm
+                        Introducer O.D.                                                    14F (4.6 mm)
+                  Introducer Working Length                                                    57 cm
+                      Vessel Dilator O.D.                                                  16F (5.3 mm)
+                Vessel Dilator Working Length                                                  38 cm
+               In-Sheath Dilator Maximum O.D.                                              21F (6.9 mm)
+                  In-Sheath Dilator shaft O.D.                                             16F (5.3 mm)
+              In-Sheath Dilator Working Length                                                 39 cm
+
+2.0 Indications
+The Edwards eSheath Optima introducer set is indicated for the introduction and removal of compatible devices used with
+Edwards transcatheter heart valves.
+
+3.0 Contraindications
+There are no known contraindications.
+
+4.0 Warnings
+The devices are designed, intended, and distributed for single use only. Do not resterilize or reuse the devices. There are no
+data to support the sterility, nonpyrogenicity, and functionality of the devices after reprocessing.
+The eSheath Optima introducer set must be used with a compatible 0.035 in (0.89 mm) guidewire to prevent vessel injury.
+Do not mishandle the device or use it if the packaging or any components are not sterile, have been opened or are damaged (i.e.,
+cracked, bent, etc.), or the expiration date has elapsed.
+Failure to abide by precautions and notes in this labeling that could lead to damage of device coating, may result in adverse
+events leading to additional intervention.
+
+5.0 Precautions
+• The In-sheath dilator does not contain hydrophilic coating. Do not use as a vessel dilator.
+• Do not flush sheath with introducer inserted.
+• When inserting, manipulating, or withdrawing a device through the sheath, always maintain orientation of the sheath position.
+• When puncturing, suturing, or incising the tissue near the sheath, use caution to avoid damage to the sheath.
+• The sheath temporarily enlarges to allow the passage of devices; ensure that the vasculature can accommodate the maximum
+  diameter of the expanded sheath. Caution should be used in vessels that have diameters less than 5.5 mm as it may preclude
+  safe placement of the 14F eSheath Optima introducer set.
+• Use caution in tortuous or calcified vessels that would prevent safe entry of the introducer set.
+• Avoid using surfactants and solvents such as isopropanol, or ethanol which could impact the coating of the device.
+• Safety and effectiveness have not been established for patients with the following characteristics/comorbidities: A known
+  hypersensitivity or contraindication to heparin, which cannot be adequately premedicated.
+
+
+
+
+                                                                 2
+6.0 Potential Adverse Events
+Complications associated with standard catheterization and use of angiography include, but are not limited to, injury including
+perforation or dissection of vessels, thrombosis and/or plaque dislodgement which may result in emboli formation, distal vessel
+obstruction, hemorrhage, infection, and/or death.
+
+7.0 Directions for Use
+Note: Refer to the provided delivery system instruction for use for all other preparation and procedural steps.
+1. Inspect the length of the introducer, vessel dilator, in-sheath dilator, and sheath for surface defects and damage prior to
+   clinical use.
+2. Flush the introducer, vessel dilator and in-sheath dilator using heparinized saline through the guidewire lumen.
+3. Hydrate the length of the introducer, vessel dilator, and sheath with heparinized saline to activate the hydrophilic coating.
+   Hydrate the surface of the in-sheath dilator.
+   Note: Avoid excessive wiping which may cause damage to the coating.
+4. Flush the sheath using heparinized saline through the flush port; close the flush port.
+5. Insert the introducer completely into the sheath and turn clockwise to lock the introducer hub to the sheath hub.
+6. Using standard catheterization techniques, gain access to the vessel and dilate as necessary with the vessel dilator to
+   accommodate the sheath.
+7. Orient the sheath appropriately and maintain orientation throughout the procedure. Insert the sheath assembly as close to the
+   hub as possible, using standard technique while following its progression under fluoroscopy.
+   Note: The proximal tapered end of the sheath working length is larger in diameter.
+   Note: If a significant increase in resistance occurs when advancing the sheath through the vasculature, stop
+   advancement and investigate the cause of resistance before proceeding. Do not force passage, as this could increase
+   the risk of vascular complications
+8. Remove the introducer from the sheath by turning counterclockwise to unlock the introducer hub from the sheath.
+9. At the physician discretion, insert the in-sheath dilator completely into the sheath to expand the sheath inside of the vessel
+   prior to delivery system insertion.
+10. Remove in-sheath dilator from sheath.
+11. If possible, suture the sheath into place using the suture ring(s).
+12. Insert the device into the sheath (reference device specific instructions for use).
+    a) Insert the loader into the sheath until the loader stops. Advance device through the loader and into the sheath. Retract
+       the loader once the device is passed through the sheath.
+    Note: The sheath should be intermittently flushed with heparinized saline throughout the procedure, per standard
+    interventional technique.
+13. After completion of the procedure and removal of the device, remove the suture (if necessary), and then remove the sheath
+    entirely. Do not reinsert.
+
+8.0 How Supplied
+The eSheath Optima introducer set is supplied in a pouch and sterilized with ethylene oxide.
+
+9.0 Storage
+The eSheath Optima introducer set should be stored in a cool, dry place.
+
+10.0 Device Disposal
+Used sheath sets may be handled and disposed of in the same manner as hospital waste and biohazardous materials. There are no
+special risks related to the disposal of these devices.
+
+
+
+
+                                                                 3
+                                                                                                2025-07
+                                                                                        10062298001 C
+                                                             © Copyright 2025, Edwards Lifesciences LLC
+                                                                                    All rights reserved.
+
+                           Telephone       +1 949.250.2500
+Manufacturer                               +1 800.424.3278
+Edwards Lifesciences LLC
+                           FAX             +1 949.250.2525
+One Edwards Way
+Irvine, CA 92614 USA
+
+
+                                       4
+

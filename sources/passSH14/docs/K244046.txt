@@ -1,0 +1,242 @@
+                                             March 27, 2025
+
+
+Edwards Lifesciences
+Andrea Gasca
+Manager, Regulatory Affairs
+One Edwards Way
+Irvine, California 92614
+
+
+Re: K244046
+    Trade/Device Name: Edwards eSheath Optima introducer set
+    Regulation Number: 21 CFR 870.1340
+    Regulation Name: Catheter Introducer
+    Regulatory Class: Class II
+    Product Code: DYB
+    Dated: December 20, 2024
+    Received: December 30, 2024
+
+Dear Andrea Gasca:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+K244046 - Andrea Gasca                                                                               Page   2
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K244046 - Andrea Gasca                                                                           Page   3
+
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                              Sincerely,   FINN E.     Digitally signed by FINN
+                                                           DONALDSON - E.Date:
+                                                                           DONALDSON -S
+                                                                               2025.03.27
+                                                           S           09:17:47 -04'00'
+
+                                              Finn Donaldson
+                                              Acting Assistant Director
+                                              DHT2C: Division of Coronary and
+                                                Peripheral Intervention Devices
+                                              OHT2: Office of Cardiovascular Devices
+                                              Office of Product Evaluation and Quality
+                                              Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 07/31/2026
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K244046
+
+Device Name
+Edwards eSheath Optima introducer set
+
+
+
+Indications for Use (Describe)
+The Edwards eSheath Optima introducer set is indicated for the introduction and removal of compatible devices used with
+Edwards transcatheter heart valves.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/23)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                                                   K244046
+                                                                                                   Page 1 of 2
+
+
+
+                                    510(k) Summary
+Submitter:            Edwards Lifesciences LLC
+                      One Edwards Way
+                      Irvine, CA 92614
+                      (949) 250-2500
+
+Contact:              Andrea Gasca       Phone: (949) 250-2500
+
+Prepared:             December 30, 2024
+
+Trade Name:           Edwards eSheath Optima Introducer Set
+
+Common Name:          Catheter, Introducer
+
+Classification:       Catheter, Introducer
+                      21 CFR 870.1340, Product Code DYB
+
+Predicate Device:     Edwards eSheath Introducer Set (K200258)
+
+Device Description:
+The Edwards eSheath Optima introducer set consists of a sheath, vessel dilator, introducer, and in-
+sheath dilator. The Edwards Optima introducer set is available with inner sheath diameter of 14
+French (model 14000ES14). The Edwards eSheath Optima introducer set is used to facilitate
+introduction of the Edwards transcatheter heart valve systems into the vasculature.
+
+The sheath shaft is composed of two layers; as devices are passed through the sheath, the inner
+member expands by sliding against itself while the outer jacket expands by stretching radially,
+temporarily expanding the shaft diameter. A radiopaque marker on the distal end indicates the
+location of the sheath tip in the body and a hydrophilic coating on the sheath tubing exterior
+facilitates introduction into the vessel. The sheath tubing mates with a housing, which holds three
+seals to provide hemostasis, and an extension tube with stopcock for flushing.
+
+The vessel dilator is used to dilate the vessel prior to sheath insertion. The introducer is inserted into
+the sheath hub and locked prior to insertion into the body over a guidewire. The in-sheath dilator is
+used to expand the sheath during device use at the physician’s discretion. The introducer, vessel
+dilator, and in-sheath dilator are radiopaque to improve fluoroscopic visibility intra-procedure.
+
+The loader (included in the Edwards delivery system) features a disc valve within the loader cap
+assembly to help maintain hemostasis, and a scored perforation on the loader tube allowing the
+loader tubing to be “peeled away” and removed to utilize the full working length of the inserted
+device.
+
+
+Intended Use:
+Entry of interventional devices into the vascular system.
+                                                                                               K244046
+                                                                                               Page 2 of 2
+
+Indications for Use:
+The Edwards eSheath Optima introducer set is indicated for the introduction and removal of
+compatible devices used with Edwards transcatheter heart valves.
+
+
+Comparison to Predicate:
+The Edwards eSheath Optima introducer set (model 14000ES14) is substantially equivalent to the
+previously cleared predicate device because the devices have the same intended use and the same
+or similar technological characteristics. The Edwards eSheath Optima introducer set has modified
+shaft dimensions, an elastomeric outer jacket for seamless expansion, a locking mechanism for the
+introducer, and an optional in-sheath dilator. The provided bench testing demonstrates that after the
+technological changes from the predicate device, the devices remain substantially equivalent.
+Summary of Non-Clinical Testing:
+Non-clinical testing was completed to demonstrate that the performance characteristics of the
+Edwards eSheath Optima introducer set are equivalent to the predicate and all design requirements
+were met. The following bench testing was successfully completed:
+
+
+    •   Recovered Outer Diameter (OD)                  •   ISD Hub to Shaft Tensile Strength
+    •   In-Sheath Dilator (ISD) Max Distal OD          •   Transcatheter Heart Valve
+    •   Tip OD                                             (THV)/Sheath Interaction
+    •   ISD Insertion                                  •   Device Interaction
+    •   ISD Retrieval                                  •   Guidewire Compatibility
+    •   Tip Inner Diameter (ID)                        •   Delivery System Insertion
+    •   Sheath Insertion                               •   Delivery System Retrieval
+    •   Sheath Retrieval                               •   Crimped THV Retrieval
+    •   Sheath Working Length                          •   Radiopacity
+    •   ISD Working Length                             •   Particulate Testing
+    •   Hemostasis                                     •   Sterilization Validation
+    •   Kink Radius                                    •   Biocompatibility
+    •   Fishmouth                                              o Cytotoxicity
+    •   Lubricity and Durability                               o Sensitization
+    •   Sheath Housing to Shaft Bond Tensile                   o Irritation
+        Strength                                               o Material Mediated Pyrogenicity
+    •   Sheath Shaft to Tip Tensile Strength                   o Acute Systemic Toxicity
+    •   Flush Tube to Housing Bond Tensile                     o Hemocompatibility
+        Strength                                       •   Thrombogenicity
+    •   Stopcock to Flush Tub Bond Tensile
+        Strength
+Conclusion:
+Based upon device testing and descriptive characteristics, the Edwards eSheath Optima introducer
+set is substantially equivalent to the predicate device. The subject device has the same intended use
+as the predicate device.
+
