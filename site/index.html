@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Structural Heart Comparison Guide</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#111827">
-<link rel="preload" href="data/core.json?v=f7241efc" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=978765fa" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -38,7 +38,7 @@ tr.sh td{background:#e8edf5;cursor:pointer}tr.sh th.a{color:inherit;font-weight:
 <script>
 const $=s=>document.querySelector(s);let D,RC=null,sel=[],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=f7241efc').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='v1.2 · pass '+d.pass+' · built '+d.built;
+fetch('data/core.json?v=978765fa').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='v1.2.1 · pass '+d.pass+' · built '+d.built;
  const cats=Object.keys(d.sect).filter(c=>d.rows.some(r=>r.category===c));
  const h=new URLSearchParams(location.hash.slice(1));let c0=h.get('c')&&cats.includes(h.get('c'))?h.get('c'):null;
  if(!c0&&h.get('t')){const g=ORDER.find(([t])=>t===h.get('t'));c0=g&&g[1].map(x=>x[0]).find(x=>cats.includes(x))||null}  // old therapy-only links
@@ -84,7 +84,7 @@ function render(){const c=$('#cat').value,S=sel.filter(Boolean);if(!document.bod
  $('#m').innerHTML=h+'</table>'+(S.length?'':'<div class="empty">All slots empty — pick a product under any supplier above.</div>');
  document.querySelectorAll('tr.sh').forEach(t=>t.onclick=()=>{const n=t.parentNode.dataset.s;collapsed[n]=!collapsed[n];t.parentNode.classList.toggle('col')});
  document.querySelectorAll('button.add').forEach(b=>b.onclick=()=>{const i=document.querySelector(`.pk select[data-i="${b.dataset.i}"]`);i.scrollIntoView({block:'center'});i.focus();try{i.showPicker()}catch(_){}});
- if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=f7241efc').then(r=>r.json()).then(x=>{RC=x;render()})}
+ if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=978765fa').then(r=>r.json()).then(x=>{RC=x;render()})}
 document.addEventListener('click',e=>{document.querySelectorAll('.pop').forEach(p=>p.remove());const b=e.target.closest('.src');if(!b)return;const [t,u]=D.ps[b.dataset.p];const p=document.createElement('div');p.className='pop';
  p.innerHTML=esc(t)+(u?`<br><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:'');document.body.appendChild(p);const r=b.getBoundingClientRect();p.style.left=Math.max(8,Math.min(innerWidth-390,r.left))+'px';p.style.top=(r.bottom+6)+'px';e.stopPropagation()});
 $('#cat').onchange=()=>setCat();MQ.addEventListener('change',()=>{const v=$('#cat').value;fillCats([...$('#cat').options].map(o=>o.value));$('#cat').value=v});$('#vp').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value;try{localStorage.setItem('sh-view',e.target.value)}catch(_){}};(()=>{let v;try{v=localStorage.getItem('sh-view')}catch(_){}if(['cmp','stk','dsk'].includes(v)){$('#vw').value=v;document.body.className=v}})();
