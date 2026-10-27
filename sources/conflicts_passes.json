@@ -6,7 +6,8 @@
   "value": "44, 48, 52 mm outer frame diameter (original PMA). GUDID also lists 9850EV56US (56 mm), not in the original SSED",
   "source": "FDA SSED P230013 EVOQUE p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230013B.pdf",
   "existing": "44, 48, 52 mm",
-  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"EVOQUE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22EVOQUE%22"
+  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"EVOQUE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22EVOQUE%22",
+  "resolved": "Jeff approved Edwards US IFU DOC-0586345A as the source on 2026-10-26; applied in passSH15: 44, 48, 52, 56 mm (9850EV44/48/52/56)"
  },
  {
   "pass": "passSH13",
@@ -15,7 +16,8 @@
   "value": "44, 48, 52, 56 mm",
   "source": "FDA PMA database P230013/S004 (decision 2024-10-03; approval for addition of the 56 mm valve size) p.record; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P230013S004",
   "existing": "44, 48, 52 mm",
-  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"EVOQUE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22EVOQUE%22"
+  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"EVOQUE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22EVOQUE%22",
+  "resolved": "Jeff approved Edwards US IFU DOC-0586345A as the source on 2026-10-26; applied in passSH15: 44, 48, 52, 56 mm (9850EV44/48/52/56)"
  },
  {
   "pass": "passSH13",
@@ -24,7 +26,8 @@
   "value": "Transfemoral venous; internal jugular venous (added by P230013/S027, 2026-09-16)",
   "source": "FDA PMA database P230013/S027 (decision 2026-09-16; labeling modifications incl. addition of internal jugular venous access and revised sizing table) p.record; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P230013S027",
   "existing": "Transfemoral venous",
-  "existing_source": "FDA SSED P230013 EVOQUE p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230013B.pdf"
+  "existing_source": "FDA SSED P230013 EVOQUE p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230013B.pdf",
+  "resolved": "Jeff approved Edwards US IFU DOC-0586345A as the source on 2026-10-26; applied in passSH15: Transfemoral venous or internal jugular venous (28 F delivery system)"
  },
  {
   "pass": "passSH14",
@@ -34,7 +37,8 @@
   "source": "Edwards EVOQUE Tricuspid Valve Replacement System US IFU DOC-0586345A (2026-06, P/N 10055365004 A; Edwards eIFU, not FDA-posted) p.1; https://eifu.edwards.com/eifu/tmtt-production-eifus/DOC-0586345A.pdf",
   "hold": "1",
   "existing": "44, 48, 52 mm",
-  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"EVOQUE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22EVOQUE%22"
+  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"EVOQUE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22EVOQUE%22",
+  "resolved": "Jeff approved Edwards US IFU DOC-0586345A as the source on 2026-10-26; applied in passSH15: 44, 48, 52, 56 mm (9850EV44/48/52/56)"
  },
  {
   "pass": "passSH14",
@@ -44,7 +48,8 @@
   "source": "Edwards EVOQUE Tricuspid Valve Replacement System US IFU DOC-0586345A (2026-06, P/N 10055365004 A; Edwards eIFU, not FDA-posted) p.2; https://eifu.edwards.com/eifu/tmtt-production-eifus/DOC-0586345A.pdf",
   "hold": "1",
   "existing": "Transfemoral venous",
-  "existing_source": "FDA SSED P230013 EVOQUE p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230013B.pdf"
+  "existing_source": "FDA SSED P230013 EVOQUE p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230013B.pdf",
+  "resolved": "Jeff approved Edwards US IFU DOC-0586345A as the source on 2026-10-26; applied in passSH15: Transfemoral venous or internal jugular venous (28 F delivery system)"
  },
  {
   "pass": "passSH14",
@@ -54,7 +59,8 @@
   "source": "Edwards EVOQUE Tricuspid Valve Replacement System US IFU DOC-0586345A (2026-06, P/N 10055365004 A; Edwards eIFU, not FDA-posted) sizing table p.2; https://eifu.edwards.com/eifu/tmtt-production-eifus/DOC-0586345A.pdf",
   "hold": "1",
   "existing": "CT, systole perimeter-derived diameter: 44 mm: 36.5\u201343; 48: 40\u201347; 52: 45\u201351 (max treatable annulus length 50 / 54 / 58 mm)",
-  "existing_source": "FDA-posted EVOQUE IFU (P230013 labeling) p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230013C.pdf"
+  "existing_source": "FDA-posted EVOQUE IFU (P230013 labeling) p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230013C.pdf",
+  "resolved": "Jeff approved Edwards US IFU DOC-0586345A as the source on 2026-10-26; applied in passSH15: Perimeter-derived diameter (max of systole/diastole): 44 mm: 35\u201345.4; 48: 39.5\u201349.5; 52: 43.3\u201353.6; 56: 47.2\u201357.7"
  },
  {
   "pass": "passSH14",
