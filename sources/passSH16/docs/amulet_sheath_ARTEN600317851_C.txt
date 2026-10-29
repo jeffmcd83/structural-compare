@@ -1,0 +1,331 @@
+Amulet™ Steerable Delivery Sheath
+
+
+                                                      Instructions for Use
+        CAUTION: Read all instructions carefully. Failure to follow the instructions, warnings, and precautions may lead to patient injury
+        or device damage.
+
+Device Description
+The Amulet™ Steerable Delivery Sheath (STRBL-14F-075) is designed to provide a pathway through which a device may be delivered. The
+sheath is provided in one size (14Fr), with a working length of 75 cm and a bidirectional distal tip to provide positioning in the cardiac
+anatomy. The handle is equipped with a deflection knob to deflect the tip clockwise 120° and counterclockwise 0°. The body of the sheath
+is radiopaque for visibility under fluoroscopy and has a marker band located in the distal tip. The dilator eases penetration of tissue. The
+sheath and dilator utilize a dual curve in two dimensions, resulting in a three-dimensional geometry. The 14Fr flush adapter facilitates the
+attachment of additional components.
+See Table 1 for a compatibility chart; see Table 2 for delivery sheath dimensions. Figure 1 through Figure 3 illustrate the following
+components:
+Figure 1          Delivery Sheath
+                      1. Handle
+                     2. Handle deflection knob
+                      3. Sheath hub
+Figure 2         Dilator
+
+Figure 3         14Fr Flush Adapter
+
+Figure 1. Amulet™ Steerable Delivery Sheath
+
+
+
+
+                                                                    1
+Figure 2. Amulet™ Steerable Delivery Sheath Dilator
+
+
+
+
+Figure 3. 14Fr Flush Adapter
+
+
+
+
+Table 1. Compatibility chart
+
+                                                                   Amplatzer™ Amulet™ Size
+                    Product Description                                                                      Model Numbers
+                                                                            (mm)
+                                                                                16                           9-ACP2-007-016
+                                                                                18                           9-ACP2-007-018
+                                                                                20                           9-ACP2-007-020
+                                                                                22                           9-ACP2-007-022
+    Amplatzer™ Amulet™ Left Atrial Appendage Occluder
+                                                                                25                           9-ACP2-010-025
+                                                                                28                           9-ACP2-010-028
+                                                                                31                           9-ACP2-010-031
+                                                                                34                           9-ACP2-010-034
+
+       NOTE: The Amulet™ Steerable Delivery Sheath has not been tested for use with other devices.
+
+Table 2. Amulet™ Steerable Delivery Sheath dimensions
+
+
+
+
+                               Fr         mm (in)        mm (in)           cm (in)           cm (in)
+      STRBL-14F-075            14       4.7 (0.184)     6.0 (0.238)       75.0 (29.5)      93.9 (37.0)
+
+Indication for Use
+The Amulet™ Steerable Delivery Sheath is indicated to facilitate the delivery of the Amplatzer™ Amulet™ Left Atrial Appendage Occluder.
+
+Contraindications
+The Amulet™ Steerable Delivery Sheath is contraindicated for patients:
+
+                                                                      2
+   • with the presence of thrombus that is in the pathway of the steerable sheath, including within the left atrial appendage
+   • with active infections including endocarditis
+The Amulet™ Steerable Delivery Sheath is contraindicated for use with a power injection system.
+
+Warnings
+  • This device was sterilized with ethylene oxide and is for single use only. Do not reuse or resterilize this device. Attempts to resterilize
+    this device can cause a malfunction, insufficient sterilization, or harm to the patient.
+  • Do not use this device if the sterile package is open or damaged. Inspect all components before use. Do not use if the package or items
+    appear to be damaged or defective.
+  • This device should be used only by physicians who are trained in standard transcatheter techniques. The physician should determine
+    which patients are candidates for procedures that use this device.
+  • Slowly remove the dilator and sheath from the patient to prevent an ingress of air.
+  • As this medical device uses an alternative small-bore connector (luer) design different from those of the ISO 80369 series, there is a
+    possibility that a misconnection can occur between this medical device and a medical device using a different alternative small-bore
+    connector, which can result in a hazardous situation causing harm to the patient. Special measures need be taken by the user to
+    mitigate these reasonable, foreseeable risks. See call-out 3 in Figure 1 for an illustration of the small-bore connector (luer).
+  • Failure to cap the sheath hub once the dilator has been removed may result in excessive bleeding or air ingress.
+  • When removing the delivery sheath from the patient, failure to return the delivery sheath to a neutral position may result in vascular
+    or cardiac injury.
+  • Do not deflect the Amulet™ Steerable Delivery Sheath to its maximum deflection more than 10 times during the procedure.
+
+Precautions
+   • DO NOT use the Amulet™ Steerable Delivery Sheath after the Use-by date stated on the package label.
+   • The physician should exercise clinical judgment in situations that involve the use of anticoagulants or antiplatelet drugs before, during,
+     or after the use of the Amulet™ Steerable Delivery Sheath.
+   • When placing an Amplatzer™ Amulet™ Left Atrial Appendage Occluder using the Amulet™ Steerable Delivery Sheath, refer also to the
+     instructions for use provided with the Amplatzer™ Amulet™ Left Atrial Appendage Occluder.
+   • Do not over-tighten the connection between the dilator rotating luer and delivery sheath hub.
+   • Use caution when advancing the Amulet™ Steerable Delivery Sheath and dilator to avoid damaging tissue and vessels or interfering
+     with previously implanted medical devices. If resistance is felt, determine the cause before proceeding. Continuing to advance, retract,
+     or manipulate the catheter under this circumstance has the potential to result in patient injury or delivery sheath damage.
+
+Limitations
+Certain conditions may require special consideration when using this product. These may be, but are not limited to calcified or thickened
+interatrial septum, or cases with previously implanted medical devices (for example, a septal occluder or transvenous pacing leads)
+
+Potential Adverse Events
+Potential adverse events that can occur during or after a procedure using this sheath may include but are not limited to:
+   • Air embolism                                                       • Hematoma
+   • Allergic reaction/toxic effects (due to anesthesia,                • Hypotension/hypertension
+     contrast media, etc.)                                              • Infection
+   • Arrhythmia                                                         • Myocardial infarction/ischemia
+   • Arteriovenous fistulae                                             • Pericardial effusion
+   • Bleeding                                                           • Peripheral embolism
+   • Cardiac tamponade                                                  • Pseudoaneurysm
+   • Cardiac perforation                                                • Stroke
+   • Death                                                              • Thrombosis
+   • Dissection                                                         • Transient ischemic attack
+   • Embolism                                                           • Vascular access site injury (such as arteriovenous fistulae,
+   • Foreign material embolus                                             hematoma, pseudoaneurysm)
+   • Heart failure                                                      • Vessel trauma/damage
+
+Reporting Device Incidents
+If, in the course of use of this device, you have reason to believe that a serious incident occurred, please report it to the manufacturer. For
+user facilities in the United States, report a medical device-related serious injury to the manufacturer, or to the FDA if the medical device
+manufacturer is unknown.
+
+Device Compatibility
+This device is compatible with the Amplatzer™ Amulet™ loader. A standard hypodermic syringe may be attached to the sheath hub by first
+attaching the 14Fr flush adapter, and then connecting the syringe to the flush adapter.
+
+Performance Characteristics
+The Amulet™ Steerable Delivery Sheath consists of the following:
+
+                                                                       3
+   • Steerable Delivery Sheath
+   • Dilator
+   • 14Fr flush adapter
+With a working length of 75 cm and an inner diameter that is 14Fr, the Amulet™ Steerable Delivery Sheath provides flexible catheter
+positioning in the cardiac anatomy. The delivery sheath handle is equipped with a handle deflection knob to deflect the tip bidirectionally.
+The pre-set bidirectional curve aligns with typical left atrial appendage anatomy (see Figure 1 and Figure 2). The delivery sheath includes a
+radiopaque tip marker to improve fluoroscopic visualization.
+
+Storage and Handling Information
+   • There are no special storage requirements beyond what is typical for medical devices.
+   • The instructions for use is recyclable. Dispose of all packaging materials appropriately.
+
+Directions for Use
+Materials recommended for use with the Amulet™ Steerable Delivery Sheath:
+  • 0.035-inch guidewire
+  • 19Fr or larger introducer sheath
+  • 30cc-60cc luer-lock syringe
+  • 5Fr - 6Fr marker pigtail catheter, 110 cm length minimum
+  • Hemostasis valve
+Procedure
+       CAUTION: When placing an Amplatzer™ Amulet™ Left Atrial Appendage Occluder using the Amulet™ Steerable Delivery Sheath,
+       refer also to the instructions for use provided with the device.
+    1. Prepare the Amulet™ Steerable Delivery Sheath for use:
+        - Inspect the sterile pouch and verify that it is unopened and undamaged. Do not use the components if the sterile barrier has
+          been compromised.
+        - Gently open the sterile pouch and inspect the contents for damage. Do not use damaged or kinked components.
+        - Ensure the delivery sheath curve can be easily deflected. Do not use the delivery sheath if there is difficulty in deflecting the distal
+          section to achieve or hold the desired curve.
+        - Flush the components with sterile saline.
+        NOTE: Connect the 14Fr flush adapter to the sheath hub before connecting a syringe to flush.
+       - Wipe the delivery sheath and dilator with sterile gauze dampened with sterile saline.
+    2. Insert the dilator into the delivery sheath and turn the rotating luer on the dilator clockwise to lock the components together.
+        NOTE: You may encounter resistance as the dilator reaches the distal end of the delivery sheath because the tip of the sheath is
+        tapered.
+        CAUTION: Do not over-tighten the connection.
+    3. Access the left atrium using transvenous and transseptal techniques and equipment.
+        NOTE: After transseptal puncture is performed, maintain the recommended activated clotting time (ACT) of 250 to 350 seconds
+        until the procedure is complete.
+    4. Place a 0.035-inch guidewire with the distal end in the left upper pulmonary vein.
+    5. Advance the delivery sheath and dilator over the guidewire until the delivery sheath is positioned according to the
+       Amplatzer™ Amulet™ Left Atrial Appendage Occluder instructions.
+        CAUTION: If resistance is encountered, use available imaging modalities to determine the cause before proceeding. Use of
+        excessive force may result in patient injury or delivery sheath damage. The delivery sheath may be retracted slightly and
+        straightened prior to being re-advanced.
+    6. Turn the rotating luer on the dilator counter-clockwise to unlock the components. Slowly remove the dilator and guidewire from
+       the delivery sheath.
+        WARNING: Remove the dilator and guidewire slowly to prevent air ingress.
+    7. To prevent blood loss and avoid air ingress, use a hemostasis valve or otherwise ensure that the sheath hub is capped until ready to
+       connect the device loader.
+        WARNING: Failure to cap the sheath hub may result in excessive bleeding or air embolism.
+        WARNING: The sheath hub is a custom luer fitting and is only compatible with the supplied 14Fr flush adapter, 14Fr sheath
+        adapter, and the device’s 14Fr loader. Do not attempt to directly connect any other accessories to the sheath hub.
+   8.   Remove the hemostasis valve or cap that was placed on the sheath hub after removal of the dilator. Allow fluid backflow to purge
+        air from the delivery sheath by holding the sheath hub below the plane of the patient’s body.
+   9.   Immediately connect the loader of the device to the sheath in a fluid-to-fluid fashion, according to the device’s instructions for use.
+   10. Advance the device to the tip of the delivery sheath per the device’s instructions for use.
+
+
+                                                                        4
+   11. Adjust the tip of the delivery sheath by turning the handle deflection knob to achieve the desired position in the patient’s anatomy.
+        NOTE: Deflection direction is shown in graphics on the handle.
+   12. Implant the occluder according to the device’s instructions for use.
+   13. When the procedure is complete, return the tip of the delivery sheath to a neutral (or atraumatic) position, and slowly remove the
+       delivery sheath.
+        WARNING: Remove the delivery sheath slowly to prevent air ingress.
+        WARNING: Failure to return the delivery sheath to a neutral position may result in vascular or cardiac injury.
+
+Post-procedure Care
+Instruct the patient when to seek medical attention.
+
+Disposal
+The Amulet™ Steerable Delivery Sheath should be classified as a biohazard and disposed of in compliance with facility procedures and
+applicable laws and regulations.
+The instructions for use are recyclable. Dispose of all packaging materials appropriately.
+
+Warranty
+Abbott Medical warrants to buyer that, for a period equal to the validated shelf life of the product, this product shall meet the product
+specifications established by the manufacturer when used in accordance with the manufacturer's instructions for use and shall be free
+from defects in materials and workmanship. Abbott Medical's obligation under this warranty is limited to replacing or repairing at its
+option, at its factory, this product if returned within the warranty period to Abbott Medical and after confirmed to be defective by the
+manufacturer.
+EXCEPT AS EXPRESSLY PROVIDED IN THIS WARRANTY, ABBOTT MEDICAL DISCLAIMS ANY REPRESENTATION OR WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY AS TO MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+See the terms and conditions of sale for further information.
+State of California (USA) Only:
+              WARNING: This product can expose you to chemicals including ethylene oxide, which is known to the State of California to
+              cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov.
+
+
+
+
+                                                                       5
+Symbol Definitions
+The symbols below and harmonized symbols may be found on the product or product label. For harmonized symbols, refer to the Universal
+Symbols Glossary at medical.abbott/manuals.
+
+           Symbol                                                           Definition
+
+
+                              Caution, consult accompanying documents
+
+
+                              Manufacturer
+
+
+                              Reference number
+
+
+                              Batch Code
+
+
+                              Use-by date
+
+
+                              Do not re-use
+
+
+                              Sterilized using ethylene oxide
+
+
+                              Unique device identifier
+
+
+                              Follow instructions for use on this website
+
+
+                              Keep dry; keep away from rain
+
+
+
+                              Do not use if package is damaged
+
+
+
+                              Inner diameter
+
+
+
+                              Outer diameter
+
+
+                              Length
+
+                              Usable length
+
+
+
+
+                              Amulet™ Steerable Delivery Sheath
+
+
+
+
+                                                                   6
+Symbol                                                    Definition
+
+         Federal law restricts this device to sale by or on the order of a physician.
+
+
+
+         Quantity
+
+
+
+         Date of manufacture
+
+
+         Steerable Delivery Sheath
+
+
+         Do not resterilize
+
+
+
+
+                                                7
+                ™ Indicates a trademark of the Abbott group of companies.
+       ‡ Indicates a third party trademark, which is property of its respective owner.
+                            Pat. http://www.abbott.com/patents
+                             © 2023 Abbott. All Rights Reserved
+
+
+
+
+Abbott Medical                                                                            ARTEN600317851 C
+177 County Road B East                                                                             2023-09
+St. Paul, MN
+55117 USA
+
+
+                                                                                         *600317851*
++1 855 478 5833
++1 651 756 5883
+

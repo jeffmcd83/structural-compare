@@ -1,0 +1,355 @@
+TriClip™ G5 Steerable Guide Catheter
+Instructions for Use
+
+WARNING: Use of the TriClip™ G5 Steerable Guide Catheter (Guide) should be restricted to
+         those physicians trained to perform invasive endovascular and transcatheter
+         procedures.
+                                    Table of Contents
+
+
+1.0   DEVICE DESCRIPTION
+2.0   INDICATION FOR USE
+3.0   CONTRAINDICATIONS
+4.0   WARNINGS
+5.0   PRECAUTIONS
+6.0   SPECIAL FACILITIES
+
+7.0   HOW SUPPLIED
+8.0   STORAGE
+9.0   ADDITIONAL REQUIRED EQUIPMENT NOT INCLUDED
+10.0 PATIENT PREPARATION
+11.0 DEVICE PREPARATION BEFORE USE
+12.0 TRICLIP™ G5 STEERABLE GUIDE CATHETER PREPARATION
+13.0 ACCESS TO THE TRICUSPID VALVE
+14.0 TRICLIP™ G5 STEERABLE GUIDE CATHETER INSERTION
+15.0 GUIDE REMOVAL AFTER DEVICE USE
+
+16.0 DISPOSAL
+
+17.0 GLOSSARY OF ACROYNYMS
+
+GRAPHICAL SYMBOLS FOR MEDICAL DEVICE LABELING
+
+
+
+
+EL2144117 (2025-01-03)               Printed on: 2025-03-12
+Page 1 of 8
+1.0      DEVICE DESCRIPTION
+         The TriClip™ G5 Steerable Guide Catheter (Guide) provides a conduit to access the right
+         atrium. The distal curve is optimal for achieving height above tricuspid valve plane. The
+         distal shaft is steered by the use of a handle and knobs (S/L and +/-) to position the
+         implant on the tricuspid valve. The Guide tip is radiopaque. The Guide is fitted with a
+         valve to provide hemostasis during introduction and / or exchange of ancillary devices
+         (e.g., catheters) that have a maximum diameter of 5.2 mm (.204”). A flush port is
+         provided on the valve housing for aspiration, fluid infusion, and blood sampling via a
+         three way stopcock attachment. The Guide includes a Dilator that is tapered at the distal
+         tip and includes an echogenic feature for visualization under imaging. The Dilator has an
+         internal lumen designed to accept ancillary devices that have a maximum diameter of
+         0.9 mm (0.035”) (e.g., needles or guidewires). The distal 65 cm of the Steerable Guide
+         Catheter with the exception of the distal soft tip is coated with hydrophilic coating to
+         provide a lubricated surface when hydrated with sterile saline for ease of insertion.
+
+
+                   Table 1: TriClip™ G5 Steerable Guide Catheter Dimensions
+      Component                                                   Dimension
+      TriClip™ G5 Steerable Guide Catheter
+      Working Length                                              78.0 cm
+      Catheter Proximal Shaft Outer Diameter                      8.4 mm (25 Fr)
+      Catheter Distal Shaft / Tip Outer Diameter                  7.7 mm (23 Fr)
+      Dilator
+      Working Length                                              122.0 cm
+      Shaft Inner Diameter                                        1.0 mm (3 Fr)
+      Shaft Outer Diameter                                        5.4 mm (16 Fr)
+      Distal Tip Outer Diameter                                   1.5 mm (4 Fr)
+
+2.0      INDICATION FOR USE
+         The TriClip™ G5 Steerable Guide Catheter is used for introducing various cardiovascular
+         catheters into the right side of the heart.
+
+3.0      CONTRAINDICATIONS
+         •     Intolerance, including allergy or untreatable hypersensitivity, to procedural
+               anticoagulation.
+         •     Active endocarditis or other active infection of the tricuspid valve.
+
+
+
+
+EL2144117 (2025-01-03)                       Printed on: 2025-03-12
+Page 2 of 8
+4.0   WARNINGS
+      •     Read all instructions carefully. Failure to follow these instructions, warnings and
+            precautions may lead to device damage, user injury or patient injury including:
+               o Failure to deliver the TriClip™ G5 Implant to the intended site
+               o Difficulty or failure to retrieve TriClip™ G5 System components
+      •     Use universal precautions for biohazards and sharps while handling the TriClip™
+            G5 Steerable Guide Catheter to avoid user injury.
+      •     Failure to prepare the device as stated in these instructions and failure to handle
+            the device with care might result in damage to the device coating, which may lead
+            to additional intervention or serious adverse events.
+
+5.0   PRECAUTIONS
+      •     Use the TriClip™ G5 Steerable Guide Catheter with sterile techniques using
+            standard imaging techniques (e.g., fluoroscopy and transesophageal
+            echocardiography).
+      •     Echocardiographic images should be carefully assessed to ensure they are of
+            adequate quality to allow successful implantation of the TriClip™ G5 Implant using
+            the TriClip™ G5 Steerable Guide Catheter.
+      •     The TriClip™ G5 Procedure using the TriClip™ G5 Steerable Guide Catheter should
+            be considered with caution in patients with rheumatic disease who have significant
+            leaflet thickening and small annular dimensions considering the risk of iatrogenic
+            tricuspid stenosis.
+      •     Patients with pre-existing cardiac leads should be assessed to ensure placement of
+            the TriClip™ Implant is possible using the TriClip™ G5 Steerable Guide Catheter.
+
+6.0   SPECIAL FACILITIES
+      Facilities using the TriClip™ G5 Steerable Guide Catheter need to maintain a plan for
+      treating the patient if cardiovascular surgical intervention is required.
+
+7.0   HOW SUPPLIED
+      7.1     Contents:
+              One (1) TriClip™ G5 Steerable Guide Catheter, one (1) Dilator, and one (1)
+              Silicone Pad.
+      7.2     Sterile:
+              The TriClip™ G5 Steerable Guide Catheter is sterilized with ethylene oxide gas
+              and is provided in a tray with lid, in a sealed pouch. Parts of the device that are in
+              either direct or indirect contact with circulating blood are non-pyrogenic.
+8.0   STORAGE
+      Handle with care. Store in original packaging. Keep dry. Keep away from sunlight.
+
+
+
+
+EL2144117 (2025-01-03)                  Printed on: 2025-03-12
+Page 3 of 8
+9.0    ADDITIONAL REQUIRED EQUIPMENT NOT INCLUDED
+       Exchange length supportive guidewire
+       High pressure three way stopcocks (2)
+       Arterial high-pressure extension tubing (1)
+       50–60 cc syringes with luer ﬁtting (2)
+       Heparinized sterile saline solution
+       Sterile Basin
+
+10.0   PATIENT PREPARATION
+       WARNING: When placing a TriClip™ G5 Implant using the TriClip™ G5
+                Steerable Guide Catheter, refer to the TriClip™ G5 System
+                Instructions For Use.
+       WARNING: Patient selection should be performed by a multi-disciplinary heart
+                team. Refer to the TriClip™ G5 System Instructions For Use for
+                patient selection and potential adverse events information.
+       Prepare the patient per institution’s standard practice for endovascular and transcatheter
+       procedures. Prepare the patient for invasive hemodynamic monitoring.
+
+11.0   DEVICE PREPARATION BEFORE USE
+       The preparation is most easily accomplished with the aid of an assistant.
+
+       Inspect all product prior to use; do not use if the device or packaging is damaged. Note
+       the product “Use By” date specified on the package; do not use if the “Use By” date has
+       passed. These devices are intended for single-use only; do not reuse.
+       WARNING:       DO NOT use the TriClip™ G5 Steerable Guide after the “Use
+                      By” date stated on the package label, and never reuse or re-
+                      sterilize the Steerable Guide Catheter. Use of expired, reused,
+                      or re-sterilized devices may result in infection, malfunction of
+                      the device and other serious injury or death.
+       WARNING:       Always inspect the TriClip™ G5 Steerable Guide Catheter and its
+                      packaging to verify no damage has occurred as a result of
+                      shipping and handling and that the sterile barrier has not been
+                      compromised. DO NOT use the device if damage is detected. Use
+                      of product with a compromised sterile barrier may result in
+                      infection. Use of damaged product may result in patient injury.
+
+12.0   TRICLIP™ G5 STEERABLE GUIDE CATHETER PREPARATION
+       WARNING:       All lumens contain air when shipped. Use proper de-airing
+                      techniques before and during use to minimize the risk of air
+                      embolism.
+       12.1   Remove the Guide from sterile packaging and place in the sterile field.
+       12.2   Carefully remove the white Guide tip shape retainer and transparent protective
+              tubing from the Guide tip.
+
+
+EL2144117 (2025-01-03)                 Printed on: 2025-03-12
+Page 4 of 8
+       12.3  Inspect the Guide and Dilator to verify they are undamaged.
+             WARNING: DO NOT use if damage is detected. Use of damaged product
+                            may result in air embolism, vascular and / or cardiac injury.
+       12.4 Remove the sterile package containing the Silicone Pad from the Guide tray.
+       12.5 Fill a basin with heparinized saline.
+       12.6 Flush and de-air the Guide and Dilator with heparinized saline:
+             12.6.1 Connect 3-way stopcocks to the Guide and Dilator ﬂush ports, de-air the
+                       Dilator, then close the stopcock and the Rotating Hemostatic Valve.
+             12.6.2 Hydrate 5-10 cm of the distal end of the Dilator with heparinized saline
+                       and insert the Dilator approximately 10 cm into Guide then remove.
+             12.6.3 Connect high pressure tubing and a 50-60 cc syringe ﬁlled with
+                       heparinized saline to the Guide ﬂush port.
+             12.6.4 De-air the Guide.
+                       12.6.4.1       With the tip raised, displace all air from the Guide while
+                                      tapping along the length of the catheter shaft.
+                       12.6.4.2       Cover the Guide tip with finger once heparinized saline
+                                      exits the Guide.
+                       12.6.4.3       Close the Guide stopcock.
+       12.7 Submerge the Guide tip in the basin of heparinized saline.
+       12.8 While the Guide tip is submerged in the basin of heparinized saline, remove
+             finger from Guide tip and check the Guide valve for leaks by raising the handle to
+             a vertical position for a minimum of 30 seconds.
+       12.9 Hydrate 5-10 cm of the distal end of the Dilator with heparinized saline.
+       12.10 Cover the Guide tip with finger and insert the Dilator into the Guide while Guide
+             tip remains submerged in the basin of heparinized saline.
+             12.10.1 While advancing the Dilator, continually watch for air in the Guide
+                       Hemostasis Valve housing. If needed, remove finger from Guide tip
+                       and aspirate while assuring the Guide tip is submerged.
+             12.10.2 Remove finger from tip of Guide when the Dilator tip approaches the
+                       Guide tip.
+             12.10.3 Position the Dilator to create a smooth transition.
+
+       WARNING:       Conﬁrm a smooth transition between the Dilator and the tip of the
+                      Guide to minimize the risk of vascular and / or cardiovascular
+                      injury.
+
+13.0   ACCESS TO THE TRICUSPID VALVE
+       NOTE:         This is a suggested sequence for the procedure. Variations may be
+                     used based upon patient anatomy.
+       13.1    Access the RA to accommodate the Guide tip using transvenous techniques and
+               equipment.
+       13.2    Heparinize the patient.
+               WARNING:       Failure to administer heparin may result in thrombus
+                              formation.
+
+
+EL2144117 (2025-01-03)                   Printed on: 2025-03-12
+Page 5 of 8
+       13.3   Carefully place an exchange length supportive guidewire in the superior vena
+              cava. Dilate the subcutaneous tissue and femoral vein to accommodate the
+              Guide shaft using standard dilation technique.
+
+14.0   TRICLIP™ G5 STEERABLE GUIDE CATHETER INSERTION
+       CAUTION:      Always use pressure monitoring, echocardiography and
+                     ﬂuoroscopy for guidance and observation during use of the
+                     TriClip™ G5 Steerable Guide Catheter.
+       WARNING:      Always use a careful, deliberate, and iterative approach to
+                     positioning the TriClip™ G5 Steerable Guide Catheter. It is
+                     recommended to make multiple small adjustments rather than
+                     single large adjustments. Large adjustments may result in vascular
+                     and / or cardiac injury.
+
+       14.1   Rotate the +/- Knob in the “-” direction until the Guide curve is
+              substantially straightened.
+       14.2   Wet the surface of the Guide shaft with sterile saline.
+       14.3   Insert the Guide-Dilator assembly over the stationary guidewire into the
+              femoral vein.
+              WARNING:       DO NOT use excessive force to advance or manipulate the
+                             Guide-Dilator assembly. If resistance is encountered, use
+                             echocardiography and / or ﬂuoroscopy to assess before
+                             proceeding. Use of excessive force may result in
+                             arrhythmias, vascular and / or cardiac injury.
+       14.4   Advance the Guide-Dilator assembly to the RA maintaining the Guide in a
+              straightened position.
+       14.5   Adjust Guide torque to position the tip away from adjacent tissues.
+       14.6   Place the Silicone Pad on the sterile drape over the Lift. Place the Stabilizer onto
+              the Silicone Pad, such that the Stabilizer Guide Dock is underneath the Guide
+              Attach.
+       14.7   Rotate the Guide Attach independently from the Guide as necessary to align the
+              Guide Attach pins with the Stabilizer Guide Dock.
+       14.8   Insert the Guide Attach into the Stabilizer Guide Dock.
+              CAUTION:       Ensure that the Stabilizer is secure on the lift to prevent any
+                             undesirable movement.
+       14.9   Retract the Dilator approximately 5 cm into the Guide, leaving the guide wire in
+              the superior vena cava.
+       14.10 Retract the guidewire into the tip of the Dilator. Remove the Dilator and
+             guidewire while gently aspirating the Guide (starting when the Dilator is
+             approximately halfway retracted into the Guide, approximately 40 cm) using a
+             50–60 cc syringe. Cover Guide Hemostasis Valve with finger upon Dilator
+             removal.
+
+
+EL2144117 (2025-01-03)                 Printed on: 2025-03-12
+Page 6 of 8
+                NOTE:          Avoid contacting tissue or creating a vacuum in the Guide lumen.
+                               If necessary, position the Guide handle below the level of the RA
+                               to allow blood to ﬁll the Guide lumen.
+                WARNING:       DO NOT create a vacuum while removing the Dilator from
+                               the Guide; air may enter the lumen of the Guide which may
+                               result in air embolism.
+                WARNING:       Failure to fully retract guidewire into the Dilator may result
+                               in air embolism.
+
+15.0   GUIDE REMOVAL AFTER DEVICE USE
+       15.1     Straighten the Guide with the +/- Knob and turn the S/L Knob to neutral.
+       15.2     Carefully retract the Guide tip into the RA / Inferior Vena Cava junction. The
+                Guide may be straightened further with the +/- Knob if desired.
+       15.3     Retract the Guide towards the femoral vein then remove the Guide while
+                providing hemostasis.
+
+16.0   DISPOSAL
+       After use, these devices and packaging should be appropriately classified for disposal,
+       e.g., biohazard, sharps, non-hazardous waste etc., and carefully disposed of in
+       compliance with facility procedures and applicable laws and regulations.
+
+17.0   GLOSSARY OF ABBREVIATIONS
+       Guide:      TriClip™ G5 Steerable Guide Catheter           RV:   Right Ventricle
+       RA:         Right Atrium                                   RO:   Radiopaque
+
+
+
+
+™
+ Indicates a trademark of the Abbott group of companies.
+Pat. www.abbott.com/patents
+
+© 2025 Abbott. All Rights Reserved.
+
+
+
+Abbott Medical
+177 County Road B East
+St. Paul, MN 55117 USA
+TEL: +1 855 478 5833
+FAX: +1 651 756 5833
+Outside USA TEL: +1 855 478 5833
+Outside USA FAX: +1 651 756 5833
+
+
+
+
+EL2144117 (2025-01-03)                   Printed on: 2025-03-12
+Page 7 of 8
+GRAPHICAL SYMBOLS FOR MEDICAL DEVICE LABELING
+Source reference for recognized symbols retained at the manufacturer in the Medical Device
+File.
+
+             Batch code                                          Do not resterilize
+
+
+             Catalogue number                                    Do not re-use
+
+
+             Use-by date                                         Non-pyrogenic
+
+                                                                 Do not use if package is
+             Sterilized using ethylene oxide                     damaged and consult
+                                                                 instructions for use
+
+             Single sterile barrier system                       Manufacturer
+
+             Consult instructions for use or
+             consult electronic instructions                     Date of manufacture
+             for use
+             Refer to instruction
+             manual/booklet                                      Packaging unit
+             (Symbol Color: Blue)
+
+             MR Conditional                                      Keep away from sunlight
+
+
+             Unique device identifier                            Keep dry
+
+
+                                                                 CAUTION: Federal law restricts
+             Medical device                                      this device to sale by or on the
+                                                                 order of a physician.
+
+
+
+
+EL2144117 (2025-01-03)                  Printed on: 2025-03-12
+Page 8 of 8
+

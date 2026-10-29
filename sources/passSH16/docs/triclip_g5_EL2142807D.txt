@@ -1,0 +1,3174 @@
+TriClip™ G5 SYSTEM
+TriClip™ G5 Delivery System
+TCDS0801-NT
+TCDS0801-NTW
+TCDS0801-XT
+TCDS0801-XTW
+
+TriClip™ G5 Steerable Guide Catheter
+TSGC0801
+
+MitraClip™and TriClip™ ACCESSORIES
+Stabilizer SZR08
+Lift LFT07 / LFT01ST
+Support Plate PLT07 / PLT01ST
+
+                            INSTRUCTIONS FOR USE
+
+WARNING:      Use of the TriClip™ G5 System should be restricted to those physicians
+              trained to perform invasive endovascular procedures and to those
+              physicians trained in the proper use of the system.
+
+Table of Contents
+
+1.0    DEVICE DESCRIPTION
+2.0    INDICATIONS
+3.0    CONTRAINDICATIONS
+4.0    WARNINGS
+5.0    PRECAUTIONS
+6.0    PATIENT SELECTION
+7.0    MRI SAFETY INFORMATION
+8.0    POTENTIAL ADVERSE EVENTS
+9.0    INFORMATION TO BE SUPPLIED TO THE PATIENT
+10.0   SPECIAL FACILITIES
+11.0   HOW SUPPLIED
+       11.1 Contents
+       11.2 Sterile
+       11.3 Non-Sterile
+12.0   STORAGE
+
+EL2142807 (2025-07-15)            Printed on: 2025-07-21
+Page 1 of 68
+13.0 ADDITIONAL REQUIRED EQUIPMENT NOT INCLUDED
+14.0 PATIENT PREPARATION
+15.0 TRICLIP™ G5 SYSTEM PREPARATION BEFORE USE
+     15.1 TriClip™ Steerable Guide Catheter Preparation
+     15.2 Stabilizer Preparation
+     15.3 TriClip™ G5 Delivery System Preparation
+16.0 ACCESS TO THE TRICUSPID VALVE
+17.0 TRICLIP™ STEERABLE GUIDE CATHETER INSERTION
+18.0 TRICLIP™ G5 DELIVERY SYSTEM INSERTION
+19.0 INITIAL TRICLIP™ G5 SYSTEM POSITIONING IN THE RIGHT ATRIUM
+20.0 FINAL TRICLIP™ G5 SYSTEM POSITIONING
+21.0 GRASPING THE LEAFLETS AND VERIFYING THE GRASP
+22.0 CLOSING THE TRICLIP™ G5 IMPLANT AND EVALUATING IMPLANT
+     POSITION
+23.0 TRICLIP™ G5 SYSTEM PRE-DEPLOYMENT IMPLANT ASSESSMENT
+24.0 TRICLIP™ G5 IMPLANT DEPLOYMENT
+     24.1 Deployment Step 1: Lock Line Removal
+     24.2 Deployment Step 2: Delivery Catheter Shaft Detachment
+25.0 ADDITIONAL TRICLIP™ G5 IMPLANT PLACEMENT
+26.0 TRICLIP™ G5 DELIVERY SYSTEM REMOVAL
+     26.1 TriClip™ G5 Delivery System Removal After Implant Deployment
+     26.2 TriClip™ G5 Delivery System Removal With TriClip G5 Implant Attached
+27.0 DISPOSAL
+28.0 CLINICAL DATA
+     28.1 TRILUMINATE™ Pivotal Trial
+     28.2 Study Design
+     28.3 Accountability Of The PMA Cohort
+     28.4 Study Demographics And Baseline Parameters
+     28.5 Safety And Effectivness Results
+29.0 TRICLIP™ G5 PROCEDURE ACRONYMS AND DEFINITIONS OF TERMS
+     29.1 Glossary Of Acronyms
+     29.2 Definition Of Terms
+GRAPHICAL SYMBOLS FOR MEDICAL DEVICE LABELING
+
+
+
+
+EL2142807 (2025-07-15)          Printed on: 2025-07-21
+Page 2 of 68
+1.0 DEVICE DESCRIPTION
+The TriClip™ G5 System is comprised of the TriClip™ Steerable Guide Catheter (Steerable
+Guide, Guide, SGC, TSGC), the TriClip™ G5 Delivery System (TDS), and the MitraClip™
+and TriClip™ Accessories.
+
+TriClip™ G5 Steerable Guide Catheter
+The TriClip™ G5 Steerable Guide Catheter’s primary function is to access the right
+atrium, maneuver to the target location above the tricuspid valve and position the
+TriClip™ G5 Delivery System.
+
+TriClip™ G5 Delivery System
+The TriClip™ G5 Delivery System (TDS) is used to deliver, position, and place the of the
+TriClip™ G5 Delivery System on the tricuspid valve leaflets. TriClip™ G5 Delivery System
+is uniquely designed to access the tricuspid valve and deliver the TriClip™ Device to the
+Tricuspid Valve. The TDS is comprised of the Delivery Catheter, the Steerable Sleeve, a
+handle, and the TriClip™ G5 Implant. The user interface on the TDS allows for the
+adjustment of the clip to the desired position for implantation which are open, closed or
+inverted.
+The Delivery Catheter controls the actuation and deployment of the TriClip™ G5 Implant.
+The Delivery Catheter is controlled using the Arm Positioner, Gripper Levers, Actuator
+Knob, and Lock Knob Implant .
+The Steerable Sleeve facilitates the navigation and positioning of the TriClip™ G5 Implant
+in the appropriate location above the tricuspid valve.
+The Implant grasps and coapts the tricuspid valve leaflets resulting in fixed approximation
+of the leaflets throughout the cardiac cycle. It is available in four sizes (NT, XT, NTW,
+XTW) and can be locked, unlocked, and repeatedly opened and closed to allow for
+repositioning of the Implant to the target location.
+Implant size selection should be determined by the heart team and optimized per patient
+anatomy and condition.
+Accessories
+The Accessories are intended to support the TriClip™ G5 System during the procedure.
+The Accessories consist of the Stabilizer, the Support Plate, and the Lift. The Lift and the
+Support Plate are used outside of the sterile field to provide a stable platform during the
+procedure. The Stabilizer is used in the sterile field to support and position the TriClip™ G5
+Steerable Guide Catheter and the TriClip™ G5 Delivery System during the procedure.
+Figure 1 shows the TriClip™ G5 Implant Positions. Table 1 lists the TriClip™ G5 System
+Dimensions.
+
+
+
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 3 of 68
+                         Figure 1: TriClip™ G5 Implant Positions
+
+
+
+
+                        Table 1: TriClip™ G5 System Dimensions
+ Component                                               Dimension
+ Delivery Catheter
+ Extended Length, minimum mm (from Sleeve curved         ≥56 mm
+ at 90 degrees)
+ Steerable Sleeve
+ Working Length                                          109.5 cm
+ Catheter Distal Shaft Outer Diameter                    5.3 mm (16 Fr)
+ TriClip™ G5 Implant Clip Sizes                              NT             NTW   XT           XTW
+ Grasping Width at 120 degrees, minimum mm                          17 mm              22 mm
+ Implant Width at 180 degrees, nominal mm                           20 mm              25 mm
+ Arm Width, maximum mm                                       4 mm          6 mm   4 mm     6 mm
+ Maximum Arm (Coaptation) Length, maximum mm                        9 mm               12 mm
+       ™
+ TriClip G5 Steerable Guide Catheter
+ Working Length                                          78.0 cm
+ Catheter Shaft Outer Diameter                           8.4 mm (25 Fr)
+ Dilator
+ Working Length                                          122.0 cm
+ Shaft Inner Diameter                                    1.0 mm (3 Fr)
+ Shaft Outer Diameter                                    5.4 mm (16 Fr)
+ Distal Tip Outer Diameter                               1.5 mm (4 Fr)
+
+
+EL2142807 (2025-07-15)              Printed on: 2025-07-21
+Page 4 of 68
+2.0 INDICATIONS
+The TriClip™ G5 System is indicated for improving quality of life and functional status in
+patients with symptomatic severe tricuspid regurgitation despite optimal medical therapy,
+who are at intermediate or greater risk for surgery and in whom transcatheter edge-to-
+edge valve repair is clinically appropriate and is expected to reduce tricuspid
+regurgitation severity to moderate or less, as determined by a multidisciplinary heart
+team.
+3.0 CONTRAINDICATIONS
+The TriClip™ G5 System is contraindicated for use in patients with the following
+conditions:
+   • Intolerance, including allergy or untreatable hypersensitivity, to procedural
+        anticoagulation
+   • Untreatable hypersensitivity to Implant components (nickel-titanium alloy,
+        cobalt-chromium alloy)
+   • Active endocarditis or other active infection of the tricuspid valve
+4.0 WARNINGS
+   •   The TriClip™ G5 Steerable Guide Catheter and TriClip™ G5 Delivery System are
+       designed, intended, and distributed for single use only. Cleaning, re-sterilization
+       and / or reuse may result in infection, malfunction of the device and other serious
+       injury or death.
+   •   The Stabilizer, Lift, and Support Plate are non-sterile and must be cleaned,
+       disinfected, and/or sterilized prior to each use. Follow the cleaning, disinfection,
+       and sterilization instructions provided with these accessories.
+   •   The devices should be handled using standard sterile technique to prevent
+       infection.
+   •   Do not use the devices if the “Use by” date specified on the package has
+       elapsed.
+   •   Do not use the devices if the package is damaged or the packing seal is broken.
+   •   Inspect all reusable accessories prior to use. Do not use if the devices are
+       damaged or mishandled.
+   •   Read all instructions carefully. Use universal precautions for biohazards and
+       sharps while handling the TriClip™ G5 System to avoid user injury.
+   •   Failure to prepare the device as stated in these instructions and failure to handle
+       the device with care might result in damage to the device coating, which may
+       lead to additional intervention or serious adverse events.
+   •   Failure to follow these instructions, warnings and precautions may lead to device
+       damage, user injury, or patient injury including:
+           • Failure to deliver the TriClip™ G5 Implant to the intended site
+           • Difficulty or failure to retrieve TriClip™ G5 System components
+5.0 PRECAUTIONS
+   •   The TriClip™ G5 System should be implanted with sterile techniques using
+       fluoroscopy and transesophageal echocardiography.
+   •   Echocardiographic images should be carefully assessed to ensure they are of
+       adequate quality to allow successful implantation of the TriClip™ G5 Implant.
+
+
+EL2142807 (2025-07-15)              Printed on: 2025-07-21
+Page 5 of 68
+   •   The TriClip™ G5 Procedure should be considered with caution in patients with
+       rheumatic disease who have significant leaflet thickening and small annular
+       dimensions considering the risk of iatrogenic tricuspid stenosis.
+   •   Patients with pre-existing cardiac leads should be assessed to ensure placement
+       of the TriClip™ Implant is possible.
+   •   The safety and effectiveness of the TriClip™ G5 System has not been established
+       in the following patient populations:
+         • Pregnant or lactating women
+         • Pediatric patients less than 18 years old
+         • Patients with systolic pulmonary artery pressure (sPAP) >70 mmHg or fixed
+             pre-capillary pulmonary hypertension as assessed by right heart
+             catheterization (RHC)
+         • Patients with severe uncontrolled hypertension defined as systolic blood
+             pressure (SBP) ≥180 mmHg and/or diastolic blood pressure (DBP) ≥110
+             mm Hg)
+6.0 PATIENT SELECTION
+Patient selection should be performed by a multi-disciplinary heart team. It is advised
+that the heart team assess whether the use of TriClip™ G5 System is preferable to
+surgery or other available treatment options. It is advised that the heart team specifically
+consider the following when assessing patients for the use of the TriClip™ G5 System:
+   •   The patient is at intermediate or greater risk for surgical tricuspid valve repair or
+       replacement
+   •   The patient has anatomy suitable for use of TriClip™ Implant. Tricuspid valve
+       leaflet anatomy which may preclude clip implantation, proper clip positioning on
+       the leaflets, or reduction in tricuspid regurgitation to moderate or less include:
+       o Evidence of calcification in the grasping area
+       o Presence of a severe coaptation defect (>2 cm) of the tricuspid leaflets
+       o Severe leaflet defect(s) preventing proper device placement
+       o Ebstein Anomaly - Identified by having a normal annulus position while the
+           valve leaflets are attached to the walls and septum of the right ventricle
+   •   The patient’s current quality of life or functional status
+Patients with the following conditions may have an increased risk of serious adverse
+events:
+    • Known or suspected unstable angina or myocardial infarction within the last 12
+        weeks
+    • Recent cerebrovascular events
+    • Persistent bacteremia despite antibiotic treatment
+
+
+
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 6 of 68
+7.0 MRI SAFETY INFORMATION
+
+                           A patient with the TriClip™ G5 Implant may be safely
+                           scanned under the following conditions. Failure to follow
+                           these conditions may result in injury to the patient or device
+                           malfunction.
+
+       Name/Identification of the Device                       TriClip™ G5 Implant
+       Nominal Value(s) of Static Magnetic                         1.5T or 3.0T
+       Field [T]
+       Maximum Spatial Field Gradient [T/m                   40 T/m (4,000 gauss/cm)
+       and gauss/cm]
+       RF Excitation                                         Circularly Polarized (CP)
+       Operating Mode                                        Normal Operating Mode
+       Maximum Whole Body SAR [W/kg]                                  2W/kg
+       Limits on Scan Duration                       2 W/kg whole body average SAR for
+                                                     60 minutes of continuous RF
+                                                     (a sequence or back-to-back
+                                                     series/scan without breaks)
+                                                     (Under these scan conditions, the
+                                                     implants are expected to produce a
+                                                     maximum temperature rise of less
+                                                     than or equal to 2.7°C after 15
+                                                     minutes of continuous scanning.)
+       MR Image Artifact                             In non-clinical testing, the image
+                                                     artifact caused by a pair of implants
+                                                     extends approximately 40 mm beyond
+                                                     the implants when imaged with a spin
+                                                     echo or gradient echo pulse sequence
+                                                     in a 3 T magnetic resonance imaging
+                                                     system. The presence of additional
+                                                     implants in a patient’s valve may
+                                                     increase the image artifact size when
+                                                     imaged in an MRI system.
+       If information about a specific parameter is not included, there are no conditions
+       associated with the parameter.
+
+
+
+
+EL2142807 (2025-07-15)              Printed on: 2025-07-21
+Page 7 of 68
+8.0 POTENTIAL ADVERSE EVENTS
+The following events have been identiﬁed as possible complications of the TriClip™
+G5 Procedure.
+ • Allergic reactions or hypersensitivity to    •   Nausea or vomiting
+   latex, contrast agent, anaesthesia,          •   Pain
+   device materials and drug reactions to       •   Pericardial effusion
+   anticoagulation, or antiplatelet drugs       •   Stroke / cerebrovascular accident (CVA)
+ • Additional treatment / surgery from              and transient ischemic attack (TIA)
+   device-related complications                 •   System organ failure:
+ • Bleeding                                          o Cardio-respiratory arrest
+ • Blood disorders (including coagulopathy,          o Worsening heart failure
+   hemolysis, and Heparin Induced                    o Pulmonary congestion
+   Thrombocytopenia (HIT))                           o Respiratory dysfunction or failure or
+ • Cardiac arrhythmias (including                        atelectasis
+   conduction disorders, atrial arrhythmias,         o Renal insufficiency or failure
+   ventricular arrhythmias)                          o Shock (including cardiogenic and
+ • Cardiac ischemic conditions (including                anaphylactic)
+   myocardial infarction, myocardial            •   Thrombosis
+   ischemia, unstable angina, and stable        •   Tricuspid valve complications, which may
+   angina)                                          complicate or prevent later surgical repair,
+ • Cardiac perforation                              including:
+ • Cardiac tamponade                                 o Chordal entanglement / rupture
+ • Chest pain                                        o Single leaflet device attachment
+ • Death                                                 (SLDA)
+ • Dyspnea                                           o Dislodgement of previously implanted
+ • Edema                                                 devices
+ • Embolization (device or components of             o Tissue damage
+   the device)                                       o Tricuspid valve stenosis
+ • Endocarditis                                      o Worsening, persistent or residual
+                                                         regurgitation
+ • Fever or hyperthermia
+                                                •   Vascular access complications which may
+ • Fluoroscopy and Transesophageal
+                                                    require additional intervention, including:
+   echocardiogram (TEE) -related
+                                                     o Wound dehiscence,
+   complications:
+                                                     o Bleeding of the access site
+    o Skin injury or tissue changes due to
+                                                     o Arteriovenous fistula,
+        exposure to ionizing radiation
+                                                         pseudoaneurysm, aneurysm,
+    o Esophageal irritation
+                                                         dissection, perforation (rupture),
+    o Esophageal perforation
+                                                         vascular occlusion
+    o Gastrointestinal bleeding
+                                                     o Embolism (air, thrombus)
+ • Hypotension / hypertension
+                                                     o Peripheral nerve injury
+ • Infection including:
+                                                •   Venous thrombosis (including deep vein
+    o Septicemia
+                                                    thrombosis) and thromboembolism
+                                                    (including pulmonary embolism)
+
+
+
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 8 of 68
+9.0 INFORMATION TO BE SUPPLIED TO THE PATIENT
+Physicians should consider the following information when counseling patients about the
+TriClip™ G5 Implant and procedure:
+   •    The potential benefits and risks of the TriClip™ G5 System.
+   •    Alternative therapies available to the patients and their advantages and
+        disadvantages.
+   •    Patients who have good baseline quality of life and functional status may not
+        experience further improvement in these attributes following treatment with the
+        TriClip™ G5 System. Patients on average are unlikely to experience any survival
+        benefit or a reduced rate of heart failure-related hospitalization.
+The following are measures that the patient may have to take following the TriClip™ G5
+Procedure.
+   •    Patients undergoing any procedures known to potentially be associated with
+        bacteremia after implantation of the TriClip™ G5 Implant should be prescribed
+        prophylactic antibiotic therapy prior to such procedures.
+   •    Anticoagulation and other medical therapy should be prescribed per institutional
+        guidelines.
+   •    Patients should be advised to limit strenuous physical activity for at least the first
+        month post-procedure or longer if warranted.
+
+After placement of a TriClip™ G5 Implant, the Patient Implant Card should be filled out,
+and the patient should be instructed to carry it at all times.
+Patient Guides are available to each site and should be given to the patient to inform
+them of the risks and benefits of the procedure and alternative treatments. Additional
+counseling information can be found in the Patient Guide and in the Clinical Data
+section.
+10.0 SPECIAL FACILITIES
+Facilities implanting the TriClip™ G5 Implant need to maintain a plan for treating the
+patient if cardiovascular surgical intervention is required.
+11.0 HOW SUPPLIED
+     11.1 Contents
+       One (1) TriClip™ G5 Delivery System with the TriClip™ G5 Implant, one (1) Implant
+       Patient Card
+       11.2     Sterile
+       The TriClip™ G5 Delivery System and TriClip™ G5 Steerable Guide Catheter are
+       individually packaged and sterilized with ethylene oxide gas and provided in a tray
+       with lid, in a sealed pouch. Parts of the devices that are in either direct or indirect
+       contact with circulating blood are non-pyrogenic.
+
+
+
+
+EL2142807 (2025-07-15)                Printed on: 2025-07-21
+Page 9 of 68
+     This single use device cannot be reused on another patient, as it is not designed to
+     perform as intended after the first usage. Changes in mechanical, physical, and / or
+     chemical characteristics introduced under conditions of repeated use, cleaning,
+     and / or resterilization may compromise the integrity of the design and / or
+     materials, leading to contamination due to narrow gaps and / or spaces and
+     diminished safety and / or performance of the device. Absence of original labeling
+     may lead to misuse and eliminate traceability. Absence of original packaging may
+     lead to device damage, loss of sterility, and risk of injury to the patient and / or
+     user. Inspect all product prior to use. Do not use if the package is open or
+     damaged, or if product is damaged. Do not reinsert the TDS or Implant after single
+     use in the patient.
+      11.3     Non-Sterile
+      WARNING: The Stabilizer, Support Plate and Lift are provided non-sterile.
+               Follow the cleaning and sterilization instructions provided with
+               the Stabilizer, Support Plate and Lift.
+12.0 STORAGE
+Handle with care. Store in original packaging. Keep dry. Keep away from sunlight.
+13.0 ADDITIONAL REQUIRED EQUIPMENT NOT INCLUDED
+Guidewire
+Exchange length supportive guidewire
+High-pressure three-way stopcocks (4)
+Arterial high-pressure extension tubing (2)
+50-60 cc syringes with luer ﬁtting (2)
+1000 ml pressure bags (1)
+Sterile IV tubing with thumbwheel occluders (1)
+Heparinized sterile saline solution (1, 1-liter bag)
+Rolling IV Pole
+Sterile Basin
+14.0 PATIENT PREPARATION
+     14.1 Prepare the patient per institution’s standard practice for transfemoral
+          catheterization.
+     14.2 Place Support Plate under patient’s leg in the region between the area of the
+          upper leg and the knee and place the Lift over the ipsilateral lower extremity
+          prior to draping the patient.
+     14.3 Place the Lift on the Support Plate such that the front edge (i.e., the edge
+          that corresponds with the shorter legs of the Lift) is approximately 85 cm
+          from the patient’s mid sternum.
+     14.4 Adjust the height of the Lift so that the front edge of the Lift is close to the
+          patient’s leg but is not impinging on it. Adjust the back legs to be 2 or 3
+          notches above the front legs (i.e., the back legs of the Lift are taller than the
+          front legs).
+     CAUTION: Ensure the Lift and Support Plate are covered completely by
+              sterile drape during the procedure. Use towels as necessary to
+              minimize direct contact between the patient and all surfaces of
+              both the Lift and Support Plate.
+     14.5 Prepare the patient for invasive hemodynamic monitoring.
+EL2142807 (2025-07-15)                Printed on: 2025-07-21
+Page 10 of 68
+15.0 TRICLIP™ G5 SYSTEM PREPARATION BEFORE USE
+     WARNING: DO NOT use the TriClip™ G5 System after the “Use By” date
+              stated on the package label, and never reuse or re-sterilize the
+              system. Use of expired, reused, or re-sterilized devices may
+              result in infection, malfunction of the device and other serious
+              injury or death.
+     WARNING: Always inspect the TriClip™ G5 System and its packaging to
+              verify no damage has occurred as a result of shipping and
+              handling and that the sterile barrier has not been compromised.
+              DO NOT use the device if damage is detected. Use of product
+              with a compromised sterile barrier may result in infection. Use of
+              damaged product may result in patient injury.
+     • DO NOT remove the protective cover placed over the Implant.
+     WARNING: DO NOT handle the Implant directly; leave it in the protective
+              cover to avoid potential contamination. Removal of the
+              protective cover may result in infection. Removal of the
+              protective cover may result in damaged product which may
+              result in patient injury.
+     • The preparation is most easily accomplished with the aid of an assistant.
+       15.1   TriClip™ G5 Steerable Guide Catheter Preparation
+              WARNING: All lumens contain air when shipped. Use proper de-
+                       airing techniques before and during use to minimize the
+                       risk of air embolism.
+              15.1.1     Remove the Guide from sterile packaging and place in the
+                         sterile field.
+              15.1.2     Carefully remove the white Guide tip shape retainer and
+                         transparent protective tubing from the Guide tip.
+              15.1.3     Inspect Steerable Guide Catheter and Dilator to verify they are
+                         undamaged.
+                         WARNING: DO NOT use if damage is detected. Use of
+                                  damaged product may result in air embolism,
+                                  vascular and / or cardiac injury.
+              15.1.4 Remove the Silicone Pad from the Steerable Guide Catheter
+                     tray.
+              15.1.5 Fill a basin with heparinized saline.
+              15.1.6 Flush and de-air the Guide and Dilator with heparinized saline:
+                    15.1.6.1 Connect 3-way stopcocks to the Guide and Dilator ﬂush
+                              ports, de-air the Dilator and then close the stopcock and
+                              the Rotating Hemostatic Valve.
+                    15.1.6.2 Hydrate 5-10 cm of the distal end of the Dilator with
+                              heparinized saline and insert the Dilator approximately
+                              10 cm into Guide then remove.
+
+
+
+
+EL2142807 (2025-07-15)              Printed on: 2025-07-21
+Page 11 of 68
+                       15.1.6.3 Connect high pressure tubing and a 50-60 cc syringe
+                                ﬁlled with heparinized saline to the Guide ﬂush port.
+                       15.1.6.4 De-air the Guide.
+                              15.1.6.4.1 With the tip raised, displace all air from the
+                                           Guide while tapping along the length of the
+                                           catheter shaft.
+                              15.1.6.4.2     Cover the Guide tip with finger once
+                                             heparinized saline exits the Guide.
+                              15.1.6.4.3     Close the Guide stopcock.
+              15.1.7     Submerge the Guide tip in the basin of heparinized saline.
+              15.1.8     While the Guide tip is submerged in the basin of heparinized
+                         saline, remove finger from Guide tip and check the Guide valve
+                         for leaks by raising the handle to a vertical position for a
+                         minimum of 30 seconds.
+              15.1.9     Hydrate 5-10 cm of the distal end of the Dilator with heparinized
+                         saline.
+              15.1.10 Cover the Guide tip with finger and insert the Dilator into the
+                      Guide while Guide tip remains submerged in the basin of
+                      heparinized saline.
+                       15.1.10.1 While advancing the Dilator, continually watch for air in
+                                 the Guide Hemostasis Valve housing. If needed,
+                                 remove finger from Guide tip and aspirate while
+                                 assuring the Guide tip is submerged.
+              15.1.11 Remove finger from tip of Guide when the Dilator tip approaches
+                      the Guide tip.
+              15.1.12 Position the Dilator to create a smooth transition.
+       15.2   Stabilizer Preparation
+              Inspect the Stabilizer to confirm it is undamaged and set the Stabilizer
+              aside in a protected sterile environment for later use.
+       15.3   TriClip™ G5 Delivery System Preparation
+              15.3.1     Confirm the DC Fastener is released and rotate the DC Handle
+                         90 degrees clockwise when the TDS is removed from packaging
+                         and place in the sterile field. Secure the DC Fastener.
+              15.3.2     Inspect all TriClip™ G5 Delivery System parts, including the
+                         TriClip™ G5 Implant, DC shaft, and Sleeve to verify they are
+                         undamaged. Ensure the Lock Line Release Latch is completely
+                         lowered.
+                         WARNING: DO NOT use the device if damage is detected.
+                                  Use of damaged product may result in air
+                                  embolism, Implant or device component
+                                  embolization, vascular and / or cardiac injury.
+               15.3.3 Connect a 3-way stopcock to the bottom DC flush port.
+
+
+
+
+EL2142807 (2025-07-15)              Printed on: 2025-07-21
+Page 12 of 68
+               15.3.4 Remove the red cap from the Introducer and place the cap on
+                      the sterile table for later use.
+               15.3.5 Connect a 3-way stopcock to the Introducer flush port.
+               15.3.6 Attach a 50-60 cc syringe filled with heparinized saline to the 3-
+                      way stopcock on the Introducer, de-air the Introducer and close
+                      the stopcock.
+               15.3.7 Connect a high-pressure tube to the drip line from the
+                      pressurized bag with sterile heparinized saline; flush and de-air
+                      the line.
+               15.3.8 Ensure the pressure of the flush bag is set to 300 mmHg.
+                      Connect the high-pressure tube to the 3-way stopcock on the
+                      bottom flush port of the DC Handle.
+               15.3.9 Increase the flush rate to the TDS by fully opening the flush
+                      through the high-pressure tube. Flush and de-air DC Handle and
+                      all lumens of the DC with heparinized saline.
+               15.3.10 Release the DC Fastener. Retract the DC handle at a
+                       consistent, slow pace while maintaining control throughout the
+                       movement. Secure the DC Fastener.
+               15.3.11 Use the red cap to close off top ﬂush port of the DC Handle.
+               15.3.12 Flush and de-air the Sleeve with heparainized saline.
+               15.3.13 Release the DC Fastener. Advance and retract the DC handle
+                       once at a consistent, slow pace while maintaining control
+                       throughout the movement to remove residual air from the lumen.
+                         Note:      Avoid fast and/or excessive DC Handle translations
+                                    as that may create a vacuum and prolong the TDS
+                                    de-airing process.
+                       WARNING: DO NOT use excessive force when pulling the
+                                    DC (Delivery Catheter) Radiopaque Ring against
+                                    the Sleeve tip, while translating the DC shaft. It
+                                    may result in device damage including distal tip
+                                    embolization.
+               15.3.14 Advance the DC Handle at a consistent, slow pace while
+                       maintaining control throughout the movement. Secure the DC
+                       Fastener.
+               15.3.15 With the tip raised to a level above the DC Handle and the shaft
+                       held taut, displace all air from the DC and Sleeve while tapping
+                       along the length of the catheter shaft.
+               15.3.16 Conﬁrm continuous ﬂow from the distal end of the DC and
+                       Sleeve.
+     Delivery Catheter and TriClip™ G5 Implant Inspection
+     WARNING: DO NOT handle the Implant directly; leave in the protective
+              cover to avoid potential contamination. Removal of the
+              protective cover may result in infection. Removal of the
+              protective cover may result in damaged product which may
+              result in patient injury.
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 13 of 68
+               15.3.17 Raise the Gripper(s), Unlock the Implant, and confirm the
+                       Implant is at Grasping Arm Angle.
+     NOTE:      If Implant Arm Angle is greater than Grasping Arm Angle, Close the
+                Implant Arms to Grasping Arm Angle; if Implant Arm Angle is less than
+                Grasping Arm Angle, Open the Implant Arms to Grasping Arm Angle.
+               15.3.18 Lower the Gripper(s) once to de-air the lumens.
+               15.3.19 Lock the Implant.
+               15.3.20 Close the Implant Arms to approximately 20 degrees and Test
+                       the Lock.
+               WARNING: DO NOT turn the Arm Positioner more than 1 turn in
+                        the “Open” direction from neutral. Failure to stop
+                        turning the Arm Positioner at 1 turn in the “Open”
+                        direction past neutral may result in Implant opening or
+                        device damage which could cause the Implant to
+                        become non-functional and lead to embolization and /
+                        or conversion to surgical intervention.
+               15.3.21 Return the Arm Positioner to Neutral.
+              15.3.22 Raise the Gripper(s), Unlock the Implant, and Invert the Implant
+                      Arms.
+              WARNING: DO NOT over rotate the Lock Knob. Damage could
+                          occur causing the Implant to not lock, unlock, or open.
+                          Inability to open the Implant may result in valve injury
+                          or lead to deployment of the Implant in an unintended
+                          location.
+              WARNING: Turning the Arm Positioner in the “Open” direction
+                          more than 1 full turn past an Implant Arm Angle of 180°
+                          or turning past when resistance is first noted may
+                          result in device damage which could cause the Implant
+                          to become non-functional and lead to embolization,
+                          and / or conversion to surgical intervention.
+              15.3.23 Lock the Implant, fully Close the Implant Arms and Lower the
+                      Gripper(s).
+               15.3.24 Release the DC Fastener. Retract the DC fully against the Sleeve
+                       in a consistent, slow pace while maintaining control of the
+                       movement, and then secure the DC Fastener.
+               NOTE:       Avoid fast and/or excessive DC Handle translations as that
+                           may create a vacuum and prolong the TDS de-airing
+                           process.
+               WARNING: Do not use excessive force when pulling the DC
+                        (Delivery Catheter) Radiopaque Ring against the Sleeve
+                        tip while translating the DC shaft. It may result in device
+                        damage including distal tip embolization.
+               15.3.25 Without removing the protective cover, carefully slide the
+                       Introducer over the Implant and stop when the tip of the Implant
+                       is just proximal to the tip of the Introducer.
+
+
+EL2142807 (2025-07-15)            Printed on: 2025-07-21
+Page 14 of 68
+               WARNING: DO NOT compress the Implant Arms. Compressing the
+                        Implant Arms may result in inability to open the
+                        Implant. Inability to open the Implant may result in
+                        valve injury or lead to deployment of the Implant in an
+                        unintended location.
+               WARNING: Fully Close the Implant Arms before insertion or
+                        retraction into the Introducer. Failure to do so may
+                        result in difficulty or inability to advance or retract the
+                        Implant, which may result in vascular and / or cardiac
+                        injury, air embolism, and / or the need for surgical
+                        intervention.
+               15.3.26 Return the Arm Positioner to Neutral.
+               15.3.27 Temporarily discontinue heparinized saline flush.
+               15.3.28 Re-start heparinized saline flushes just before the use of the
+                       Delivery System.
+              WARNING:
+                            •   Heparinized saline flush should be continuous
+                                throughout the procedure.
+                            •   Discontinuing flush may result in air embolism and /
+                                or thrombus formation.
+                            •   Ensure flow is visible through the drip chamber and
+                                that the tubing is free from kinks and / or
+                                obstruction.
+                            •   Ensure pressure of 300 mmHg is maintained.
+16.0 ACCESS TO THE TRICUSPID VALVE
+     NOTE: This is a suggested sequence for the procedure. Variations may be used
+             based upon patient anatomy.
+     16.1 Access the RA to accommodate the Guide tip using transvenous techniques
+          and equipment.
+     16.2 Heparinize the patient.
+          WARNING: Failure to administer heparin may result in thrombus
+                        formation.
+     16.3 Carefully place an exchange length supportive guidewire in the superior vena
+          cava. Dilate the subcutaneous tissue and femoral vein to accommodate the
+          Guide shaft using standard dilation technique.
+17.0 TRICLIP™ G5 STEERABLE GUIDE CATHETER INSERTION
+     WARNING: Conﬁrm a smooth transition between the Dilator and the tip of the
+              Guide to minimize the risk of vascular and / or cardiovascular
+              injury.
+     CAUTION: Always use pressure monitoring, echocardiography and
+              ﬂuoroscopy for guidance and observation during use of the
+              TriClip™ G5 System.
+
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 15 of 68
+     WARNING: Always use a careful, deliberate, and iterative approach to
+                positioning the TriClip™ G5 System. It is recommended to make
+                multiple small adjustments rather than single large adjustments.
+                Large adjustments may result in vascular and / or cardiac injury.
+     17.1 Rotate the +/- Knob in the “-” direction until the Guide curve is
+          substantially straightened.
+     17.2 Wet the surface of the Guide shaft with sterile saline.
+     17.3 Insert the Guide-Dilator assembly over the stationary guidewire
+          into the femoral vein.
+          WARNING: DO NOT use excessive force to advance or manipulate the
+                      Guide-Dilator assembly. If resistance is encountered, use
+                      echocardiography and / or ﬂuoroscopy to assess before
+                      proceeding. Use of excessive force may result in
+                      arrhythmias, vascular and / or cardiac injury.
+     17.4 Advance the Guide-Dilator assembly to the RA maintaining the
+          Guide in a straightened position.
+     17.5 Adjust Guide torque to position the tip away from adjacent tissues.
+     17.6 Place the Silicone Pad on the sterile drape over the Lift. Place the
+          Stabilizer onto the Silicone Pad such that the Stabilizer Guide
+          Dock is underneath the Guide Attach.
+     17.7 Rotate the Guide Attach independently from the Guide as
+          necessary to align the Guide Attach pins to the Guide Dock.
+     17.8 Insert the Guide Attach into the Guide Dock.
+          CAUTION: Ensure that the Stabilizer is secure on the Lift to
+                   prevent any undesirable movement.
+     17.9 Retract the Dilator approximately 5 cm into the Guide, leaving the
+          guide wire in the superior vena cava.
+    17.10 Retract the guidewire into the tip of the Dilator. Remove the Dilator
+          and guidewire while gently aspirating the Guide (starting when the
+          Dilator is approximately halfway retracted into the Guide,
+          approximately 40 cm) using a 50-60 cc syringe. Cover Guide
+          Hemostasis Valve with finger upon Dilator removal.
+          NOTE:          Avoid contacting tissue or creating a vacuum in the Guide lumen.
+                         If necessary, position the Guide handle below the level of the RA
+                         to allow blood to ﬁll the Guide lumen.
+          WARNING: DO NOT create a vacuum while removing the Dilator from
+                   the Guide; air may enter the lumen of the Guide which may
+                   result in air embolism.
+          WARNING: Failure to fully retract guidewire into the Dilator may result in
+                   air embolism.
+18.0 TRICLIP™ G5 DELIVERY SYSTEM INSERTION
+     18.1 Confirm the Guide lumen is completely de-aired.
+          WARNING: To minimize the potential of air embolism, DO NOT introduce
+                   the Delivery System into the Guide until the Guide lumen has
+                   been completely de-aired.
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 16 of 68
+     18.2 Confirm the TDS is completely de-aired and there is a slow,
+          continuous heparinized saline ﬂush through both the Sleeve and
+          the DC and that the tip of the Implant is just proximal to the tip of
+          the Introducer.
+          WARNING: Failure to continuously ﬂush the Delivery System with
+                   heparinized saline may reduce device performance.
+          WARNING:
+                     • Heparinized saline flush should be continuous throughout
+                       the procedure.
+                     • Discontinuing flush may result in air embolism and / or
+                       thrombus formation. Ensure flow is visible through the drip
+                       chamber and that tubing is free from kinks and / or
+                       obstruction.
+                     • Ensure pressure of 300 mmHg is maintained.
+     18.3 Carefully remove the protective cover surrounding the Implant
+          and the Introducer.
+     18.4 Conﬁrm that the stopcock on the Introducer ﬂush port is closed
+          and that the Introducer is de-aired.
+     18.5 While ﬂushing heparinized saline on the Guide Hemostasis
+          Valve, place the tip of the Introducer against the Guide
+          Hemostasis Valve and advance the Introducer straight into the
+          valve in a continuous motion while rotating the Introducer in small
+          clockwise and counterclockwise motions until the Implant can be
+          observed distal to the valve.
+          WARNING: DO NOT continue to advance the Introducer if resistance is
+                   felt; the Guide Hemostasis Valve, Introducer or the Implant
+                   may be damaged. Damage to these components may result
+                   in air embolism, vascular or cardiac injury.
+          WARNING: To minimize the potential of air embolism, ensure proper
+                   de-airing when inserting the Introducer into the Guide
+                   Hemostasis Valve.
+     18.6 Leave the Introducer fully inserted in the Guide Hemostasis
+          Valve throughout the procedure.
+     18.7 Align the Longitudinal Alignment Marker on the Sleeve shaft with
+          the Alignment Marker on the Guide Hemostasis Valve.
+     18.8 Confirm that the Guide is substantially straightened prior to
+          advancing the Delivery System.
+     18.9 Carefully advance the Delivery System through the Guide under
+          ﬂuoroscopic guidance. Stop when tip of the Implant is even with
+          the tip of the Guide.
+          WARNING: Failure to confirm Guide is substantially
+                   straightened prior to advancing the Delivery
+                   System may result in damage to the Delivery
+                   System or the Implant. Damage to these
+                   components may result in vascular or cardiac
+                   injury.
+EL2142807 (2025-07-15)              Printed on: 2025-07-21
+Page 17 of 68
+    18.10 Under echocardiographic and fluoroscopic guidance, advance
+          the Delivery System until the Implant Arms exit slightly beyond
+          the Guide RO Tip Ring. The Guide may be placed in a neutral
+          position by rotating the ‘+/-‘ Knob in the ‘+’ direction. Confirm that
+          the Implant is free from the right atrial wall and valve tissue.
+    18.11 Under echocardiographic guidance, advance the Delivery
+          System and retract the Guide iteratively as needed while
+          maintaining the Guide in the RA. Stop when the Guide RO Tip
+          Ring is between the RO Alignment Markers of the Sleeve, as
+          confirmed under fluoroscopic guidance.
+    18.12 Secure the DS Attach and confirm the TDS is secured within the
+          Stabilizer.
+    18.13 Conﬁrm that the Implant is free from the right atrial wall and valve
+          tissue.
+          WARNING: Failure to confirm that the Implant is free from the right
+                   atrial wall and valve tissue may result in cardiac injury.
+19.0 INITIAL TRICLIP™ G5 SYSTEM POSITIONING IN THE RIGHT ATRIUM
+     NOTE: Positioning is achieved with iterative adjustments of the Guide and Delivery
+           System using torque, translation, and knob adjustments. The goals of
+           positioning are:
+     A. Positioning the TriClip™ G5 System centrally over the valve with respect to
+        aortic-posterior and septal-lateral directions.
+     B. Aligning the Implant so the DC Shaft is perpendicular to the plane of the
+        tricuspid valve.
+     C. Positioning the distal tip of the Implant above the leaﬂets.
+     WARNING: Excessive torque on the Guide and translation of the TriClip™ G5
+              System may inadvertently displace the tip of the Guide from the
+              RA, which may result in arrhythmias or cardiac injury.
+     WARNING: DO NOT continue to rotate or manipulate any of the handle
+              knobs if signiﬁcant resistance is noted; device damage may
+              occur and result in cardiac injury.
+     19.1 Adjust the Guide position as necessary to maintain that the Implant is free
+          from adjacent tissue.
+     19.2 Adjust Implant height above the leaflets as necessary using the Guide +/-
+          Knob.
+     19.3 Adjust Sleeve deﬂection using the F/E Knob to deﬂect the Implant towards
+          the tricuspid valve. Retract the DC Radiopaque Ring against the Sleeve tip as
+          necessary.
+     19.4 During Sleeve deflections confirm that the Guide RO Tip Ring is between the
+          RO Alignment Markers of the Sleeve prior to making maximum Sleeve
+          deﬂections.
+          WARNING: DO NOT deﬂect the Sleeve tip more than 90 degrees as
+                   device damage may occur. Use of damaged product may
+                   result in cardiac injury.
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 18 of 68
+     19.5 Confirm the TDS is secure in the Stabilizer.
+     19.6 To reposition the TriClip™ G5 System, adjust the Stabilizer and the system
+          together until positioning is adequate.
+     19.7 Adjust the Implant position to maintain adequate height above the tricuspid
+          valve in the RA.
+          WARNING: Maintain the Implant above the leaﬂets until ready to grasp
+                   to minimize the risk of Implant entanglement in the chordal
+                   apparatus. Implant entanglement may result in cardiac
+                   injury, worsening tricuspid regurgitation, difficulty or
+                   inability to remove the Implant and conversion to surgical
+                   intervention.
+20.0 FINAL TRICLIP™ G5 SYSTEM POSITIONING
+     20.1 Raise the Gripper(s)
+          CAUTION: Raising the Grippers more often than needed or retracting
+                   the Gripper Levers forcefully may damage the Gripper cover
+                   and impair Delivery System performance.
+     20.2 Unlock the Implant and Open the Implant Arms to approximately 180
+          degrees.
+          WARNING: DO NOT over rotate the Lock Knob. Damage could occur
+                   causing the Implant to not lock, unlock, or open. Inability to
+                   open the Implant may result in valve injury or lead to
+                   deployment of the Implant in an unintended location.
+     20.3 Adjust the TriClip™ G5 System to reposition the Implant as necessary.
+          Conﬁrm that the distal tip of the Implant is above the leaﬂets.
+     20.4 Release the DC Fastener. Rotate the DC handle to align the Implant Arms
+          perpendicular to the line of coaptation. DO NOT rotate the Implant more than
+          90 degrees in each direction.
+     20.5 Carefully translate the DC shaft multiple times to release stored torque. Fully
+          retract the DC. Secure the DC Fastener.
+          WARNING: Fully release stored torque. If not done, it may result in
+                   unwanted Implant Arm orientation changes during
+                   grasping. Torque of the DC Handle more than 180 degrees
+                   may result in DC damage and cardiac injury.
+     20.6 Identify Gripper Orientation
+     20.7 Close the Implant to an Implant Arm Angle of approximately 60 degrees.
+     20.8 Complete ﬁnal TriClip™ G5 System positioning in the RA using multiple
+          imaging planes.
+
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 19 of 68
+21.0 GRASPING THE LEAFLETS AND VERIFYING THE GRASP
+     21.1 Advance the DC distally to position the Implant below the valve, until the
+          leaflets are mobile above the Implant Arms. Ensure that the Implant Arms
+          are oriented perpendicular to the line of coaptation.
+          WARNING: Do conﬁrm that the Implant Arms are perpendicular to the
+                   line of coaptation. Failure to do so may result in loss of
+                   leaflet capture and insertion. Loss of leaflet capture and
+                   insertion may result in inadequate reduction of tricuspid
+                   regurgitation and may result in a single leaflet device
+                   attachment (SLDA).
+          WARNING: DO NOT make substantial Implant Arm orientation
+                   adjustment in the RV. Implant entanglement in sub-valvular
+                   apparatus may result in cardiac injury and worsening
+                   tricuspid regurgitation; and may result in difficulty or
+                   inability to remove the Implant, and conversion to surgical
+                   intervention.
+          WARNING: Always ensure that either the Grippers are raised or that the
+                     Implant is closed while in the RV to avoid potential cardiac
+                     injury.
+     21.2 Open the Implant Arms to the Grasping Arm Angle.
+     21.3 Without using excessive force, retract the DC to grasp both leaﬂets.
+          WARNING: An improper grasp will allow one or both leaﬂets to move
+                   freely. Closing and deploying the Implant in this situation
+                   may result in loss of leaﬂet capture and insertion. Loss of
+                   leaflet capture and insertion may result in inadequate
+                   reduction of tricuspid regurgitation and may result in a
+                   single leaflet device attachment (SLDA).
+     21.4 If the grasp appears satisfactory, Lower the Gripper(s) onto the leaﬂets.
+          NOTE:          Simultaneous leaflet capture with both Grippers should be
+                         attempted first. If unsuccessful, Raise the Gripper(s) to release
+                         leaflet capture and Lower the Gripper(s) again to capture
+                         leaflets. Raising and lowering the Gripper(s) can be done
+                         simultaneously or independently.
+          WARNING: DO NOT advance the DC handle or adjust the position of
+                       the TriClip™ G5 System in a way that increases tension on
+                       the leaflets after grasping the leaﬂets, as valve injury may
+                       occur.
+          21.4.1 If both Grippers have not lowered:
+                 21.4.1.1 Lock the Implant.
+                 21.4.1.2 Confirm both Grippers have lowered.
+                 21.4.1.3 Unlock the Implant.
+          WARNING: Failure to conﬁrm that both Grippers have been lowered
+                       onto the leaﬂets prior to closing the Implant may result in
+                       loss of leaﬂet capture and insertion. Loss of leaflet capture
+                       and insertion may result in inadequate reduction of
+                       tricuspid regurgitation and may result in a single leaflet
+                       device attachment (SLDA).
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 20 of 68
+     21.5 Use echocardiographic imaging during grasping to verify proper leaflet
+          insertion of both leaflets. Satisfactory grasp is confirmed by observation of:
+          • Leaflet immobilization
+          • Single or multiple valve orifice(s)
+          • Limited leaﬂet mobility relative to the tips of both Implant Arms
+          21.5.1 If grasping fails to hold both leaﬂets and the Implant retracts to the
+                 RA, reposition the Implant.
+                  21.5.1.1    Raise the Gripper(s) and reorient the Implant Arms in the
+                              RA, as needed, then repeat grasping steps (refer to
+                              Section 20.0 and 21.0).
+                        21.5.1.1.1 If signiﬁcant repositioning is necessary, fully Close
+                                   the Implant Arms and Lower the Gripper(s) then
+                                   repeat positioning and grasping steps.
+          21.5.2 If the Sleeve limits DC travel during grasping, an inadequate grasp
+                 may require repositioning of the Implant.
+                 21.5.2.1 Raise the Gripper(s) and Open the Implant Arms to
+                             approximately 180 degrees and advance the DC handle.
+                             Repeat positioning and grasping steps as necessary (refer
+                             to Section 20.0 and 21.0).
+     21.6 Lock the Implant.
+          WARNING: Failure to Lock the Implant may result in loss of leaflet
+                   capture and insertion. Loss of leaflet capture and insertion
+                   may result in inadequate reduction of tricuspid
+                   regurgitation and may result in a single leaflet device
+                   attachment (SLDA).
+22.0 CLOSING THE TRICLIP™ G5 IMPLANT AND EVALUATING IMPLANT
+     POSITION
+     22.1 Slowly Close the Implant Arms just until the leaﬂets are coapted and TR is
+          sufficiently reduced. The Implant should maintain a distinct “V” shape.
+          Ensure to release tension on the DC as the Implant is closed and secure the
+          DC Fastener.
+          NOTE:          Use echocardiographic imaging during closing of the Implant to
+                         verify proper leaflet insertion of both leaflets throughout the
+                         entire closure sequence.
+          WARNING: DO NOT use excessive force to close the Implant further
+                   than is necessary to adequately reduce TR. Leaflet injury
+                   may occur. DO NOT close the Implant too tightly as it may
+                   result in inability to deploy the Implant. Inability to deploy
+                   the Implant may result in worsening tricuspid regurgitation,
+                   cardiac injury, a single leaflet device attachment (SLDA),
+                   and / or conversion to surgical intervention.
+          WARNING: Failure to turn the Arm Positioner at least ½ turn in the
+                   “Close” direction after locking the Implant may result in
+                   loss of leaflet capture and insertion. Loss of leaflet capture
+                   and insertion may result in inadequate reduction of
+                   tricuspid regurgitation and may result in a single leaflet
+                   device attachment (SLDA).
+EL2142807 (2025-07-15)              Printed on: 2025-07-21
+Page 21 of 68
+     22.2 Use echocardiographic imaging to verify valve function, satisfactory
+          coaptation, and insertion of both leaﬂets by observation of:
+          • Leaﬂet immobilization
+          • Single or multiple valve orifice(s)
+          • Limited leaﬂet mobility relative to the tips of both Implant Arms
+          • Adequate TR reduction
+          22.2.1 If the Implant position is not satisfactory, Raise the Gripper(s), Unlock
+                 the Implant and Invert the Implant Arms.
+          WARNING: Turning the Arm Positioner in the “Open” direction more
+                      than 1 full turn past an Implant Arm Angle of 180° or turning
+                      past when resistance is first noted may result in device
+                      damage which could cause the Implant to become non-
+                      functional and lead to embolization, and / or conversion to
+                      surgical intervention.
+          22.2.2 Retract the inverted Implant into the RA.
+          22.2.3 Conﬁrm both leaﬂets move freely.
+          22.2.4 Repeat positioning steps, as necessary, then repeat grasping steps.
+23.0 TRICLIP™ G5 SYSTEM PRE-DEPLOYMENT IMPLANT ASSESSMENT
+     23.1 Confirm DC Handle is secure.
+          WARNING: Do secure the DC Handle. If not done, it may result in
+                   leaflet injury or loss of leaflet insertion with resultant
+                   worsening tricuspid regurgitation, single leaflet device
+                   attachment (SLDA), and / or conversion to surgical
+                   intervention.
+     23.2 Test the Lock.
+          WARNING: DO NOT turn the Arm Positioner more than 1 turn in the
+                   “Open” direction from neutral. Failure to stop turning the
+                   Arm Positioner at 1 turn in the “Open” direction past neutral
+                   may result in Implant opening or device damage which
+                   could cause the Implant to become non-functional and lead
+                   to embolization and / or conversion to surgical intervention.
+     23.3 Turn the Arm Positioner to the “closed” side of the neutral position.
+     23.4 Perform mean pressure gradient assessment prior to proceeding to
+          deployment.
+24.0 TRICLIP™ G5 IMPLANT DEPLOYMENT
+     24.1 Deployment Step 1: Lock Line Removal
+          24.1.1 Increase the flush rate to the TDS Handle.
+          24.1.2 Lift the Lock Line Release Latch
+          WARNING: Once the latch is lifted, be careful to not inadvertently lower
+                   the latch prior to Lock Line removal. DO NOT Lift the Lock
+                   Line Release Latch until deployment. Premature lifting of
+                   the Lock Line Release Latch may result in the inability to
+                   Unlock the Implant.
+          24.1.3 Remove the Lock Knob.
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 22 of 68
+          WARNING: If resistance is felt during Lock Knob removal, stop and
+                       confirm the Lock Line Release Latch is fully lifted to the
+                       hard stop before continuing with Lock Knob removal.
+          24.1.4 Test the Lock.
+          NOTE:          The Implant Arms may open slightly (~5°) and then remain in a
+                         stable position. If Arms open more than slightly, Close the
+                         Implant Arms to the desired Arm position and re-Test the Lock.
+          WARNING: DO NOT turn the Arm Positioner more than 1 turn in the
+                      “Open” direction from neutral. Failure to stop turning the
+                      Arm Positioner at 1 turn in the “Open” direction past neutral
+                      may result in Implant opening or device damage which
+                      could cause the Implant to become non-functional and lead
+                      to embolization and / or conversion to surgical intervention.
+          24.1.5 Turn the Arm Positioner to Neutral.
+     24.2 Deployment Step 2: Delivery Catheter Shaft Detachment
+          24.2.1 Conﬁrm that the Arm Positioner is Neutral. Remove the Release Pin
+                 from the DC Handle.
+          24.2.2 Turn the Arm Positioner in the “Open” direction until the hard stop.
+          NOTE:          After the Release Pin is removed, turning the Arm Positioner in
+                         the “Open” direction will not open the Implant Arms.
+          24.2.3 Turn the Actuator Knob of the DC approximately 8 turns in the
+                 direction of the arrow printed on the Actuator Knob.
+                  If it is difficult to turn the Actuator Knob, STOP and confirm that the
+                  Arm Positioner has been turned in the “Open” direction until the hard
+                  stop.
+          WARNING: Stop turning the Actuator Knob when resistance is felt,
+                   otherwise it may result in inability to deploy the Implant.
+                   Inability to deploy the Implant may result in worsening
+                   tricuspid regurgitation, cardiac injury, a single leaflet device
+                   attachment (SLDA), and / or conversion to surgical
+                   intervention.
+          24.2.4 Retract the Actuator Knob approximately 0.5 cm after it is fully
+                 unthreaded.
+          24.2.5 Fully retract the Gripper Levers.
+          WARNING: Do retract the Gripper Levers fully prior to retracting the DC
+                   Handle. Failure to retract the Gripper Levers may result in
+                   higher forces to deploy the Implant. This may result in
+                   worsening tricuspid regurgitation, cardiac injury or a single
+                   leaflet device attachment (SLDA).
+          24.2.6 Release the DC Fastener, and slowly retract the DC Handle until the
+                 DC Radiopaque Ring is against the tip of the Sleeve.
+                  24.2.6.1 If resistance is felt during DC Detachment and Implant
+                           separation from the DC can be confirmed by fluoroscopy,
+                           confirm the Gripper Levers are fully retracted. If resistance
+                           is still felt, access the Gripper Lines.
+
+
+EL2142807 (2025-07-15)              Printed on: 2025-07-21
+Page 23 of 68
+                 24.2.6.2 If resistance is still felt during DC Detachment and Implant
+                          separation from the DC cannot be confirmed by
+                          fluoroscopy:
+                           24.2.6.2.1 Confirm that the Actuator Knob is retracted
+                                      approximately 0.5 cm beyond the fully exposed
+                                      Release Pin Groove and the Gripper Levers are
+                                      fully retracted.
+                           24.2.6.2.2 If resistance is still felt during DC Detachment,
+                                      confirm by fluoroscopy that the DC Shaft and the
+                                      Implant are coaxially aligned. If they are not
+                                      aligned, secure the DC fastener and slowly
+                                      translate the Stabilizer and / or rotate the Guide
+                                      until the angulation between the DC Shaft and the
+                                      Implant is reduced or eliminated (as observed
+                                      under fluoroscopic imaging).
+                          24.2.6.2.3 If resistance is still felt, release the DC Fastener,
+                                     retract the Actuator Knob an additional 0.5 cm.
+                          24.2.6.2.4 If resistance is still felt, secure the DC Fastener
+                                     and fully advance both Gripper Levers.
+                          24.2.6.2.5 If resistance is still felt, access the Gripper Lines.
+                          24.2.6.2.6 If resistance is still felt, secure the DC Fastener
+                                     and repeat alignment steps to reduce / eliminate
+                                     the angulation between the DC shaft and the
+                                     Implant (as observed under fluoroscopic
+                                     imaging).
+          24.2.7 Confirm that the DC Fastener is secure.
+          24.2.8 Confirm that the Implant position is stable.
+          24.2.9 Use echocardiographic imaging to verify valve function, satisfactory
+                 coaptation, and insertion of both leaflets by observation of:
+                 •   Leaﬂet immobilization
+                 •   Single or multiple valve oriﬁce(s)
+                 •   Limited leaﬂet mobility relative to the tips of both Implant Arms
+                 •   Adequate TR reduction
+         24.2.10 If placing an additional Implant proceed to Section 25.0 If not
+                 placing an additional Implant proceed to Section 26.0.
+25.0 ADDITIONAL TRICLIP™ G5 IMPLANT PLACEMENT
+     WARNING: Use caution not to displace or dislodge an implanted Implant
+              when placing an additional Implant; Implant detachment from
+              leaﬂet(s) may occur which may result in a single leaflet device
+              attachment (SLDA) or Implant embolization.
+     25.1 When placing an additional Implant, the following are recommended:
+          25.1.1 In the RA, ensure Implant Arms are oriented perpendicular to the line
+                 of coaptation and Grippers are raised.
+          25.1.2 Use both ﬂuoroscopy and echocardiography when crossing into the
+                 RV and during grasping.
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 24 of 68
+          25.1.3 Cross into the RV with an Implant Arm Angle of < 60 degrees.
+
+     WARNING: DO NOT use excessive force or retraction distance during
+              grasping. This may compromise leaflet capture and insertion.
+              Loss of leaflet capture and insertion may result in inadequate
+              reduction of tricuspid regurgitation and may result in a single
+              leaflet device attachment (SLDA).
+26.0 TRICLIP™ G5 DELIVERY SYSTEM REMOVAL
+     WARNING: When removing the TriClip™ G5 Delivery System while leaving
+              the Guide in place, always retract the Delivery System by pulling
+              only on the Sleeve Handle. Retracting the Delivery System by
+              pulling on the DC Handle may result in device damage and / or
+              device or component embolization, and may result in vascular
+              and / or cardiac injury.
+     WARNING: Do release the DC Fastener before releasing Sleeve curves
+              otherwise it may result in device damage and / or device or
+              component embolization.
+     WARNING: Use echocardiographic guidance while releasing Sleeve
+              deflection. Failure to do so may result in cardiac injury.
+     26.1 TriClip™ G5 Delivery System Removal After Implant Deployment
+          26.1.1 Removal of the Delivery System While Leaving the Guide in
+                 Place.
+                 26.1.1.1 Release the DC Fastener.
+                 26.1.1.2 Slowly release Sleeve deﬂection by rotating the F/E Knob to
+                          neutral.
+                 26.1.1.3 Secure DC Fastener once Sleeve curves are released.
+                 26.1.1.4 Straighten the Guide with the +/- Knob and turn the S/L
+                          Knob to neutral when the Delivery Catheter tip is free from
+                          the right atrial wall and the tricuspid valve.
+                 26.1.1.5 Release the DS Attach and retract the Delivery System
+                          approximately 10 cm into the Guide by pulling only on the
+                          Sleeve Handle.
+                 26.1.1.6 Confirm that the Introducer is still fully advanced in the
+                          Guide Hemostasis Valve.
+                 26.1.1.7 Retract the Delivery System by pulling only on the Sleeve
+                          Handle and position the Delivery Catheter tip inside the
+                          Introducer. Begin gently aspirating the Guide (starting
+                          when the Delivery System is approximately halfway into the
+                          Guide, approximately 40 cm retracted) using a 50-60 cc
+                          syringe.
+
+
+
+
+EL2142807 (2025-07-15)            Printed on: 2025-07-21
+Page 25 of 68
+                 26.1.1.8 Remove the Delivery System and the Introducer
+                          simultaneously from the Guide by pulling on the Sleeve
+                          shaft and Introducer. Ensure the Delivery Catheter tip is
+                          inside the Introducer by visualizing the Proximal Sleeve
+                          alignment marker just outside the Introducer. Aspirate the
+                          Guide during removal of the Delivery System and
+                          Introducer. Cover Guide Hemostasis Valve with finger upon
+                          Delivery System removal. If necessary, position the Guide
+                          Handle below the level of the RA to allow blood to fill the
+                          Guide Lumen.
+                           WARNING:         DO NOT remove the tip of the Delivery
+                                            System from the Guide without removing
+                                            the Introducer simultaneously. Failure to
+                                            remove the Introducer simultaneously
+                                            may result in air embolism.
+                           WARNING:         DO NOT create a vacuum while removing
+                                            the Delivery System from the Guide; air
+                                            may enter the lumen of the Guide which
+                                            may result in air embolism.
+                 26.1.1.9 Aspirate using a 50-60 cc syringe to remove any remaining
+                          air from the Guide.
+          26.1.2 Removal of the Delivery System and Guide simultaneously.
+                 26.1.2.1 Release the DC Fastener.
+                 26.1.2.2 Slowly release Sleeve curves by rotating the F/E Knob to
+                          neutral.
+                 26.1.2.3 Secure the DC Fastener once Sleeve curves are released.
+                 26.1.2.4 Straighten the Guide with the +/- Knob and turn the S/L
+                          Knob to neutral when the Delivery Catheter tip is free from
+                          the right atrial wall and the tricuspid valve.
+                 26.1.2.5 Release the DS Attach and retract the Delivery System
+                          approximately 10 cm into the Guide by pulling only on the
+                          Sleeve Handle.
+                 26.1.2.6 Carefully retract the Guide tip into the RA / IVC junction.
+                          The Guide may be straightened further with the +/- Knob if
+                          desired.
+                 26.1.2.7 Remove the TriClip™ G5 System from the femoral vein,
+                          while providing hemostasis.
+     26.2 TriClip™ G5 Delivery System Removal With TriClip™ G5 Implant
+          Attached
+          26.2.1 Removal of the Delivery System while leaving the Guide in place.
+                 26.2.1.1 Conﬁrm Implant is locked.
+
+
+
+
+EL2142807 (2025-07-15)            Printed on: 2025-07-21
+Page 26 of 68
+                 26.2.1.2 Fully Close the Implant Arms and continue to turn the Arm
+                          Positioner until it is no longer possible to rotate the Arm
+                          Positioner. Return the Arm Positioner to Neutral.
+                           WARNING: Failure to follow Step 26.2.1.2 prior to
+                                    retraction into the Guide may result in
+                                    device damage, inability to remove the
+                                    Delivery System and / or vascular and
+                                    cardiac injury.
+                 26.2.1.3 Lower the Gripper(s).
+                 26.2.1.4 Release the DC Fastener and retract the DC Handle until
+                          the DC Radiopaque Ring is fully against the tip of the
+                          Sleeve.
+                 26.2.1.5 Slowly release Sleeve deﬂection by rotating the F/E Knob to
+                          neutral.
+                 26.2.1.6 Rotate DC handle such that the Implant arms are
+                          perpendicular to the guide curve plane.
+                 26.2.1.7 Secure the DC Fastener once Sleeve curves are released.
+                 26.2.1.8 Straighten the Guide with the +/- Knob and turn the S/L
+                          Knob to neutral when the tip of the Implant is free from the
+                          right atrial wall and the tricuspid valve.
+                           WARNING: Straighten the Guide prior to retracting the
+                                    Implant into the Guide. If not done, it may
+                                    result in device damage, inability to
+                                    remove the Delivery System and / or
+                                    vascular and cardiac injury.
+                 26.2.1.9 Release the DS Attach and retract the Delivery System into
+                          the Guide by retracting only on the Sleeve Handle.
+                           NOTE:           If resistance is noted, advance and rotate the
+                                           Implant by rotating the DC Handle then retract
+                                           the Delivery System into the Guide. The
+                                           Guide and / or Sleeve position may also be
+                                           adjusted to facilitate Implant entry into the
+                                           Guide. If necessary, retract the Sleeve or
+                                           advance the Implant to create a 2-3 cm
+                                           separation to facilitate Implant entry into the
+                                           Guide.
+                           WARNING: Use fluoroscopic guidance while retracting
+                                    the Delivery System into the Guide.
+                                    Failure to do so may result in device
+                                    damage, inability to remove the Delivery
+                                    System and / or vascular and cardiac
+                                    injury.
+                 26.2.1.10 Conﬁrm that the Introducer is still fully advanced in the
+                           Guide Hemostasis Valve.
+
+
+
+EL2142807 (2025-07-15)            Printed on: 2025-07-21
+Page 27 of 68
+                 26.2.1.11 Retract the Delivery System by pulling only on the Sleeve
+                           Handle and position the Implant inside the Introducer.
+                           Begin gently aspirating the Guide (starting when the
+                           Delivery System is approximately halfway into the Guide,
+                           approximately 40 cm retracted) using a 50-60 cc syringe.
+                 26.2.1.12 Remove Delivery System and Introducer simultaneously
+                           from the Guide by pulling on the Sleeve shaft and
+                           Introducer. Ensure the Implant is inside the Introducer by
+                           visualizing the Proximal Sleeve alignment marker just
+                           outside the Introducer. Aspirate the Guide during removal
+                           of the Delivery System and Introducer. If necessary,
+                           position the Guide Handle below the level of the RA to allow
+                           blood to ﬁll the Guide lumen.
+                           WARNING: DO NOT remove the tip of the Delivery
+                                    System from the Guide without removing
+                                    the Introducer simultaneously and with the
+                                    Implant inside the Introducer. Failure to
+                                    remove the Introducer simultaneously may
+                                    result in air embolism.
+                           WARNING: DO NOT create a vacuum while removing
+                                    the Delivery System from the Guide; air
+                                    may enter the lumen of the Guide which
+                                    may result in air embolism.
+                           WARNING: DO NOT re-use the Delivery System after
+                                    removal. Replace the Delivery System
+                                    with a new device. Reinserting the
+                                    Delivery System after removal may result
+                                    in inability to open the Implant. Inability to
+                                    open the Implant may result in valve injury
+                                    or lead to deployment of the Implant in an
+                                    unintended location.
+                 26.2.1.13 Aspirate using a 50-60 cc syringe to remove any remaining
+                           air from the Guide.
+          26.2.2 Simultaneous removal of Delivery System and Guide.
+                 26.2.2.1 Conﬁrm Implant is locked.
+                 26.2.2.2 Fully Close the Implant Arms and continue to turn the Arm
+                          Positioner until it is no longer possible to rotate the Arm
+                          Positioner. Return the Arm Positioner to Neutral.
+                          WARNING: Failure to follow Step 26.2.2.2 prior to
+                                       retraction into the Guide may result in
+                                       device damage, inability to remove the
+                                       Delivery System and / or vascular and
+                                       cardiac injury.
+                 26.2.2.3 Lower the Gripper(s).
+                 26.2.2.4 Release the DC Fastener and retract the DC Handle until
+                          the DC Radiopaque Ring is fully against the tip of the
+                          Sleeve.
+
+EL2142807 (2025-07-15)            Printed on: 2025-07-21
+Page 28 of 68
+                  26.2.2.5 Slowly release Sleeve deﬂection by rotating the F/E Knob to
+                           neutral.
+                  26.2.2.6 Rotate DC handle such that the Implant Arms are
+                           perpendicular to the guide curve plane.
+                  26.2.2.7 Secure the DC Fastener once Sleeve curves are released.
+                  26.2.2.8 Straighten the Guide with the +/- Knob and turn the S/L
+                           Knob to neutral when the tip of the Implant is free from the
+                           right atrial wall and the tricuspid valve.
+                            WARNING:          Straighten the Guide prior to retracting
+                                              the Implant into the Guide. Failure to do
+                                              so may result in device damage, inability
+                                              to remove the Delivery System and / or
+                                              vascular and cardiac injury.
+                  26.2.2.9 Release the DS Attach and retract the Delivery System
+                           approximately 10 cm into the Guide by retracting only on
+                           the Sleeve Handle.
+                            NOTE:             If resistance is noted, advance and rotate
+                                              the Implant by rotating the DC Handle then
+                                              retract the Delivery System into the Guide.
+                                              The Guide and / or Sleeve position may
+                                              also be adjusted to facilitate Implant entry
+                                              into the Guide. If necessary, retract the
+                                              Sleeve or advance the Implant to create a
+                                              2-3 cm separation to facilitate Implant entry
+                                              into the Guide.
+                            WARNING:          Use fluoroscopic guidance while
+                                              retracting the Delivery System into the
+                                              Guide. Failure to do so may result in
+                                              device damage, inability to remove the
+                                              Delivery System and / or vascular and
+                                              cardiac injury.
+                  26.2.2.10 Carefully retract the Guide tip into the RA / IVC junction.
+                            The Guide may be straightened further with the +/- Knob if
+                            desired.
+                  26.2.2.11 Remove the TriClip™ G5 System from the femoral vein,
+                            while providing hemostasis.
+27.0 DISPOSAL
+After use, these devices and packaging should be appropriately classified for disposal,
+e.g., biohazard, sharps, non-hazardous waste etc., and carefully disposed of in
+compliance with facility procedures and applicable laws and regulations.
+
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 29 of 68
+28.0 CLINICAL DATA
+     28.1 TRILUMINATE™ Pivotal Trial
+     The TRILUMINATE Pivotal Trial was performed to establish safety and
+     effectiveness of transcatheter edge-to-edge repair with the TriClip G4 System for
+     subjects with symptomatic severe tricuspid regurgitation (TR) despite optimal
+     medical therapy (OMT) who were at intermediate or greater estimated risk for
+     mortality or morbidity with tricuspid valve surgery in the US, European Union, and
+     Canada under IDE #G170118 (“TRILUMINATE Pivotal”). A summary of the clinical
+     study is presented below.
+     The TriClip System and TriClip G4 System (a next-generation system) were used
+     in the pivotal trial. Minor design changes were made to the TriClip G4 Delivery
+     System compared to the TriClip Delivery System, but the same TriClip Steerable
+     Guide Catheter was used with both generations. The TriClip G4 System added two
+     additional clip sizes compared to the TriClip System, resulting in a total of four clip
+     length and width options with similar designs and no difference in materials or
+     principle of operation. The minor changes and additional implant sizes were not
+     anticipated to impact TRILUMINATE Pivotal Trial outcomes.
+
+     28.2      Study Design
+     The TRILUMINATE Pivotal Trial was a prospective, multicenter, randomized (1:1),
+     controlled clinical trial designed to test the superiority of transcatheter tricuspid
+     repair using the TriClip device plus OMT (device group) vs. OMT alone (control
+     group) in subjects with severe, symptomatic TR who were determined by the site’s
+     local heart team to be at intermediate or greater risk for mortality or morbidity with
+     open heart surgery. In addition to the Randomized Cohort, the trial also included a
+     Single-Arm Cohort. After being enrolled into the trial, subjects were assigned to a
+     cohort based on the following criteria:
+      • Randomized Cohort: High likelihood that the TriClip could reduce TR to
+         moderate or less (i.e., less than or equal to grade 2).
+      • Single-Arm Cohort: High likelihood that the TriClip could reduce TR by at least
+         1 grade but a low likelihood that TR will be reduced to moderate or less.
+     This determination was based on multiple considerations, including but not limited
+     to:
+      • Baseline TR severity
+      • The presence of cardiovascular implantable electronic device (CIED) leads
+         across the tricuspid valve
+      • The coaptation gap width
+     A Cardiac Computed Tomography/Magnetic Resonance Imaging (CT/MRI)
+     imaging sub-study (referred to as imaging sub-study) was conducted for a
+     maximum of 100 subjects to provide insights into cardiac reverse remodeling and
+     quantitative “gold standard” measurements to assess TR severity and the effect of
+     changes in TR on clinical endpoints.
+
+
+
+
+EL2142807 (2025-07-15)              Printed on: 2025-07-21
+Page 30 of 68
+      The TRILUMINATE™ Pivotal Trial utilized: an independent Eligibility Committee
+      (EC), which confirmed that the subject met enrollment criteria, assessed anatomic
+      suitability for the TriClip device, and assigned eligible patients to the Randomized
+      or Single-Arm Cohort; an Echocardiography Core Laboratory (ECL), which
+      reviewed screening echocardiography images to confirm patient eligibility and
+      assessed TR severity, right ventricular measurements, and other measures at
+      baseline and follow-up; a Clinical Events Committee (CEC), which adjudicated all
+      adverse events per pre-established definitions; and a Data Monitoring Committee
+      (DMC), which monitored the safety of subjects throughout trial. The study was
+      unblinded except for the research staff administering Kansas City Cardiomyopathy
+      Questionnaire (KCCQ), 6-minute walk test, SF-36, and New York Heart
+      Association (NYHA) functional classification assessments.
+      The trial was to enroll up to 550 patients in the Randomized Cohort and up to 200
+      patients in the Single-Arm Cohort. Up to 3 roll-in patients per implanter were to be
+      enrolled at sites with implanters who did not have prior or recent experience using
+      the TriClip device.
+             28.2.1 Inclusion and Exclusion Criteria
+             Enrollment in the TRILUMINATE Pivotal Trial was limited to patients who met
+             the inclusion criteria listed in Table 2.
+Table 2: Inclusion and Exclusion Criteria
+ Inclusion Criteria
+     1. In the judgment of the site local heart team, subject has been adequately treated per applicable
+         standards (including medical management) and stable for at least 30 days as follows:
+              •    Optimized medical therapy for treatment of TR (e.g., diuretics)
+              •    Medical and/or device therapy, for mitral regurgitation, atrial fibrillation, coronary artery
+                   disease and heart failure
+         The EC will confirm that the subject has been adequately treated medically.
+     2. Subject is symptomatic with Severe TR despite being optimally treated. TR severity is
+         determined by the assessment of a qualifying transthoracic echocardiogram (TTE) and
+         confirmed by the ECL. The ECL will also request a transesophageal echocardiogram (TEE) to
+         confirm TR etiology. Note: If any cardiac procedure(s) occur after eligibility was determined, TR
+         severity will need to be re-assessed 30 days after the cardiac procedure(s).
+     3. The cardiac surgeon of the site local heart team concur that the patient is at intermediate or
+         greater estimated risk for mortality or morbidity with tricuspid valve surgery.
+     4. New York Heart Association (NYHA) Functional Class II, III or ambulatory class IV
+     5. In the judgment of the TriClip implanting Investigator, femoral vein access is determined to be
+         feasible and can accommodate a 25 Fr catheter.
+     6. Age ≥18 years at time of consent.
+     7. Subject must provide written informed consent prior to any trial related procedure.
+ Exclusion Criteria
+     1. Systolic pulmonary artery pressure (sPAP) > 70 mmHg or fixed pre-capillary pulmonary
+         hypertension as assessed by right heart catheterization (RHC).
+     2. Severe uncontrolled hypertension Systolic Blood Pressure (SBP) ≥ 180 mmHg and/or Diastolic
+         Blood Pressure (DBP) ≥ 110 mm Hg)
+     3. Any prior tricuspid valve procedure that would interfere with placement of the TriClip device
+     4. Indication for left-sided (e.g. severe aortic stenosis, severe mitral regurgitation) or pulmonary
+         valve correction prior 60 days. Note: Patients with concomitant Mitral and tricuspid valve
+         disease will have the option of getting their MR treated, and wait 60 days prior to being
+         reassessed for the trial.
+     5. Pacemaker or ICD leads that would prevent appropriate placement of the TriClip device.
+     6. Tricuspid valve stenosis - Defined as a tricuspid valve orifice of ≤ 1.0 cm2 and/or mean gradient
+         ≥5 mmHg as measured by the ECL
+     7. Left Ventricular Ejection Fraction (LVEF) ≤20%
+
+
+
+EL2142807 (2025-07-15)                       Printed on: 2025-07-21
+Page 31 of 68
+    8.  Tricuspid valve leaflet anatomy which may preclude clip implantation, proper device positioning
+        on the leaflets or sufficient reduction in TR. This may include:
+              a. Evidence of calcification in the grasping area
+              b. Presence of a severe coaptation defect (> 2cm) of the tricuspid leaflets.
+              c. Severe leaflet defect(s) preventing proper device placement
+              d. Ebstein Anomaly - Identified by having a normal annulus position while the valve
+                   leaflets are attached to the walls and septum of the right ventricle.
+    9. Tricuspid valve anatomy not evaluable by TTE and TEE
+    10. Active endocarditis or active rheumatic heart disease or leaflets degenerated from rheumatic
+        disease (i.e. noncompliant, perforated).
+    11. MI or known unstable angina within prior 30 days
+    12. Percutaneous coronary intervention within prior 30 days
+    13. Hemodynamic instability defined as SBP < 90 mmHg with or without afterload reduction,
+        cardiogenic shock or the need for inotropic support or intra-aortic balloon pump or other
+        hemodynamic support device.
+    14. Cerebrovascular Accident (CVA) within prior 90 days
+    15. Chronic dialysis
+    16. Bleeding disorders or hypercoagulable state
+    17. Active peptic ulcer or active gastrointestinal (GI) bleeding
+    18. Contraindication, allergy or hypersensitivity to dual antiplatelet and anticoagulant therapy
+        Note: Contraindication to either antiplatelet or anticoagulant therapy (individually not both
+        therapies) is not an exclusion criterion.
+    19. Ongoing infection requiring current antibiotic therapy (if temporary illness, patients may enroll 30
+        days after discontinuation of antibiotics with no active infection).
+    20. Known allergy or hypersensitivity to device materials
+    21. Evidence of intracardiac, inferior vena cava (IVC), or femoral venous mass, thrombus or
+        vegetation.
+    22. Life expectancy of less than 12 months
+    23. Subject is currently participating in another clinical trial that has not yet completed its primary
+        endpoint.
+    24. Subject is currently participating in another clinical investigation for valvular heart disease(s).
+    25. Pregnant or nursing subjects and those who plan pregnancy during the clinical investigation
+        follow-up period. Female subjects of child-bearing potential are required to have a negative
+        pregnancy test done within 7 days of the baseline visit per site standard test. Female patients of
+        childbearing potential should be instructed to use safe contraception (e.g., intrauterine devices,
+        hormonal contraceptives: contraceptive pills, implants, transdermal patches hormonal vaginal
+        devices, injections with prolonged release.) It is accepted, in certain cases, to include subjects
+        having a sterilized regular partner or subjects using a double barrier contraceptive method.
+    26. Presence of other anatomic or comorbid conditions, or other medical, social, or psychological
+        conditions that, in the investigator’s opinion, could limit the subject’s ability to participate in the
+        clinical investigation or to comply with follow-up requirements, or impact the scientific soundness
+        of the clinical investigation results.
+
+
+            28.2.2 Follow-Up Schedule
+            All subjects were required to have a Treatment visit within 14 days of
+            randomization (within 14 days of the baseline visit for single-arm subjects).
+            At this visit, Device subjects underwent the TriClip™ Procedure, and Control
+            subjects were seen by a heart failure specialist and underwent a physical
+            exam, including vital signs, cardiac health status and evaluation of heart
+            failure medications.
+            The follow-up time points included 30 days, 6 months, and 12 months from
+            the date of the treatment visit and will continue annually through 5 years.
+            The device group patients were also assessed at discharge.
+            Follow-up visit assessments included physical assessment and patient
+            interview, laboratory measurements, imaging tests, and health
+            status/quality-of-life questionnaire. Adverse events and complications
+            were recorded at all visits.
+
+EL2142807 (2025-07-15)                     Printed on: 2025-07-21
+Page 32 of 68
+             28.2.3 Statistical Analysis Population
+             The analysis populations for the TRILUMINATE™ Pivotal Trial are shown in
+             Table 3.
+   Table 3: Statistical Analysis Populations
+      Analysis
+                                                              Definition
+     Population
+     Randomized Cohort
+     Intent-to-        All patients randomized in the trial.
+     Treat (ITT)
+     As-Treated        ITT patients grouped by treatment received.*
+     (AT)
+     Per               ITT patients who received assigned randomized treatment according to
+     Protocol          protocol and followed all major study requirements.
+     (PP)
+     Attempted         Patients randomized to the device group with an attempted TriClip ™
+     Procedure         Procedure (i.e., femoral vein puncture performed).
+     (AP)
+     Single-Arm Cohort
+     Attempted         Patients with an attempted TriClip procedure (i.e., femoral vein
+     Procedure         puncture performed).
+     (AP)
+     *
+      Patients randomized to device group who died or had heart failure hospitalization prior to the
+     TriClip™ Procedure are considered to be in the Control group regardless of randomization. Patients
+     randomized to device group who died or had heart failure hospitalization after (but not prior to) a TriClip
+     procedure are considered to be in the device group regardless of randomization. Patients who did not
+     experience death or heart failure hospitalization at any time during follow-up were assigned to the group
+     that constituted >50% of their follow-up duration.
+
+
+             28.2.4     Randomized Cohort Clinical Endpoints
+             Primary Endpoint
+             The primary endpoint was a hierarchical composite of the following
+             components at 12 months:
+               1. Time to all-cause death or tricuspid valve surgery
+               2. Number of Heart Failure (HF) Hospitalizations
+               3. An Improvement of ≥15 points in KCCQ from baseline
+             The hypothesis for the primary endpoint was as follows:
+             H0: None of the components are different between the Treatment and Control
+             group.
+             H1: At least one component is different between the Treatment and Control
+             group.
+
+
+
+
+EL2142807 (2025-07-15)                         Printed on: 2025-07-21
+Page 33 of 68
+              The alternative hypothesis that the device group was superior to the control
+              group in at least one component of the primary endpoint was tested using the
+              Finkelstein-Schoenfeld methodology (Finkelstein et al. 1999) at a two-sided
+              significance level of 5%. A sample size of 350 randomized patients was
+              simulated to provide approximately 83% power to reject the null hypothesis at
+              a two-sided significance level of 5%. The 350 randomized ITT patients was
+              defined as the Primary Analysis Population.
+              As a supplementary analysis, the win-ratio method (Pocock et al. 2012) was
+              used to evaluate the treatment effect of the composite endpoint. In this
+              analysis, each pair of patients from the device group and the control group
+              were compared in the order of the hierarchy defined above, and the win ratio
+              was defined as the number of winners divided by the number of losers in the
+              device group.
+              An adaptive design with sample size re-estimation was planned when the first
+              150 randomized patients completed the 12-month follow-up visit. At that time,
+              an independent statistician was unblinded to the interim data and calculated
+              the conditional power for the primary endpoint. The interim analysis
+              concluded that the original 350-patient sample size would provide adequate
+              power to assess the primary endpoint.
+              Secondary Endpoints
+              Four powered secondary endpoints were assessed hierarchically at 12
+              months (see Table 4).
+Table 4: Ordered List of Secondary Endpoints for Hierarchical Testing
+(Randomized Cohort)
+               Secondary                                                                  Analysis          Significance
+ Order                                 Null and Alternative Hypotheses
+                Endpoint                                                                 Population            Level
+             Freedom from
+             MAEs at 30                        𝐻0 : 𝑃𝐷 (𝑀𝐴𝐸𝑠) ≤ 90%                                              2.5%
+    1                                                                                          AP
+             days post-                        𝐻1 : 𝑃𝐷 (𝑀𝐴𝐸𝑠) > 90%                                          (one-sided)
+             procedure
+             Change in
+             KCCQ score at             𝐻0 : 𝜇𝐷 (∆𝐾𝐶𝐶𝑄) − 𝜇𝐶 (∆𝐾𝐶𝐶𝑄) = 0                                           5%
+    2                                                                                         ITT
+             12 months over            𝐻1 : 𝜇𝐷 (∆𝐾𝐶𝐶𝑄) − 𝜇𝐶 (∆𝐾𝐶𝐶𝑄) ≠ 0                                       (two-sided)
+             baseline
+             TR reduction to
+             moderate or               𝐻0 : 𝑃𝐷 (𝑇𝑅 ≤ 2) − 𝑃𝐶 (𝑇𝑅 ≤ 2) = 0                                         5%
+    3                                                                                         ITT
+             less at 30-day            𝐻1 : 𝑃𝐷 (𝑇𝑅 ≤ 2) − 𝑃𝐶 (𝑇𝑅 ≤ 2) ≠ 0                                     (two-sided)
+             visit
+             Change in
+             6MWD at 12               𝐻0 : 𝜇𝐷 (∆6𝑀𝑊𝐷) − 𝜇𝐶 (∆6𝑀𝑊𝐷) = 0                                            5%
+    4                                                                                         ITT
+             months over              𝐻1 : 𝜇𝐷 (∆6𝑀𝑊𝐷) − 𝜇𝐶 (∆6𝑀𝑊𝐷) ≠ 0                                        (two-sided)
+             baseline
+ MAEs: major adverse events, including cardiovascular mortality, new onset renal failure, endocarditis requiring surgery, and
+ non-elective cardiovascular surgery for TriClip device-related adverse events post-index procedure; KCCQ: Kansas City
+ Cardiomyopathy Questionnaire; 6MWD: 6-minute walk distance; AP: attempted procedure; ITT: intent-to-treat; H0: null
+ hypothesis; H1: alternative hypothesis; PD(MAEs): proportion of TriClip patients free from MAEs; μD(∆KCCQ) and
+ μC(∆KCCQ): mean KCCQ score change in TriClip and control patients; PD(TR≤2) and PC(TR≤2): proportion of TriClip and
+ control patients with ≤moderate TR; μD(∆6MWD): mean 6MWD change in TriClip and control patients.
+
+
+
+
+EL2142807 (2025-07-15)                          Printed on: 2025-07-21
+Page 34 of 68
+          Additional Outcomes
+          Additional outcomes assessed for the Randomized Cohort included the
+          following:
+          • Technical success at exit from procedure room: alive with successful
+            access, delivery and retrieval of the device delivery system, and
+            deployment and correct positioning of a clip, and no need for additional
+            unplanned or emergency surgery or re-intervention related to the device or
+            access procedure
+          • Device success at 30-days post-procedure: alive with original intended
+            clip(s) in place, and no additional surgical or interventional procedures
+            related to access or device since completion of the original procedure, and
+            intended performance of the clip(s) (i.e., ≥1 grade improvement in TR
+            severity, no embolization, single leaflet device attachment, absence of
+            para-device complications)
+          • Procedural success at 30-days post-procedure: device success, and no
+            device- or procedure-related serious adverse event
+          • Echocardiographic parameters of tricuspid valve and cardiac function
+          • Clinical and functional parameters
+
+          28.2.5     Single-Arm Cohort Clinical Endpoints
+          Primary Endpoint
+          The primary endpoint was survival at 12 months plus a KCCQ score
+          improvement of≥10 points compared to baseline, tested in the AP population.
+          The null(H0) and alternative(H1) hypotheses for primary endpoint were as follows:
+          H0: 𝑃(12𝑀) ≤ 30%
+          H1: 𝑃(12𝑀) > 30%
+          Where 30% was a performance goal based on the expected TriClip patient
+          survival rate and the KCCQ result observed in the COAPT trial control group
+          (NCT01626079; Stone et al. 2018). A sample size of 100 patients was
+          estimated to provide 90% power to reject the null hypothesis at a one-sided
+          significance level of 2.5%.
+
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 35 of 68
+              Secondary Endpoints
+              Five powered secondary endpoints were assessed hierarchically at 12
+              months (see Table 5)
+Table 5: Ordered List of Secondary Endpoints for Hierarchical Testing
+(Single-arm Cohort)
+                  Secondary                  Null and Alternative                Analysis             Significance
+ Order
+                   Endpoint                      Hypotheses                     Population               Level
+             TR reduction by at
+             least one grade at            𝐻0 : 𝑃𝐷 (∆𝑇𝑅 ≥ 1) ≤ 50%                                        2.5%
+    1                                                                                AP
+             30 days post-                 𝐻1 : 𝑃𝐷 (∆𝑇𝑅 ≥ 1) > 50%                                     (one-sided)
+             procedure
+             Freedom from
+                                             𝐻0 : 𝑃𝐷 (𝑀𝐴𝐸𝑠) ≤ 80%                                         2.5%
+    2        MAEs at 30 days                                                         AP
+                                             𝐻1 : 𝑃𝐷 (𝑀𝐴𝐸𝑠) > 80%                                      (one-sided)
+             post-procedure
+             Change in 6MWD
+                                             𝐻0 : 𝜇𝐷 (∆6𝑀𝑊𝐷) ≤ 0                                          2.5%
+    3        at 12 months over                                                       AP
+                                             𝐻1 : 𝜇𝐷 (∆6𝑀𝑊𝐷) > 0                                       (one-sided)
+             baseline
+             Freedom from all-
+             cause mortality and
+                                           𝐻0 : 𝑃𝐷 (𝑆𝑢𝑟𝑣𝑖𝑣𝑎𝑙) ≤ 65%                                       2.5%
+    4        tricuspid valve                                                         AP
+                                           𝐻1 : 𝑃𝐷 (𝑆𝑢𝑟𝑣𝑖𝑣𝑎𝑙) > 65%                                    (one-sided)
+             surgery at 12
+             months
+             Recurrent HF
+                                          𝐻0 : 𝜆𝐷 (𝑃𝑅𝐸) ≤ 𝜆𝐷 (𝑃𝑂𝑆𝑇)                                       2.5%
+    5        hospitalizations at                                                     AP
+                                          𝐻1 : 𝜆𝐷 (𝑃𝑅𝐸) > 𝜆𝐷 (𝑃𝑂𝑆𝑇)                                    (one-sided)
+             12 months
+ TR: tricuspid regurgitation; MAEs: major adverse events, including cardiovascular mortality, new onset renal failure,
+ endocarditis requiring surgery, and non-elective cardiovascular surgery for TriClip device-related adverse events post-
+ index procedure; 6MWD: 6-minute walk distance; AP: attempted procedure; HF: heart failure; H0: null hypothesis; H1:
+ alternative hypothesis; PD(∆TR≥1): proportion of TriClip patients with TR reduction by at least 1 grade; PD(MAEs):
+ probability of freedom from any MAE; μD(∆6MWD): mean 6MWD change; λD(PRE) and λD(POST): annualized event rates
+ for recurrent HF hospitalizations within 12 months pre- and post-procedure.
+
+
+
+
+EL2142807 (2025-07-15)                         Printed on: 2025-07-21
+Page 36 of 68
+     28.3      Accountability Of The PMA Cohort
+     The database for this PMA reflected data collected through April 24, 2023. A total
+     of 936 eligible patients were enrolled between August 21, 2019 and June 29, 2022
+     at 68 sites in the US, Canada, and Europe. Of these patients, 901 were approved
+     by the Eligibility Committee and were randomized or had an attempted procedure,
+     including 141 in the Roll-in Cohort, 572 in the Randomized Cohort, and 188 in the
+     Single-Arm Cohort. Patient accountability is shown in Figure 2. As planned, the
+     primary endpoint analysis was performed on the first 350 patients (296 in the US,
+     38 in Canada, and 16 in Europe) in the Randomized Cohort and the first 100
+     patients with an attempted procedure in the Single-Arm Cohort (Figure 3).
+
+Figure 2: Patient Accountability
+
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 37 of 68
+         At the time of database lock, of the randomized patients eligible for the for the 1-
+         year visit, 100% in the device group, 99% in the control group, and 96% in the
+         single-arm cohort completed the visit, as shown in Table 6.
+Table 6: Visit Compliance
+                             Device Group                                Control Group                       Single-Arm Cohort
+
+
+
+
+                                                     1
+
+
+
+
+                                                                                              1
+
+
+
+
+                                                                                                                                       1
+                                     Actual Visits
+
+
+
+
+                                                                              Actual Visits
+
+
+
+
+                                                                                                                       Actual Visits
+                                                      Compliance
+
+
+
+
+                                                                                               Compliance
+
+
+
+
+                                                                                                                                        Compliance
+                          Expected
+
+
+
+
+                                                                   Expected
+
+
+
+
+                                                                                                            Expected
+                           Visits
+
+
+
+
+                                                                    Visits
+
+
+
+
+                                                                                                             Visits
+           Visit
+
+
+
+
+    Baseline              175        175             N/A           175        175             N/A           100        100             N/A
+
+    Index Procedure or
+                          172        172             100%          174        174             100%          100        100             100%
+    Treatment Visit
+
+    Discharge
+                          172        172             100%            -          -              -            100        100             100%
+    (Device group only)
+
+    30-Day Visit          170        168             99%           172        162             94%            97        96              99%
+
+    6-Month Visit         157        155             99%           158        155             98%            90        89              99%
+
+    12-Month Visit        152        152             100%          152        150             99%            84        81              96%
+
+                      2
+    Overall Follow-up     823        819             99%           656        641             98%           471        466             99%
+1
+Compliance calculated as Actual/Expected, where Expected excludes subject withdrawal.
+2
+Overall follow-up includes discharge through 12-month visit (excludes baseline visit).
+Figure 3: Disposition of Subjects
+
+
+
+
+EL2142807 (2025-07-15)                               Printed on: 2025-07-21
+Page 38 of 68
+       28.4     Study Population Demographics And Baseline Characteristics
+       Patient demographics and baseline characteristics for the primary analysis
+       population of the Randomized Cohort and Single-Arm Cohort are shown in
+       Table 7.
+
+       In both the randomized and single-arm cohorts, the majority of patients were
+       Caucasian and just over half were female. Over 90% of Randomized Cohort
+       patients had functional TR and atrial fibrillation and most patients were in NYHA
+       functional class II/III with an average KCCQ score in the mid-50s. Torrential TR
+       was present in approximately half of the patients in both the device and control
+       groups. Medication use at baseline was similar between the two randomized
+       groups. In all, demographics and baseline characteristics were similar between
+       Randomized Cohort Device and Control groups.
+
+       Compared to the Randomized Cohort, a higher proportion of Single-Arm Cohort
+       patients had torrential TR (74.0% vs. 50.9%), CIED-related TR (5.1% vs. 0%), had
+       a pacemaker or defibrillator (35.0% vs. 16.0%), and had larger coaptation gaps
+       (7.4 ± 2.7 vs. 5.5 ± 1.8 mm). Baseline covariate differences were expected
+       between the Randomized and Single-Arm cohorts as TR severity and complex
+       tricuspid anatomy were considered when assigning patients to each cohort.
+
+Table 7: Baseline Characteristics (Randomized Cohort, Primary Analysis
+Population)
+
+                                                      Summary Statistic*
+    Demographics and Baseline              Randomized Cohort (N=350)              Single-Arm
+         Characteristics                     Device              Control            Cohort
+                                            (N=175)              (N=175)            (N=100)
+ Demographics
+ Age                                    78.0 ± 7.4 (175)      77.8 ± 7.2 (175)   80.4 ± 6.2 (100)
+ Sex
+  Male                                  44.0% (77/175)        46.3% (81/175)     47.0% (47/100)
+  Female                                56.0% (98/175)        53.7% (94/175)     53.0% (53/100)
+ Race
+  Caucasian                            85.1% (149/175)        81.7% (143/175)    87.0% (87/100)
+  Black/African American                 4.0% (7/175)          5.7% (10/175)      7.0% (7/100)
+  Asian                                  4.0% (7/175)          4.0% (7/175)       3.0% (3/100)
+  American Indian/Alaska Native          0.6% (1/175)          0.0% (0/175)       0.0% (0/100)
+  Native Hawaiian/Pacific Islander       0.0% (0/175)          0.0% (0/175)       0.0% (0/100)
+  Declined or unable to disclose         6.3% (11/175)         8.6% (15/175)      3.0% (3/100)
+ Ethnicity
+  Hispanic or Latino                     2.9% (5/175)          5.1% (9/175)       4.0% (4/100)
+  Not Hispanic or Latino               93.1% (163/175)        87.4% (153/175)    94.0% (94/100)
+  Declined/unknown                       4.0% (7/175)          7.4% (13/175)      2.0% (2/100)
+                             2
+ Body mass index (BMI, kg/m )           27.0 ± 5.8 (175)      26.9 ± 5.2 (175)   26.3 ± 5.3 (100)
+
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 39 of 68
+                                                    Summary Statistic*
+     Demographics and Baseline           Randomized Cohort (N=350)             Single-Arm
+          Characteristics                  Device              Control           Cohort
+                                          (N=175)              (N=175)           (N=100)
+ Medical history
+ Atrial fibrillation                 87.4% (153/175)        93.1% (163/175)   93.0% (93/100)
+ Chronic obstructive pulmonary
+                                      10.9% (19/175)        13.7% (24/175)    22.0% (22/100)
+ disease
+ CRT/CRT-D/ICD/permanent
+                                      16.0% (28/175)        13.7% (24/175)    35.0% (35/100)
+ pacemaker
+ Dyslipidemia                        66.9% (117/175)        52.6% (92/175)    64.0% (64/100)
+ Hypertension                        81.1% (142/175)        80.6% (141/175)   83.0% (83/100)
+ Liver disease                         6.3% (11/175)         9.1% (16/175)     3.0% (3/100)
+ Renal disease                        35.4% (62/175)        35.4% (62/175)    36.0% (36/100)
+ Peripheral vascular disease           9.1% (16/175)        10.3% (18/175)    11.0% (11/100)
+ Prior aortic valve intervention      15.4% (27/175)        15.4% (27/175)    11.0% (11/100)
+ Prior mitral valve intervention      25.7% (45/175)        24.0% (42/175)    36.0% (36/100)
+ Echocardiography measurements
+ TR severity
+   Trace                               0.0% (0/173)          0.0% (0/165)       0.0% (0/96)
+   Mild                                0.0% (0/173)          0.0% (0/165)       0.0% (0/96)
+   Moderate                            2.3% (4/173)          1.2% (2/165)       0.0% (0/96)
+   Severe grade 3 (severe)            25.4% (44/173)        29.7% (49/165)      9.4% (9/96)
+   Severe grade 4 (massive)           21.4% (37/173)        18.2% (30/165)    16.7% (16/96)
+   Severe grade 5 (torrential)        50.9% (88/173)        50.9% (84/165)    74.0% (71/96)
+ TR etiology
+   Functional                        94.8% (165/174)        92.9% (158/170)   85.9% (85/99)
+   Degenerative                        2.3% (4/174)          1.2% (2/170)       5.1% (5/99)
+   Mixed                               2.9% (5/174)          5.9% (10/170)      4.0% (4/99)
+   Pacer-related                       0.0% (0/174)          0.0% (0/170)       5.1% (5/99)
+ Coaptation gap (mm)                 5.5 ± 1.8 (137)        5.2 ± 1.7 (142)    7.4 ± 2.7 (75)
+ Health status
+                                        56.0 ± 23.4           54.1 ± 24.2
+  KCCQ overall summary score                                                  54.5 ± 22.6 (99)
+                                           (175)                 (174)
+                                       240.5 ± 117.1         253.6 ± 129.1     237.7 ± 120.4
+  6MWD (m)
+                                           (164)                 (169)             (97)
+  NYHA functional class
+    Class I                            0.0% (0/175)          0.0% (0/175)      0.0% (0/100)
+    Class II                          40.6% (71/175)        44.6% (78/175)    41.0% (41/100)
+    Class III                        57.1% (100/175)        52.0% (91/175)    53.0% (53/100
+    Class IV                           2.3% (4/175)          3.4% (6/175)      6.0% (6/100)
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 40 of 68
+                                                               Summary Statistic*
+     Demographics and Baseline                      Randomized Cohort (N=350)                    Single-Arm
+          Characteristics                             Device                 Control               Cohort
+                                                     (N=175)                 (N=175)               (N=100)
+ Medication use
+  Beta-blockers                                 72.6% (127/175)          73.1% (128/175)       74.0% (74/100)
+  ACE-I or ARBs                                  42.3% (74/175)          45.1% (79/175)        41.0% (41/100)
+  Vasodilators                                   10.9% (19/175)          12.0% (21/175)        12.0% (12/100)
+  Diuretics                                     97.1% (170/175)          98.9% (173/175)       98.0% (98/100)
+ CRT: cardiac resynchronization therapy; CRT-D: cardiac resynchronization therapy defibrillator; ICD: implantable
+ cardioverter-defibrillator; KCCQ: Kansas City Cardiomyopathy Questionnaire; 6MWD: 6-minute walk distance; NYHA:
+ New York Heart Association; ACE-I: angiotensin-converting enzyme 1; ARBs: angiotensin receptor blockers.
+ *
+   Continuous measures – Mean ± standard deviation (total no.); Categorical measures - % (no./total no.)
+
+
+      28.5        Safety And Effectiveness Results
+                  28.5.1 Primary Endpoint- Randomized Cohort
+                  The Randomized Cohort primary endpoint analysis results are shown in
+                  Table 8. The Finkelstein-Schoenfeld test statistic result was 2.16 with a 2-
+                  sided p-value of 0.0311, which is less than the pre-specified two-sided
+                  significance level of 0.05. Thus, the primary endpoint was met indicating
+                  the device group was superior to the control group.
+
+Table 8: Primary Analysis Result – Randomized Cohort ITT Population
+ Primary Endpoint                                     p-Value          Significance Level
+                                Test Statistic                                                       Result
+                                                     (2-sided)             (2-sided)
+ Finkelstein-Schoenfeld                                                                           Superiority
+                                      2.16            0.0311                  0.05
+ analysis                                                                                        endpoint met
+
+
+
+
+EL2142807 (2025-07-15)                        Printed on: 2025-07-21
+Page 41 of 68
+               The supplemental win ratio analysis is shown in Figure 4. The win ratio of
+               the device group vs. the control group was 1.44 (95% confidence interval
+               of 1.03 - 2.08). The number of wins in the device group and control group
+               were similar for death or TV surgery, and there were slightly more wins in
+               the control group for heart failure hospitalization (6% in the device group
+               vs 10% in the control group). The primary endpoint success was driven
+               by KCCQ score improvement of at least 15 points, which had 21% wins in
+               the device group and 7% wins in the control group.
+
+Figure 4: Win Ratio Analysis of the Randomized Cohort Primary Endpoint – ITT
+Population
+
+
+
+
+ TV: tricuspid valve; HFH: heart failure hospitalization; KCCQ-OS: Kansas City Cardiomyopathy
+ Questionnaire Overall Summary Score.
+
+
+
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 42 of 68
+                          28.5.2 Secondary Endpoint- Randomized Cohort
+                          The results of the powered secondary endpoints are shown in Table 9.
+                          The endpoints of freedom from major adverse events (MAEs) at 30 days
+                          post-procedure, change in KCCQ score at 12 months vs. baseline, and
+                          TR reduction to moderate or less at 30 days were met. There was a
+                          numerically smaller reduction in 6MWD at 12 months in the device group
+                          vs. the control group (-8.12 vs. -25.17 meters), but the difference was not
+                          statistically significant, and standard deviations were large. Therefore, the
+                          6MWD endpoint was not met.
+
+Table 9: Summary of Powered Secondary Endpoint Results –
+Randomized Cohort ITT Population (Paired)
+                         Secondary              Summary Statistics
+     Order                                                                               p-Value            Result
+                          Endpoint           Device Arm   Control Arm
+                Freedom from
+                                                98.3%
+        1       MAEs at 30 days                                             -           < 0.0001        Endpoint met
+                                           [96.3%, 100%]*
+                post-procedure
+                Change in KCCQ
+        2       score at 12 months           12.34 (1.75)†          0.61 (1.75)†        < 0.0001        Endpoint met
+                over baseline
+                TR reduction to
+                                                87.0%                   5.4%
+        3       moderate or less at                                                      <0.0001        Endpoint met
+                                              (141/162)‡              (8/147)‡
+                30-day visit
+                Change in 6MWD
+                                                                       -25.17                             Endpoint
+        4       at 12 months over           -8.12 (10.50)†                                0.2482
+                                                                      (10.31)†                             not met
+                baseline‖ (meters)
+     MAEs: major adverse events, including cardiovascular mortality, new onset renal failure, endocarditis requiring
+     surgery, and non-elective cardiovascular surgery for TriClip device-related adverse events post-index procedure; TR:
+     tricuspid regurgitation; KCCQ: Kansas City Cardiomyopathy Questionnaire; 6MWD: 6-minute walk distance.
+     *
+       Kaplan-Meier estimate [95% confidence interval]
+     †
+       Least square means (standard error) from analysis of covariance (ANCOVA) model
+     ‡
+       % (no./total no.)
+     ‖
+       A KCCQ overall score of 0 and a 6MWD of 0 meter were imputed for subjects who had a heart failure related
+     cardiovascular death or tricuspid valve surgery prior to 12 months.
+
+
+                          The individual MAE component rates are shown in Table 10. Of the
+                          MAEs, one case of new onset renal failure was adjudicated as procedure-
+                          related but not device-related. A second new onset renal failure case and
+                          the one cardiovascular mortality were adjudicated as neither procedure-
+                          nor device-related.
+
+Table 10: Results of Individual MAE Components at 30 Days –
+Randomized Cohort AP Population.
+MAE Component                                                 Event Rate at 30 Days
+          Cardiovascular mortality                                  0.6% (1/172)
+           New onset renal failure                                  1.2% (2/172)
+       Endocarditis requiring surgery                                0% (0/172)
+  Non-elective cardiovascular surgery for
+   TriClip™ Implant-related AE post-index                              0% (0/172)
+                 procedure
+ *
+     % (no./total no.)
+
+
+
+EL2142807 (2025-07-15)                             Printed on: 2025-07-21
+Page 43 of 68
+                        28.5.3 Adverse Events- Randomized Cohort
+                        CEC-adjudicated adverse events through 12 months (unless otherwise
+                        noted) are shown in Table 11 for the Randomized Cohort. Rates of HF
+                        hospitalizations, cardiovascular mortality, and tricuspid valve
+                        reintervention at 12 months as well as major bleeding and new onset
+                        renal failure at 30 days were numerically higher in the device group vs.
+                        the control group.
+Table 11: CEC-Adjudicated Adverse Events through 12 Months –
+Randomized Cohort ITT Population.
+                                                                                       Summary Statistics
+                              Event                                           Device Arm*                    Control Arm†
+                                                                                (N=175)                        (N=175)
+All-cause mortality                                                      8.6% (15, 15, 0, 0, 1)            7.4% (13, 13, 0)
+  Cardiovascular (VARC II definition)                                    6.3% (11, 11, 0, 0, 0)              4.6% (8, 8, 0)
+    Heart failure-related                                                 4.0% (7, 7, 0, 0, 0)               2.9% (5, 5, 0)
+    Non-heart failure-related                                             2.3% (4, 4, 0, 0, 0)               1.7% (3, 3, 0)
+  Non-cardiovascular (VARC II definition)                                 2.3% (4, 4, 0, 0, 1)               2.9% (5, 5, 0)
+Hospitalization                                                        36.0% (111, 63, 2, 7, 2)           34.3% (100, 60, 0)
+  Heart failure hospitalization                                         14.9% (35, 26, 1, 2, 0)            11.4% (8, 20, 0)
+  Other cardiovascular hospitalization                                   9.1% (17, 16, 1, 5, 0)            9.1% (21, 16, 0)
+  Non-cardiovascular hospitalization                                    21.7% (59, 38, 0, 0, 2)            21.1% (51, 37, 0)
+Tricuspid valve surgery                                                   1.7% (3, 3, 2, 2, 0)               3.4% (6, 6, 0)
+Tricuspid valve intervention‡                                             2.3% (4, 4, 3, 4, 0)               1.7% (3, 3, 0)
+Major bleeding (≥BARC 3a)‖                                               5.7% (10, 10, 0, 3, 0)              1.7% (3, 3, 0)
+New onset renal failure‖                                                  2.3% (4, 4, 0, 1, 0)               0.6% (1, 1, 0)
+Transient ischemic attack (TIA)                                           0.6% (1, 1, 0, 0, 0)               0.0% (0, 0, 0)
+Stroke (VARC II definition)                                               1.7% (3, 3, 0, 0, 0)               1.7% (4, 3, 0)
+Myocardial infarction (VARC II definition)‖                               0.0% (0, 0, 0, 0, 0)               0.0% (0, 0, 0)
+Endocarditis requiring surgery‖                                           0.0% (0, 0, 0, 0, 0)               0.0% (0, 0, 0)
+Non-elective cardiovascular surgery for
+TriClip-related adverse event post index                                  0.0% (0, 0, 0, 0, 0)               0.0% (0, 0, 0)
+procedure‖
+Cardiogenic shock                                                         0.0% (0, 0, 0, 0, 0)               0.6% (1, 1, 0)
+VARC: Valve Academic Research Consortium; BARC: Bleeding Academic Research Consortium; TIA: transient ischemic attack.
+*
+  Event rate (no. of events, no. of subjects, no. of device-related events, number of procedure-related events, number of COVID-
+19-related events); event rate = no./total no. Number of COVID-19-related events includes related or possibly related events; this
+excludes events with unknown relatedness.
+†
+  Event rate (no. of events, no. of subjects, number of COVID-19-related events).
+‡
+  Tricuspid valve intervention includes reintervention for device group and first intervention for control group.
+‖
+  Per the study CEC charter, myocardial infarction, bleeding, new onset renal failure, endocarditis requiring surgery, and non-
+elective cardiovascular surgery for TriClip-related adverse event post index procedure were adjudicated up to 30 days post
+treatment visit for the device and control groups.
+
+
+    EL2142807 (2025-07-15)                           Printed on: 2025-07-21
+    Page 44 of 68
+              Table 12 provides site-reported procedure- or device-related serious
+              adverse events from treatment visit through 1 year. Procedure- or device-
+              related serious adverse events occurred in 3.5% (6/172) of subjects.
+Table 12: Listing of Site-reported Procedure/Device Related Serious Adverse
+Events from treatment visit through 1 Year (Primary Analysis Population)
+(Attempted Procedure Population, n=172)
+ Subject                                        Description
+           Access site bleeding
+    1
+           Hypotension with tachycardia secondary to acute blood loss
+    2      Access site complication
+           Access site complication – thrombin injection for pseudoaneurysm
+    3
+           Access site complication – surgical repair of pseudoaneurysm
+    4      TV surgery due to unsuccessful TriClip™ Procedure
+    5      Re-intervention due to SLDA
+    6      Heart failure due to volume overload
+
+              28.5.4 Other Randomized Cohort Observations
+              Procedural endpoints:
+              Technical success was achieved in 98.8% of TriClip subjects, device
+              success in 88.9%, and procedural success in 87.0% (see Table 13Error!
+              Reference source not found.).
+
+ Table 13: Results of Procedural Endpoints – Randomized Cohort AP Population.
+                         Endpoints                                Results
+   Technical success (at exit from procedure room)             98.8% (170/172)
+   Device success (at 30 days post-procedure)                  88.9% (144/162)
+   Procedural success (at 30 days post-procedure)              87.0% (141/162)
+
+              Technical success was not achieved in 2 subjects due to inability to
+              successfully deploy the TriClip device. Device success could not be
+              evaluated in 10 subjects due to missing TR grade assessment. In
+              addition, device success was not achieved in 18 subjects due to single
+              leaflet device attachment (n=11), no reduction in TR (n=3),
+              surgery/intervention within 30 days post procedure (n=3), and death
+              within 30 days post procedure (n=1). Procedural success was not
+              achieved in the same 18 subjects in whom device success was not
+              achieved and in 3 additional subjects who experienced a device- or
+              procedure-related site-reported serious adverse event: single leaflet
+              device attachment (n=1; not confirmed by the ECL), ruptured chordae
+              (n=1), and access site complication (n=1).
+
+
+
+
+EL2142807 (2025-07-15)                Printed on: 2025-07-21
+Page 45 of 68
+               Procedural Data:
+               The TriClip procedure was performed under general anesthesia with
+               echocardiographic (TEE) and fluoroscopic guidance. Procedural data for
+               the Randomized Cohort AP Population is shown in Table 14. TriClip was
+               successfully implanted in 170 of the 172 (98.8%) subjects with an
+               attempted procedure in the Randomized Cohort, with approximately 85%
+               of subjects receiving two or three TriClip devices.
+
+  Table 14: Procedural Data – AP Population.
+                                                   Randomized Cohort (Device Group)
+    Procedural Data
+                                                               (N=172)
+    Number of clips implanted                                  2.2 ± 0.7 (172)
+     0 clips                                                    1.2% (2/172)
+     1 clip                                                    10.5% (18/172)
+     2 clips                                                  61.0% (105/172)
+     3 clips                                                   24.4% (42/172)
+     4 clips                                                    2.9% (5/172)
+    Device used
+     TriClip (first-generation)                                47.1% (81/172)
+     TriClip G4                                                52.9% (91/172)
+    Total procedure time (min)                                151.0 ± 71.7 (171)
+    Device time (min)                                         89.7 ± 66.4 (168)
+    Fluoroscopy exposure (min)                                31.9 ± 23.5 (171)
+    *Continuous measures – Mean ± standard deviation (total no.); Categorical measures -
+    % (no./total no.)
+
+
+
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 46 of 68
+                                 TR Severity:
+                                 TR severity for the Randomized Cohort ITT Population is shown in Figure
+                                 5. In the device group, the proportion of subjects with greater than
+                                 moderate TR was 97% at baseline, which decreased to 13% at 30 days
+                                 and 12% at 12 months. In the control group, TR severity was greater than
+                                 moderate in 99% of subjects at baseline and remained greater than
+                                 moderate in 95% of subjects at 30 days and 92% at 12 months.
+
+   Figure 5: TR Severity Visit – Randomized Cohort ITT Population (Unpaired).
+
+                                            Trace/Mild      Moderate        Severe       Massive    Torrential
+                          100%                              2%
+                                             11%           9%
+
+                          80%
+                                  51%                                                   51%         50%
+                                                                                                                   56%
+    Percent of Patients
+
+
+
+
+                                             37%           38%
+                          60%
+
+
+                          40%     21%                                                   18%         22%
+                                                                                                                   17%
+                                             50%           50%
+                          20%                                                                                      19%
+                                  25%                                                   30%         23%
+                                                                                                                  3%
+                           0%      2%                                                               4%                 5%
+                                 Baseline   30 Days      12 Months                     Baseline    30 Days       12 Months
+                                 (N=173)    (N=162)       (N=144)                      (N=165)     (N=147)        (N=144)
+
+                                             Device                                                Control
+                                                           Note: Values ≤ 1% are not labeled.
+
+
+
+
+EL2142807 (2025-07-15)                                   Printed on: 2025-07-21
+Page 47 of 68
+               KCCQ Score:
+               KCCQ scores and score changes through 12 months are shown in
+               Figure 6 for the Randomized Cohort ITT Population. On average, the
+               KCCQ score increased by 15.2 points in the device group vs. 4.8 points
+               in the control group through 12 months.
+Figure 6: KCCQ Score by Visit – Randomized Cohort ITT Population (Unpaired).
+The error bars are standard deviations.
+  A KCCQ Score
+
+
+
+
+  B KCCQ Score Change
+
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 48 of 68
+               Association between KCCQ Score and TR:
+               Post hoc analyses were performed to investigate the associations
+               between KCCQ score changes and TR severity and between KCCQ
+               score changes and TR severity changes at 12 months. These analyses
+               were conducted to provide evidence that the KCCQ score improvement
+               observed in the study was not solely the result of a placebo effect. The
+               associations are shown in Figure 7 Lower TR severity and greater TR
+               severity reductions were generally associated with greater KCCQ score
+               improvements.
+Figure 7: Association between KCCQ Score and TR at 12 Months.
+The error bars are standard deviations.
+A KCCQ Score Change vs. TR Grade                      B KCCQ Score Change vs. TR Grade Change
+
+
+
+
+               SF-36 Score:
+               SF-36 scores through 12 months are shown in Figure 8Error!
+               Reference source not found. for the Randomized Cohort ITT
+               Population. The mean physical component score increased by about 5
+               points through 12 months compared to the baseline in the device group,
+               while remaining mostly unchanged from baseline through 12 months in
+               the control group. A similar trend was seen in the mental component
+               score. In some studies, SF-36 score changes similar to the changes
+               observed in the device group have been interpreted as clinically
+               significant.
+
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 49 of 68
+Figure 8: SF-36 Score by Visit – Randomized Cohort ITT Population (Unpaired).
+The error bars are standard deviations.
+ A Physical Component
+
+
+
+
+ B Mental Component
+
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 50 of 68
+               NYHA Functional Class:
+               The results for NYHA classifications by visit are shown in Figure 9Error!
+               Reference source not found. for the Randomized Cohort ITT
+               Population. At baseline, 59% of subjects in the device group and 55% in
+               the control group were in NYHA III/IV. At 12 months, fewer device
+               subjects were in NYHA III/IV than the control subjects (16% vs. 40%).
+Figure 9: NYHA Functional Class by Visit – Randomized Cohort ITT Population
+(Unpaired).
+
+
+
+
+               Echocardiographic Parameters:
+               PISA EROA, PISA regurgitant volume, and vena contracta width all
+               showed substantial decreases from baseline to 12 months in the device
+               group and were minimally changed in the control group (Table 15).
+               There were no notable changes in cardiac size or function in either
+               treatment group at 12 months. Right atrial volume, which would be
+               expected to decrease as a result of reduced TR due to reverse
+               remodeling, showed an unexpected small increase in the device group.
+
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 51 of 68
+Table 15: Results of Echocardiographic Endpoints – Randomized Cohort ITT
+Population (Paired Analysis).
+   Echocardiographic
+                                     Device Arm                    Control Arm           Difference
+  Endpoint Change from
+                                      (N=175)                        (N=175)             [95% CI]*
+  Baseline to 12 Months
+ ∆Tricuspid annulus diameter (end-diastole, apical 4Ch, cm)
+       Mean ± SD (n)              -0.09 ± 0.64 (140)             -0.11 ± 0.74 (135)
+                                                                                            0.02
+       Median (Q1, Q3)            -0.10 (-0.50, 0.30)            -0.17 (-0.50, 0.30)
+                                                                                        [-0.14, 0.19]
+       Range (min, max)              (-1.46, 1.39)                  (-3.90, 2.02)
+ ∆PISA EROA (cm ) 2
+
+
+       Mean ± SD (n)              -0.44 ± 0.33 (115)             -0.04 ± 0.31 (127)
+                                                                                            -0.40
+       Median (Q1, Q3)            -0.42 (-0.56, -0.26)           0.00 (-0.16, 0.12)
+                                                                                        [-0.48, -0.32]
+       Range (min, max)              (-2.33, 0.25)                  (-1.25, 0.80)
+ ∆PISA regurgitant volume calculation (mL)
+       Mean ± SD (n)           -33.84 ± 20.48 (115)          -1.99 ± 23.56 (127)
+       Median (Q1, Q3)             -33.20 (-44.90, -                                        -31.85
+                                                            -1.30 (-12.40, 10.21)
+                                        21.40)                                         [-37.43, -26.28]
+       Range (min, max)            (-105.20, 12.11)               (-115.90, 67.80)
+ ∆Vena contracta width (SL, 4Ch view, cm)
+       Mean ± SD (n)              -0.52 ± 0.48 (139)             0.03 ± 0.44 (136)
+                                                                                            -0.54
+       Median (Q1, Q3)            -0.48 (-0.77, -0.26)           0.00 (-0.30, 0.32)
+                                                                                        [-0.65, -0.43]
+       Range (min, max)              (-3.00, 0.97)                  (-1.10, 1.40)
+ ∆RV end diastolic diameter – mid (4Ch, cm)
+
+       Mean ± SD (n)              -0.18 ± 0.73 (140)             -0.02 ± 0.85 (134)
+                                                                                            -0.17
+       Median (Q1, Q3)            -0.20 (-0.60, 0.20)            0.10 (-0.50, 0.50)
+                                                                                        [-0.36, 0.02]
+       Range (min, max)              (-1.90, 2.80)                  (-2.20, 2.90)
+ ∆RV end diastolic diameter – base (4Ch, cm)
+
+       Mean ± SD (n)              -0.21 ± 0.71 (142)             -0.12 ± 0.76 (134)
+                                                                                            -0.09
+       Median (Q1, Q3)            -0.15 (-0.70, 0.20)            -0.10 (-0.60, 0.40)
+                                                                                        [-0.26, 0.08]
+       Range (min, max)              (-2.40, 2.70)                  (-2.00, 1.90)
+ ∆Right atrial volume (single plane Simpson’s, mL)
+
+       Mean ± SD (n)              7.78 ± 55.92 (140)         -2.13 ± 54.14 (136)
+                                                                                             9.91
+       Median (Q1, Q3)          8.17 (-22.48, 28.25)        -4.35 (-29.90, 21.90)
+                                                                                        [-3.13, 22.95]
+       Range (min, max)           (-122.03, 276.20)              (-154.44, 181.20)
+ ∆RV fractional area change (%)
+       Mean ± SD (n)              -0.73 ± 8.16 (133)             -0.52 ± 7.38 (125)
+                                                                                            -0.21
+       Median (Q1, Q3)            -0.50 (-6.40, 3.90)            -1.00 (-5.80, 3.90)
+                                                                                        [-2.12, 1.69]
+       Range (min, max)             (-27.90, 21.22)               (-18.70, 23.00)
+
+
+
+EL2142807 (2025-07-15)                  Printed on: 2025-07-21
+Page 52 of 68
+    Echocardiographic
+                                              Device Arm                    Control Arm                 Difference
+   Endpoint Change from
+                                               (N=175)                        (N=175)                   [95% CI]*
+   Baseline to 12 Months
+ ∆LV end diastolic volume (mL)
+         Mean ± SD (n)                    3.91 ± 25.02 (129)            -4.80 ± 23.49 (114)
+                                                                                                           8.70
+         Median (Q1, Q3)                 3.30 (-12.90, 16.30)           -4.98 (-16.80, 9.70)
+                                                                                                       [2.57, 14.84]
+         Range (min, max)                   (-70.30, 94.50)                (-83.20, 52.70)
+ ∆LV end systolic volume (mL)
+
+         Mean ± SD (n)                    2.31 ± 15.28 (129)            -2.93 ± 12.52 (114)
+                                                                                                            5.24
+         Median (Q1, Q3)                  0.82 (-4.80, 8.80)              -2.95 (-9.50, 4.20)
+                                                                                                        [1.72, 8.75]
+         Range (min, max)                   (-37.00, 85.50)                (-65.34, 23.80)
+ ∆RV TAPSE (cm)
+
+         Mean ± SD (n)                    -0.13 ± 0.45 (141)              0.00 ± 0.48 (132)
+                                                                                                           -0.13
+         Median (Q1, Q3)                  -0.10 (-0.43, 0.10)             0.01 (-0.20, 0.30)
+                                                                                                       [-0.24, -0.02]
+         Range (min, max)                     (-1.40, 1.00)                  (-2.27, 1.00)
+ ∆Cardiac output (L/min)
+
+         Mean ± SD (n)                    -0.05 ± 1.89 (136)              0.03 ± 1.40 (131)
+                                                                                                           -0.07
+         Median (Q1, Q3)                  -0.14 (-0.98, 0.63)             -0.04 (-0.88, 0.86)
+                                                                                                       [-0.47, 0.33]
+         Range (min, max)                    (-4.98, 14.95)                  (-3.42, 4.10)
+ ∆LVOT Doppler stroke volume (mL)
+
+         Mean ± SD (n)                   -1.58 ± 17.62 (138)            -1.93 ± 16.48 (133)
+                                                                                                           0.35
+         Median (Q1, Q3)                 -2.04 (-11.00, 7.80)           -1.50 (-11.73, 4.40)
+                                                                                                       [-3.73, 4.43]
+         Range (min, max)                   (-49.50, 65.00)                (-40.60, 51.70)
+ ∆Inferior vena cava diameter (cm)
+
+         Mean ± SD (n)                    -0.09 ± 0.56 (135)              -0.01 ± 0.56 (136)
+                                                                                                           -0.08
+         Median (Q1, Q3)                  -0.04 (-0.48, 0.34)             0.00 (-0.34, 0.32)
+                                                                                                       [-0.21, 0.05]
+         Range (min, max)                     (-1.80, 1.16)                  (-1.90, 1.80)
+ ∆Tricuspid valve diastolic mean gradient (CW, mmHg)
+         Mean ± SD (n)                     1.15 ± 1.28 (136)              0.07 ± 0.58 (126)
+                                                                                                            1.08
+         Median (Q1, Q3)                   0.86 (0.32, 1.89)              0.02 (-0.31, 0.43)
+                                                                                                        [0.84, 1.32]
+         Range (min, max)                     (-2.80, 7.32)                  (-1.11, 1.60)
+ PISA: proximal isovelocity surface area (a method for estimating regurgitant volume); EROA: effective regurgitant orifice
+ area; RV: right ventricular; LV: left ventricular: TAPSE: tricuspid annular plane systolic excursion (a measure of the RV
+ apex to-base shortening and RV systolic function); LVOT: left ventricular outflow tract.
+ SD: standard deviation; CI: confidence interval. The CIs were calculated without multiplicity adjustment. The adjusted
+ CIs could be wider than presented here.
+ *
+   By normal approximation.
+
+
+
+
+EL2142807 (2025-07-15)                           Printed on: 2025-07-21
+Page 53 of 68
+               28.5.5 1-Year Outcomes for All Available Subjects in the
+               Randomized Cohort
+               The trial used an adaptive design with sample size re-estimation for the
+               Randomized cohort. The pre-specified sample size re-estimation
+               occurred once the first 150 randomized subjects completed 12-month
+               follow-up, while the trial was still enrolling. The trial continued to
+               randomize subjects until the sample size re-estimation analysis was
+               completed, by which point a total of 572 subjects were randomized at 68
+               sites. Fifty-six subjects (29 Device, 26 Control) were pending 12-month
+               follow-up visits at the time of data analysis.
+               The win ratio analysis result for all available randomized subjects was
+               1.53 (Figure 10), which is slightly greater than the win-ratio result for the
+               primary analysis cohort. The number of device wins and control wins for
+               death or TV surgery continued to be similar. While there were more
+               control wins for heart failure hospitalizations in the primary win ratio
+               analysis, the number of device wins and control wins for heart failure
+               hospitalizations were similar for all available subjects. The win ratio
+               continued to be driven by KCCQ score improvement, and the data for all
+               available subjects support the conclusion of the primary analysis.
+
+Figure 10: Win Ratio Analysis for All Available Subjects –
+Randomized Cohort ITT Population.
+
+
+
+
+HFH: heart failure hospitalization; KCCQ-OS: Kansas City Cardiomyopathy Questionnaire overall
+summary score; CI: confidence interval. The CI was calculated without multiplicity adjustment. The
+adjusted CI could be wider than presented here.
+
+
+
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 54 of 68
+                   Components of the primary endpoint for the Primary Analysis Population
+                   and Full Randomized Cohort are provided in Table 16.
+Table 16: Primary Endpoint Components
+(Primary Analysis Population and Full Randomized Cohort)
+                                                           Primary Analysis                Full Randomized
+                                                              Population                         Cohort
+                   Component                                   (N=350)                          (N=572)
+                                                          Device      Control             Device      Control
+                                                         (N=175)      (N=175)            (N=285)     (N=287)
+    All-cause mortality or TV surgery at 12
+                                                          9.4%           10.6%            9.9%            9.7%
+    months, Kaplan-Meier (%)1
+    Rate of heart failure hospitalizations, per
+                                                           0.22           0.17            0.17            0.19
+    patient-year2
+    Proportion with KCCQ-OS improvement
+                                                           50%            26%             50%             26%
+    ≥15 points at 12 months
+1
+ Kaplan-Meier estimate with Log-rank test
+2
+ Normal approximation for differences in Binomial proportions
+
+                   Secondary endpoints were consistent in the Primary Analysis Population
+                   and Full Randomized cohorts as summarized in Table 17. Device
+                   subjects experienced a larger improvement in 6MWD than Control
+                   subjects in the Full Randomized Cohort than in the Primary Analysis
+                   Population.
+Table 17: Secondary Endpoints
+(Primary Analysis Population and Full Randomized Cohort)
+                                                    Primary Analysis             Full Randomized
+                                                       Population                      Cohort
+           Secondary Endpoints                          (N=350)                       (N=572)
+                                                   Device     Control           Device     Control
+                                                  (N=175)     (N=175)          (N=285)     (N=287)
+Freedom from MAE at 30 days                        98.3%          -             98.9%          -
+Moderate or less TR at 30 days                     87.0%        5.4%            88.9%        5.3%
+ Change from Baseline to 12 months
+KCCQ-OS (imputed*, ANCOVA),
+                                    12.3 ± 1.8     0.6 ± 1.8 11.5 ± 1.6 -0.5 ± 1.6
+Mean ± SE
+Between-group difference, Mean                11.7                    11.9
+[95% CI]                                   [6.9, 16.6]             [7.4, 16.4]
+KCCQ-OS (complete-case paired),
+                                   15.2 ± 22.3 4.8 ± 18.3 15.2 ± 22.8 4.2 ± 18.9
+Mean ± SD
+Between-group difference, Mean                10.4                    11.0
+[95% CI]                                   [5.7, 15.1]             [6.9, 15.2]
+6MWD (imputeda, ANCOVA), Mean ±
+                                   -8.1 ± 10.5 -25.2 ± 10.3 -5.0 ± 8.7 -29.8 ± 8.4
+SE
+Between-group difference, Mean                17.1                    24.8
+[95% CI]                                 [-12.0, 46.1]             [1.1, 48.6]
+6MWD (complete-case paired), Mean                             15.1 ±       -12.1 ±
+                                  11.5 ± 111.4 -8.7 ± 109.7
+± SD                                                           103.4        102.0
+Between-group difference, Mean                20.3                    27.2
+[95% CI]                                  [-7.2, 47.7]             [5.5, 48.9]
+a
+  Subjects who experienced HF-related death or had TV surgery prior to 12-month visit were assigned 12-month KCCQ-
+OS or 6MWD of 0. Subjects who were unable to exercise due to cardiac reasons were also assigned a 6MWD of 0
+meters at 12-month follow-up.
+Subjects who experienced hospitalization related to COVID-19 had their follow-up information following the COVID-19
+related hospitalization excluded.
+
+
+EL2142807 (2025-07-15)                         Printed on: 2025-07-21
+Page 55 of 68
+                   CEC-adjudicated adverse event rates through 12 months (unless
+                   otherwise noted) were also consistent in the Primary Analysis Population
+                   and Full Randomized cohorts as summarized in Table 18.
+Table 18: Selected CEC-Adjudicated Adverse Events through 12 Months – Full
+Randomized Cohort ITT Population.
+                                                                         Summary Statistics
+                          Event                                    Device Arm          Control Arm
+                                                                    (N=285)*             (N=287)†
+ All-cause mortality                                          8.1% (23, 23, 0, 0, 1)           7.0% (20, 20, 0)
+   Cardiovascular (VARC II definition)                        5.3% (15, 15, 0, 0, 0)           3.8% (11, 11, 0)
+     Heart failure-related                                    3.9% (11, 11, 0, 0, 0)            2.8% (8, 8, 0)
+     Non-heart failure-related                                 1.4% (4, 4, 0, 0, 0)             1.0% (3, 3, 0)
+   Non-cardiovascular (VARC II definition)                     2.8% (8, 8, 0, 0, 1)             3.1% (9, 9, 0)
+ Hospitalization                                            33.7% (161, 96, 2, 7, 9)         31.0% (155, 89, 0)
+   Heart failure hospitalization                             11.2% (44, 32, 1, 2, 0)          11.8% (48, 34, 0)
+   Other cardiovascular hospitalization                       7.7% (23, 22, 1, 5, 0)           7.0% (25, 20, 0)
+   Non-cardiovascular hospitalization                        22.8% (94, 65, 0, 0, 9)          19.5% (82, 56, 0)
+ Tricuspid valve surgery                                       1.8% (5, 5, 2, 2, 0)             2.4% (7, 7, 0)
+ Tricuspid valve intervention‡                                 2.5% (7, 7, 5, 7, 0)             1.0% (3, 3, 0)
+ Major bleeding (≥BARC 3a)‖                                    3.2% (9, 9, 0, 3, 0)             1.7% (5, 5, 0)
+ New onset renal failure‖                                      0.7% (2, 2, 0, 1, 0)             0.3% (1, 1, 0)
+ *Event rate (no. of events, no. of subjects, no. of device-related events, number of procedure-related events, number
+ of COVID-19-related events); event rate = no./total no. Number of COVID-19-related events includes related or
+ possibly related events; this excludes events with unknown relatedness.
+ †Event rate (no. of events, no. of subjects, number of COVID-19-related events).
+ ‡Tricuspid valve intervention includes reintervention for device group and first intervention for control group.
+ ‖Per the study CEC charter bleeding and new onset renal failure were adjudicated up to 30 days post treatment visit
+ for the device and control groups.
+ VARC: Valve Academic Research Consortium; BARC: Bleeding Academic Research Consortium
+
+                   28.5.6 Single-Arm Cohort Results
+                   Primary Endpoint:
+                   There were 100 subjects with an attempted TriClip™ Procedure in the
+                   Single-Arm Cohort. The primary analysis was performed on 91 subjects,
+                   which excluded subjects who withdrew (n=1), died or were hospitalized
+                   due to COVID-19 (n=2), or missed the 12-month visit or did not complete
+                   the 12-month KCCQ assessment (n=6). The results of the primary
+                   analysis are shown in Table 19. Fifteen (15) subjects died prior to 12
+                   months, 34 had a KCCQ score improvement of <10 points, and 42
+                   survived with a KCCQ score improvement of ≥10 points at 12 months.
+                   The proportion of subjects who survived and experienced at least a 10-
+                   point improvement in KCCQ score at 12 months from baseline was
+                   46.2%, with a lower 98.75% confidence limit of 34.3%, which exceeded
+                   the performance goal of 30%. Thus, the primary endpoint was met.
+
+
+EL2142807 (2025-07-15)                          Printed on: 2025-07-21
+Page 56 of 68
+Table 19: Primary Analysis Results – Single-Arm Cohort.
+                                               Lower 98.75%             Performance
+  Primary Endpoint              Rate                                                          P-value         Result
+                                              Confidence Limit              Goal
+ Survival with ≥10
+ point improvement             46.2%                                                                         Endpoint
+ vs. baseline in                                     34.3%                    30%               0.008
+                               (42/91)                                                                         Met
+ KCCQ score at 12
+ months
+
+                    Secondary Endpoint:
+                    The results of the powered secondary endpoints for the Single-Arm
+                    Cohort are summarized in Table 20. TR reduction by at least one grade
+                    at 30 days post-procedure occurred in 98.9% of subjects, and freedom
+                    from MAEs at 30 days post-procedure occurred in 100% of subjects;
+                    these endpoints were met. However, the improvement in 6MWD at 12
+                    months from baseline (13.7±92.7) did not meet the performance goal, so
+                    the endpoint was not met. As a result, the subsequent endpoints in the
+                    pre-defined hierarchy (freedom from all-cause mortality or tricuspid valve
+                    surgery and recurrent HF hospitalizations at 12 months post-procedure)
+                    were not hypothesis-tested. Descriptively, the annualized HF
+                    hospitalization rates pre- and post- TriClip™ Procedure were generally
+                    similar.
+Table 20: Summary of Powered Secondary Endpoints –
+Single-Arm Cohort AP Population.
+ Order             Secondary Endpoint                      Summary Statistics               p-Value            Result
+           TR reduction by at least one grade                                                                Endpoint
+    1                                                          98.9% (87/88)*               < 0.0001
+           at 30 days post-procedure                                                                           met
+           Freedom from MAEs at 30 days                                                                      Endpoint
+    2                                                           100% (99/99)*               <0.0001
+           post-procedure                                                                                      met
+           Change in 6MWD at 12 months                        13.7±92.7 (71)†                                Endpoint
+    3                                                                                        0.1090
+           from baseline (m)                                95% CI: [-8.3, 35.6]                              not met
+           Freedom from all-cause mortality
+    4      and tricuspid valve surgery at 12                    83.7% (3.7%)‡                    -          Not tested
+           months
+                                                               Pre-procedure:
+                                                              0.33 [0.23, 0.46]‖
+           Recurrent HF hospitalizations at
+    5                                                                                            -          Not tested
+           12 months (events/patient-year)
+                                                              Post-procedure:
+                                                              0.36 [0.26, 0.51]‖
+ TR: tricuspid regurgitation; MAEs: major adverse events, including cardiovascular mortality, new onset renal failure,
+ endocarditis requiring surgery, and non-elective cardiovascular surgery for TriClip device-related adverse events post-
+ index procedure; 6MWD: 6-minute walk distance; HF: heart failure.
+ CI: confidence interval. The CIs were calculated without multiplicity adjustment. The adjusted CIs could be wider than
+ presented here.
+ *
+   % (no./total no.)
+ †
+   Mean ± standard deviation (total no.)
+ ‡
+   Kaplan-Meier estimate (standard error)
+ ‖
+   Annualized event rate [95% CI].
+
+
+
+
+EL2142807 (2025-07-15)                           Printed on: 2025-07-21
+Page 57 of 68
+                  Safety Results:
+                  CEC-adjudicated adverse event rates through 12 months are shown in
+                  Table 21. The rates of all-cause mortality, cardiovascular mortality, and
+                  heart failure hospitalization were approximately two-fold higher in the
+                  Single-Arm Cohort than in the device group of the Randomized Cohort.
+                  Other event rates were comparable to the device group of the
+                  Randomized Cohort.
+  Table 21: CEC-Adjudicated Adverse Events through 12 Months –
+  Single-Arm Cohort AP Population.
+
+                                                                           Summary Statistics*
+                            Event
+                                                                               N=100
+
+   All-cause mortality                                                     15% (15, 15, 0, 0, 1)
+       Cardiovascular (VARC II definition)                                 11% (11, 11, 0, 0, 0)
+             Heart failure-related                                         10% (10, 10, 0, 0, 0)
+             Non-heart failure-related                                        1% (1, 1, 0, 0, 0)
+       Non-cardiovascular (VARC II definition)                                4% (4, 4, 0, 0, 1)
+   Hospitalization                                                         50% (85, 50, 5, 4, 1)
+       Heart failure hospitalization                                       24% (33, 24, 1, 0, 0)
+       Other cardiovascular hospitalization                                 14% (17,14, 4, 3, 0)
+       Non-cardiovascular hospitalization                                  26% (35, 26, 0, 1, 1)
+       Tricuspid valve surgery                                                2% (2, 2, 1, 0, 0)
+       Tricuspid valve intervention                                           7% (7, 7, 5, 4, 0)
+       Major bleeding (greater than BARC 3a)‖                                 5% (5, 5, 0, 1, 0)
+       New onset renal failure‖                                               0% (0, 0, 0, 0, 0)
+       Transient ischemic attack (TIA)                                        1% (1, 1, 0, 0, 0)
+       Stroke (VARC II)                                                       0% (0, 0, 0, 0, 0)
+       Myocardial infarction (VARC II definition)‖                            0% (0, 0, 0, 0, 0)
+       Endocarditis requiring surgery‖                                        0% (0, 0, 0, 0, 0)
+       Non-elective cardiovascular surgery for
+       TriClip-related adverse event post index                               0% (0, 0, 0, 0, 0)
+       procedure‖
+       Cardiogenic shock                                                      1% (1, 1, 0, 1, 0)
+   VARC: Valve Academic Research Consortium; BARC: Bleeding Academic Research Consortium; TIA: transient
+   ischemic attack.
+   *
+     Event rate (no. of events, no. of subjects, no. of device-related events, number of procedure-related events,
+   number of COVID-19-related events); event rate = no./total no. Number of COVID-19-related events includes
+   related or possibly related events; this excludes events with unknown relatedness.
+   ‖
+     Per the study CEC charter, myocardial infarction, bleeding, new onset renal failure, endocarditis requiring
+   surgery, and non-elective cardiovascular surgery for TriClip-related adverse event post index procedure were
+   adjudicated up to 30 days post treatment visit for the device and control groups.
+
+
+
+EL2142807 (2025-07-15)                        Printed on: 2025-07-21
+Page 58 of 68
+                Imaging Sub-study
+                A pre-planned exploratory imaging sub-study was conducted on a subset
+                of all available subjects to further investigate changes in TR, right
+                ventricular size, and right ventricular function and to gain additional
+                insights into cardiac reverse remodeling. Ten (10) sites participated, and
+                site selection was based on MRI/CT imaging expertise, adequate imaging
+                equipment, and study enrollment. The imaging sub-study was to enroll
+                100 subjects. A total of 82 subjects enrolled and completed baseline
+                imaging as of April 23, 2023, with 44 subjects enrolled at a single site.
+                MRI and CT were performed at baseline and 30 days, and CT was
+                performed at 12 months. TR parameters were only assessed with MRI.
+                The 30-day cardiac MRI results (Table 22) showed TR reduction in
+                TriClip subjects consistent with the echocardiogram results. In addition,
+                there were general trends in right ventricular reverse remodeling in TriClip
+                subjects. However, the sample sizes were small and there was large
+                patient-to-patient variability in the results. The long-term prognostic
+                values of the observed changes are unknown.
+Table 22: Imaging Sub-Study: 30-Day Cardiac MRI Results.
+
+    Endpoint Change                    Randomized Cohort                     Single-Arm & Roll-in
+   from Baseline to 30            Device Arm       Control Arm                     Cohorts
+         Days                       (N=27)           (N=26)                         (N=12)
+
+ ∆TR volume (mL)
+
+        Mean ± SD (n)           -34.1 ± 28.2 (27)        3.2 ± 22.1 (24)       -39.0 ± 16.3 (10)
+        Median (Q1, Q3)        -28.0 (-52.0, -10.0)     2.0 (-13.0, 11.5)     -43.0 (-46.0, -28.0)
+        Range (min,               (-100.0, 4.0)           (-20.0, 84.0)          (-62.0, -9.0)
+        max)
+ ∆TR fraction (%)
+         Mean ± SD (n)          -27.8 ± 16.0 (27)       -2.3 ± 21.2 (24)       -29.1 ± 14.6 (10)
+         Median (Q1, Q3) -28.0 (-45.0, -13.8)            0.5 (-8.4, 6.0)      -29.5 (-37.0, -18.0)
+         Range (min,               (-52.9, 9.4)           (-66.4, 60.2)          (-56.3, -9.0)
+         max)
+ ∆Right atrial end diastolic volume (RAEDV, mL)
+         Mean ± SD (n)          -8.7 ± 23.1 (27)         -4.0 ± 38.5 (26)      -29.6 ± 27.8 (12)
+         Median (Q1, Q3)        -9.0 (-21.0, 8.0)       -3.0 (-16.0, 22.0)    -17.5 (-51.0, -5.5)
+         Range (min,              (-64.0, 37.0)           (-113.0, 63.0)         (-83.0, -2.0)
+         max)
+ ∆Right ventricular mass (g)
+         Mean ± SD (n)           -4.7 ± 5.2 (27)         0.0 ± 6.0 (25)          -7.2 ± 8.7 (11)
+         Median (Q1, Q3)         -5.0 (-9.0, 0.0)        1.0 (-4.0, 5.0)        -5.0 (-9.0, -1.0)
+         Range (min,               (-16.0, 4.0)           (-13.0, 10.0)           (-32.0, -1.0)
+         max)
+ ∆Right ventricular ejection fraction (RVEF, %)
+         Mean ± SD (n)           -5.6 ± 6.6 (27)         0.6 ± 6.1 (25)         -9.2 ± 5.6 (11)
+         Median (Q1, Q3)        -6.0 (-11.0, 1.0)        1.0 (-1.0, 2.0)      -10.0 (-15.0, -6.0)
+         Range (min,               (-17.0, 5.0)           (-15.0, 17.0)           (-16.0, 2.0)
+         max)
+
+
+EL2142807 (2025-07-15)                   Printed on: 2025-07-21
+Page 59 of 68
+      Endpoint Change                      Randomized Cohort                           Single-Arm & Roll-in
+     from Baseline to 30              Device Arm       Control Arm                           Cohorts
+           Days                         (N=27)           (N=26)                               (N=12)
+
+ ∆Corrected RVEF (%)*
+
+         Mean ± SD (n)            8.4 ± 7.6 (27)               -0.2 ± 4.5 (24)              7.1 ± 9.3 (10)
+         Median (Q1, Q3)          8.1 (4.0, 15.0)              0.0 (-2.6, 2.5)             8.5 (-1.0, 14.0)
+         Range (min,               (-8.2, 20.3)                  (-12.0, 8.8)               (-10.9, 18.5)
+         max)
+ ∆Right ventricular free wall strain (%)
+
+       Mean ± SD (n)          -2.0 ± 4.5 (27)                  1.2 ± 6.1 (25)              -2.7 ± 4.8 (10)
+       Median (Q1, Q3)        -1.0 (-5.0, 1.0)                 0.0 (-3.0, 3.0)             -2.0 (-6.0, 2.0)
+       Range (min,              (-12.0, 6.0)                    (-8.0, 16.0)                 (-12.0, 3.0)
+       max)
+ ∆Pulmonary forward flow (mL)
+
+          Mean ± SD (n)              5.2 ± 13.0 (27)           0.3 ± 9.1 (24)              -1.8 ± 27.5 (11)
+          Median (Q1, Q3)            5.0 (-4.0, 14.0)          1.0 (-4.0, 5.0)             4.0 (-5.0, 10.0)
+          Range (min,                 (-19.0, 41.0)             (-22.0, 19.0)                (-79.0, 29.0)
+          max)
+ *
+  Corrected RVEF: provides a more accurate measurement of forward flow by subtracting regurgitant volume from the
+ total stroke volume for a regurgitant valve.
+
+               The 12-month cardiac CT results are shown in Table 23. Similar to the
+               cardiac MRI results, general trends of right ventricular reverse remodeling
+               were observed in TriClip subjects. However, sample sizes were small, and
+               there was large patient-to-patient variability in the results. The long-term
+               prognostic values of the observed changes are unknown.
+
+Table 23: Imaging Sub-Study: 12-Month Cardiac CT Results.
+      Endpoint Change                        Randomized Cohort                              Single-Arm &
+     from Baseline to 12               Device Group      Control Group                     Roll-In Cohorts
+          Months                          (N=20)            (N=20)                              (N=7)
+ ∆Right atrial end diastolic volume (RAEDV, mL)
+         Mean ± SD (n)             -19.5 ± 34.2 (20)             4.4 ± 35.5 (20)             -3.3 ± 23.6 (7)
+         Median (Q1, Q3)          -18.0 (-31.5, -4.0)           5.0 (-14.0, 23.0)           4.0 (-28.0, 21.0)
+         Range (min,                 (-83.0, 45.0)                 (-70.0, 99.0)              (-33.0, 23.0)
+         max)
+ ∆Tricuspid valve annular area (mm2)
+         Mean ± SD (n)           -195.0 ± 197.1 (20)            -3.0 ± 142.8 (20)         -194.3 ± 119.7 (7)
+         Median (Q1, Q3)                                          -20.0 (-70.0,            -160.0 (-300.0, -
+                               -205.0 (-305.0, -60.0)
+                                                                      60.0)                     130.0)
+         Range (min,
+                                   (-690.0, 90.0)     (-240.0, 390.0)                         (-360.0, 0.0)
+         max)
+ ∆Right ventricular end diastolic volume (RVEDV, mL)
+         Mean ± SD (n)           -35.8 ± 26.4 (20)    -1.0 ± 38.1 (20)                      -42.4 ± 33.5 (7)
+         Median (Q1, Q3)        -38.0 (-58.5, -18.5) -3.5 (-22.5, 12.5)                   -37.0 (-56.0, -16.0)
+          Range (min,                    (-74.0, 8.0)              (-61.0, 68.0)              (-103.0, 0.0)
+          max)
+
+
+EL2142807 (2025-07-15)                        Printed on: 2025-07-21
+Page 60 of 68
+     Endpoint Change                     Randomized Cohort                      Single-Arm &
+    from Baseline to 12            Device Group      Control Group             Roll-In Cohorts
+         Months                       (N=20)            (N=20)                      (N=7)
+ ∆Right ventricular mass (g)
+         Mean ± SD (n)              -4.7 ± 4.9 (20)         1.4 ± 6.5 (20)      -3.6 ± 5.7 (7)
+         Median (Q1, Q3)           -3.5 (-6.5, -1.0)        1.5 (-4.5, 5.0)    -5.0 (-7.0, -2.0)
+         Range (min,                  (-16.0, 2.0)           (-10.0, 13.0)       (-10.0, 8.0)
+         max)
+ ∆Right ventricular ejection fraction (%)
+         Mean ± SD (n)              -6.9 ± 6.2 (20)         0.9 ± 5.2 (20)      -2.1 ± 7.0 (7)
+         Median (Q1, Q3)          -9.0 (-11.0, -2.0)        0.5 (-2.0, 4.0)    -2.0 (-8.0, 7.0)
+         Range (min,                  (-16.0, 5.0)           (-10.0, 11.0)       (-11.0, 7.0)
+         max)
+ ∆Right ventricular free wall strain (%)
+         Mean ± SD (n)              -4.2 ± 7.2 (18)         -1.3 ± 5.4 (19)     -1.3 ± 6.5 (7)
+         Median (Q1, Q3)            -3.5 (-8.0, 2.0)        -2.0 (-5.0, 3.0)    2.0 (-8.0, 3.0)
+         Range (min,
+                                      (-20.0, 5.0)           (-14.0, 10.0)       (-13.0, 4.0)
+         max)
+ SD: standard deviation;
+
+
+               Subgroup Analyses
+               Pre-specified subgroup analyses were performed on the primary endpoint
+               components at 12 months by sex (male vs. female), baseline TR grade
+               (severe vs. greater than severe), baseline NYHA functional class (I/II vs.
+               III/IV), and TR etiology (primary vs. secondary). Outcomes for each
+               component of the primary endpoint were generally consistent across
+               subgroups except KCCQ score change by TR etiology. However, this is not
+               considered a qualitative interaction, as the device group had a higher
+               proportion of subjects with a KCCQ improvement of ≥15 points vs. the
+               control group for both the primary and secondary TR etiology subgroups.
+
+
+
+
+EL2142807 (2025-07-15)                   Printed on: 2025-07-21
+Page 61 of 68
+               A subgroup analysis was also performed to investigate potential differences
+               in outcomes based on race. The number of non-Caucasians is too small to
+               draw any conclusions (see Table 24).
+        Table 24: Primary Endpoint Components of Safety and Effectiveness by Race
+                                   All-Cause Mortality or              Heart Failure
+                                                                                                ΔKCCQ ≥15 Points §
+                 Race                   TV Surgery§                   Hospitalization§
+                                    Device        Control         Device         Control         Device        Control
+
+         American Indian or           0/1             0/0             0/1           0/0            0/1              0/0
+         Alaskan Native
+
+         Asian                        0/7             1/7             1/7           0/7            2/7              4/9
+
+         Black or African
+                                      2/7             2/7             2/7          1/10            1/4              4/9
+         American
+         Native Hawaiian or
+         Other Pacific                0/0             0/0             0/0           0/0            0/0              0/0
+         Islander*
+
+         White                      13/149         15/143          20/149         19/143         67/127         28/120
+
+
+         Not available†               1/11           0/15             3/11         0/15            3/8              5/13
+      KCCQ: Kansas City Cardiomyopathy
+      *No subjects in the race category enrolled.
+      †Europeans regulations did not allow the race information to be collected for subjects enrolled in Germany.
+      § The numbers shown were no. of patients with events/total no. of patients.
+29.0 TRICLIP™ G5 PROCEDURE ACRONYMS AND DEFINITIONS OF TERMS
+
+       29.1        Glossary Of Acronyms
+
+        DC:             Delivery Catheter                        RA:            Right Atrium
+
+        TDS or
+        Delivery        TriClip™ G5 Delivery System              RV:            Right Ventricle
+        System:
+        TSGC or         TriClip™ G5 Steerable Guide
+        Guide:          Catheter                                 RO:            Radiopaque
+
+        Sleeve:         Steerable Sleeve                         TR:            Tricuspid Regurgitation
+
+        Implant:        TriClip™ G5 Implant
+
+
+
+
+EL2142807 (2025-07-15)                       Printed on: 2025-07-21
+Page 62 of 68
+    29.2   Definition Of Terms
+    Deﬁned Terms are in italics throughout document.
+ TERM              DEFINITION AND RELATED TECHNIQUE
+  Lock the Implant       Rotate the Lock Knob counterclockwise to the tactile locked position.
+
+                         CAUTION: Confirm the Lock Line Release Latch is NOT lifted
+                                  before rotating the Lock Knob. Premature Lifting of the
+                                  Lock Line Release Latch may result in the inability to
+                                  Unlock the Implant.
+  Unlock the Implant     Rotate the Lock Knob clockwise to the tactile unlocked position.
+
+                         CAUTION: Confirm the Lock Line Release Latch is NOT lifted
+                                  before rotating the Lock Knob. Premature Lifting of the
+                                  Lock Line Release Latch may result in the inability to
+                                  Unlock the Implant.
+  Secure the DC          Rotate the DC Fastener in the direction of the arrow and “Secure” label
+  Fastener               until fully secured. Ensure the DC Handle does not rotate while securing
+                         DC Fastener.
+
+                         WARNING: Rotation of the DC Handle or failure to fully secure DC
+                                  Fastener may result in unwanted Implant Arm
+                                  orientation changes during grasping and cardiac
+                                  injury.
+
+  Release the DC         Rotate the DC Fastener in the opposite direction of the arrow and
+  Fastener               “Secure” label until released. Ensure the DC Handle does not rotate
+                         while releasing DC Fastener.
+
+                         WARNING: Rotation of the DC Handle may result in unwanted
+                                  Implant Arm orientation changes during grasping and
+                                  cardiac injury.
+  Open the Implant       1. Confirm the Implant is unlocked.
+  Arms                   2. Turn the Arm Positioner at least 1/2 turn in the “Close”
+                             (clockwise) direction.
+                         3. Turn the Arm Positioner in the “Open” (counterclockwise)
+                             direction until the desired Implant Arm Angle is achieved.
+                            NOTE 1: Ensure the DC handle is held securely when opening the
+                            Implant.
+                            NOTE 2: Implant Arms will begin opening within one rotation of the
+                            Arm Positioner. Do not rotate more than one rotation past neutral in
+                            the open direction if the Implant Arms do not appear to open.
+
+                            NOTE 3: If the Implant Arms fail to open visibly, use the following
+                            techniques in the order provided, as needed. Return the Lock Knob
+                            to the original unlock position after the Implant is opened to the
+                            desired Arm Angle.
+
+                             A. Stop and return Arm Positioner to Neutral. Turn Lock Knob to
+                                the next Unlock position.
+
+
+
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 63 of 68
+                             B. Incrementally iterate the amount of Arm Positioner rotation in
+                                the “Close” direction followed by rotation in the “Open”
+                                direction. Iterate until Implant opens. If Implant does not open
+                                and it is no longer possible to rotate the Arm Positioner in the
+                                “Close” direction, proceed to next step.
+
+                             C. Repeat steps A and B (Lock Knob rotation followed by Arm
+                                Positioner iterations) until Implant opens. If Implant does not
+                                open, proceed to next step in the sequence.
+                             D. Lock the Implant. Lower the Grippers, Unlock the Implant, and
+                                repeat NOTE 3, Step C. Raise the Grippers after Implant
+                                opens. If Implant does not open, proceed to step E.
+                             E. If the Implant is free of leaflets, then: Lock the Implant, release
+                                the DC Fastener, release the Sleeve curves, and Unlock the
+                                Implant. Repeat NOTE 3, Step C.
+
+                                  WARNING:        Do release the DC Fastener before releasing
+                                                  Sleeve curves, otherwise it may result in
+                                                  device damage and / or device or component
+                                                  embolization.
+                                  If the Implant does not open after performing all steps in
+                                  NOTE 3, DO NOT use the device.
+  Arm Positioner to      Turn the Arm Positioner in the “Close” or “Open” direction until no
+  Neutral                resistance to turning is noted.
+
+  Invert the Implant     1. Confirm the Implant is unlocked.
+  Arms                   2. Turn the Arm Positioner at least 1/2 turn in the “Close” direction.
+                         3. Turn the Arm Positioner in the “Open” direction until an Implant
+                            Arm Angle of 180° is observed under fluoroscopic guidance. Note
+                            the orientation of the grey line on the Arm Positioner.
+                         4. Continue turning the Arm Positioner in the “Open” direction until
+                            the Implant Arms invert, no more than 1 full turn from 180°. DO
+                            NOT over-invert the Implant Arms. DO NOT turn Arm Positioner
+                            more than 1 full turn past an Implant Arm Angle of 180° or past
+                            when resistance is first noted.
+
+                         WARNING: Turning the Arm Positioner in the “Open” direction
+                                  more than 1 full turn past an Implant Arm Angle of
+                                  180° or turning past when resistance is first noted may
+                                  result in device damage which could cause the
+                                  Implant to become non-functional and lead to
+                                  embolization, and / or conversion to surgical
+                                  intervention.
+
+  Raise the Gripper(s)   (a) Simultaneously- Confirm Gripper Levers are latched. Slowly
+                             retract the Gripper Levers until a hard stop is reached (under
+                             ﬂuoroscopic and echocardiographic observation).
+                         or
+                         (b) Independently- Unlatch the Gripper Levers and slowly retract the
+                             desired Gripper Levers until a hard stop is reached (under
+                             ﬂuoroscopic and echocardiographic observation). Re-latch the
+                             Gripper Levers.
+
+
+
+EL2142807 (2025-07-15)               Printed on: 2025-07-21
+Page 64 of 68
+  Lower the              (a) Simultaneously- Confirm the Gripper Levers are latched
+  Gripper(s)                 and fully advance the Gripper Levers.
+                         or
+                         (b) Independently- Unlatch the Gripper Levers and fully advance the
+                             desired Gripper Lever(s). Re-latch the Gripper Levers.
+  Identify Gripper       1.   Unlatch the Gripper Levers.
+  Orientation            2.   Advance and retract the Gripper Lever with the tactile marker
+                              under imaging (echocardiography) to identify Gripper Lever
+                              to the corresponding leaflet.
+                         3.   Repeat step 2 with the Gripper Lever without the tactile marker.
+                         4.   Once Grippers are identified, Raise the Gripper(s) and relatch.
+
+  Implant Arm Angle      •    Angle between the inner edges of both Implant Arms.
+                         •    All Implant Arm Angles are measured using ﬂuoroscopy with
+                              optimal view allowing clear observation of the tip of the Implant
+                              and both arms in the same plane, so they appear as a “V” (see
+                              Figure 1). All Implant Arm Angles are approximate.
+
+  Grasping Arm Angle     An Implant Arm Angle of approximately 120 degrees.
+  Close the Implant      Turn the Arm Positioner in the “Close” direction until the desired Implant
+  Arms                   Arm Angle is achieved per the instructed IFU step.
+
+                         To Fully Close the Implant:
+                         • Under direct visualization, the Implant is fully closed when the
+                             inner edges of the Implant Arms contact the DC.
+                         • Under ﬂuoroscopic observation, the Implant is fully closed when the
+                             inner edges of the Implant Arms are parallel.
+
+                         NOTE: Ensure the DC handle is held securely when closing the Implant
+                         NOTE: If Implant Arms fail to close visibly (as observed under
+                               fluoroscopic guidance), use advanced closing techniques as
+                               needed.
+
+
+
+
+EL2142807 (2025-07-15)                Printed on: 2025-07-21
+Page 65 of 68
+  Test the Lock          Verification step to confirm that the pre-deployment Implant Arm Angle
+                         will reflect the Implant Arm Angle post-deployment.
+                         With the Lock Knob pointing distally in the Locked Position, and the Arm
+                         Positioner to Neutral (note the orientation of the grey line on the Arm
+                         Positioner), turn the Arm Positioner 1 turn in the “Open” direction
+                         (confirm grey line has returned to the original orientation). The Implant
+                         Arms may open slightly (~5°) and then remain in a stable position.
+
+                         NOTE: Ensure the DC handle is held securely when turning the Arm
+                               Positioner.
+
+                         NOTE: If continued opening of the Implant Arms is noted, reconfirm that
+                               the Lock Knob is pointing distally in the Locked Position. Close
+                               the Implant Arms and Test the Lock.
+
+                         WARNING: DO NOT turn the Arm Positioner more than 1 turn in
+                                  the “Open” direction from neutral. Failure to stop
+                                  turning the Arm Positioner at 1 turn in the “Open”
+                                  direction past neutral may result in Implant opening or
+                                  device damage which could cause the Implant to
+                                  become non-functional and lead to embolization and /
+                                  or conversion to surgical intervention.
+
+  Lift the Lock Line     With the Lock Knob pointing distally in the Locked Position, and the Arm
+  Release Latch          Positioner on the closed side of Neutral, Lift the Lock Line Release
+                         Latch to hard stop.
+
+                         WARNING: Once the latch is lifted, be careful to not inadvertently
+                                  lower the latch prior to Lock Line removal. DO NOT
+                                  Lift the Lock Line Release Latch until deployment.
+                                  Premature Lifting of the Lock Line Release Latch may
+                                  result in the inability to Unlock the Implant.
+
+  Remove the Lock        Retract the Lock Knob Release Slider, carefully detach the Lock Knob
+  Knob                   from the DC Handle, and release the Lock Knob Release Slider.
+                         Carefully pull the Lock Knob until the entire Lock Line is removed from
+                         the DC Handle.
+
+                         WARNING: If resistance is felt during Lock Knob removal, stop
+                                  and confirm that the Lock Line Release Latch is fully
+                                  lifted to the hard stop before continuing with Lock
+                                  Knob removal.
+  Secure the DS          Insert the Delivery System (DS) Attach into the Stabilizer Rail. Confirm
+  Attach                 the DS Attach is secure and stable within the Stabilizer Rail.
+
+  Release the DS         Pinch, securely hold, and lift the DS Attach to release it from the
+  Attach                 Stabilizer Rail.
+
+
+
+Pat. www.abbott.com/patents
+
+™ Indicates a trademark of the Abbott group of companies.
+© 2025 Abbott. All Rights Reserved.
+EL2142807 (2025-07-15)                Printed on: 2025-07-21
+Page 66 of 68
+       Abbott Medical
+       177 County Road B East
+       St. Paul, MN 55117 USA
+       TEL: +1 855 478 5833
+       FAX: +1 651 756 5833
+       Outside USA TEL: +1 855 478 5833
+       Outside USA FAX: +1 651 756 5833
+
+
+
+
+EL2142807 (2025-07-15)           Printed on: 2025-07-21
+Page 67 of 68
+GRAPHICAL SYMBOLS FOR MEDICAL DEVICE LABELING
+Source reference for recognized symbols retained at the manufacturer in the Medical
+Device File.
+
+                    Batch code                               Do not resterilize
+
+
+                    Catalogue number                         Do not re-use
+
+
+                    Use-by date                              Non-pyrogenic
+
+                                                             Do not use if package is
+                    Sterilized using ethylene
+                                                             damaged and consult
+                    oxide.
+                                                             instructions for use
+                    Single sterile barrier
+                                                             Manufacturer
+                    system
+                    Consult instructions for
+                    use or consult electronic                Date of manufacture
+                    instructions for use
+                    Refer to instruction
+                                                             Packaging unit
+                    manual/booklet
+
+                    MR Conditional                           Keep away from sunlight
+
+
+                    Unique device identifier                 Keep dry
+
+                                                             CAUTION: Federal law
+                                                             restricts this device to
+                    Medical device
+                                                             sale by or on the order of
+                                                             a physician.
+
+
+
+
+EL2142807 (2025-07-15)             Printed on: 2025-07-21
+Page 68 of 68
+

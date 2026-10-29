@@ -60,3 +60,17 @@ Gaps / declined:
 - WATCHMAN access sheath curves, Amulet sheath ID/OD, Sentrant/DrySeal ID/OD, BRK curves: not in 510(k) summaries.
 - Agilis 13F SI-1371: not checked in GUDID this pass (time).
 - MitraClip G5 / TriClip G5 fields: not attempted.
+
+## Pass SH16 — gap fill (2026-10-29, /preview/ only, tag preview-passsh16). 16 values applied, 0 new conflicts. Backup structural-specs-verified.pre-passSH16.csv. Overall 81.8% → 84.6% (Tricuspid TEER 75→100%, Mitral TEER 70→82%, Transseptal 55→59%, LAAO access sheath 77→80%).
+Filled (sources/passSH16/values.csv, docs in sources/passSH16/docs/; page numbers are PDF pages = printed pages):
+- MitraClip G5 (US IFU EL2142805 Rev. C, 2025-07-15): implant sizes NT/NTW/XT/XTW CDS0801-xx (p.1/p.3/Table 1 p.4), independent grasping (§22.4 p.20, p.61), delivery system CDS0801 + SGC0801 + SZR08/LFT/PLT (p.1/p.3), guide 25 Fr shaft / 23 Fr tip, 78 cm (Table 1 p.4), transfemoral venous transseptal (p.15).
+- TriClip G5 (US IFU EL2142807 Rev. D, 2025-07-15): implant sizes TCDS0801-xx, independent grasping (p.20, p.64), delivery system TCDS0801 + TSGC0801, guide 25 Fr / 78 cm (Table 1 p.4), transfemoral venous to RA (§16.1/16.3 p.15).
+- MitraClip G4 (US IFU EL2141494 Rev. A): independent grasping (p.12, p.82), SGC0701 25 Fr / 23 Fr tip, 80 cm (Table 1 p.9).
+- TriClip G4 (US IFU EL2140056 Rev. C): independent grasping (p.17, p.54), TSGC0201 25 Fr / 80 cm (Table 2 p.4).
+- Amulet Steerable Delivery Sheath (US IFU ARTEN600317851 Rev. C, Table 2 p.2): STRBL-14F-075 ID 14 Fr 4.7 mm / OD 6.0 mm, 75 cm working / 93.9 cm total (column icons read from rendered page).
+- BRK / BRK-1 (Abbott IFU ARTMT600239457 Rev. A, all 12 catalog numbers, Federal law (U.S.) caution, eIFU tagged US; p.3): sheath compat = Abbott transseptal sheath sets; max guidewire 0.014"/0.012".
+Gaps / declined:
+- Navitor Titan: openFDA P190023 supplements through S034 checked (S023 = NVRO-35 nitinol supplier change); accessdata labeling PDFs 404; Abbott US eIFU still only IDE IFU ARTEN600158216_A (PRT-NG-35). New ARTMT600403993_B (2026-09-21) lists NVRO-35 but is tagged OUS only → declined.
+- BRK needle_curves: IFU and GUDID (OD 1.3 mm, 71/89/98 cm; BRK / BRK-1 / XS variants) give no curve geometry → blank.
+- Agilis NxT Dual-Reach SI-1371-S/-M/-L: US-cleared K243493 (2024-12-13), GUDID in commercial distribution, 13 Fr, 71 cm (product code DYB). Only IFU found is OUS (ARTMT600338988_B) → candidate new row, not added (no US IFU for curves/ID/deflection).
+- Safari exact model, Amplatz Extra Stiff, TRUE nominal/RBP, Z-MED II, Sentrant/DrySeal ID/OD, VersaCross Access Solution, WATCHMAN access sheath curves, PASCAL guide/grasping: not re-attempted this pass (no new sources beyond SH14 searches).
