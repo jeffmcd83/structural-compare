@@ -39,3 +39,4 @@ History:
 - 2026-10-26: v1.2.1 released (Jeff approved): pass sh15 — EVOQUE valve sizes 44/48/52/56 mm, transfemoral + internal jugular access, and revised sizing table from Edwards US IFU DOC-0586345A (pp.1–2).
 - 2026-10-29: pass sh16 (Jeff decision, confirmed 2026-10-31): Abbott eIFU documents tagged US with a Federal-law (U.S.) caution count as US labeling even when the file path is a non-US folder (BRK ARTMT600239457_A). Agilis Dual-Reach SI-1371 is US-cleared (K243493) but has no US IFU found → not added as a row.
 - 2026-10-31: Released v1.2.2 (pass sh16) live with Jeff's OK.
+- 2026-11-02: Released v1.2.3 (pass sh17) live with Jeff's OK. 5 sh17 conflicts held, not applied.
