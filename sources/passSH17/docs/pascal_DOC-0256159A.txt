@@ -1,0 +1,833 @@
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+
+
+
+      Edwards PASCAL Precision Transcatheter Valve Repair System
+      Instructions for Use                                                                 and covered in polyethylene terephthalate. The PASCAL Ace implant is a
+                                                                                           smaller size to provide physicians options. Suggested considerations for
+      Carefully read these instructions for use, which address the warnings,
+                                                                                           selecting PASCAL Ace implant include smaller landing zones and dense
+      precautions, and residual risks for this medical device.
+                                                                                           chordal regions. Refer to the PASCAL Precision system Physician Training
+      The Edwards PASCAL Precision transcatheter valve repair system includes              Materials for additional information on the differences in size of spacer
+      the following model numbers (herein referred to as the PASCAL Precision              and other components for PASCAL and PASCAL Ace implants, including
+      system):                                                                             additional considerations for implant selection.
+
+      Model Number                           Device                                        The implant has four main paddle positions: elongated, closed, leaflet-
+                                                                                           capture-ready, and leaflet-captured.
+      20000IS                                PASCAL Precision system – implant
+                                                                                           Note: PASCAL Ace implant is a naming convention that refers to
+                                             system
+                                                                                           an additional implant size with the same indication for use as the
+      20000ISM                               PASCAL Precision system – PASCAL              PASCAL implant.
+                                             Ace implant system                          • Implant Catheter (Figure 4)
+      20000GS                                PASCAL Precision system – guide               The implant is provided attached to the implant catheter by sutures and
+                                             sheath                                        a threaded shaft. The implant catheter controls the deployment of the
+                                                                                           implant. The four primary controls are the clasp sliders, the paddle knob,
+      The PASCAL Precision system is compatible with the following single-use              the implant release knob, and the suture locks. The clasp sliders control
+      accessories:                                                                         the clasps (retracting the clasp sliders raises the clasps and advancing
+                                                                                           the clasp sliders lowers the clasps). The paddle knob controls the paddles
+      Model Number                           Device                                        (rotating the paddle knob clockwise closes the paddles and rotating the
+      10000T                                 PASCAL system – table                         paddle knob counterclockwise opens the paddles). The implant release
+                                                                                           knob controls the release of the implant from the implant catheter. The
+      20000ST                                PASCAL system – stabilizer rail               suture locks control release of the sutures from the clasps. The implant
+                                             system                                        catheter is provided assembled within the steerable catheter.
+      The PASCAL Precision system is compatible with the following reusable              • Steerable Catheter (Figure 4)
+      accessories:                                                                         The steerable catheter has a rotational control knob (flex knob) that
+                                                                                           actuates the flexion mechanism to navigate and position the implant
+      Model Number                           Device                                        to the target location. A radiopaque marker band located on the distal
+      10000UP                                Edwards reusable platform                     portion of the catheter indicates the end of the flex section.
+                                                                                         • Guide Sheath (Figure 5)
+      10000PT                                Edwards reusable plate
+                                                                                           The guide sheath is used to provide atrial access. It has a hydrophilic
+      10000CR                                Edwards reusable cradle                       coating and a rotational control knob (flex knob) which actuates the
+                                                                                           flexion mechanism to position the guide sheath at the target location.
+      • Implant System (Figure 4)
+                                                                                         • Introducer (Figure 5)
+        The implant system consists of the steerable catheter (outermost layer),
+                                                                                           The introducer is used to facilitate tracking the guide sheath to
+        the implant catheter (innermost layer), and the implant (hereinafter
+                                                                                           the desired location. The introducer is compatible with a 0.035 inch
+        refers to the PASCAL and PASCAL Ace implants). The implant system
+                                                                                           (0.89 mm) guidewire. The introducer is included in the guide sheath
+        percutaneously delivers the implant to the valve via a femoral vein access
+                                                                                           packaging.
+        using a transvenous, transseptal [mitral] and transvenous [tricuspid]
+        approach.                                                                        • Loader (Figure 8)
+      • Implant (Figures 1-3)                                                              The loader is used to introduce the implant and delivery catheters
+                                                                                           through the guide sheath seals. The loader is included in the implant
+        The implant is deployed and secured to the leaflets of the valve, acting
+                                                                                           system and guide sheath packaging for user convenience.
+        as a filler in the regurgitant orifice. The primary components of the
+        implant are the spacer, paddles, and clasps constructed from Nitinol             • Stabilizer Rail System (Figure 6)
+                                                                                           The stabilizer rail system is intended to aid with positioning and
+                                                                                           stabilization of the PASCAL Precision system during implantation
+                                                                                           procedures. The stabilizer can be attached to the guide sheath and
+                                                                                           implant system as needed any time during the procedure. The use of
+                                                                                           the stabilizer rail system is optional.
+      Edwards, Edwards Lifesciences, the stylized E logo, CLASP,
+      Edwards PASCAL, Edwards PASCAL Precision, PASCAL, PASCAL Ace, and                  • Table (Figure 7)
+      PASCAL Precision are trademarks of Edwards Lifesciences Corporation. All
+      other trademarks are the property of their respective owners.
+
+                                                                                     1
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+        The table is intended to provide a stable platform for the implant                 • Presence of primary non-degenerative tricuspid disease
+        system, guide sheath, and stabilizer rail system of the PASCAL Precision
+                                                                                           3.2 Device Handling
+        system. The table is used outside of the sterile field. The table is height-
+                                                                                           3.2.1 PASCAL Precision System, Table, and Stabilizer Rail System
+        adjustable. The use of the table is optional.
+      • Reusable Accessories                                                               • The devices are designed, intended, and distributed for single use
+                                                                                             only. There are no data to support the sterility, non-pyrogenicity, and
+        For reusable accessories, refer to the Edwards Reusable Accessories:                 functionality of the devices after reprocessing. Such action could lead to
+        Reusable Platform (Model 10000UP), Reusable Plate (Model 10000PT),                   illness or an adverse event as the device may not function as originally
+        and Reusable Cradle (Model 10000CR) Instructions for Use (herein                     intended.
+        referred to as the Edwards Reusable Accessories IFU).
+                                                                                           • Devices should be handled using standard sterile technique to prevent
+                                                                                             infection.
+      1.0 Indications for Use
+                                                                                           • Do not expose any of the devices to any solutions, chemicals, etc.,
+      1.1 Intended Use                                                                       except for the sterile physiological and/or heparinized saline solution.
+                                                                                             Irreparable damage to the device, which may not be apparent under
+      The PASCAL Precision system is intended to repair an insufficient mitral
+                                                                                             visual inspection, may result.
+      and/or tricuspid valve via percutaneous reconstruction through tissue
+      approximation. The PASCAL Precision system percutaneously delivers the               • Do not use any of the devices in the presence of combustible or
+      implant to the valve via a femoral vein access using a transvenous,                    flammable gases, anesthetics, or cleaners/disinfectants.
+      transseptal (mitral) and transvenous (tricuspid) approach.                           • Do not use the devices if the expiration date has elapsed.
+                                                                                           • Do not use if the packaging seal is broken or if the packaging is damaged
+      1.2 Target Patient Population
+                                                                                             for sterile devices.
+      The PASCAL Precision system is intended for:                                         • Do not use if any of the devices were dropped, damaged, or mishandled
+      • Adult patients with clinically significant, symptomatic mitral regurgitation         in any way.
+        (moderate-to-severe or severe MR)                                                  • Standard flushing and de-airing technique should be used during
+      • Adult patients with clinically significant, symptomatic tricuspid                    preparation and throughout procedure to prevent air embolism.
+        regurgitation (severe or greater TR) despite medical therapy                       3.2.2 Edwards Reusable Platform, Reusable Plate, and Reusable Cradle
+      Patient selection should be performed by a multidisciplinary expert heart            • The devices are designed, intended, and distributed for multiple uses. For
+      team specializing in the treatment of mitral and tricuspid regurgitation. The          reusable accessories, refer to the Edwards Reusable Accessories IFU.
+      heart team should weigh the benefits and risks of all possible interventions
+      prior to treating patients with the PASCAL Precision system. Patients are            3.3 Clinical Warnings
+      candidates for the PASCAL Precision system if they are not deemed suitable           • As with any implanted medical device, there is a potential for an adverse
+      for cardiac surgery, including minimally invasive cardiac surgery, and are             immunological response.
+      anatomically suitable for treatment with the PASCAL Precision system.                • Serious adverse events, sometimes leading to surgical intervention
+                                                                                             and/or death, may be associated with the use of this system ("Potential
+      2.0 Contraindications                                                                  Adverse Events"). A full explanation of the benefits and risks should be
+                                                                                             given to each prospective patient before use.
+      The PASCAL Precision system is contraindicated in mitral and tricuspid
+      patients with:                                                                       • Careful and continuous medical follow-up is advised so that implant-
+                                                                                             related complications can be diagnosed and properly managed.
+      • Patient in whom a TEE is contraindicated or screening TEE is unsuccessful
+                                                                                           • Anticoagulation therapy must be determined by the physician per
+      • Echocardiographic evidence of intracardiac mass, thrombus, or                        institutional guidelines.
+        vegetation
+                                                                                           • The PASCAL Precision system has not been evaluated in pregnant or
+      • Presence of an occluded or thrombosed IVC filter that would interfere                pediatric patients.
+        with the delivery catheter, or ipsilateral deep vein thrombosis is present
+      • Known hypersensitivity to nitinol (nickel or titanium) or contraindication         4.0 Precautions
+        to procedural medications which cannot be adequately managed
+        medically                                                                          4.1 Precautions Prior to Use
+      • History of bleeding diathesis or coagulopathy or patient who refuses               • Patient selection should be performed by a multi-disciplinary heart team
+        blood transfusions                                                                   specializing in the treatment of mitral and/or tricuspid regurgitation to
+      Additionally, the PASCAL Precision system is contraindicated in mitral                 assess patient risk and anatomical suitability after considering the various
+      patients with contraindication to transseptal catheterization.                         device treatment options.
+                                                                                           4.2 Precautions After Use
+      3.0 Warnings                                                                         • Long-term durability has not been established for the implant. Regular
+      3.1 Anatomic Considerations                                                            medical follow-up is advised to evaluate implant performance.
+                                                                                           • Short-term anticoagulation therapy may be necessary after valve repair
+      For optimal results, the following anatomic patient characteristics should
+                                                                                             with the PASCAL Precision system. Prescribe anticoagulation and other
+      be considered. Valve anatomy which might limit proper PASCAL Precision
+                                                                                             medical therapy per institutional guidelines.
+      system access, use and/or deployment, or sufficient reduction in mitral or
+      tricuspid regurgitation should be considered by a multi-disciplinary heart
+      team. Safety and effectiveness have not been established for patients with           5.0 Potential Adverse Events
+      anatomic characteristics including, but not limited to, the following:               Complications associated with standard cardiac catheterization, the use
+      Applicable to mitral and tricuspid patients:                                         of anesthesia, and use of the PASCAL Precision system could lead to
+                                                                                           the following outcomes: conversion to open surgery, emergent or non-
+      • Evidence of severe calcification in the annulus or subvalvular apparatus
+                                                                                           emergent reoperation, explant, permanent disability, or death. Physicians
+      • Presence of significant cleft or perforation in the grasping area                  are encouraged to report suspected device related events to Edwards or
+      • Leaflet mobility length < 8 mm                                                     the assigned hospital authorities.
+      Applicable to mitral patients only:                                                  The following anticipated adverse events have been identified as possible
+      • Transseptal puncture height < 3.5 cm                                               complications of the PASCAL Precision system procedure:
+      • LA diameter ≤ 35 mm                                                                • Abnormal lab values
+      • LVEDD > 8.0 cm                                                                     • Allergic reaction to anesthetic, contrast, heparin, Nitinol
+      Applicable to tricuspid patients only:                                               • Anemia or decreased Hgb, may require transfusion
+                                                                                           • Aneurysm or pseudoaneurysm
+      • Evidence of moderate to severe calcification in the grasping area
+
+                                                                                       2
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+      • Angina or chest pain                                                               • Respiratory compromise, respiratory failure, atelectasis, pneumonia - may
+      • Anaphylactic shock                                                                   require prolonged ventilation
+      • Arrhythmias – atrial (i.e. AF, SVT)                                                • Retroperitoneal bleed
+      • Arrhythmias – ventricular (i.e. VT, VF)                                            • Septal damage or perforation
+      • Arterio-venous fistula                                                             • Septicemia, sepsis
+      • Atrial septal injury requiring intervention                                        • Skin burn, injury, or tissue changes due to exposure to ionizing radiation
+      • Bleeding                                                                           • Single leaflet device attachment (SLDA)
+      • Cardiac arrest                                                                     • Stroke
+      • Cardiac failure                                                                    • Syncope
+      • Cardiac injury, including perforation                                              • Transient ischemic attack (TIA)
+      • Cardiac tamponade/pericardial effusion                                             • Urinary tract infection and/or bleeding
+      • Cardiogenic shock                                                                  • Valve injury
+      • Chordal entanglement or rupture that may require intervention                      • Valve stenosis
+      • Coagulopathy, coagulation disorder, bleeding diathesis                             • Valvular regurgitation
+      • Conduction system injury which may require permanent pacemaker                     • Vascular injury or trauma, including dissection or occlusion
+      • Deep vein thrombosis (DVT)                                                         • Vessel spasm
+      • Deterioration of native valve (e.g. leaflet tearing, retraction, thickening)       • Ventricular wall damage or perforation
+      • Dislodgement of previously deployed implant                                        • Wound dehiscence, delayed or incomplete healing
+      • Dyspnea                                                                            • Worsening of heart failure
+      • Edema                                                                              • Worsening regurgitation / valvular insufficiency
+      • Electrolyte imbalance                                                              For a patient/user/third party in the European Economic area; if, during
+      • Emboli/embolization including air, particulate, calcific material, or              the use of this device or as a result of its use, a serious incident
+        thrombus                                                                           has occurred, please report it to the manufacturer and your national
+      • Endocarditis                                                                       competent authority, which can be found at https://ec.europa.eu/growth/
+      • Esophageal irritation                                                              sectors/medical-devices/contacts_en.
+      • Esophageal perforation or stricture
+                                                                                           6.0 How Supplied
+      • Exercise intolerance or weakness
+      • Failure to retrieve any PASCAL Precision system components                         6.1 Packaging
+      • Fever                                                                              The implant system, guide sheath, and stabilizer rail system are individually
+      • Gastrointestinal bleeding or infarct                                               packaged and ethylene oxide sterilized. The table is packaged and provided
+      • Heart failure                                                                      non-sterile. The Edwards reusable platform, reusable plate and reusable
+      • Hematoma                                                                           cradle are individually packaged and provided non-sterile.
+      • Hemodynamic compromise                                                             6.2 Storage
+      • Hemolysis                                                                          The PASCAL Precision system should be stored in a cool, dry place.
+      • Hemorrhage requiring transfusion or intervention
+      • Hypertension                                                                       7.0 Directions for Use
+      • Hypotension
+                                                                                           7.1 Physician Training
+      • Implant deterioration (wear, tear, fracture, or other)
+                                                                                           The PASCAL Precision system is intended for use by interventional
+      • Implant embolization
+                                                                                           cardiologists and cardiac surgeons, with other support staff that are trained
+      • Implant malposition or failure to deliver to intended site                         to assist in mitral and/or tricuspid heart valve repair.
+      • Implant migration
+                                                                                           The implanting physician shall be experienced in transcatheter techniques
+      • Implant thrombosis
+                                                                                           and trained on the PASCAL Precision system and procedure. All physicians
+      • Infection                                                                          conducting a procedure with the PASCAL Precision system must be trained
+      • Inflammation                                                                       per Edwards training requirements summarized below:
+      • LVOT obstruction
+                                                                                           • PASCAL Precision system Physician Training Manual Didactic Session:
+      • Mesenteric ischemia                                                                  device design, procedural imaging, procedural steps and challenging
+      • Multi-system organ failure                                                           situations
+      • Myocardial infarction                                                              • Hands-on Benchtop Model: practical exercise of procedural steps
+      • Nausea and/or vomiting                                                             • Physiologic Simulation Model: practical exercise of procedural steps with
+      • Nerve injury                                                                         procedural imaging
+      • Neurological symptoms, including dyskinesia, without diagnosis of TIA or           The final decision for PASCAL Precision system device implantation should
+        stroke                                                                             be made by physicians specializing in treatment of mitral and/or tricuspid
+      • Non-neurological thromboembolic events                                             regurgitation in specialized centers who can determine a reasonable
+      • Pain                                                                               chance of significant clinical improvement should be expected based on
+      • Papillary muscle damage                                                            stage of disease and comorbidity.
+      • Paralysis                                                                          7.2 Equipment and Materials
+      • PASCAL Precision system component(s) embolization                                  • Standard cardiac catheterization lab equipment
+      • Peripheral ischemia                                                                • Fluoroscopy system
+      • Pleural effusion                                                                   • Transesophageal echocardiography (TEE) capabilities (2D and 3D)
+      • Pulmonary edema                                                                    • Venous puncture kit
+      • Pulmonary embolism                                                                 • Transseptal needle, sheath, and guidewire (for mitral procedures only)
+      • Reaction to anti-platelet or anticoagulation agents                                • Exchange length 0.035 inch (0.89 mm) guidewire
+      • Renal failure                                                                      • Basins
+      • Renal insufficiency                                                                • 50-60 cc syringes with Luer fitting
+                                                                                           • Heparinized saline
+
+                                                                                       3
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+      • Hemostat                                                                         7.3.5 Implant System – Flushing and Preparation
+      • Surgical towels (e.g. size 43 x 69 cm)
+                                                                                               Step        Procedure
+      • Optional: pigtail catheter for contrast injection (with compatible sheath)
+      • Optional: step-up dilators                                                               1          Close implant.
+      • Optional: continuous physiological saline drip (rolling IV pole, IV tubing               2          Ensure clasp sliders are fully retracted and implant is
+        with thumbwheel occluders, 1-liter bags of heparinized sterile saline                               fully closed.
+        solution)
+                                                                                                 3          Remove vented cap from implant catheter flush port.
+      • Optional: pressure monitoring device                                                                Raise distal end of the implant catheter and flush with
+      7.3 Device Preparation                                                                                heparinized saline.
+      7.3.1 Table                                                                                4          Attach flush port cap to implant catheter flush port.
+             Step         Procedure                                                              5          Attach implant release cover to implant catheter
+               1          Remove the table from packaging and inspect for                                   handle.
+                          damage.                                                                6          Fully retract implant catheter. Advance the clasp sliders
+                          If using the Edwards reusable platform and reusable                               and set implant in elongated position.
+                          cradle in lieu of the table, refer to the Edwards
+                                                                                                 7          Remove loader cap and guide the loader cap onto the
+                          Reusable Accessories IFU.
+                                                                                                            implant system.
+               2          Assemble the table as seen in Figure 7.
+                                                                                                 8          Insert the implant through the proximal end of the
+      7.3.2 Stabilizer Rail System                                                                          loader until it exits the distal end. Connect the loader
+                                                                                                            and loader cap.
+             Step         Procedure
+                                                                                                 9          Advance implant catheter fully so implant exits loader.
+               1          Remove stabilizer rail system components from
+                          packaging and inspect for damage.                                     10          Flush heparinized saline through the steerable
+                                                                                                            catheter.
+      7.3.3 Guide Sheath
+                                                                                                11          Advance the loader until the distal end of the implant
+             Step         Procedure                                                                         is fully in the loader.
+
+               1          Remove the guide sheath, loader, and introducer from           7.4 Implant Procedure
+                          packaging and inspect for gross damage.
+                                                                                         All implant procedure steps apply to both PASCAL mitral and PASCAL
+               2          Flush and de-air with heparinized saline.                      tricuspid implant procedures unless otherwise specified.
+               3          Wipe guide sheath with heparinized saline prior to use.        Delivery of the implant should be performed under general anesthesia with
+                                                                                         hemodynamic monitoring in an operating room, hybrid operating room or
+      7.3.4 Implant System – System Check, Clasp Check, and Resetting                    cath lab with fluoroscopic and echocardiographic imaging capabilities.
+             Step         Procedure                                                      Note: Prior to implant procedure, refer to Anatomic Considerations
+                                                                                         (Section 3.1) as use outside of stated conditions may interfere with
+               1          Remove implant system and loader from packaging                placement of the implant or native valve leaflet insertion.
+                          and inspect for gross damage.
+                                                                                         CAUTION: During the procedure, heparin should be administered so
+                          CAUTION: If vented cap is not present on the                   that the ACT is maintained at ≥ 250 sec.
+                          implant catheter flush port, use of the device may
+                          result in infection.                                           CAUTION: Excessive contrast media may lead to renal failure. Measure
+                                                                                         the patient's creatinine level prior to the procedure. Contrast media
+               2          Fully elongate implant. Fully retract and advance clasp        usage should be monitored.
+                          sliders to confirm proper clasp motion.
+                                                                                         7.4.1 Patient Preparation
+               3          If clasps do not move properly, follow steps below to
+                          reset.                                                               Step        Procedure
+                          If clasps do move properly, continue to next section                   1          Prior to sterile draping the patient, assemble and
+                          “Implant System – Flushing and Preparation.”                                      position the table between the legs of the patient,
+                                                                                                            adjusting height of the table as needed. Use towels as
+               4          Ensure implant is fully closed. Loosen and remove
+                                                                                                            support between table and patient's legs.
+                          suture locks from suture lock base.
+                                                                                                            CAUTION: The table is provided non-sterile;
+                          Note: Ensure free end of suture is not pulled into
+                                                                                                            introduction of the table into the sterile field may
+                          handle while loosening suture lock.
+                                                                                                            result in infection.
+               5          Fully retract clasp sliders and place clasp setting tool                          OR
+                          flush with suture locks, suture lock bases, and implant
+                          release knob.                                                                     Prior to sterile draping the patient, assemble and
+                                                                                                            position the reusable accessories around the legs of
+               6          Pull free end of suture on one suture lock base to                                patient, adjusting the height and angle of the platform
+                          remove suture slack. Release tension on free end of                               as needed. Place the cradle on the platform in line
+                          suture, replace and tighten the suture lock.                                      with the intended femoral vein access site. Refer to the
+                          Repeat for second suture lock.                                                    Edwards Reusable Accessories IFU.
+               7          Remove clasp setting tool. Fully elongate implant. Fully                          CAUTION: The reusable accessories are non-sterile;
+                          advance and retract clasp sliders to confirm proper                               introduction of the reusable accessories into the
+                          clasp motion.                                                                     sterile field may result in infection.
+                                                                                                 2          After sterile draping, assemble and attach stabilizer rail
+                                                                                                            system as needed any time during procedure.
+
+
+
+
+                                                                                     4
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+      7.4.2 Femoral Vein Access and Sheath Introduction                                Step   Procedure
+            Step       Procedure                                                              fluid filled pressure monitoring device to the steerable
+                                                                                              catheter. Aspirate and then calibrate at the patient’s
+             1         Access the common femoral vein using conventional
+                                                                                              heart level before obtaining measurement.
+                       percutaneous puncture methods.
+                                                                                              Refer to the PASCAL Precision system Physician
+             2         For PASCAL Mitral Implant Procedures:
+                                                                                              Training Material for additional guidance on atrial
+                       Access the left atrium via transvenous, transseptal                    pressure monitoring, including limitations.
+                       techniques using conventional percutaneous methods
+                                                                                              Note: Pressure monitoring should be used in
+                       and place guidewire in left atrium. Dilate the vessel, as
+                                                                                              conjunction with echo. Pressure should be
+                       needed.
+                                                                                              reconciled against echo and Doppler readings.
+                       CAUTION: (for mitral procedures only)                                  When assessing atrial pressure, ensure that the
+                       Inappropriate puncture may result in cardiac                           distal tip of the implant catheter is fully exposed
+                       structure damage requiring surgical repair or other                    from the steerable catheter.
+                       intervention.
+                                                                                        9     Advance implant system as needed. Manipulate
+                       For PASCAL Tricuspid Implant Procedures:                               steerable catheter and guide sheath (flex-unflex,
+                       Access the right atrium using conventional                             torque in opposing directions, advance-retract) as
+                       percutaneous methods and place guidewire in right                      needed until implant is centered in the target
+                       atrium. Dilate the vessel, as needed.                                  coaptation zone with the appropriate trajectory.
+             3         For PASCAL Mitral Implant Procedures:                                  CAUTION: Excessive manipulation may result in
+                                                                                              dislodgement or disturbance of a previously
+                       Insert guide sheath with introducer over guidewire
+                                                                                              implanted device, cardiac structure damage
+                       until guide sheath tip is securely across the septum,
+                                                                                              requiring surgical repair, or other intervention.
+                       using flex mechanism as needed.
+                                                                                              Note: The radiopaque marker band on the
+                       For PASCAL Tricuspid Implant Procedures:
+                                                                                              steerable catheter indicates the end of the flex
+                       Insert guide sheath with introducer over guidewire                     section and can be visualized on fluoroscopy.
+                       until guide sheath tip is inside the right atrium.
+                                                                                       10     Rotate the paddle knob to set the implant into leaflet-
+                       CAUTION: Excessive manipulation may result in                          capture-ready position.
+                       dislodgement or disturbance of a previously
+                       implanted device, cardiac structure damage                      11     Torque the implant catheter, as needed, to orient the
+                       requiring surgical repair or other intervention.                       paddles.
+             4         Remove the introducer and guidewire. Do not aspirate            12     Move one clasp slider to identify which clasp it controls
+                       and flush the guide sheath until the implant system is                 via imaging. Once identified, ensure sliders are fully
+                       inserted.                                                              retracted.
+                       CAUTION: Aspiration or connection of a continuous               13     Advance the implant through the valve until paddles
+                       physiological saline flush to the guide sheath                         are below the free edge of the leaflets.
+                       prior to implant system insertion may result in air
+                                                                                       14     Verify location and orientation of the implant and
+                       embolism.
+                                                                                              adjust position slightly as needed.
+      7.4.3 Implant Navigation and Placement                                                  CAUTION: Excessive manipulation of the implant
+                                                                                              below the leaflets may cause the implant
+            Step       Procedure
+                                                                                              to be entangled in the chords; chordal
+             1         Insert the implant system with the loader into the                     entanglement may result in cardiac injury,
+                       guide sheath.                                                          worsening regurgitation, difficulty or inability
+                                                                                              to remove the implant requiring additional
+             2         Advance implant system until the implant exits the
+                                                                                              intervention.
+                       loader. Retract and peel away the loader.
+                                                                                       15     Under imaging guidance, retract the implant until
+             3         Aspirate and flush guide sheath with heparinized
+                                                                                              leaflets are positioned between paddles and clasps.
+                       saline. Utilizing the specified syringe, aspirate a
+                       minimum of 45 cc.                                               16     Advance clasp slider(s) so the leaflet(s) are secured
+                       CAUTION: Failure to fully aspirate guide sheath or                     between the clasps and paddles.
+                       aspiration without the presence of the flush port                      This can be performed for both leaflets simultaneously
+                       cap on the implant catheter flush port may result in                   (clasp lock engaged to move both clasps) or each
+                       air embolism.                                                          leaflet individually (clasp lock disengaged to move
+                                                                                              individual clasp).
+             4         If desired, connect the continuous physiological saline
+                       drip to the implant catheter.                                   17     Verify leaflet insertion with imaging.
+                       CAUTION: Connection of the continuous                                  If leaflet(s) are not secured between clasps and
+                       physiological saline drip to the implant system                        paddles, retract the clasp slider(s) to release the
+                       prior to aspiration may result in air embolism.                        leaflet(s) and reattempt.
+             5         Advance implant system until the implant exits the              18     Once leaflets are secured between the clasps and
+                       distal end of the guide sheath.                                        paddles, close the implant.
+             6         Set the implant in closed position. Retract the clasp           19     Advance implant catheter slightly to release tension on
+                       sliders.                                                               leaflets.
+             7         Adjust guide sheath as needed.                                  20     Assess regurgitation, and reposition as needed. Once
+                                                                                              the implant position is confirmed, ensure implant is
+             8         At the discretion of the treating physician, if pressure
+                                                                                              closed.
+                       monitoring is used to continuously assess atrial
+                       pressure during procedure, please follow the pressure                  If repositioning within the ventricle is needed, retract
+                       monitor manufacturer’s instruction of use. Connect a                   the clasp sliders and set the implant in leaflet-capture-
+
+
+                                                                                   5
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+             Step         Procedure                                                            Step         Procedure
+                          ready position. Adjust clasps and implant orientation                  1          Ensure that the distal tip of the implant catheter is fully
+                          as needed.                                                                        exposed from the steerable catheter.
+                          If repositioning within the atrium is needed, retract                  2          Unscrew and remove implant release cover from
+                          the clasp sliders and elongate the implant slowly                                 implant catheter handle.
+                          under fluoroscopic guidance while ensuring that the
+                          actuation wire does not bend, and retract the implant                  3          Unthread and remove one suture lock from the suture
+                          back into the atrium.                                                             lock base.
+
+                          CAUTION: Failure to elongate the implant when                          4          Pull suture lock away from handle to fully remove
+                          retracting into the atrium during repositioning may                               suture.
+                          result in leaflet damage or chordal entanglement.                      5          Repeat steps for other suture lock.
+                          CAUTION: Failure to release leaflets from clasps and                   6          Rotate counterclockwise and retract the implant
+                          paddles prior to repositioning may result in leaflet                              release knob until the implant is released, as confirmed
+                          damage.                                                                           via imaging.
+      7.4.4 Implant Retrieval (if needed)                                                        7          Replace suture locks, as needed.
+      Prior to implant release, if needed, it is possible to retrieve the implant       7.4.6 Device Removal and Closure
+      system back into the guide sheath for removal. Follow the steps below to
+      retrieve the implant.                                                                    Step         Procedure
+      Refer to the PASCAL Precision system Physician Training Materials for                      1          Retract implant catheter completely into steerable
+      additional considerations on implant retrieval maneuvers.                                             catheter. Gradually unflex and remove implant system.
+                                                                                                            Gradually unflex and remove guide sheath.
+      CAUTION: Excessive manipulation may result in dislodgement or
+      disturbance of a previously implanted device, cardiac structure                                       CAUTION: Failure to unflex devices prior to removal
+      damage requiring surgical repair or other intervention.                                               may result in vessel damage.
+
+             Step         Procedure                                                              2          Perform standard percutaneous closure of access site.
+
+               1          Retract the clasp sliders.
+                                                                                        8.0 Magnetic Resonance (MR) Safety
+               2          Elongate the implant slowly under fluoroscopic
+                          guidance while ensuring that the actuation wire does          Non-clinical testing has demonstrated that the PASCAL and PASCAL Ace
+                          not bend. Then retract implant into the atrium. Set the       implants are MR Conditional. A patient with this device can be safely
+                          implant in closed position.                                   scanned in an MR system meeting the following conditions:
+
+               3          Unflex the steerable catheter and retract the implant         • Static magnetic fields of 1.5 T and 3.0 T
+                          system until the implant is adjacent to the tip of the        • Maximum spatial field gradient of 3,000 gauss/cm (30 T/m)
+                          guide sheath.                                                 • Maximum MR system-reported, whole body averaged specific absorption
+                                                                                          rate (SAR) of 4 W/kg (First Level Controlled Operating Mode).
+               4          Advance the clasp sliders.
+                                                                                        Under the scan conditions defined above, the implant is expected to
+               5          Set the implant in elongated position.                        produce a maximum temperature rise of less than 4 °C after 15 minutes
+               6          Retract the clasp sliders to open the clasps to               of continuous scanning.
+                          approximately 45° on each side.                               In non-clinical testing, the image artifact caused by the device in a worst
+               7          Retract entire implant system through the guide               case multiple implant configuration extends up to 15 mm from the implant
+                          sheath.                                                       when imaged in the worst case gradient echo pulse sequence in a 3.0 T MRI
+                                                                                        system.
+      7.4.5 Implant Release
+      To release the implant follow the steps below:
+                                                                                        9.0 Recovered Implant and Device Disposal
+      CAUTION: Failure to follow prescribed release steps may result                    Edwards Lifesciences is interested in obtaining recovered clinical specimens
+      in difficulty or inability to release implant, requiring additional               of the implant for analysis. A written report summarizing our findings will
+      intervention.                                                                     be provided upon completion of our evaluation. Please contact Edwards for
+                                                                                        return of the recovered implant.
+      CAUTION: Releasing the implant prior to confirmation that leaflets
+                                                                                        If you do decide to return any of the devices, please follow the following
+      are securely captured between paddles and clasps may result in
+                                                                                        instructions:
+      implant movement or dislodgement leading to a single leaflet
+      device attachment (SLDA) or other potential adverse events requiring              • Unopened Package with Sterile Barrier Intact:
+      additional intervention.                                                            If the pouches have not been opened, return the device in its original
+      CAUTION: Re-use of the devices (including implant system and guide                  packaging.
+      sheath) after retrieval may cause embolism of foreign material or                 • Package Opened but Not Implanted:
+      infection. Device may malfunction if re-use is attempted.                           If a pouch is opened, the device is no longer sterile. Please return the
+      Note: If an additional implant [PASCAL or PASCAL Ace] is placed at the              device in its original packaging.
+      decision of the treating physician, caution should be taken to avoid              • Explanted Implant:
+      dislodgement of the previously placed implant. Crossing the valve in                The explanted implant should be placed into a suitable histological
+      a low profile implant configuration can minimize interaction with the               fixative such as 10% formalin or 2% glutaraldehyde and returned to
+      previously placed implant.                                                          Edwards.
+      CAUTION: Excessive manipulation may result in dislodgement or                     9.1 Disposal
+      disturbance of a previously implanted device, cardiac structure
+                                                                                        Use universal precautions for biohazards and sharps to avoid user injury.
+      damage requiring surgical repair or other intervention.
+                                                                                        Used single use devices (includes all devices that come in contact
+                                                                                        with patients) should be handled and disposed of in accordance with
+
+
+
+                                                                                    6
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+      institutional guidelines on biohazardous materials and hospital waste to
+      avoid possible cross-contamination.                                                  12.0 Clinical Benefits
+      For disposal of the reusable accessories, refer to the Edwards Reusable              The clinical benefits of the PASCAL Precision system for the treatment of
+      Accessories IFU.                                                                     MR include the following:
+                                                                                           • Effective and stable reduction in mitral regurgitation.
+      10.0 Summary of Clinical Experience                                                  • Enables minimally invasive percutaneous treatment option for mitral
+      A high-level summary of all clinical experience is provided below. A                   regurgitation.
+      detailed summary of all clinical experience can be found in the SSCP.                • Improvement in functional status, exercise capacity, and quality of life.
+      10.1 CLASP Study                                                                     The clinical benefits of the PASCAL Precision system for the treatment of TR
+                                                                                           include the following:
+      Results from the CLASP study, a multi-center, multi-national, prospective,
+      single-arm study, show high rates of device, procedural, and clinical                • Effective and stable reduction in tricuspid regurgitation.
+      success, a reduction in MR grade and improvement in functional status                • Enables minimally Invasive percutaneous treatment option for tricuspid
+      through 3 years, an improvement in quality of life and exercise capacity               regurgitation.
+      through 1 year, and an acceptable MAE rate.                                          • Improvement in functional status, exercise capacity, and quality of life.
+      10.2 CLASP IID Study                                                                 There are no clinical benefits specific to the table, as the table is an optional
+      A prespecified interim analysis of the randomized cohort from the pivotal,           non-patient contacting accessory. Benefits of the table are functional in
+      randomized, controlled CLASP IID study demonstrated the noninferiority               nature and related to the intended use of the accessory to support the
+      of the PASCAL system versus the MitraClip system for the primary safety              PASCAL Precision system.
+      endpoint of the MAE rate and the primary effectiveness endpoint of                   There are no clinical benefits specific to the stabilizer rail system, as the
+      MR ≤ 2+. Results from the roll-in cohort through 30 days and the registry            stabilizer rail system is an optional non-patient contacting accessory used
+      cohort through 6 months show improvements in MR grade and clinical                   only during the implant procedure. Benefits of the stabilizer rail system are
+      outcomes, along with MAE rates within the anticipated range.                         functional in nature and related to the intended use of the accessory to
+      10.3 MiCLASP PMCF Study                                                              support the PASCAL Precision system.
+      Results from the MiCLASP PMCF study, a multi-center, single-arm,
+      prospective post market clinical follow up study, show a reduction in MR
+                                                                                           13.0 Basic Unique Device Identification-Device
+      grade and an improvement in functional status, exercise capacity, and                Identifier (UDI-DI)
+      quality of life through 1 year. Evaluation of the MAE rate at 1 year indicates       The Basic UDI-DI is the access key for device-related information entered
+      an acceptable safety profile.                                                        in the Eudamed. The Basic UDI-DI for the PASCAL Precision system can be
+      10.4 CLASP TR Study                                                                  used to locate the SSCP.
+      Results from the CLASP TR study, a prospective, single arm, multi-center             The following table contains the Basic UDI-DIs for the PASCAL Precision
+      study, shows a high rate of device, procedural, and clinical success, a              system and compatible devices:
+      reduction in TR grade through 2-year follow-up, and an improvement
+      in clinical outcomes through 1 year. The 1-year MAE rate indicates an                        Product                    Model                   Basic UDI-DI
+      acceptable safety profile.                                                           PASCAL Precision
+      10.5 PASCAL Post-Market Registry                                                     system – implant           20000IS                  0690103S004PAS000BC
+                                                                                           system
+      Real-world outcomes through 1 year from the PASCAL Post-Market Registry
+      provide support for the clinical safety, performance, and benefit of the             PASCAL Precision
+      PASCAL system for treatment of MR.                                                   system – PASCAL Ace        20000ISM                 0690103S004PAS000BC
+                                                                                           implant system
+      10.6 Additional Studies
+      The following PASCAL implant studies (MR and TR) including TriCLASP                  PASCAL Precision
+                                                                                                                 20000GS                       0690103S004PAS000BC
+      PMCF study (Tricuspid), the CLASP IITR study (Tricuspid), and the CLASP IIF          system – guide sheath
+      study (Mitral) are currently ongoing and have yet to reach their primary             PASCAL system – sta‐
+      endpoints; therefore, results are not presented here.                                                           20000ST                  0690103D004PAC000S6
+                                                                                           bilizer rail system
+                                                                                           PASCAL system – table 10000T                        0690103D004PNA000W7
+      11.0 Summary of Safety and Clinical Performance (SSCP)
+      The SSCP (Summary of Safety and Clinical Performance) has been adapted               The following table contains the Basic UDI-DIs for reusable accessories
+      in accordance with the clinical evaluation assessment by the Notified Body           compatible with the PASCAL Precision system:
+      on which the CE certification has been granted. The SSCP contains a
+      relevant summary of the same information.                                                    Product                      Model                  Basic UDI-DI
+
+      The Notified Body has taken notice of and agreed with the benefit-risk               Reusable platform          10000UP                   0690103D004REU000YA
+      rationales for the short- and long-term safety and effectiveness of the              Reusable plate             10000PT                   0690103D004REU000YA
+      PASCAL Precision system.
+                                                                                           Reusable cradle            10000CR                   0690103D004REU000YA
+      Conformity of the PASCAL Precision system of the Performance
+      Requirements (GSPR) for safety (MDR GSPR 1), performance (MDR GSPR 1),
+      acceptability of side-effects (MDR GSPR 8), usability (MDR GSPR 5), device           14.0 Expected Lifetime of the Device
+      lifetime (MDR GSPR 6), acceptable benefit-risk profile (MDR GSPR 8) has
+                                                                                           The PASCAL and PASCAL Ace implants are subject to rigorous pre-clinical
+      been established for the labelled indications.
+                                                                                           durability testing per the testing requirements and were successfully tested
+      Refer to https://meddeviceinfo.edwards.com/ for a SSCP for this medical              to a minimum of 5 years of simulated wear. The actual lifetime performance
+      device.                                                                              in humans depends on multiple biological factors and varies widely from
+      After the launch of the European Database on Medical Devices/Eudamed,                patient to patient. Specific activities or conditions that could shorten or
+      refer to https://ec.europa.eu/tools/eudamed for a SSCP for this medical              lengthen the device lifetime have not been established.
+      device.
+                                                                                           15.0 Patient Information
+                                                                                           A patient implant card is provided with each implant system. After
+                                                                                           implantation, please complete all requested information and provide the
+
+
+
+                                                                                       7
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+      implant card to the patient. This implant card allows patients to inform
+      healthcare providers what type of implant they have when they seek care.           17.0 Qualitative and Quantitative Information related to
+                                                                                         the PASCAL and PASCAL Ace Implants
+      16.0 Performance Characteristics                                                   The PASCAL implant comprises a titanium nut and bolt, PEEK bushing, and
+      Device performance, including functional characteristics, have been verified       a silicone seal. The PASCAL Ace implant comprises a titanium nut, bolt,
+      in a comprehensive series of testing to support the safety and performance         distal and proximal plate, and a silicone seal.
+      of the device for its intended use when used in accordance with the                The following table shows the qualitative and quantitative information on
+      established Instructions For Use.                                                  the materials and substances:
+      The design of the PASCAL Precision delivery system catheters is based
+      on user feedback. The claim for "Precision" will be confirmed during post-         Substance                             CAS       Model Mass Range (mg)
+      market monitoring.                                                                 Titanium                           7440-32-6            254 - 324
+                                                                                         Nickel                             7440-02-0            235 - 258
+                                                                                         Polyethylene terephthalate        25038-59-9            82.5 - 98.1
+                                                                                         Polyethylene                       9002-88-4            14.3 - 42.6
+                                                                                         Polyether ether ketone            29658-26-2             0 - 23.2
+                                                                                         Aluminium                          7429-90-5            3.39 - 9.13
+                                                                                         Vanadium                           7440-62-2            2.16 - 6.32
+                                                                                         Silicon dioxide                    7631-86-9            5.08 - 5.40
+                                                                                         Polydimethylsiloxane              63148-62-9            3.86 - 4.16
+                                                                                         Perfluoropolyether                69991-67-9            2.44 - 2.52
+                                                                                         Polytetrafluoroethylene            9002-84-0            1.15 - 1.22
+                                                                                         Iron                               7439-89-6             0 - 0.567
+                                                                                         Titanium dioxide                  13463-67-7           0.180 - 0.541
+                                                                                         Oxygen                             7782-44-7             0 - 0.355
+                                                                                         Carbon                             7440-44-0             0 - 0.285
+                                                                                         Cobalt                             7440-48-4             0 - 0.226
+                                                                                         Antimony trioxide                  1309-64-4          0.0847 - 0.118
+                                                                                         Niobium                             2023505              0 - 0.113
+                                                                                         Nitrogen                           7727-37-9            0 - 0.0918
+                                                                                         Chromium                           7440-47-3            0 - 0.0452
+                                                                                         Copper                             7440-50-8            0 - 0.0452
+                                                                                         Hydrogen                           1333-74-0            0 - 0.0384
+                                                                                         4,4'-Difluorobenzophenone           345-92-6           0 - 0.00141
+                                                                                         Diphenyl sulfone                    127-63-9           0 - 0.00114
+                                                                                         Erucamide                           112-84-5        0.000516 - 0.00102
+                                                                                         4-Dodecylbenzenesulfonic acid       121-65-3       0.0000906 - 0.00857
+                                                                                         Decamethylcyclopentasiloxane;       541-02-6           0 - 0.000698
+                                                                                         D5
+                                                                                         Dodecamethylcyclohexasilox‐         540-97-6           0 - 0.000698
+                                                                                         ane; D6
+                                                                                         Octamethylcyclotetrasiloxane;       556-67-2           0 - 0.000651
+                                                                                         D4
+
+
+
+
+                                                                                     8
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+                                                            Figures
+
+
+
+
+                                                            1. Sutures
+                                                             2. Spacer
+                                                         3. Actuation Wire
+                                                             4. Clasps
+                                                            5. Paddles
+
+                                                         Figure 1: Implant
+
+
+
+
+                                                                9
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+
+
+
+                               Elongated                                                          Closed
+
+
+
+
+                          Leaflet-Capture-Ready                                               Leaflet-Captured
+
+
+
+                                                    All dimensions are in millimeters (mm).
+                                                          Images may not be to scale.
+
+                                                  Figure 2: Implant Paddle Configurations
+
+
+
+
+                                                                     10
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+
+
+
+                                   Note: Figure 3 is representative of both PASCAL and PASCAL Ace Implants.
+                                                                   1. Leaflets
+                                                                   2. Implant
+
+                                                Figure 3: Implant in Final Implanted Position
+
+
+
+
+                                                          1. Implant Catheter Handle
+                                                         2. Steerable Catheter Handle
+                                                           3. Implant Release Knob
+                                                                4. Suture Locks
+                                                                5. Paddle Knob
+                                                                6. Clasp Sliders
+                                                                 7. Clasp Lock
+                                                                 8. Flex Knob
+                                                           9. Implant Release Cover
+                                                             10. Clasp Setting Tool
+                                                              11. Flush Port Cap
+                                                            12. Steerable Catheter
+                                                             13. Implant Catheter
+                                                                14. Vented Cap
+
+                                                          Figure 4: Implant System
+
+
+
+
+                                                                     11
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+
+
+
+                                                                     Guide Sheath:
+
+                                                                 1. OD 7.3 mm (22 Fr)
+                                                                    2. ID 5.5 mm
+                                                                      Introducer:
+
+                                                                 3. OD 5.7 mm (17 Fr)
+                                                                    4. ID 1.0 mm
+
+                                                  Figure 5: Guide Sheath (top) and Introducer (bottom)
+
+
+
+
+                              Model 20000ST
+                       Figure 6: Stabilizer Rail System                                                  Figure 7: Table
+
+
+
+
+                                                                          12
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+
+
+
+                                                          1. ID 6.2 mm
+
+                                                         Figure 8: Loader
+
+
+
+
+                                                               13
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+                                                                             Symbol Legend
+                                  English                                                  English                              English
+
+                             Catalogue Number                                         Medical device                         Patient Name
+
+
+                                                                                                                   For use with size 44 mm Edwards
+                                Lot Number                                      Single sterile barrier system          transcatheter heart valve
+
+                                                                            Consult instructions for use on the    For use with size 48 mm Edwards
+                              Model Number                                               website                       transcatheter heart valve
+
+                                                                            Caution: Federal (USA) law restricts
+                                                                              this device to sale by or on the            Temperature limit
+                                  Contents                                          order of a physician.
+
+                                                                              Sterilized using ethylene oxide
+                               Usable length                                                                               Exterior diameter
+                                                                                Sterilized using irradiation
+                               Do not re-use
+                                                                              Sterilized using liquid chemical              Inner diameter
+
+
+                                  Caution                                            Do not resterilize
+                                                                                                                   Recommended guidewire length
+                       Consult instructions for use or
+                     consult electronic instructions for                                  Non-sterile
+                                    use                                                                             Recommended guidewire size
+
+                     Do not use if package is damaged
+                      and consult instructions for use                                Non-pyrogenic
+                                                                                                                       Guidewire compatibility
+
+
+                          Store in a cool, dry place
+                                                                                          Non-DEHP                                Size
+
+
+                          Keep away from sunlight                                                                         Catheter shaft size
+                                                                                        Use-by date
+
+                                                                                                                           Balloon diameter
+                                  Keep dry
+                                                                                      Serial Number
+                                                                                                                        Balloon working length
+
+                                                                             Authorized representative in the
+                                  Importer                                                                         [Implant only] The implant device
+                                                                             European Community/European
+                                                                                                                     had been determined to be MR
+                                                                                          Union
+                                                                                                                      Conditional when used under
+                                                                                                                       the conditions listed in the
+                          Unique device identifier                                     Manufacturer                           instructions.
+
+
+                                                                                                                              MR Unsafe
+                                  Quantity
+                                                                                   Date of manufacture
+                                                                                                                       Name and Address of the
+                                                                                                                   implanting healthcare institution/
+                            Date of implantation
+                                                                               Patient information website                     provider
+
+
+      Note: The labeling of this product may not contain every symbol depicted in this legend.
+
+
+
+
+                                                                                     14
+Only for Use at Military Hospitals in Egypt or for orders that have been granted a pre-approval by the Egyptian Drug Authority.
+
+
+
+
+      Edwards Lifesciences GmbH                                                                                                  11/2024
+      Parkring 30                                                                                                        10062559001 A
+      85748 Garching bei München                                                              © Copyright 2024, Edwards Lifesciences LLC
+      Germany                                                                                                        All rights reserved.
+
+                                              Edwards Lifesciences B.V.    Telephone +1.949.250.2500
+                                              Verlengde Poolseweg 16                 +1.800.424.3278
+      Edwards Lifesciences LLC                4818 CL Breda, Netherlands   FAX       +1.949.250.2525                            Web IFU
+      One Edwards Way
+      Irvine, CA 92614 USA
+
+                                                                  15
+

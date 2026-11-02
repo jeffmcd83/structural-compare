@@ -1,0 +1,1519 @@
+Edwards PASCAL Precision Transcatheter Valve Repair System
+Instructions for Use
+
+
+The Edwards PASCAL Precision transcatheter valve repair system includes (herein referred to as the PASCAL Precision system):
+
+            Model                                                               Device
+            20000IS              PASCAL Precision system - implant system
+           20000ISM              PASCAL Precision system - PASCAL Ace implant system
+           20000GS               PASCAL Precision system - guide sheath
+            10000T               PASCAL system - table
+           20000ST               PASCAL system - stabilizer rail system
+
+• Implant System
+  The implant system consists of the steerable catheter (outermost layer), the implant catheter (innermost layer), and the implant
+  (hereinafter refers to implants from model 20000IS and model 20000ISM). The implant system percutaneously delivers the
+  implant to the native valve via a femoral vein access.
+• PASCAL Implant (Figures 1-3)
+ The implant is deployed and secured to the leaflets of the native valve, acting as a filler in the regurgitant orifice. The primary
+ components of the implant are the spacer, paddles, and clasps constructed from nitinol and covered in polyethylene
+ terephthalate. The 20000IS implant also comprises a titanium nut and bolt, PEEK bushing, and a silicone seal. The 20000ISM
+ implant also comprises a titanium nut, bolt, distal and proximal plate, and a silicone seal and is a smaller size implant.
+  The implant has four main paddle positions: elongated, closed, leaflet-capture-ready, and leaflet-captured.
+• Implant Catheter (Figure 4)
+  The implant is provided attached to the implant catheter by sutures and a threaded shaft. The implant catheter controls the
+  deployment of the implant. The four primary controls are the clasp sliders, the paddle knob, the implant release knob, and the
+  suture locks. The clasp sliders control the implant clasps (retracting the clasp sliders raises the clasps and advancing the clasp
+  sliders lowers the clasps). The paddle knob controls the implant paddles (rotating the paddle knob clockwise closes the paddles
+  and rotating the paddle knob counterclockwise opens the paddles). The implant release knob controls the release of the
+  implant from the implant catheter. The suture locks control release of the sutures from the clasps. The implant catheter is
+  provided assembled within the steerable catheter.
+• Steerable Catheter (Figure 4)
+  The steerable catheter has a rotational control knob (flex knob) that actuates the flexion mechanism to navigate and position
+  the implant to the target location. A radiopaque marker band located on the distal portion of the catheter indicates the end of
+  the flex section.
+• Guide Sheath (Figure 5)
+
+
+
+
+Edwards, Edwards Lifesciences, the stylized E logo, CLASP, Edwards PASCAL, PASCAL, PASCAL Ace, and PASCAL Precision are
+trademarks of Edwards Lifesciences Corporation. All other trademarks are the property of their respective owners.
+
+                                                                   1
+ The guide sheath set includes a steerable guide sheath and introducer. The guide sheath provides atrial access. It has a
+ hydrophilic coating and a rotational control knob (flex knob) which actuates the flexion mechanism to position the guide sheath
+ at the target location.
+  The introducer is compatible with a 0.035 in (0.89 mm) guidewire.
+• Stabilizer Rail System (Figure 6)
+  The stabilizer rail system is indicated to aid with positioning and stabilization of the PASCAL Precision system during
+  implantation procedures. The stabilizer rail system can be attached to the guide sheath and implant system as needed any time
+  during the procedure. The use of the stabilizer rail system is recommended.
+• Table (Figure 7)
+  The table is used outside of the sterile field to provide a stable platform for the implant system, guide sheath, and stabilizer rail
+  system. The table is height-adjustable. The use of the table is recommended.
+• Loader (Figure 8)
+ The loader is used to introduce the implant system through the guide sheath seals. The loader is included in the implant system
+ and guide sheath packaging for user convenience.
+
+1.0 Indications
+The PASCAL Precision transcatheter valve repair system (the PASCAL Precision system) is indicated for the percutaneous reduction
+of significant, symptomatic mitral regurgitation (MR ≥ 3+) due to primary abnormality of the mitral apparatus (degenerative MR)
+in patients who have been determined to be at prohibitive risk for mitral valve surgery by a heart team, which includes a cardiac
+surgeon experienced in mitral valve surgery and a cardiologist experienced in mitral valve disease, and in whom existing
+comorbidities would not preclude the expected benefit from reduction of the MR.
+
+2.0 Contraindications
+The PASCAL Precision system is contraindicated in patients with the following conditions:
+• Patients who cannot tolerate procedural anticoagulation or post procedural anti-platelet regimen
+• Untreatable hypersensitivity or contraindication to nitinol alloys (nickel and titanium) or contrast media
+• Active endocarditis of the mitral valve
+• Rheumatic etiology for mitral regurgitation
+• Evidence of intracardiac, inferior vena cava (IVC) or femoral venous thrombus
+
+3.0 Warnings
+3.1 Device Handling
+• The devices are designed, intended, and distributed for single use only. There are no data to support the sterility, non­
+  pyrogenicity, and functionality of the devices after reprocessing.
+• Devices should be handled using standard sterile technique to prevent infection.
+• Do not expose any of the devices to any solutions, chemicals, etc., except for the sterile physiological and/or heparinized saline
+  solution. Irreparable damage to the device, which may not be apparent under visual inspection, may result.
+• Do not use any of the devices in the presence of combustible or flammable gases, anesthetics, or cleaners/disinfectants.
+• Do not use the devices if the expiration date has elapsed.
+• Do not use if the packaging seal is broken or if the packaging is damaged for sterile devices.
+• Do not use if any of the devices were dropped, damaged or mishandled in any way.
+• Standard flushing and de-airing technique should be used during preparation and throughout procedure to prevent air
+  embolism.
+3.2 Clinical Warnings
+• As with any implanted medical device, there is a potential for an adverse immunological response.
+• Serious adverse events, sometimes leading to surgical intervention and/or death, may be associated with the use of this system
+  ("Potential Adverse Events"). A full explanation of the benefits and risks should be given to each prospective patient before use.
+• Careful and continuous medical follow-up is advised so that implant-related complications can be diagnosed and properly
+  managed.
+• Anticoagulation therapy must be determined by the physician per institutional guidelines.
+
+
+
+
+                                                                    2
+4.0 Precautions
+4.1 Precautions Prior to Use
+• Patient selection should be performed by a heart team to assess patient risk and anatomical suitability.
+4.2 Precautions After Use
+• Short-term anticoagulation therapy may be necessary after valve repair with the PASCAL Precision system. Prescribe
+  anticoagulation and other medical therapy per institutional guidelines.
+
+5.0 Special Patient Populations
+5.1 Pregnancy
+• The PASCAL Precision system has not been tested in pregnant women. Effects on the developing fetus have not been studied.
+  The risks and reproductive effects are unknown at this time.
+5.2 Gender
+• No safety or effectiveness related gender differences were observed in clinical studies.
+5.3 Ethnicity
+• Insufficient subject numbers prevent ethnicity-related analyses on the clinical safety and effectiveness.
+5.4 Pediatrics
+• Safety and effectiveness of the PASCAL Precision system has not been established in pediatric patients.
+
+6.0 Potential Adverse Events
+Below is a list of the potential adverse effects (e.g., complications) associated with the use of the PASCAL Precision system:
+• Death
+• Abnormal laboratory values
+• Allergic reaction to anesthetic, contrast, heparin, Nitinol
+• Anemia or decreased hemoglobin, may require transfusion
+• Aneurysm or pseudoaneurysm
+• Angina or chest pain
+• Anaphylactic shock
+• Arrhythmias – atrial (i.e. atrial fibrillation, Supraventricular tachycardia)
+• Arrhythmias – ventricular (i.e. ventricular tachycardia, ventricular fibrillation)
+• Arterio-venous fistula
+• Atrial septal injury requiring intervention
+• Bleeding
+• Cardiac arrest
+• Cardiac failure
+• Cardiac injury, including perforation
+• Cardiac tamponade/pericardial effusion
+• Cardiogenic shock
+• Chordal entanglement or rupture that may require intervention
+• Coagulopathy, coagulation disorder, bleeding diathesis
+• Conduction system injury which may require permanent pacemaker
+• Deep vein thrombosis (DVT)
+• Deterioration of native valve (e.g. leaflet tearing, retraction, thickening)
+• Dislodgement of previously deployed implant
+• Dyspnea
+• Edema
+• Electrolyte imbalance
+• Emboli/embolization including air, particulate, calcific material, or thrombus
+• Endocarditis
+• Esophageal irritation
+
+                                                                     3
+• Esophageal perforation or stricture
+• Exercise intolerance or weakness
+• Failure to retrieve any PASCAL Precision system components
+• Fever
+• Gastrointestinal bleeding or infarct
+• Heart failure
+• Hematoma
+• Hemodynamic compromise
+• Hemolysis
+• Hemorrhage requiring transfusion or intervention
+• Hypertension
+• Hypotension
+• Implant deterioration (wear, tear, fracture, or other)
+• Implant embolization
+• Implant malposition or failure to deliver to intended site
+• Implant migration
+• Implant thrombosis
+• Infection
+• Inflammation
+• LVOT obstruction
+• Mesenteric ischemia
+• Multi-system organ failure
+• Myocardial infarction
+• Native valve injury
+• Native valve stenosis
+• Nausea and/or vomiting
+• Need for open surgery (conversion, emergent or nonemergent reoperation, explant)
+• Nerve injury
+• Neurological symptoms, including dyskinesia, without diagnosis of TIA or stroke
+• Non-neurological thromboembolic events
+• Pain
+• Papillary muscle damage
+• Paralysis
+• PASCAL Precision system component(s) embolization
+• Peripheral ischemia
+• Pleural effusion
+• Pulmonary edema
+• Pulmonary embolism
+• Reaction to anti-platelet or anticoagulation agents
+• Renal insufficiency
+• Respiratory compromise, respiratory failure, atelectasis, pneumonia – may require prolonged ventilation
+• Retroperitoneal bleed
+• Septal damage or perforation
+• Septicemia, sepsis
+• Skin burn, injury or tissue changes due to exposure to ionizing radiation
+• Single leaflet device attachment (SLDA)
+• Stroke
+• Syncope
+• Transient ischemic attack (TIA)
+• Urinary tract infection and/or bleeding
+• Valvular regurgitation
+• Vascular injury or trauma, including dissection or occlusion
+• Vessel spasm
+
+
+                                                                4
+• Ventricular wall damage or perforation
+• Worsening native valve regurgitation / valvular insufficiency
+• Worsening of heart failure
+• Wound dehiscence, delayed or incomplete healing
+
+7.0 How Supplied
+7.1 Packaging
+The implant system, guide sheath, and stabilizer rail system are individually packaged and ethylene oxide sterilized. The table is
+packaged and provided non-sterile.
+7.2 Storage
+The PASCAL Precision system should be stored in a cool, dry place.
+
+8.0 Directions for Use
+8.1 Physician Training
+The implanting physician shall be experienced in transcatheter techniques and trained on the PASCAL Precision system and
+implant procedure.
+8.2 Equipment and Materials
+• Standard cardiac catheterization lab equipment
+• Fluoroscopy system
+• Transesophageal echocardiography (TEE) capabilities (2D and 3D)
+• Pigtail catheter for contrast injection (with compatible sheath)
+• Venous puncture kit
+• Transseptal needle, sheath, and guidewire
+• Exchange length 0.035 inch (0.89 mm) guidewire
+• Basins
+• 50-60 cc syringes with Luer fitting
+• Heparinized saline
+• Hemostat
+• Surgical towels (e.g. size 43 x 69 cm)
+• Optional: step-up dilators
+• Optional: continuous physiological saline drip (rolling IV pole, IV tubing with thumbwheel occluders, 1-liter bags of heparinized
+  sterile saline solution)
+• Optional: pressure monitoring device
+8.3 Device Preparation
+8.3.1 Table
+       Step         Procedure
+         1          Remove the table from packaging and inspect for damage.
+         2          Assemble the table as seen in Figure 7.
+
+8.3.2 Stabilizer Rail System
+       Step         Procedure
+         1          Remove stabilizer rail system components from packaging and inspect for damage.
+
+
+
+
+                                                                  5
+8.3.3 Guide Sheath
+      Step         Procedure
+        1            Remove the guide sheath, loader, and introducer from packaging and inspect for gross damage.
+        2            While keeping distal tip raised, flush and de-air guide sheath with heparinized saline.
+        3            While keeping the distal tip raised, insert introducer into guide sheath. Flush the introducer and wipe guide
+                     sheath with heparinized saline prior to use.
+
+8.3.4 Implant System – System Check, Clasp Check, and Resetting
+      Step         Procedure
+        1            Remove implant system and loader from packaging and inspect for gross damage.
+                     CAUTION: If vented cap is not present on the implant catheter flush port, use of the device may result
+                     in infection.
+        2            Fully elongate implant. Fully retract and advance clasp sliders to confirm proper clasp motion.
+        3            If clasps do not move properly, follow steps below to reset.
+                     If clasps do move properly, continue to next section “Implant System – Flushing and Preparation”.
+        4            Ensure implant is fully closed. Loosen and remove suture locks from suture lock base.
+                     Note: Ensure free end of suture is not pulled into handle while loosening suture lock base.
+        5            Fully retract clasp sliders and place clasp setting tool flush with suture locks, suture lock bases, and implant
+                     release knob.
+        6            Pull free end of suture on one suture lock base to remove suture slack. Release tension on free end of suture,
+                     replace and tighten the suture lock.
+                     Repeat for second suture lock.
+        7            Remove clasp setting tool. Fully elongate implant. Fully advance and retract sliders to confirm proper clasp
+                     motion.
+
+8.3.5 Implant System – Flushing and Preparation
+      Step         Procedure
+        1            Close implant.
+        2            Ensure clasp sliders are fully retracted and implant is fully closed.
+        3            Remove vented cap from implant catheter flush port. Raise distal end of the implant catheter and flush with
+                     heparinized saline.
+        4            Attach flush port cap to implant catheter flush port.
+        5            Attach implant release cover to implant catheter handle.
+        6            Fully retract implant catheter. Advance the clasp sliders and set implant in elongated position.
+        7            Remove loader cap and guide the loader cap onto the implant system.
+        8            Insert the implant through the proximal end of the loader until it exits the distal end. Connect the loader and
+                     loader cap.
+        9            Advance implant catheter fully so implant exits loader.
+       10            While keeping loader and distal tip raised, flush heparinized saline through the steerable catheter.
+       11            Gradually retract implant catheter into steerable catheter and implant into the loader while continuing to
+                     flush through steerable catheter until the distal end of the implant is fully in the loader.
+
+8.4 Implant Procedure
+Delivery of the implant should be performed under general anesthesia with hemodynamic monitoring in an operating room,
+hybrid operating room, or cath lab with fluoroscopic and echocardiographic imaging capabilities.
+CAUTION: During the procedure, heparin should be administered so that the ACT is maintained at ≥ 250 sec.
+
+                                                                    6
+CAUTION: Excessive contrast media may lead to renal failure. Measure the patient’s creatinine level prior to the procedure.
+Contrast media usage should be monitored.
+8.4.1 Patient Preparation
+      Step         Procedure
+        1          Prior to sterile draping the patient, assemble and position the table between the legs of the patient,
+                   adjusting height of the table as needed. Use towels as support between table and patient's legs.
+                   CAUTION: The table is provided non-sterile; introduction of the table into the sterile field may result in
+                   infection.
+        2          After sterile draping is complete, assemble and attach stabilizer rail system as needed any time during
+                   procedure.
+
+8.4.2 Femoral Vein Access and Sheath Introduction
+      Step         Procedure
+        1          Access the common femoral vein using conventional percutaneous puncture methods.
+        2          Access the left atrium via transvenous, transseptal techniques using conventional percutaneous methods
+                   and place guidewire in left atrium. Dilate the vessel, as needed.
+                   CAUTION: Inappropriate puncture may result in cardiac structure damage requiring surgical repair or
+                   other intervention.
+        3          Insert guide sheath with introducer over guidewire until guide sheath tip is securely across the septum, using
+                   flex mechanism as needed.
+                   CAUTION: Excessive manipulation may result in dislodgement or disturbance of a previously
+                   implanted device, cardiac structure damage requiring surgical repair or other intervention.
+        4          Remove the introducer and guidewire. Do not aspirate and flush the guide sheath until the implant system is
+                   inserted.
+                   CAUTION: Aspiration or connection of a continuous physiological saline flush to the guide sheath prior
+                   to implant system insertion may result in air embolism.
+
+8.4.3 Implant Delivery
+      Step         Procedure
+        1          Insert the implant system with the loader into the guide sheath.
+        2          Advance implant system until the implant exits the loader. Retract and peel away the loader.
+        3          Aspirate and flush guide sheath with heparinized saline. Utilizing the specified syringe, aspirate a minimum
+                   of 45 cc.
+                   CAUTION: Failure to fully aspirate guide sheath or aspiration without the presence of the flush port
+                   cap on the implant catheter flush port may result in air embolism.
+        4          If desired, connect the continuous physiological saline drip to the implant catheter.
+                   CAUTION: Connection of the continuous physiological saline drip to the implant system prior to
+                   aspiration may result in air embolism.
+        5          Advance implant system until the implant exits the distal end of the guide sheath.
+        6          Set the implant in closed position. Retract the clasp sliders.
+        7          Adjust guide sheath as needed.
+        8          At the discretion of the treating physician, if pressure monitoring is used to continuously assess atrial
+                   pressure during procedure, please follow the pressure monitor manufacturer's instruction of use. Connect a
+                   fluid filled pressure monitoring device to the steerable catheter.
+                   Aspirate and then calibrate at the patient's heart level before obtaining measurement.
+
+
+
+
+                                                                 7
+       Step         Procedure
+                     Note: Pressure monitoring should be used in conjunction with echo. Pressure should be reconciled
+                     against echo and Doppler readings. When assessing atrial pressure, ensure that the distal tip of the
+                     implant catheter is fully exposed from the steerable catheter.
+         9           Advance implant system as needed. Manipulate steerable catheter and guide sheath (flex-unflex, torque in
+                     opposing directions, advance-retract) as needed until implant is centered in the target coaptation zone with
+                     the appropriate trajectory.
+                     CAUTION: Excessive manipulation may result in dislodgement or disturbance of a previously
+                     implanted device, cardiac structure damage requiring surgical repair, or other intervention.
+                     Note: The radiopaque marker band on the steerable catheter indicates the end of the flex section and
+                     can be visualized on fluoroscopy.
+        10           Rotate the paddle knob to get the implant into leaflet-capture-ready position.
+        11           Torque the implant catheter, as needed, to orient the paddles.
+        12           Move one slider to identify which implant clasp it controls via imaging. Once identified, ensure sliders are
+                     fully retracted.
+        13           Advance the implant through the valve until paddles are below the free edge of the leaflets.
+        14           Verify location and orientation of the implant and adjust position slightly as needed.
+                     CAUTION: Excessive manipulation of the implant below the leaflets may cause the implant to be
+                     entangled in the chords; chordal entanglement may result in cardiac injury, worsening regurgitation,
+                     difficulty or inability to remove the implant requiring additional intervention.
+        15           Under imaging guidance, retract the implant until leaflets are positioned between paddles and clasps.
+        16           Advance clasp slider(s) so the leaflet(s) are secured between the clasps and paddles.
+                     This can be performed for both leaflets simultaneously (clasp lock engaged to move both clasps) or each
+                     leaflet individually (clasp lock disengaged to move individual clasp).
+        17           Verify leaflet insertion with imaging.
+                     If leaflets are not secured between clasps and paddles, retract the clasp sliders to release the leaflets and
+                     reattempt.
+        18           Once leaflets are secured between the clasps and paddles, close the implant.
+        19           Advance implant catheter slightly to release tension on leaflets.
+        20           Assess regurgitation and reposition as needed. Once the implant position is confirmed, ensure implant is
+                     closed.
+                     If repositioning within the ventricle is needed, retract the clasp sliders and set the implant in leaflet-capture­
+                     ready position. Adjust clasps and implant orientation as needed.
+                     If repositioning within the atrium is needed, retract the clasp sliders and elongate the implant slowly under
+                     fluoroscopic guidance while ensuring that the actuation wire does not bend, and retract the implant back
+                     into the atrium.
+                     CAUTION: Failure to elongate the implant when retracting into the atrium during repositioning may
+                     result in leaflet damage or chordal entanglement.
+                     CAUTION: Failure to release leaflets from clasps and paddles prior to repositioning may result in
+                     leaflet damage.
+
+8.4.4 Implant Retrieval (if needed)
+Prior to implant release, if needed, it is possible to retrieve the implant system back into the guide sheath for removal. Follow the
+steps below to retrieve the implant.
+CAUTION: Excessive manipulation may result in dislodgement or disturbance of a previously implanted device, cardiac
+structure damage requiring surgical repair, or other intervention.
+
+
+
+
+                                                                   8
+       Step          Procedure
+         1           Retract the clasp sliders.
+         2           Elongate the implant slowly under fluoroscopic guidance while ensuring that the actuation wire does not
+                     bend. Then retract implant into the atrium. Set the implant in closed position.
+         3           Unflex the steerable catheter and retract the implant system until the implant is adjacent to the tip of the
+                     guide sheath.
+         4           Advance the clasp sliders.
+         5           Set the implant in elongated position.
+         6           Retract the clasp sliders to open the clasps to approximately 45° on each side.
+         7           Retract entire implant system through the guide sheath.
+
+8.4.5 Implant Release
+To release the implant follow the steps below:
+CAUTION: Failure to follow prescribed release steps may result in difficulty or inability to release implant, requiring
+additional intervention.
+CAUTION: Releasing the implant prior to confirmation that leaflets are securely captured between paddles and clasps may
+result in implant movement or dislodgement leading to a single leaflet device attachment (SLDA) or other potential
+adverse events requiring additional intervention.
+CAUTION: Re-use of the devices (including implant system and guide sheath) after retrieval may cause embolism of
+foreign material or infection. Device may malfunction if re-use is attempted.
+Note: If an additional implant [PASCAL or PASCAL Ace] is placed at the decision of the treating physician, caution should
+be taken to avoid dislodgement of the previously placed implant. Crossing the valve in a low profile implant configuration
+can minimize interaction with the previously placed implant.
+CAUTION: Excessive manipulation may result in dislodgement or disturbance of a previously implanted device, cardiac
+structure damage requiring surgical repair, or other intervention.
+       Step          Procedure
+         1           Ensure that the distal tip of the implant catheter is fully exposed from the steerable catheter.
+         2           Unscrew and remove implant release cover from implant catheter handle.
+         3           Unthread and remove one suture lock from the suture lock base.
+         4           Pull suture lock away from handle to fully remove.
+         5           Set the implant in elongated position.
+         6           Rotate counterclockwise and retract the implant release knob until the implant is released, as confirmed via
+                     imaging.
+         7           Replace suture locks, as needed.
+
+8.4.6 Device Removal and Closure
+       Step          Procedure
+         1           Retract implant catheter completely into steerable catheter. Gradually unflex and remove implant system.
+                     Gradually unflex and remove guide sheath.
+                     CAUTION: Failure to unflex devices prior to removal may result in vessel damage.
+         2           Perform standard percutaneous closure of access site.
+
+9.0 Magnetic Resonance (MR) Safety
+Non-clinical testing has demonstrated that the PASCAL and PASCAL Ace implants are MR Conditional. A patient with this device
+can be safely scanned in an MR system meeting the following conditions:
+• Static magnetic fields of 1.5 T and 3.0 T
+
+
+                                                                   9
+• Maximum spatial field gradient of 3,000 gauss/cm (30 T/m)
+• Maximum MR system-reported, whole body averaged specific absorption rate (SAR) of 4 W/kg (First Level Controlled Operating
+  Mode).
+Under the scan conditions defined above, the implant is expected to produce a maximum temperature rise of less than 4 °C after
+15 minutes of continuous scanning.
+In non-clinical testing, the image artifact caused by the device in a worst case multiple implant configuration extends up to
+15 mm from the implant when imaged in the worst case gradient echo pulse sequence in a 3.0 T MRI system.
+
+10.0 Recovered Implant and Device Disposal
+Edwards Lifesciences is interested in obtaining recovered clinical specimens of the implant for analysis. A written report
+summarizing our findings will be provided upon completion of our evaluation. Please contact Edwards for return of the recovered
+implant.
+If you do decide to return any of the devices, please follow the following instructions:
+• Unopened Package with Sterile Barrier Intact:
+  If the pouches have not been opened, return the device in its original packaging.
+• Package Opened but Not Implanted:
+  If a pouch is opened, the device is no longer sterile. Please return the device in its original packaging.
+• Explanted Implant:
+ The explanted implant should be placed into a suitable histological fixative such as 10% formalin or 2% glutaraldehyde and
+ returned to Edwards.
+10.1 Disposal
+Used devices may be handled and disposed of in the same manner as hospital waste and bio-hazardous materials in accordance
+with local regulations as there are no special risks related to the disposal of these devices.
+
+11.0 Patient Information
+A patient implant card is provided with each implant system. After implantation, please complete all requested information and
+provide the implant card to the patient. This implant card allows patients to inform healthcare providers what type of implant
+they have when they seek care.
+
+12.0 Clinical Data
+The PASCAL Precision system was studied in a clinical trial entitled "CLASP IID trial."
+A. Study Design
+The main cohort of the CLASP IID trial was a prospective, multicenter, randomized, parallel-group study. Eligible patients were
+randomized (2:1) into two groups: PASCAL system and MitraClip system. The CLASP IID trial also had a single-arm side registry that
+enrolled eligible patients deemed inappropriate for randomization due to complex mitral valve anatomy deemed suitable for
+treatment with the PASCAL system, but not for the MitraClip System.
+The CLASP IID trial employed a Central Screening Committee (CSC) that ensured patient appropriateness for enrollment, an
+independent Data Safety Monitoring Board (DSMB) that was instructed to notify the applicant of any safety or compliance issues,
+a Clinical Events Committee (CEC) that was responsible for adjudicating endpoint related events reported during the trial, and an
+echocardiographic core laboratory for independently analyzing all echocardiograms.
+1. Clinical Inclusion and Exclusion Criteria
+Enrollment in the CLASP IID trial was limited to patients who met the following inclusion criteria:
+• Eighteen (18) years of age or older.
+• Patient is able and willing to give informed consent and follow protocol procedures and comply with follow-up visit
+  requirements.
+• Patient is determined to be at prohibitive risk for mitral valve surgery by the heart team.
+• Patient is determined to be a candidate for transcatheter mitral valve repair by the heart team for both PASCAL and MitraClip
+   GPSSBOEPNJ[FEDPIPSUPOMZ .
+• Patient must be deemed a candidate for transseptal catheterization by the site interventional operator.
+• Mitral regurgitation (3+ to 4+) as measured by the Echocardiographic Core Laboratory via transthoracic echocardiogram (TTE) or
+  transesophageal echocardiogram (TEE).
+                                                                   10
+• Suitable valve and regurgitant jet morphology.
+• Left ventricular ejection fraction (LVEF) > 20%.
+• LVEDD < 80 mm by TTE.
+Patients were not permitted to be enrolled in the CLASP IID trial if they met any of the following exclusion criteria:
+• Patient in whom a TEE is contraindicated or screening TEE is unsuccessful.
+• Mitral valve anatomy which may preclude proper PASCAL or MitraClip (for randomized cohort only) access, use and/or
+  deployment or sufficient reduction in MR.
+• Echocardiographic evidence of intracardiac mass, thrombus, or vegetation. Chronic scarred thrombi may be considered for
+  inclusion by the core laboratory.
+• Echocardiographic evidence of severe right ventricular dysfunction per core laboratory assessment.
+• Patient with refractory heart failure requiring advanced intervention (i.e., left ventricular assist device, transplantation; American
+  College of Cardiology/American Heart Association Stage D heart failure).
+• Clinically significant, untreated coronary artery disease.
+• Recent stroke.
+• Other severe valve disorders requiring intervention or left ventricular outflow obstruction.
+• Infiltrative cardiomyopathies (e.g., amyloidosis, hemochromatosis, sarcoidosis), hypertrophic cardiomyopathy, restrictive
+  cardiomyopathy, constrictive pericarditis, or any other structural heart disease causing heart failure other than dilated
+  cardiomyopathy of either ischemic or non-ischemic etiology.
+• Bradycardia with heart rate < 45 bpm (unless treated with a permanent pacemaker) or uncontrolled tachyarrhythmias.
+• Any recent percutaneous coronary, carotid, endovascular intervention, carotid surgery, or cardiac surgery.
+• Recent implant or revision of any rhythm management device (i.e., pacemaker, implantable cardioverter defibrillator [ICD],
+  cardiac resynchronization therapy [CRT] with or without cardioverter-defibrillator).
+• Tricuspid valve disease requiring surgery or severe tricuspid regurgitation.
+• Any planned interventional cardiac procedure.
+• Need for emergent or urgent surgery for any reason or any planned cardiac surgery within the next 12 months.
+• Any prior mitral valve surgery or transcatheter mitral valve procedure (excluding chordal replacement or surgical annuloplasty
+  repair).
+• Active systemic infection, including active endocarditis.
+• Active rheumatic heart disease or rheumatic etiology for MR.
+• Severe aortic stenosis or regurgitation.
+• Absence of CRT with a Class I indication criteria for biventricular pacing.
+• Resting systolic blood pressure < 90 or > 160 mmHg after repeated measurements.
+• Estimated pulmonary artery systolic pressure (PASP) > 70 mmHg assessed by site based on echocardiography or right heart
+  catheterization, unless active vasodilator therapy in the catheterization laboratory is able to reduce the pulmonary vascular
+  resistance (PVR) to < 3 Wood units or between 3 and 4.5 Wood units with V wave less than twice the mean of the pulmonary
+  capillary wedge pressure.
+• Known history of untreated, severe carotid stenosis.
+• History of deep vein thrombosis (DVT) or pulmonary embolism (PE).
+• Presence of an occluded or thrombosed inferior vena cava (IVC) filter that would interfere with the delivery catheter, or presence
+  of an ipsilateral deep vein thrombosis.
+• Severe chronic obstructive pulmonary disease (COPD).
+• Severe renal insufficiency with eGFR ≤ 25 ml/min or requiring chronic renal replacement therapy.
+• Untreatable hypersensitivity or contraindication to any of the following: aspirin or clopidogrel or ticlopidine; heparin or
+  bivalirudin, or warfarin; nitinol alloys (nickel and titanium); or contrast media.
+• Pregnant or planning pregnancy within next 12 months.
+  Note: Female patients of childbearing potential need to have a negative pregnancy test performed within 14 days prior
+  to intervention and be adherent to an accepted method of contraception.
+• Concurrent medical condition with a life expectancy of less than 12 months in the judgment of the Investigator.
+• Patient is currently participating in another investigational biologic, drug or device clinical study where the primary study
+  endpoint was not reached at time of enrollment.
+• Other medical, social, or psychological conditions that preclude appropriate consent and follow-up, including patients under
+  guardianship.
+2. Follow-up Schedule
+
+
+                                                                  11
+The follow-up time points included day of implantation, discharge, 30 days, 6 months, 1 year, and annually thereafter to 5 years
+post procedure. Preoperative and post-operative assessments included physical assessments and medical history, laboratory
+measurements, imaging tests, and health surveys. Adverse events and complications were recorded at all visits.
+3. Clinical Endpoints
+The primary safety endpoint was a composite of Major Adverse Events (MAEs) at 30 days, which included: cardiovascular mortality,
+stroke, myocardial infarction, new need for renal replacement therapy, severe bleeding (defined as major bleeding or above), and
+non-elective mitral valve re-intervention (either percutaneous or surgical). The hypothesis for the primary safety endpoint of the
+randomized cohort was as follows:
+H0: PPASCAL(T) - PMitraClip(T) ≥ 15%
+HA: PPASCAL(T) - PMitraClip(T) < 15%
+where PPASCAL and PMitraClip represent the proportions of patients with MAEs at 30 days in the PASCAL and MitraClip arms,
+respectively, and 15% is the non-inferiority margin
+The primary effectiveness endpoint was the proportion of patients with MR ≤ 2+ at 6 months as assessed by TTE by the
+Echocardiographic Core Laboratory. The hypothesis for the primary effectiveness endpoint of the randomized cohort was as
+follows:
+H0: PPASCAL(T) - PMitraClip(T) ≤ -18%
+HA: PPASCAL(T) - PMitraClip(T) > -18%
+where PPASCAL and PMitraClip represent the proportions of patients with MR ≤ 2+ at 6 months in the PASCAL and MitraClip arms,
+respectively, and -18% is the non-inferiority margin.
+Both the primary safety and the primary effectiveness hypotheses of the randomized cohort were to be tested at a one-sided
+significance level of 0.05. The registry cohort was to be analyzed descriptively.
+Among the secondary endpoints, those to be evaluated at the 6-month or earlier follow-up time points included the following:
+• Major adverse event rate at 6 months
+• All-cause mortality at 30 days and 6 months
+• Heart failure hospitalization at 30 days and 6 months
+• New onset of permanent atrial fibrillation at 30 days
+• Non-elective mitral valve re-intervention (either percutaneous or surgical) at 6 months
+• Residual atrial septal defect (ASD) by Doppler at 30 days and 6 months
+• Transfusion ≥ 2 units of whole blood or packed red blood cells through discharge
+• GI complication requiring surgery at 30 days
+• 6 Minute Walk Test (6MWT) at 30 days and 6 months
+• Quality of life (QoL): Kansas City Cardiomyopathy Questionnaire (KCCQ), SF-36, and EQ-5D-5L at 30 days and 6 months
+• Total procedure time (pre-procedure prep time, procedure time, post-procedure time) through discharge
+• Total length of stay at discharge
+The planned sample size was 300 patients for the randomized cohort and 150 patients for the registry cohort. The randomized
+cohort employed a Bayesian adaptive design that would allow for three interim analyses by an unblinded independent statistician
+when 180, 210, and 240 patients, respectively, would have reached the 6-month follow-up. If the predictive probability of success
+for both the primary safety and effectiveness endpoints was to be greater than 96.5% in the first interim analysis, or greater than
+95.0% in other interim analyses, an early win would be declared. However, even if an early win was to be declared in a planned
+interim analysis, the trial would continue the enrollment of 300 patients in the randomized cohort.
+B. Accountability of PMA Cohort
+The enrollment into the CLASP IID trial took place between November 2018 and December 2021. A total of 300 patients were
+enrolled in the randomized cohort and 98 patients in the registry cohort at 54 investigational sites in the U.S., Canada, and
+Germany.
+The first planned interim analysis of the randomized cohort included 180 patients (117 in the PASCAL arm and 63 in the MitraClip
+arm) and reflected data collected through June 20, 2022. The results of this interim analysis are summarized herein and used to
+support the PMA approval decision.
+The dispositions of the randomized patients at the time of the first planned interim analysis are detailed in Figure 9.
+
+
+
+
+                                                                 12
+                                 Figure 9: Patient Enrollment/Disposition (Randomized Cohort)
+
+
+
+
+The analysis populations for the randomized cohort included: modified Intent-to-Treat (mITT) (safety) Population, mITT
+(effectiveness) Population, and As-Treated (AT) Population, as defined in Table 1. The primary safety and effectiveness analyses
+were performed on the mITT (safety) and mITT (effectiveness) populations, respectively.
+
+                                      Table 1: Analysis Populations (Randomized Cohort)
+
+                                                                                                          Number of Patients
+Analysis Population                         Definition
+                                                                                                          PASCAL      MitraClip
+                                            All patients randomized to each treatment arm (i.e., ITT)
+modified Intent-to-Treat (mITT) (safety)    who had the study procedure attempted (initiation of skin     117         63
+                                            incision).
+                                            All patients in the mITT (safety) population who had a
+mITT (effectiveness)                        study device attempted (insertion of the guide sheath or      117         63
+                                            steerable guide into the femoral vein).
+                                            All patients in the mITT (effectiveness) population who had
+As-Treated (AT)                             a study device attempted and implanted at the exit from     116*          63
+                                            procedure room.
+*One (1) patient had an aborted procedure due to inability to grasp leaflets.
+
+At the time of database lock, of the randomized patients eligible for the 6-month visit, 94.5% in the PASCAL arm and 94.9% in the
+MitraClip arm completed the visit, as summarized in Table 2.
+
+                          Table 2: Visit Compliance (Randomized Cohort) – mITT (Safety) Population
+
+                           Randomized Cohort (N=180)
+Visit Status               30 Days                                              6 months
+                           PASCAL (N=117)            MitraClip (N=63)           PASCAL (N=117)            MitraClip (N=63)
+Ineligible for visit       1                         1                          7                         4
+Eligible for visit         116                       62                         110                       59
+
+
+
+                                                                13
+                           Randomized Cohort (N=180)
+Visit Status               30 Days                                               6 months
+                           PASCAL (N=117)              MitraClip (N=63)          PASCAL (N=117)             MitraClip (N=63)
+Follow-up visit comple­    98.3% (114/116)             100.0% (62/62)            94.5% (104/110)            94.9% (56/59)
+ted †
+* Patients were considered eligible if they completed the visit, or their visit windows were open and they were alive and had not
+exited the study prior to the window opening.
+†Categorical variables: % (n/Total N)
+
+
+In the registry cohort, a total of 98 patients underwent an index procedure with the PASCAL system, 92 of whom had the study
+device implanted and constituted the Implanted Population. Six (6) patients did not receive a study device due to inability to
+grasp leaflets (n=3), increased transmitral valve gradient (n=2) or insufficient MR reduction (n=1). The visit compliance of the
+registry patients implanted with a study device is shown in Table 3.
+
+                              Table 3: Visit Compliance (Registry Cohort) – Implanted Population
+
+                                             Registry Cohort (N=92)
+Visit Status
+                                             30 Days                                     6 Months
+Ineligible for visit                         1                                           6
+Eligible for visit*                          91                                          86
+Follow-up visit completed†                   96.7% (88/91)                               90.7% (78/86)
+* Patients were considered eligible if they completed the visit, or their visit windows were open and they were alive and had not
+exited the study prior to the window opening.
+† Categorical variables: % (n/Total N)
+
+
+C. Study Population Demographics and Baseline Characteristics
+The demographics and baseline characteristics of the study population in the randomized cohort are typical for a DMR study
+performed in the US, as shown in Table 4. The two treatment arms were well balanced, with no significant differences in patient
+demographics and baseline characteristics.
+
+       Table 4: Patient Demographics and Baseline Characteristics (Randomized Cohort) – mITT (Safety) Population
+
+Demographics and Baseline        Randomized Cohort Summary Statistics* (N=180)
+                                                                                                    p-value †
+Characteristics                  PASCAL (N=117)                    MitraClip (N=63)
+Age (years)                      81.1 ± 6.87 (117)                 81.2 ± 6.24 (63)                 0.926
+Sex at birth
+  Male                           66.7% (78/117)                    68.3% (43/63)                    0.869
+Race
+  Asian                          4.3% (5/117)                      1.6% (1/63)
+  Black or African American      2.6% (3/117)                      3.2% (2/63)
+  White                          71.8% (84/117)                    76.2% (48/63)                    0.598
+  Other                          2.6% (3/117)                      0.0% (0/63)
+  Not available ‡                18.8% (22/117)                    19.0% (12/63)
+Body mass index (kg/m2)          25.9 ± 5.40 (117)                 26.2 ± 4.82 (63)                 0.499
+New York Heart Association (NYHA) functional class
+
+
+
+
+                                                                 14
+Demographics and Baseline        Randomized Cohort Summary Statistics* (N=180)
+                                                                                   p-value †
+Characteristics                  PASCAL (N=117)                 MitraClip (N=63)
+  Class I                        0.9% (1/117)                   0.0% (0/63)
+  Class II                       38.5% (45/117)                 38.1% (24/63)
+                                                                                   0.573
+  Class III                      57.3% (67/117)                 54.0% (34/63)
+  Class IV                       3.4% (4/117)                   7.9% (5/63)
+Left ventricular ejection
+                                 59.6 ± 8.68 (117)              58.3 ± 9.04 (63)   0.346
+fraction (LVEF; %)
+Society of Thoracic Surgeons
+(STS) score for mitral valve     5.7 ± 3.27 (117)               5.1 ± 2.58 (63)    0.437
+replacement (%)
+STS score for mitral valve
+                                 4.1 ± 2.82 (117)               3.6 ± 2.16 (63)    0.476
+repair (%)
+European System for Cardiac
+Operative Risk Evaluation        3.9 ± 2.93 (117)               4.1 ± 3.09 (63)    0.736
+(EuroSCORE) II (%)
+Clinical frailty total score§
+  ≤3                             17.9% (21/117)                 15.9% (10/63)
+                                                                                   0.837
+  >3                             82.1% (96/117)                 84.1% (53/63)
+Cardiomyopathy                   13.7% (16/117)                 17.5% (11/63)      0.517
+Coronary artery disease
+                                 39.3% (46/117)                 39.7% (25/63)      1.000
+(≥ 50% stenosis)
+Hypertension                     83.8% (98/117)                 90.5% (57/63)      0.263
+Myocardial infarction            16.2% (19/117)                 11.1% (7/63)       0.385
+Stroke                           7.7% (9/117)                   1.6% (1/63)        0.169
+Atrial fibrillation              57.3% (67/117)                 60.3% (38/63)      0.752
+Pacemaker/implantable
+                                 6.0% (7/117)                   14.3% (9/63)       0.096
+cardioverter defibrillator
+Percutaneous coronary
+                                 23.1% (27/117)                 22.2% (14/63)      1.000
+intervention (PCI)/stent
+Total number of open-heart surgeries (valve and coronary artery bypass graft)
+  0                              87.2% (102/117)                90.5% (57/63)
+  1                              12.0% (14/117)                 9.5% (6/63)        0.873
+  2                              0.9% (1/117)                   0.0% (0/63)
+Chronic obstructive
+                                 17.1% (20/117)                 19.0% (12/63)      0.838
+pulmonary disease (COPD)
+Home oxygen use                  5.1% (6/117)                   4.8% (3/63)        1.000
+Diabetes                         16.2% (19/117)                 23.8% (15/63)      0.235
+Renal insufficiency or failure   35.0% (41/117)                 42.9% (27/63)      0.335
+  Stage 1 (eGFR >=90)            0.0% (0/117)                   0.0% (0/63)        -
+  Stage II (eGFR 60-89)          5.1% (6/117)                   4.8% (3/63)        1.000
+  Stage III (eGFR 30-59)         28.2% (33/117)                 36.5% (23/63)      0.311
+  Stage IV (eGFR 15-29)          1.7% (2/117)                   1.6% (1/63)        1.000
+
+
+                                                              15
+Demographics and Baseline            Randomized Cohort Summary Statistics* (N=180)
+                                                                                                                p-value †
+Characteristics                      PASCAL (N=117)                       MitraClip (N=63)
+  Stage V (eGFR <15)                 0.0% (0/117)                         0.0% (0/63)                           -
+History of renal replacement
+                                     0.9% (1/117)                         0.0% (0/63)                           1.000
+therapy (e.g., dialysis)
+COVID-19                             0.9% (1/111)                         1.7% (1/59)                           1.000
+Mitral regurgitation (MR)
+                                     100.0% (117/117)                     100.0% (63/63)                        -
+severity ≥ 3+ at baseline಩
+Number of hospitalizations for heart failure in the last 12 months
+  0                                  65.8% (77/117)                       60.3% (38/63)
+  1                                  23.1% (27/117)                       30.2% (19/63)
+                                                                                                                0.736
+  2                                  7.7% (9/117)                         7.9% (5/63)
+  3                                  3.4% (4/117)                         1.6% (1/63)
+Total number of days
+hospitalized for heart failure in
+the last 12 months (for those     8.6 ± 6.87 (38)                         8.0 ± 6.73 (25)                       0.687
+who had heart failure
+hospitalization)
+*Categorical variables: % (n/Total N); continuous variables: Mean ± SD (n)
+†p-value was based on Kruskal-Wallis test for continuous variables and Fisher's Exact test for categorical variables.
+‡Race not collected for patients in Germany due to privacy regulations.
+§A clinical frailty score of ≤ 3 was inclusive of "very fit," "well," and "managing well." A clinical frailty score of > 3 was inclusive
+
+of "vulnerable," "mildly frail," "moderately frail," "severely frail," "very severely frail," and "terminally ill."
+಩Baseline MR severity was determined by transthoracic echocardiogram (TTE) for all patients except for 2 patients
+
+determined by transesophageal echocardiogram (TEE).
+
+All patients in the PASCAL IID trial were required to be at prohibitive risk for surgical mitral valve repair or replacement per the
+local heart team. Reasons for prohibitive risk are summarized in Table 5 for the randomized cohort. The most common reason for
+prohibitive risk for both treatment arms was frailty as assessed by a cardiac surgeon using the Canadian Study of Health and Aging
+(CSHA) Frailty Scale (84.6% in the PASCAL arm and 90.5% in the MitraClip arm).
+
+                     Table 5: Reasons for Prohibitive Risk (Randomized Cohort) – mITT (Safety) Population
+
+                                                                                             Summary Statistics†
+Prohibitive Risk Factors*
+                                                                                             PASCAL (N=117)             MitraClip (N=63)
+Society of Thoracic Surgeons (STS) predicted mortality risk score for mitral valve
+                                                                                   21.4% (25/117)                       14.3% (9/63)
+replacement: ≥ 8%
+STS predicted mortality risk score for mitral valve repair: ≥ 6%                             17.9% (21/117)             9.5% (6/63)
+Porcelain aorta or extensively calcified ascending aorta                                     1.7% (2/117)               0.0% (0/63)
+Frailty (assessed by in-person cardiac surgeon consultation)                                 84.6% (99/117)             90.5% (57/63)
+Hostile chest                                                                                6.0% (7/117)               6.3% (4/63)
+Severe liver disease/cirrhosis (Model for End-Stage Liver Disease score >12)                 0.0% (0/117)               1.6% (1/63)
+Severe pulmonary hypertension (systolic pulmonary artery pressure > 2/3
+                                                                                             2.6% (3/117)               4.8% (3/63)
+systemic pressure)
+Right ventricular dysfunction                                                                0.9% (1/117)               1.6% (1/63)
+Chemotherapy for malignancy                                                                  1.7% (2/117)               1.6% (1/63)
+Immobility                                                                                   11.1% (13/117)             12.7% (8/63)
+
+
+
+                                                                        16
+                                                                                    Summary Statistics†
+Prohibitive Risk Factors*
+                                                                                    PASCAL (N=117)        MitraClip (N=63)
+Acquired immunodeficiency syndrome (AIDS)                                           0.0% (0/117)          0.0% (0/63)
+High risk of aspiration                                                             3.4% (4/117)          7.9% (5/63)
+Internal mammary artery (IMA) at high risk of injury                                1.7% (2/117)          0.0% (0/63)
+Other                                                                               28.2% (33/117)        22.2% (14/63)
+* At baseline, patients may present with more than one prohibitive risk factor.
+†Categorical variables: % (n/Total N)
+
+
+The demographics and baseline characteristics of the study population in the registry cohort are summarized in Table 6.
+
+              Table 6: Patient Demographics and Baseline Characteristics (Registry Cohort) – Implanted Population
+
+                                                                Registry Cohort
+Demographics and Baseline Characteristics                       Summary Statistics*
+                                                                (N=92)
+Age (years)                                                     81.4 ± 6.41 (92)
+Sex at birth
+  Male                                                          62.0% (57/92)
+Race
+  Asian                                                         3.3% (3/92)
+  Black or African American                                     4.3% (4/92)
+  White                                                         72.8% (67/92)
+  Other                                                         4.3% (4/92)
+  Not available†                                                15.2% (14/92)
+Body mass index (kg/m2)                                         25.5 ± 4.43 (92)
+New York Heart Association (NYHA) functional class
+  Class I                                                       3.3% (3/92)
+  Class II                                                      28.3% (26/92)
+  Class III                                                     64.1% (59/92)
+  Class IV                                                      4.3% (4/92)
+Left ventricular ejection fraction (LVEF; %)                    58.7 ± 10.58 (92)
+Society of Thoracic Surgeons (STS) score for mitral valve
+                                                                6.6 ± 4.90 (92)
+replacement (%)
+STS score for mitral valve repair (%)                           4.6 ± 4.07 (92)
+European System for Cardiac Operative Risk Evaluation
+                                                                5.0 ± 4.34 (92)
+(EuroSCORE) II (%)
+Clinical frailty total score§
+  ≤3                                                            17.4% (16/92)
+  >3                                                            82.6% (76/92)
+Cardiomyopathy                                                  19.6% (18/92)
+Coronary artery disease
+                                                                43.5% (40/92)
+(≥ 50% stenosis)
+Hypertension                                                    83.7% (77/92)
+
+
+                                                                17
+                                                                      Registry Cohort
+Demographics and Baseline Characteristics                             Summary Statistics*
+                                                                      (N=92)
+Myocardial infarction                                                 16.3% (15/92)
+Stroke                                                                5.4% (5/92)
+Atrial fibrillation                                                   68.5% (63/92)
+Pacemaker/implantable cardioverter defibrillator                      16.3% (15/92)
+Percutaneous coronary intervention (PCI)/stent                        21.7% (20/92)
+Total number of open-heart surgeries (valve and coronary artery bypass graft)
+  0                                                                   81.5% (75/92)
+  1                                                                   17.4% (16/92)
+  2                                                                   1.1% (1/92)
+Chronic obstructive pulmonary disease (COPD)                          14.1% (13/92)
+Home oxygen use                                                       7.6% (7/92)
+Diabetes                                                              19.6% (18/92)
+Renal insufficiency or failure                                        51.1% (47/92)
+  Stage I (eGFR >= 90)                                                0.0% (0/92)
+  Stage II (eGFR 60-89)                                               5.4% (5/92)
+  Stage III (eGFR 30-59)                                              39.1% (36/92)
+  Stage IV (eGFR 15-29)                                               6.5% (6/92)
+  Stage V (eGFR < 15)                                                 0.0% (0/92)
+History of renal replacement therapy (e.g., dialysis)                 0.0% (0/92)
+COVID-19                                                              3.4% (3/89)
+Mitral regurgitation (MR) severity ≥ 3+ at baseline಩                  100.0% (92/92)
+Number of hospitalizations for heart failure in the last 12 months
+  0                                                                   62.6% 57/91)
+  1                                                                   23.1% (21/91)
+  2                                                                   8.8% (8/91)
+  3                                                                   4.4% (4/91)
+  4                                                                   1.1% (1/91)
+Total number of days hospitalized for heart failure in the last
+                                                                      7.9 ± 8.49 (33)
+12 months (for those who had heart failure hospitalization)
+*Categorical variables: % (n/Total N); continuous variables: Mean ± SD (n)
+‡Race not collected for patients in Germany due to privacy regulations.
+§A clinical frailty score of ≤ 3 was inclusive of "very fit," "well," and "managing well." A clinical frailty score of > 3 was inclusive
+
+of "vulnerable," "mildly frail," "moderately frail," "severely frail," "very severely frail," and "terminally ill."
+಩Baseline MR severity was determined by transthoracic echocardiogram (TTE) for all patients except for 2 patients
+
+determined by transesophageal echocardiogram (TEE).
+
+The anatomical criteria of patients in the registry cohort that rendered the patients ineligible for randomization are summarized in
+Table 7. The most common anatomical complexity was the presence of two or more independent significant jets (42.4%), followed
+by evidence of severe bileaflet/multi-scallop prolapse involvement (17.4%), mitral valve orifice area < 4.0 cm2 (15.2%), and large
+flail gap (> 10 mm) and/or flail width (> 15 mm) (13.0%). A total of 83.7% of patients met 1 anatomical complexity criterion and
+16.3% met 2 criteria.
+
+
+
+                                                                     18
+                             Table 7: Anatomical Criteria (Registry Cohort) – Implanted Population
+
+Anatomical Criteria                                                  Summary Statistics* (N=92)
+Presence of two or more independent significant jets                 42.4% (39/92)
+Evidence of severe bileaflet/multi-scallop prolapse involvement 17.4% (16/92)
+Mitral valve orifice area < 4.0 cm2                                  15.2% (14/92)
+Large flail gap (> 10 mm) and/or large flail width (> 15 mm)†        13.0% (12/92)
+Presence of one significant jet in the commissural area              12.0% (11/92)
+Presence of significant cleft or perforation in the grasping area    6.5% (6/92)
+Leaflet mobility length < 8 mm                                       4.3% (4/92)
+Evidence of moderate to severe calcification in the grasping         4.3% (4/92)
+area
+History of endocarditis and significant tissue defects in the leaf­ 1.1% (1/92)
+let†
+Total number of anatomical criteria met
+  1                                                                  87.3% (77/92)
+  2                                                                  16.3% (15/92)
+*Categorical variables: % (n/Total N); patients can be counted in more than one anatomical criterion category.
+†Anatomical criterion not pre-specified in the study protocol but identified by the Central Screening Committee as
+
+an anatomical criterion that made valve anatomy suitable for a PASCAL implant, but not for a MitraClip implant.
+
+D. Safety and Effectiveness Results
+This section summarizes the results of the first planned interim analysis of the randomized cohort, along with the results of the
+registry cohort. For brevity, only select results of the registry cohort are presented.
+1. Primary Safety Endpoint
+The primary safety endpoint results for the randomized cohort are presented in Table 8. The proportion of patients with MAEs at
+30 days was 3.4% in the PASCAL arm and 4.8% in the MitraClip arm, with a rate difference (PASCAL - MitraClip) of -1.3%. Since the
+one-sided 95% upper confidence bound of the rate difference was 5.1%, which was lower than the pre-specified non-inferiority
+margin of 15%, the primary safety endpoint was met.
+
+                          Table 8: MAEs at 30 Days (Randomized Cohort) – mITT (Safety) Population
+
+                                                  PASCAL (N=117)                                 MitraClip (N=63)
+               Variable
+                                        No. Events        Patients* % (n/N)             No. Events            Patients % (n/N)
+Composite major adverse events               5        3.4% (4/116)                           3             4.8% (3/63)
+(MAEs)
+  Cardiovascular death                       1        0.9% (1/116)                           1             1.6% (1/63)
+  Stroke                                     0        0.0% (0/116)                           0             0.0% (0/63)
+  Myocardial infarction                      0        0.0% (0/116)                           0             0.0% (0/63)
+  New need for renal replacement             0        0.0% (0/116)                           0             0.0% (0/63)
+therapy
+  Severe bleeding                            3        2.6% (3/116)                           2             3.2% (2/63)
+  Non-elective mitral valve re-              1        0.9% (1/116)                           0             0.0% (0/63)
+intervention
+Composite rate difference (PASCAL -                                                  -1.3%
+MitraClip)
+
+
+
+                                                                    19
+                                                 PASCAL (N=117)                                 MitraClip (N=63)
+              Variable
+                                       No. Events       Patients* % (n/N)             No. Events             Patients % (n/N)
+One-sided 95% upper confidence                                                    5.1%
+bound†
+Non-inferiority margin                                                           15.0%
+Non-inferiority test                                                             Success
+*One (1) patient who was excluded from the denominator was not followed for at least 30 days and did not have an MAE at the
+time of the last follow-up.
+†One-sided 95% upper confidence bound was based on unpooled Z test with continuity correction.
+
+
+The primary safety endpoint results for the registry cohort are summarized in Table 9. The proportion of patients with MAEs at 30
+days was 8.7%.
+
+                             Table 9: MAEs at 30 Days (Registry Cohort) – Implanted Population
+
+Variable                                                   No. Events                               Patients % (n/N)
+Composite MAE                                                    9                                      8.7% (8/92)
+  Cardiovascular death                                           1                                      1.1% (1/92)
+  Stroke                                                         1                                      1.1% (1/92)
+  Myocardial infarction                                          1                                      1.1% (1/92)
+  New need for renal replacement                                 1                                      1.1% (1/92)
+therapy
+  Severe bleeding                                                4                                      4.3% (4/92)
+  Non-elective mitral valve re-                                  1                                      1.1% (1/92)
+intervention
+
+2. Primary Effectiveness Endpoint
+The primary effectiveness endpoint results for the randomized cohort are presented in Table 10. The proportion of patients with
+MR ≤ 2+ at 6 months was 96.5% in the PASCAL arm and 96.8% in the MitraClip arm. The rate difference between the PASCAL arm
+and the MitraClip arm was -0.3%, with a one-sided 95% lower confidence bound of -6.2%, which was greater than the pre­
+specified non-inferiority margin of -18%. Thus, the primary effectiveness endpoint was met.
+
+    Table 10: Proportion of Patients with MR ≤ 2+ at 6 Months (Randomized Cohort) – mITT (Effectiveness) Population
+
+                                                                        Randomized Cohort (N=180)
+                 Variable
+                                                        PASCAL (N=117)                              MitraClip (N=63)
+MR ≤ 2+; % (n/N)*                                        96.5% (110/114)                              96.8% (60/62)
+Rate difference (PASCAL - MitraClip)                                                -0.3%
+One-sided 95% lower confidence bound†                                               -6.2%
+Non-inferiority margin                                                              -18.0%
+Non-inferiority test                                                               Success
+*Of the 117 patients in the PASCAL mITT (effectiveness) population, data for 3 patients were unavailable for the primary effec­
+tiveness analysis, including 2 patients who died prior to reaching the 30-day follow-up and 1 patient who was missing their 30­
+day and 6-month follow-up due to residing outside of the U.S. at the time. Of the 63 patients in the MitraClip mITT (effectiveness)
+population, data for 1 patient were unavailable for the primary effectiveness analysis due to patient death prior to the 30-day
+follow-up.
+†One-sided 95% lower confidence bound was based on unpooled Z test with continuity correction.
+
+
+The primary effectiveness endpoint results for the registry cohort are presented in Table 11. The proportion of patients with MR
+≤2+ at 6 months was 91.0%.
+
+
+                                                                20
+            Table 11: Proportion of Patients with MR ≤ 2+ at 6 Months (Registry Cohort) - Implanted Population
+
+                              Variable                                                        Registry Cohort (N=92)
+MR ≤ 2+; % (n/N)*                                                                                   91.0%(81/89)
+* Of the 92 patients in the Implanted Population of the registry cohort, data for 3 patients were unavailable for the primary
+effectiveness analysis, including 2 patients who died prior to completing the 30-day follow-up and 1 patient who missed the 30­
+day and 6-month follow-up visits (patient died on postoperative day 225).
+
+3. Secondary Endpoints
+Safety Endpoints
+The results of various pre-defined secondary safety endpoints available at 30 days and 6 months are presented in Table 12 and
+Table 13 for the randomized cohort and registry cohort, respectively.
+
+                    Table 12: Secondary Safety Endpoints (Randomized Cohort) – mITT (Safety) Population
+
+                                                                                    Rate*
+                                             Discharge                             30 Days                              6 Months
+            Event
+                                   PASCAL              MitraClip        PASCAL              MitraClip        PASCAL               MitraClip
+                                   (N=117)              (N=63)          (N=117)              (N=63)          (N=117)               (N=63)
+Major adverse events                     -                 -               -                    -            6.1%(8, 7)           11.1%(9, 7)
+All-cause mortality                      -                 -        1.7%(2, 2)              1.6%(1, 1)       5.1%(6, 6)           6.3%(4, 4)
+Heart failure hospitalization            -                 -            0%(0, 0)            1.6%(1, 1)       1.7%(3, 2)           3.2%(2, 2)
+New onset of permanent at­
+                                         -                 -            0%(0, 0)             0%(0, 0)              -                   -
+rial fibrillation
+Non-elective mitral valve re-
+intervention (either percuta­            -                 -               -                    -            1.8%(2, 2)           1.6%(1, 1)
+neous or surgical)
+Residual atrial septal defect;
+                                         -                 -       72.5%(50/69)            79.5%(31/39)    51.0%(26/51)          62.1%(18/29)
+% (n/Total N)
+Transfusion of ≥ 2 units of
+whole blood or packed red         0%(0/117)        1.6%(1/63)              -                    -                  -                   -
+blood cells; % (n/Total N)
+Gastrointestinal complica­
+                                         -                 -            0%(0, 0)             0%(0, 0)              -                   -
+tions requiring surgery
+*Kaplan-Meier rate (no. of events, no. of patients with the event), unless noted otherwise.
+
+                       Table 13: Secondary Safety Endpoints (Registry Cohort) – Implanted Population
+
+                                                                               Rate* (N=92)
+             Event
+                                               Discharge                            30 Days                             6 Months
+Major adverse events                               -                                   -                               12.0%(15, 11)
+All-cause mortality                                -                               2.2%(2, 2)                           6.5%(6, 6)
+Heart failure hospitalization                      -                               5.5%(6, 5)                           6.6%(9, 6)
+New onset of permanent atrial
+                                                   -                                0%(0, 0)                                 -
+fibrillation
+Non-elective mitral valve re-
+intervention (either percutane­                    -                                   -                                1.1%(1, 1)
+ous or surgical)
+
+
+
+                                                                   21
+                                                                           Rate* (N=92)
+             Event
+                                           Discharge                          30 Days                       6 Months
+Residual atrial septal defect; %
+                                                -                          80.6%(50/62)                   73.7%(28/38)
+(n/Total N)
+Transfusion of ≥ 2 units of
+whole blood or packed red                  2.2%(2/92)                             -                              -
+blood cells; % (n/Total N)
+Gastrointestinal complications
+                                                -                             0%(0, 0)                           -
+requiring surgery
+*Kaplan-Meier rate (no. of events, no. of patients with the event), unless noted otherwise.
+
+6MWT Distance
+The results for the 6MWT in the randomized cohort are presented in Figure 10. In the PASCAL arm, the mean 6MWT distance
+increased about 30 m at 30 days compared to baseline, which was sustained through 6 months. A generally similar trend was
+observed in the MitraClip arm, with an improvement of about 50 m at 30 days and 40 m at 6 months.
+
+                 Figure 10: 6MWT Distance by Visit (Randomized Cohort) – mITT (Effectiveness) Population
+
+
+
+
+                                     Note: The error bars represent standard deviations.
+
+QoL
+• KCCQ
+ The results for the KCCQ overall summary score are presented in Figure 11 for the randomized cohort. The mean score increased
+ from 55.6 at baseline to 71.8 at 30 days and 73.8 at 6 months in the PASCAL arm and from 60.0 at baseline to 80.1 at 30 days and
+ 79.0 at 6 months in the MitraClip arm.
+
+
+
+
+                                                                22
+          Figure 11: KCCQ Overall Summary Score by Visit (Randomized Cohort) – mITT (Effectiveness) Population
+
+
+
+
+                                    Note: The error bars represent standard deviations.
+• SF-36
+ The results for the SF-36 physical component summary score and mental component summary score are presented in Figure 12
+ and Figure 13, respectively, for the randomized cohort. In the two treatment arms, the mean SF-36 physical component scores
+ increased about 1-4 points at 30 days and 6 months compared to the baseline; the corresponding mean SF-36 mental
+ component scores increased about 2-4 points.
+
+   Figure 12: SF-36 Physical Component Summary Score by Visit (Randomized Cohort) – mITT (Effectiveness) Population
+
+
+
+
+                                    Note: The error bars represent standard deviations.
+
+
+
+
+                                                            23
+    Figure 13: SF-36 Mental Component Summary Score by Visit (Randomized Cohort) – mITT (Effectiveness) Population
+
+
+
+
+                                     Note: The error bars represent standard deviations.
+• EQ-5D-5L
+ The results for the EQ-5D-5L visual analog score (VAS) are presented in Figure 14 for the randomized cohort. The mean scores in
+ the two treatment arms increased similarly in an approximate range of 8-12 points at 30 days and at 6 months compared to the
+ baseline.
+
+          Figure 14: EQ-5D-5L Visual Analog Score by Visit (Randomized Cohort) – mITT (Effectiveness) Population
+
+
+
+
+                                     Note: The error bars represent standard deviations.
+
+4. Adverse Events
+The site-reported device- or procedure-related serious adverse events that occurred through 6 months in the randomized cohort
+are presented in Table 14.
+
+
+
+
+                                                              24
+Table 14: Site-Reported Device- or Procedure-related Serious Adverse Events (Randomized Cohort) – mITT (Safety) Popu­
+                                                         lation
+
+                                               30 Days                                           6 Months
+                              PASCAL (N=117)           MitraClip (N=63)         PASCAL (N=117)            MitraClip (N=63)
+           Event
+                             No.      Patients %     No.       Patients %      No.       Patients %     No.        Patients %
+                            Events      (n/N)       Events       (n/N)        Events       (n/N)       Events        (n/N)
+Acute kidney injury           1      0.9%(1/117)         0     0.0%(0/63)        1      0.9%(1/117)       0        0.0%(0/63)
+Anemia                        0      0.0%(0/117)         1     1.6%(1/63)        0      0.0%(0/117)       1        1.6%(1/63)
+Atrial fibrillation           2      1.7%(2/117)         0     0.0%(0/63)        2      1.7%(2/117)       0        0.0%(0/63)
+Atrioventricular block
+                              1      0.9%(1/117)         0     0.0%(0/63)        1      0.9%(1/117)       0        0.0%(0/63)
+second degree
+Cardiac failure acute         0      0.0%(0/117)         1     1.6%(1/63)        0      0.0%(0/117)       2        3.2%(2/63)
+Cardiac procedure com­
+                              0      0.0%(0/117)         0     0.0%(0/63)        0      0.0%(0/117)       1        1.6%(1/63)
+plication
+Cardiogenic shock             0      0.0%(0/117)         1     1.6%(1/63)        0      0.0%(0/117)       1        1.6%(1/63)
+Chest pain                    1      0.9%(1/117)         0     0.0%(0/63)        1      0.9%(1/117)       0        0.0%(0/63)
+Hypervolemia                  0      0.0%(0/117)         1     1.6%(1/63)        0      0.0%(0/117)       1        1.6%(1/63)
+Hyponatremia                  1      0.9%(1/117)         0     0.0%(0/63)        1      0.9%(1/117)       0        0.0%(0/63)
+Hypotension                   2      1.7%(2/117)         0     0.0%(0/63)        2      1.7%(2/117)       0        0.0%(0/63)
+Leukocytosis                  1      0.9%(1/117)         1     1.6%(1/63)        1      0.9%(1/117)       1        1.6%(1/63)
+Lip injury                    0      0.0%(0/117)         1     1.6%(1/63)        0      0.0%(0/117)       1        1.6%(1/63)
+Lower gastrointestinal
+                              1      0.9%(1/117)         0     0.0%(0/63)        1      0.9%(1/117)       0        0.0%(0/63)
+hemorrhage
+Mitral valve incompe­
+                              2      1.7%(2/117)         2     3.2%(2/63)        3      2.6%(3/117)       2        3.2%(2/63)
+tence
+Muscular weakness             0      0.0%(0/117)         1     1.6%(1/63)        0      0.0%(0/117)       1        1.6%(1/63)
+Septic shock                  0      0.0%(0/117)         1     1.6%(1/63)        0      0.0%(0/117)       1        1.6%(1/63)
+Small intestinal obstruc­
+                              0      0.0%(0/117)         1     1.6%(1/63)        0      0.0%(0/117)       1        1.6%(1/63)
+tion
+Vascular pseudoaneur­
+                              1      0.9%(1/117)         0     0.0%(0/63)        1      0.9%(1/117)       0        0.0%(0/63)
+ysm
+
+5. Other Study Observations
+MR Severity Grade
+The MR severity grades by visit are presented in Figure 15 for the randomized cohort. The proportion of patients with MR ≥ 3+
+decreased from 100% at baseline to 2.1% at 6 months in the PASCAL arm compared to 100% at baseline to 1.9% at 6 months in
+the MitraClip arm.
+
+
+
+
+                                                               25
+               Figure 15: MR Severity Grade by Visit (Randomized Cohort) – mITT (Effectiveness) Population
+
+
+
+
+The MR severity grades by visit, as measured by TTE, in the registry cohort are presented in Figure 16. At 6 months, only 9.9% of
+the patients had MR ≥ 3+ at 6 months compared to 100% at baseline.
+
+
+
+
+                                                                26
+                        Figure 16: MR Severity Grade by Visit (Registry Cohort) – Implanted Population
+
+
+
+
+NYHA Functional Class
+The NYHA classifications by visit are presented in Figure 17 for the randomized cohort. At baseline, 60.7% of PASCAL patients and
+61.9% of MitraClip patients were in NYHA class III/IV. The proportion of patients in NYHA class III/IV decreased to 13.9% in the
+PASCAL patients and 5.4% in the MitraClip patients at 6 months.
+
+
+
+
+                                                               27
+                     Figure 17: NYHA Class by Visit (Randomized Cohort)mITT (Effectiveness) Population
+
+
+
+
+Echocardiographic Parameters
+Key echocardiographic parameters for the randomized cohort are summarized in Table 15.
+
+          Table 15: Echocardiographic Parameters by TTE (Randomized Cohort)- mITT (Effectiveness) Population
+
+                                                                                    Summary Statistic*
+          Parameter                         Visit
+                                                                     PASCAL (N=117)                MitraClip (N=63)
+                                          Baseline                   57.1 ± 6.54 (117)              57.4 ± 6.50 (63)
+
+ Left ventricular end-diastolic          Discharge †                 54.2 ± 6.72 (111)              56.0 ± 5.77 (59)
+    diameter (LVEDD; mm)                   30 days                   53.2 ± 6.58 (108)              54.8 ± 6.43 (59)
+                                          6 months                    51.5 ± 8.02 (89)              53.5 ± 6.39 (50)
+                                          Baseline                   38.3 ± 7.66 (116)              39.8 ± 7.83 (62)
+
+Left ventricular end-systolic di­        Discharge †                 38.0 ± 7.62 (108)              40.3 ± 7.44 (58)
+      ameter (LVESD; mm)                   30 days                   37.3 ± 7.21 (106)              40.0 ± 9.80 (58)
+                                          6 months                    36.0 ± 7.25 (88)              37.4 ± 6.92 (49)
+                                          Baseline                   59.6 ± 8.68 (117)              58.3 ± 9.04 (63)
+                                         Discharge †                 57.1 ± 7.97 (116)              54.8 ± 8.98 (62)
+     Ejection fraction (%)
+                                           30 days                   57.7 ± 7.34 (108)              55.4 ± 8.27 (62)
+                                          6 months                    56.4 ± 7.71 (95)              55.8 ± 7.27 (52)
+
+
+
+
+                                                            28
+                                                                                      Summary Statistic*
+           Parameter                             Visit
+                                                                       PASCAL (N=117)                    MitraClip (N=63)
+                                            Baseline                    2.5 ± 1.14 (113)                  2.4 ± 1.06 (59)
+
+    Transmitral antegrade mean            Discharge †                   3.8 ± 1.54 (115)                  3.6 ± 1.36 (62)
+         gradient (mmHg)                    30 days                     3.7 ± 1.67 (108)                  3.6 ± 1.56 (62)
+                                           6 months                      3.7 ± 1.68 (92)                  3.4 ± 1.33 (51)
+*Continuous variables: Mean ± SD (n)
+†Discharge or Day 7, whichever occurred first.
+
+
+Cardiovascular Mortality
+The Kaplan-Meier curves for cardiovascular mortality are shown in Figure 18 for the randomized cohort.
+
+           Figure 18: Cardiovascular Mortality Through 6 Months (Randomized Cohort) - mITT (Safety) Population
+
+
+
+
+Note: The confidence intervals were calculated without multiplicity adjustment. The adjusted confidence intervals could
+be wider than presented here. As such, confidence intervals are provided to illustrate the variability only and should not
+be used to draw any statistical conclusion.
+Procedural Data
+The general procedural data for the randomized cohort are summarized in Table 16.
+
+                           Table 16: General Procedural Data (Randomized Cohort) - AT Population
+
+Procedural Data                            Summary Statistics*
+                                           PASCAL (N=116)                              MitraClip (N=63)
+General anesthesia                         100.0%(116/116)                             100.0%(63/63)
+Implant rate†                              100.0%(116/116)                             100.0%(63/63)
+Number of implanted devices                1.5 ± 0.57 (116)                            1.6 ± 0.68 (63)
+                                           1.0 (1.0, 3.0)                              2.0 (1.0, 3.0)
+1                                          54.3%(63/116)                               47.6%(30/63)
+2                                          42.2%(49/116)                               41.3%(26/63)
+
+
+                                                              29
+Procedural Data                              Summary Statistics*
+                                             PASCAL (N=116)                           MitraClip (N=63)
+3                                            3.4%(4/116)                              11.1%(7/63)
+Total procedure time (min)‡                  101.0 ± 49.42 (115)                      84.3 ± 37.14 (62)
+                                             88.0 (33.0, 357.0)                       79.0 (25.0, 174.0)
+Device time (min)§                           71.9 ± 45.27 (116)                       50.0 ± 31.72 (61)
+                                             59.5 (6.0, 232.0)                        41.0 (5.0, 144.0)
+Fluoroscopy duration (min)                   26.3 ± 15.99 (114)                       22.9 ± 14.39 (63)
+                                             23.0 (3.0, 79.0)                         20.0 (0.0, 75.0)
+Total length of stay in days for the index   2.2 ± 2.82 (116)                         1.8 ± 1.45 (63)
+hospitalization (from procedure date)        1.0 (1.0, 20.0)                          1.0 (0.0, 7.0)
+*Continuous variables: Mean ± SD (n); median (min, max). Categorical variables: % (n/Total N).
+†Implant rate: % of patients who had study device implanted, deployed as intended, and delivery system retrieved successfully.
+‡Total procedure time: from procedure start time (femoral vein puncture/skin incision) to femoral vein access closure.
+§Device time: from implant system insertion to removal.
+
+
+
+
+                                                                   30
+   Figures
+
+
+
+
+   1. Sutures
+    2. Spacer
+3. Actuation Wire
+    4. Clasps
+   5. Paddles
+
+Figure 1: Implant
+
+
+
+
+       31
+     Elongated                                                   Closed
+
+
+
+
+Leaflet-Capture-Ready                                        Leaflet-Captured
+
+
+                   Figure 2: Implant Paddle Configurations
+
+
+
+
+                                     32
+Note: Figure 3 is representative of both 20000IS and
+                20000ISM Implants.
+                     1. Leaflets
+                     2. Implant
+
+   Figure 3: Implant in Final Implanted Position
+
+
+
+
+                        33
+      1. Implant Catheter Handle
+     2. Steerable Catheter Handle
+       3. Implant Release Knob
+            4. Suture Locks
+            5. Paddle Knob
+            6. Clasp Sliders
+             7. Clasp Lock
+             8. Flex Knob
+       9. Implant Release Cover
+         10. Clasp Setting Tool
+          11. Flush Port Cap
+        12. Steerable Catheter
+         13. Implant Catheter
+            14. Vented Cap
+
+      Figure 4: Implant System
+
+
+
+
+Figure 5: Guide Sheath and Introducer
+
+
+
+
+                 34
+         1. Stabilizer
+            2. Rail
+
+Figure 6: Stabilizer Rail System                      Figure 7: Table
+
+
+
+
+                                    1. ID 6.2 mm
+
+                                   Figure 8: Loader
+
+
+
+
+                                         35
+                                                      Symbol Legend
+                      English                                       English                          English
+                                                         Caution: Federal (USA) law         For use with size 52 mm
+                  Model Number                           restricts this device to sale       Edwards transcatheter
+                                                           by or on the order of a                heart valve
+                                                                  physician.
+                Catalogue Number                                                               Temperature limit
+                                                          Sterilized using ethylene
+                                                                     oxide
+                     Quantity                            Sterilized using irradiation           Exterior diameter
+                                                           Sterilized using liquid
+                    Lot Number                                     chemical
+                                                                                                 Inner diameter
+                                                              Do not resterilize
+                     Contents                                                              Recommended guidewire
+                                                                                                  length
+                   Usable length                                 Non-sterile
+                                                                                           Recommended guidewire
+                   Do not re-use                                                                   size
+                                                               Non-pyrogenic
+                                                                                            Guidewire compatibility
+                      Caution
+                                                                 Non-DEHP
+            Consult instructions for use                                                               Size
+               or consult electronic
+               instructions for use                             Use-by date
+                                                                                               Catheter shaft size
+              Do not use if package is
+               damaged and consult                                                              Balloon diameter
+                                                               Serial Number
+                instructions for use
+                                                                                            Balloon working length
+                                                         Authorized representative
+             Store in a cool, dry place
+                                                             in the European
+                                                                                           [Implant only] The implant
+                                                          Community/European
+                                                                                                 device had been
+                                                                  Union
+             Keep away from sunlight                                                             determined to be
+                                                                                           MR Conditional when used
+                                                               Manufacturer                under the conditions listed
+                     Keep dry                                                               in the instructions for use.
+
+                                                            Date of manufacture                    MR Unsafe
+                  Medical device
+                                                          For use with size 44 mm
+                                                           Edwards transcatheter            Unique device identifier
+            Single sterile barrier system                       heart valve
+                                                          For use with size 48 mm
+            Consult instructions for use                   Edwards transcatheter
+                 on the website                                 heart valve
+
+Note: The labeling of this product may not contain every symbol depicted in this legend.
+
+
+
+
+                                                               36
+                                                                                              09/2022
+                                                                                      10051562002 A
+                                                           k Copyright 2022, Edwards Lifesciences LLC
+                                                                                  All rights reserved.
+                           Telephone        949.250.2500                                     Web IFU
+                                            800.424.3278
+Edwards Lifesciences LLC   FAX              949.250.2525
+One Edwards Way
+Irvine, CA 92614 USA
+
+                                       37
+                       For Internal Edwards Lifesciences Use Only.
+                         For proofreading documentation only.
+
+Title:   eIFU, PASCAL Precision System, EO                                                  Page: 38 of 38
+
+Label Item/Revision:                   10051562002/A
+
+Visual Representation/Revision:        DOC-0205566/A
+
+Drawing/Specification:                 N/A
+
+English Master/Revision:               N/A
+
+eIFU Visual Representation/Revision:   N/A
+
+                                             Refer to supporting material for signatures.
+
+
+
+
+                                                 38
+

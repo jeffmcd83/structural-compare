@@ -1,0 +1,1232 @@
+EN   Fixed Core Wire Guides
+ 3   Instructions for Use
+CS   Vodicí dráty s pevným jádrem
+ 4   Návod k použití
+DA   Kateterledere med fast kerne
+ 6   Brugsanvisning
+DE   Führungsdrähte mit fester Seele
+ 7   Gebrauchsanweisung
+EL   Συρμάτινοι οδηγοί με σταθερό πυρήνα
+ 9   Οδηγίες χρήσης
+ES   Guías de alma fija
+11   Instrucciones de uso
+FR   Guides à âme centrale
+12   Mode d’emploi
+HU   Rögzített magú vezetődrótok
+14   Használati utasítás
+IT   Guide ad anima fissa
+15   Istruzioni per l’uso
+NL   Voerdraden met een vaste kern
+17   Gebruiksaanwijzing
+NO   Ledevaiere med fast kjerne
+19   Bruksanvisning
+PL   Prowadniki z nieruchomym rdzeniem
+20   Instrukcja użycia
+PT   Fios guia com parte central fixa
+22   Instruções de utilização
+SV   Ledare med fast kärna
+23   Bruksanvisning
+
+
+
+
+                         *T_FCWG_REV2*
+                                                                     ENGLISH
+
+FIXED CORE WIRE GUIDES
+CAUTION: U.S. federal law restricts this device to sale by or on the order of
+a physician (or a properly licensed practitioner).
+
+DEVICE DESCRIPTION
+Fixed Core Wire Guides are made with a stainless steel inner mandril and
+stainless steel outer coil. They are available in a variety of diameters, lengths,
+and tip configurations. Some devices are provided with a green PTFE coating
+to ease coaxial use with other devices. Refer to the product label for product
+specifications.
+
+INTENDED USE
+Fixed Core Wire Guides are intended to facilitate the placement of devices
+during diagnostic and interventional procedures.
+
+CONTRAINDICATIONS
+None known
+
+WARNINGS
+ • This product is not intended for use in the coronary arteries.
+ • This product is a delicate instrument. Avoid forceful angulation.
+ • Avoid manipulating or withdrawing the wire guide back through a metal
+   needle or cannula. A sharp edge may scrape or shear material from the
+   wire guide.
+ • Altering the tip’s configuration or curve manually may damage the wire
+   guide.
+
+PRECAUTIONS
+ • This product is intended for use by physicians trained and experienced
+   in diagnostic and interventional techniques. Standard techniques for
+   placement of devices in angiographic procedures should be employed.
+ • Do not attempt to torque the wire guide.
+ • Use medical imaging when you manipulate the wire guide. Do not
+   advance or manipulate the wire guide without visual evidence of the
+   corresponding movement of the distal tip.
+ • When you use the wire guide with another device, consider the end-hole
+   size and the length of the device in order to ensure a proper fit between
+   the wire guide and the device.
+ • Do not advance or withdraw a wire guide when resistance is encountered,
+   as a perforation could occur.
+ • Use only the flexible end as the initial inserted end. Inserting from the rigid
+   end may cause damage to tissue or the device.
+ • Inspect the wire guide for kinks or damage prior to use.
+
+INSTRUCTIONS FOR USE
+ 1. Flush the wire guide holder by attaching a syringe with heparinized saline
+    or sterile water to the fitting of the wire guide holder. Inject enough
+    solution to wet the wire guide surface entirely.
+
+                                         3
+    NOTE: If flushing through the wire guide holder is not possible, remove
+    the wire guide from the holder and place it in a bowl of heparinized saline
+    or sterile water, or wet the wire guide surface over the entire length using
+    gauze moistened with heparinized saline solution.
+ 2. Carefully remove the wire guide from the holder.
+ 3. If needed, insert a wire guide insertion tool (provided) through the valve
+    assembly or hub of the guiding sheath or other interventional device.
+    Insert the tip of the wire guide through the insertion tool.
+ 4. Standard wire guide techniques may now be employed.
+
+HOW SUPPLIED
+Supplied sterilized by ethylene oxide gas in peel-open packages. Intended
+for one-time use. Sterile if package is unopened and undamaged. Do not use
+the product if there is doubt as to whether the product is sterile. Store in a
+dark, dry, cool place. Avoid extended exposure to light. Upon removal from
+package, inspect the product to ensure no damage has occurred.
+
+REFERENCES
+These instructions for use are based on experience from physicians and (or)
+their published literature. Refer to your local Cook sales representative for
+more information.
+
+ČESKY
+
+VODICÍ DRÁTY S PEVNÝM JÁDREM
+UPOZORNĚNÍ: Federální zákony USA dovolují prodej tohoto zařízení
+pouze lékařům nebo na předpis lékaře (nebo kvalifikovaného zdravotníka
+s licencí).
+
+POPIS PROSTŘEDKU
+Vodicí dráty s pevným jádrem sestávají z vnitřního mandrénu z nerezové oceli
+a vnější smyčky z nerezové oceli. Dodávají se v celé řadě průměrů, délek a
+konfigurací hrotu. Některé prostředky jsou dodávány se zeleným povlakem
+z PTFE pro usnadnění koaxiálního použití s jinými prostředky. Specifikace
+produktu naleznete v označení výrobku.
+
+URČENÉ POUŽITÍ
+Vodicí dráty s pevným jádrem se používají pro snazší umístění prostředků při
+diagnostických a intervenčních zákrocích.
+
+KONTRAINDIKACE
+Nejsou známy
+
+VAROVÁNÍ
+ • Tento výrobek není určen k použití v koronárních tepnách.
+ • Tento výrobek je jemný nástroj. Neohýbejte jej násilím.
+ • Vyhněte se manipulaci s vodicím drátem nebo jeho vytažení zpět skrz
+   kovovou jehlu nebo kanylu. Ostrá hrana by mohla poškrábat nebo odřít
+   materiál vodicího drátu.
+ • Manuální úpravy konfigurace nebo zakřivení hrotu mohou vodicí drát
+   poškodit.
+                                       4
+UPOZORNĚNÍ
+ • Tento výrobek smějí používat pouze lékaři, kteří jsou vyškoleni v použití
+   diagnostických a intervenčních metod a mají s nimi zkušenosti. Je nutné
+   používat standardní techniky umisťování prostředků při angiografických
+   zákrocích.
+ • Nepokoušejte se otáčet vodicím drátem.
+ • Při manipulaci s vodicím drátem používejte zdravotnické zobrazovací
+   metody. Vodicí drát neposouvejte ani jím nemanipulujte, pokud nemáte
+   vizuální důkaz odpovídajícího pohybu distálního hrotu.
+ • Pokud používáte vodicí drát s jiným prostředkem, zvažte velikost
+   výstupního otvoru a délku prostředku, aby byl zajištěn vhodný poměr
+   velikostí vodicího drátu a prostředku.
+ • Pokud narazíte na odpor, vodicí drát neposouvejte vpřed ani nevytahujte,
+   protože by mohlo dojít k perforaci.
+ • Jako první zavádějte pouze ohebný konec. Zavádění od tuhého konce
+   může způsobit poškození tkáně nebo prostředku.
+ • Před použitím vodicí drát zkontrolujte, zda není zauzlený nebo poškozený.
+
+NÁVOD K POUŽITÍ
+ 1. Propláchněte držák vodicího drátu připojením stříkačky s heparinizovaným
+    fyziologickým roztokem nebo sterilní vodou ke spojce držáku vodicího
+    drátu. Nastříkněte dostatečné množství roztoku tak, aby se navlhčil celý
+    povrch vodicího drátu.
+    POZNÁMKA: Pokud propláchnutí držákem vodicího drátu není možné,
+    vyjměte vodicí drát z držáku a vložte jej do misky s heparinizovaným
+    fyziologickým roztokem nebo sterilní vodou, nebo navlhčete celou
+    délku povrchu vodicího drátu gázou navlhčenou heparinizovaným
+    fyziologickým roztokem.
+ 2. Opatrně vyjměte vodicí drát z držáku.
+ 3. V případě potřeby zaveďte zaváděcí nástroj vodicího drátu (je součástí
+    balení) sestavou ventilu nebo ústím vodicího sheathu nebo jiného
+    intervenčního prostředku. Zaveďte hrot vodicího drátu do zaváděcího
+    nástroje.
+ 4. Nyní můžete použít standardní techniky pro vodicí drát.
+
+STAV PŘI DODÁNÍ
+Výrobek je dodáván v odtrhovacím obalu a je sterilizován plynným
+ethylenoxidem. Určeno pro jednorázové použití. Sterilní, pokud obal není
+otevřený ani poškozený. Nepoužívejte výrobek, pokud existují pochybnosti
+o jeho sterilitě. Skladujte na tmavém, suchém a chladném místě. Zamezte
+dlouhodobému vystavení světlu. Po vyjmutí z obalu výrobek prohlédněte a
+ujistěte se, že není poškozený.
+
+LITERATURA
+Tento návod k použití je založen na zkušenostech lékařů a (nebo) na jejich
+publikované odborné literatuře. Další informace vám poskytne místní
+zástupce společnosti Cook.
+
+
+
+
+                                      5
+DANSK
+
+KATETERLEDERE MED FAST KERNE
+FORSIGTIG: I henhold til amerikansk lovgivning må dette produkt
+kun sælges af en læge (eller autoriseret behandler) eller efter dennes
+anvisning.
+
+BESKRIVELSE AF PRODUKTET
+Kateterledere med fast kerne er fremstillet med en indre mandril af rustfrit
+stål og en ydre coil af rustfrit stål. De fås i en række diametre, længder og
+spidskonfigurationer. Nogle produkter leveres med en grøn PTFE-coating, der
+letter koaksial anvendelse med andre instrumenter. Se produktetiketten for
+produktspecifikationer.
+
+TILSIGTET ANVENDELSE
+Kateterledere med fast kerne er beregnet til at lette anlæggelse af produkter
+under diagnostiske og interventionelle procedurer.
+
+KONTRAINDIKATIONER
+Ingen kendte
+
+ADVARSLER
+ • Produktet er ikke beregnet til anvendelse i koronararterierne.
+ • Dette produkt er et sart instrument. Undgå kraftig vinkling.
+ • Undgå at manipulere eller trække kateterlederen tilbage gennem en metalnål
+   eller -kanyle. En skarp kant kan afskrabe eller rive materiale af kateterlederen.
+ • Manuel ændring af spidsens konfiguration eller kurve kan beskadige
+   kateterlederen.
+
+FORHOLDSREGLER
+ • Produktet er beregnet til læger med uddannelse og erfaring i diagnostiske
+   og interventionelle teknikker. Standardteknikker til placering af enheder i
+   angiografiprocedurer skal anvendes.
+ • Forsøg ikke at dreje kateterlederen.
+ • Brug gennemlysning, når kateterlederen manipuleres. Kateterlederen
+   må ikke fremføres eller manipuleres uden synlige tegn på tilsvarende
+   bevægelse af den distale spids.
+ • Når du bruger kateterlederen med en anden anordning, skal størrelsen og
+   længden på anordningens endehul tages i betragtning for at sikre korrekt
+   tilpasning mellem kateterlederen og anordningen.
+ • En kateterleder må ikke føres fremad eller trækkes tilbage, hvis der mærkes
+   modstand, da dette kan føre til perforation.
+ • Kun den fleksible ende må indføres først. Indføring med den stive ende
+   kan medføre beskadigelse af væv eller produkt.
+ • Inspicer kateterlederen for tegn på knæk eller beskadigelse før brug.
+
+BRUGSANVISNING
+ 1. Gennemskyl kateterlederholderen ved at sætte en sprøjte med
+    hepariniseret saltvand eller sterilt vand på kateterlederholderens fitting.
+    Injicér tilstrækkelig opløsning til at fugte hele kateterlederoverfladen.
+
+                                         6
+    BEMÆRK: Hvis det ikke er muligt at skylle igennem kateterlederholderen,
+    skal kateterlederen fjernes fra holderen og lægges i en skål med
+    hepariniseret saltvand eller sterilt vand, eller kateterlederens overflade
+    fugtes i dens fulde længde med gaze fugtet med hepariniseret
+    saltvandsopløsning.
+ 2. Fjern forsigtigt kateterlederen fra holderen.
+ 3. Hvis nødvendigt, føres et indføringsværktøj til kateterleder (vedlagt)
+    gennem ventilsamlingen eller muffen på styresheathen eller et
+    andet interventionsprodukt. Indfør kateterlederens spids gennem
+    indføringsværktøjet.
+ 4. Standard kateterlederteknikker kan nu anvendes.
+
+LEVERING
+Leveres steriliseret med ethylenoxid i peel-open pakninger. Beregnet til
+engangsbrug. Steril, hvis pakningen er uåbnet eller ubeskadiget. Produktet
+må ikke bruges, hvis der er tvivl om produktets sterilitet. Opbevares mørkt,
+tørt og køligt. Undgå eksponering for lys i længere tid. Inspicér produktet efter
+udtagning fra pakningen for at sikre, at produktet ikke er beskadiget.
+
+REFERENCER
+Denne brugsanvisning er baseret på lægers erfaring og (eller) lægers
+publicerede litteratur. Kontakt den lokale salgsrepræsentant for Cook for at få
+yderligere oplysninger.
+
+                                                                  DEUTSCH
+
+FÜHRUNGSDRÄHTE MIT FESTER SEELE
+VORSICHT: Laut US-Gesetzgebung darf dieses Instrument nur von einem
+Arzt oder im Auftrag eines Arztes gekauft werden.
+
+PRODUKTBESCHREIBUNG
+Führungsdrähte mit fester Seele bestehen aus einem Edelstahl-Innenmandrin
+und einer Edelstahl-Außenspirale. Sie sind in einer Reihe von Durchmessern,
+Längen und Spitzenkonfigurationen erhältlich. Manche Produkte werden
+mit einer grünen PTFE-Beschichtung geliefert, um die koaxiale Verwendung
+zusammen mit anderen Produkten zu erleichtern. Die Produktspezifikationen
+bitte der Produktauszeichnung entnehmen.
+
+VERWENDUNGSZWECK
+Führungsdrähte mit fester Seele werden zur leichteren Platzierung von
+Produkten bei diagnostischen und interventionellen Verfahren verwendet.
+
+KONTRAINDIKATIONEN
+Keine bekannt
+
+WARNHINWEISE
+ • Dieses Produkt ist nicht zur Verwendung in den Koronararterien bestimmt.
+ • Es handelt sich bei diesem Produkt um ein empfindliches Instrument.
+   Gewaltsame Abwinkelung vermeiden.
+ • Den Führungsdraht nicht durch eine Metallkanüle manipulieren oder
+   zurückziehen. Scharfe Kanten können Kratzer oder ein Abscheren des
+   Führungsdrahts verursachen.
+                                      7
+ • Manuelle Veränderungen der Konfiguration oder Biegung der Spitze
+   können den Führungsdraht beschädigen.
+
+VORSICHTSMASSNAHMEN
+ • Das Produkt darf nur von Ärzten eingesetzt werden, die in Diagnose-
+   und Interventionstechniken geschult und erfahren sind. Es sind
+   Standardtechniken für die Platzierung von Produkten im Rahmen
+   angiographischer Verfahren anzuwenden.
+ • Nicht versuchen, den Führungsdraht zu drehen.
+ • Medizinische Bildgebung bei der Manipulierung des Führungsdrahts
+   einsetzen. Den Führungsdraht nur vorschieben oder manipulieren, wenn
+   visuell bestätigt werden kann, dass sich die distale Spitze entsprechend
+   mitbewegt.
+ • Wird der Führungsdraht zusammen mit einem anderen Produkt
+   verwendet, die Größe der distalen Öffnung und die Länge des Produkts
+   berücksichtigen, um eine ordnungsgemäße Passung zwischen
+   Führungsdraht und Produkt zu gewährleisten.
+ • Führungsdrähte nicht vorschieben bzw. zurückziehen, wenn ein
+   Widerstand auftritt, da es zu einer Perforation kommen kann.
+ • Den Führungsdraht immer mit dem flexiblen Ende voran einführen. Wird
+   er mit dem starren Ende voran eingeführt, kann es zu Schäden am Gewebe
+   oder am Instrument kommen.
+ • Den Führungsdraht vor der Verwendung auf Knicke oder Schäden
+   untersuchen.
+
+GEBRAUCHSANWEISUNG
+ 1. Zum Spülen der Führungsdrahthalterung eine Spritze mit heparinisierter
+    Kochsalzlösung oder sterilem Wasser an den Anschluss der
+    Führungsdrahthalterung anschließen. Ausreichend Lösung injizieren, um
+    die Oberfläche des Führungsdrahts vollständig anzufeuchten.
+    HINWEIS: Falls nicht durch die Führungsdrahthalterung gespült werden
+    kann, den Führungsdraht aus der Halterung nehmen und in eine Schale
+    mit heparinisierter Kochsalzlösung oder sterilem Wasser legen oder
+    die Oberfläche des Führungsdrahts auf ganzer Länge mit einem mit
+    heparinisierter Kochsalzlösung befeuchteten Mulltupfer befeuchten.
+ 2. Den Führungsdraht vorsichtig aus der Halterung nehmen.
+ 3. Bei Bedarf ein Führungsdraht-Einführinstrument (mitgeliefert) durch
+    die Ventilbaugruppe oder den Ansatz der Führungsschleuse bzw. des
+    sonstigen interventionellen Instruments einbringen. Die Spitze des
+    Führungsdrahts durch das Einführinstrument einbringen.
+ 4. Nun können die üblichen Techniken für Führungsdrähte verwendet
+    werden.
+
+LIEFERFORM
+Produkt mit Ethylenoxid gassterilisiert; in Aufreißverpackungen. Nur für den
+einmaligen Gebrauch. Bei ungeöffneter und unbeschädigter Verpackung
+steril. Produkt nicht verwenden, falls Zweifel an der Sterilität bestehen. An
+einem dunklen, trockenen, kühlen Ort lagern. Längere Lichteinwirkung
+vermeiden. Nachdem das Produkt der Verpackung entnommen wurde, auf
+Beschädigungen überprüfen.
+
+
+                                       8
+QUELLEN
+Diese Gebrauchsanweisung basiert auf der Erfahrung von Ärzten und/
+oder auf Fachliteratur. Weitere Informationen erteilt der zuständige Cook
+Außendienstmitarbeiter.
+
+                                                              ΕΛΛΗΝΙΚΑ
+
+ΣΥΡΜΆΤΙΝΟΙ ΟΔΗΓΟΊ ΜΕ ΣΤΑΘΕΡΌ ΠΥΡΉΝΑ
+ΠΡΟΣΟΧΗ: Η ομοσπονδιακή νομοθεσία των Η.Π.Α. περιορίζει την πώληση
+της συσκευής αυτής από ιατρό ή κατόπιν εντολής ιατρού (ή επαγγελματία
+υγείας, ο οποίος να έχει λάβει την κατάλληλη άδεια).
+
+ΠΕΡΙΓΡΑΦΉ ΤΗΣ ΣΥΣΚΕΥΉΣ
+Οι συρμάτινοι οδηγοί με σταθερό πυρήνα κατασκευάζονται από έναν
+εσωτερικό αξονίσκο από ανοξείδωτο χάλυβα και από εξωτερική σπείρα
+από ανοξείδωτο χάλυβα. Διατίθενται σε ποικιλία διαμέτρων, μηκών και
+διαμορφώσεων άκρου. Ορισμένες συσκευές παρέχονται με πράσινη
+επικάλυψη PTFE που διευκολύνει την ομοαξονική χρήση με άλλες συσκευές.
+Ανατρέξτε στην ετικέτα του προϊόντος για τις προδιαγραφές του προϊόντος.
+
+ΧΡΉΣΗ ΓΙΑ ΤΗΝ ΟΠΟΊΑ ΠΡΟΟΡΊΖΕΤΑΙ
+Οι συρμάτινοι οδηγοί με σταθερό πυρήνα προορίζονται για τη διευκόλυνση
+της τοποθέτησης συσκευών κατά τη διάρκεια διαγνωστικών και επεμβατικών
+διαδικασιών.
+
+ΑΝΤΕΝΔΕΊΞΕΙΣ
+Καμία γνωστή
+
+ΠΡΟΕΙΔΟΠΟΙΉΣΕΙΣ
+ • Αυτό το προϊόν δεν προορίζεται για χρήση στις στεφανιαίες αρτηρίες.
+ • Αυτό το προϊόν είναι ένα ευαίσθητο εργαλείο. Αποφύγετε την έντονη
+   γωνίωση.
+ • Αποφεύγετε το χειρισμό ή την απόσυρση του συρμάτινου οδηγού μέσω
+   μεταλλικής βελόνας ή κάνουλας. Μια αιχμηρή ακμή ενδέχεται να αποξέσει
+   ή να διατμήσει υλικό από τον συρμάτινο οδηγό.
+ • Η τροποποίηση της διαμόρφωσης ή της καμπύλης του άκρου με το χέρι
+   ενδέχεται να προκαλέσει ζημιά στον συρμάτινο οδηγό.
+
+ΠΡΟΦΥΛΆΞΕΙΣ
+ • Το προϊόν αυτό προορίζεται για χρήση από ιατρούς εκπαιδευμένους και
+   πεπειραμένους σε διαγνωστικές και επεμβατικές τεχνικές. Θα πρέπει να
+   χρησιμοποιούνται τυπικές τεχνικές για την τοποθέτηση συσκευών σε
+   αγγειογραφικές διαδικασίες.
+ • Μην επιχειρήσετε να στρέψετε τον συρμάτινο οδηγό.
+ • Κατά τον χειρισμό του συρμάτινου οδηγού χρησιμοποιήστε ιατρική
+   απεικόνιση. Μην προωθείτε και μη χειρίζεστε τον συρμάτινο οδηγό χωρίς
+   οπτική ένδειξη της αντίστοιχης κίνησης του περιφερικού άκρου.
+ • Κατά τη χρήση του συρμάτινου οδηγού σε συνδυασμό με άλλη συσκευή,
+   λάβετε υπόψη το μέγεθος της τελικής οπής και το μήκος της συσκευής,
+   έτσι ώστε να διασφαλιστεί η σωστή εφαρμογή μεταξύ του συρμάτινου
+   οδηγού και της συσκευής.
+                                      9
+ • Μην προωθείτε και μην αποσύρετε έναν συρμάτινο οδηγό εφόσον
+   συναντήσετε αντίσταση, καθώς θα μπορούσε να προκληθεί διάτρηση.
+ • Μόνο το εύκαμπτο άκρο θα πρέπει να εισάγεται πρώτο. Η εισαγωγή από το
+   δύσκαμπτο άκρο μπορεί να προκαλέσει ζημιά στον ιστό ή στη συσκευή.
+ • Επιθεωρήστε τον συρμάτινο οδηγό για στρεβλώσεις ή ζημιά πριν από τη
+   χρήση.
+
+ΟΔΗΓΊΕΣ ΧΡΉΣΗΣ
+ 1. Εκπλύνετε την υποδοχή του συρμάτινου οδηγού προσαρτώντας μια
+    σύριγγα με ηπαρινισμένο φυσιολογικό ορό ή στείρο νερό στο εξάρτημα
+    της υποδοχής του συρμάτινου οδηγού. Εγχύστε επαρκή ποσότητα
+    διαλύματος για να διαβρέξετε ολόκληρη την επιφάνεια του συρμάτινου
+    οδηγού.
+    ΣΗΜΕΙΩΣΗ: Εάν η πραγματοποίηση έκπλυσης διαμέσου της υποδοχής
+    του συρμάτινου οδηγού δεν είναι δυνατή, αφαιρέστε τον συρμάτινο
+    οδηγό από τη θήκη του και τοποθετήστε τον σε ένα σκεύος με
+    ηπαρινισμένο φυσιολογικό ορό ή στείρο νερό ή διαβρέξτε την επιφάνεια
+    του συρμάτινου οδηγού σε όλο το μήκος του, χρησιμοποιώντας γάζα
+    εφυγραμένη με ηπαρινισμένο φυσιολογικό ορό.
+ 2. Αφαιρέστε προσεκτικά τον συρμάτινο οδηγό από την υποδοχή.
+ 3. Εάν απαιτείται, εισαγάγετε ένα εργαλείο εισαγωγής συρμάτινου οδηγού
+    (παρέχεται) διαμέσου του συγκροτήματος της βαλβίδας ή του ομφαλού
+    του οδηγού θηκαριού ή άλλης επεμβατικής συσκευής. Εισαγάγετε το
+    άκρο του συρμάτινου οδηγού μέσω του εργαλείου εισαγωγής.
+ 4. Είναι δυνατόν τώρα να εφαρμοστούν οι τυπικές τεχνικές για συρμάτινους
+    οδηγούς.
+
+ΤΡΟΠΟΣ ΔΙΑΘΕΣΗΣ
+Παρέχεται αποστειρωμένο με αέριο οξείδιο του αιθυλενίου σε
+αποκολλούμενες συσκευασίες. Προορίζεται για μία χρήση. Στείρο, εφόσον η
+συσκευασία δεν έχει ανοιχτεί και δεν έχει υποστεί ζημιά. Μη χρησιμοποιείτε
+το προϊόν εάν υπάρχει αμφιβολία για τη στειρότητά του. Φυλάσσετε σε
+σκοτεινό, ξηρό και δροσερό χώρο. Αποφεύγετε την παρατεταμένη έκθεση στο
+φως. Κατά την αφαίρεση από τη συσκευασία, επιθεωρήστε το προϊόν για να
+βεβαιωθείτε ότι δεν έχει υποστεί ζημιά.
+
+ΒΙΒΛΙΟΓΡΑΦΙΑ
+Αυτές οι οδηγίες χρήσης βασίζονται στην εμπειρία από ιατρούς ή/και τη
+δημοσιευμένη βιβλιογραφία τους. Απευθυνθείτε στον τοπικό αντιπρόσωπο
+πωλήσεων της Cook για περισσότερες πληροφορίες.
+
+
+
+
+                                   10
+                                                                    ESPAÑOL
+
+GUÍAS DE ALMA FIJA
+AVISO: Las leyes federales estadounidenses limitan la venta de este
+dispositivo a médicos o por prescripción facultativa (o a profesionales con
+la debida autorización).
+
+DESCRIPCIÓN DEL DISPOSITIVO
+Las guías de alma fija están fabricadas con un mandril interior de acero
+inoxidable y una espiral exterior también de acero inoxidable. Están
+disponibles en diversos diámetros, longitudes y configuraciones de puntas.
+Algunos dispositivos se proporcionan con un revestimiento de PTFE verde con
+el fin de facilitar su uso coaxial con otros dispositivos. Las especificaciones del
+producto se indican en su etiqueta.
+
+INDICACIONES
+Las guías de alma fija están indicadas para facilitar la colocación de
+dispositivos durante procedimientos diagnósticos e intervencionistas.
+
+CONTRAINDICACIONES
+No se han descrito
+
+ADVERTENCIAS
+ • Este producto no está indicado para utilizarse en las arterias coronarias.
+ • Este producto es un instrumento delicado. No lo doble por la fuerza.
+ • No manipule ni extraiga la guía hacia atrás a través de una cánula o una
+   aguja metálicas. Los bordes afilados pueden rayar o producir cortes en el
+   material de la guía.
+ • La guía puede resultar dañada si se altera manualmente la curva o la
+   configuración de su punta.
+
+PRECAUCIONES
+ • Este producto está concebido para que lo utilicen médicos con formación
+   y experiencia en técnicas diagnósticas e intervencionistas. Deben
+   emplearse las técnicas habituales de colocación de dispositivos en
+   procedimientos angiográficos.
+ • No trate de realizar torque sobre la guía.
+ • Utilice técnicas de visualización médicas cuando manipule la guía. No haga
+   avanzar ni manipule la guía sin pruebas visuales de que su punta distal se
+   está moviendo correspondientemente.
+ • Al utilizar la guía con otro dispositivo, tenga en cuenta el tamaño del
+   orificio terminal y la longitud del dispositivo para garantizar un perfecto
+   acoplamiento de la guía y el dispositivo.
+ • No haga avanzar ni retire la guía si observa resistencia, pues se podría
+   producir una perforación.
+ • Utilice exclusivamente el extremo flexible como extremo insertado inicial.
+   La introducción desde el extremo rígido puede producir daños al tejido o
+   al dispositivo.
+ • Inspeccione si la guía presenta acodamientos o daños antes de su uso.
+
+
+                                        11
+INSTRUCCIONES DE USO
+ 1. Lave el portaguías acoplando una jeringa con solución salina heparinizada
+    o agua estéril a la conexión del portaguías. Inyecte solución suficiente para
+    humedecer por completo la superficie de la guía.
+    NOTA: Si no es posible lavar a través del portaguías, retire la guía del
+    portaguías y colóquela en un recipiente de solución salina heparinizada o
+    agua estéril, o bien moje la superficie de la guía en toda su longitud con
+    una gasa humedecida con solución salina heparinizada.
+ 2. Extraiga con cuidado la guía del portaguías.
+ 3. En caso necesario, inserte una herramienta de introducción de guías
+    (incluida) a través del conjunto de válvula o del conector de la vaina guía
+    u otro dispositivo intervencionista. Introduzca la punta de la guía a través
+    de la herramienta de introducción.
+ 4. Ahora se pueden emplear las técnicas estándar para el uso de guías.
+
+PRESENTACIÓN
+El producto se suministra esterilizado con óxido de etileno en envases
+de apertura pelable. Producto indicado para un solo uso. El producto se
+mantendrá estéril si el envase no está abierto y no ha sufrido ningún daño.
+No utilice el producto si no está seguro de que esté estéril. Almacénelo en
+un lugar fresco, seco y oscuro. Evite la exposición prolongada a la luz. Tras
+extraerlo del envase, inspeccione el producto para asegurarse de que no haya
+sufrido ningún daño.
+
+REFERENCIAS
+Estas instrucciones de uso se basan en la experiencia de médicos y (o) en la
+bibliografía publicada por ellos. Para obtener más información, consulte con
+su representante local de Cook.
+
+FRANÇAIS
+
+GUIDES À ÂME CENTRALE
+MISE EN GARDE : En vertu de la législation fédérale des États-Unis,
+ce dispositif ne peut être vendu que par un médecin (ou un praticien
+autorisé) ou sur ordonnance médicale.
+
+DESCRIPTION DU DISPOSITIF
+Les guides à âme centrale sont fabriqués avec un mandrin interne en acier
+inoxydable et une spirale externe en acier inoxydable. Ils sont fournis
+dans divers diamètres et longueurs et configurations d’extrémité. Certains
+dispositifs sont fournis avec un revêtement en PTFE vert afin de faciliter une
+utilisation coaxiale avec d’autres dispositifs. Consulter l’étiquette du produit
+pour obtenir ses caractéristiques.
+
+UTILISATION
+Les guides à âme centrale sont destinés à faciliter la mise en place des
+dispositifs pendant les procédures diagnostiques et interventionnelles.
+
+CONTRE-INDICATIONS
+Aucune connue
+
+
+                                        12
+AVERTISSEMENTS
+ • Ce produit n’est pas prévu pour être utilisé dans les artères coronaires.
+ • Ce produit est un instrument fragile. Éviter toute angulation forcée.
+ • Éviter de manipuler ou de retirer le guide par une aiguille ou une canule
+   en métal. Un bord tranchant risque de rayer ou de cisailler le matériau
+   du guide.
+ • La modification manuelle de la configuration ou de la courbe de
+   l’extrémité peut endommager le guide.
+
+MISES EN GARDE
+ • Ce produit est destiné à être utilisé par des médecins ayant acquis la
+   formation et l’expérience nécessaires aux techniques diagnostiques et
+   interventionnelles. Recourir aux techniques standard pour la mise en place
+   des dispositifs dans les interventions angiographiques.
+ • Ne pas tenter d’exercer une torsion sur le guide.
+ • Utiliser l’imagerie médicale pendant la manipulation du guide. Ne pas faire
+   avancer ou manipuler le guide sans vérifier visuellement le mouvement
+   correspondant de l’extrémité distale.
+ • Lorsque le guide est utilisé avec un autre dispositif, tenir compte du
+   diamètre de l’orifice terminal et de la longueur du dispositif afin de
+   garantir la compatibilité entre le guide et le dispositif.
+ • Ne pas faire avancer ou retirer un guide en cas de résistance, sous risque
+   de provoquer une perforation.
+ • Utiliser uniquement l’extrémité souple comme extrémité insérée en
+   premier. Une insertion par l’extrémité rigide peut endommager le tissu ou
+   le dispositif.
+ • Inspecter le guide avant l’utilisation pour vérifier l’absence de plicatures ou
+   d’endommagement.
+
+MODE D’EMPLOI
+ 1. Rincer le porte-guide en fixant ou une seringue contenant du sérum
+    physiologique hépariné ou de l’eau stérile sur le raccord du porte-guide.
+    Injecter suffisamment de solution pour mouiller entièrement la surface
+    du guide.
+    REMARQUE : Si un rinçage par le porte-guide n’est pas possible, retirer
+    le guide du porte-guide et le placer dans un bol de sérum physiologique
+    hépariné ou d’eau stérile, ou mouiller la surface du guide sur toute la
+    longueur en utilisant de la gaze humectée de sérum physiologique
+    hépariné.
+ 2. Retirer délicatement le guide du porte-guide.
+ 3. Selon les besoins, insérer un introducteur de guide (fourni) par l’ensemble
+    de valve ou l’embase de la gaine de guidage ou tout autre dispositif
+    interventionnel. Insérer l’extrémité du guide par l’introducteur.
+ 4. Les techniques standard de mise en place du guide peuvent maintenant
+    être employées.
+
+PRÉSENTATION
+Produit fourni stérilisé à l’oxyde d’éthylène, sous emballage déchirable. Produit
+destiné à un usage unique. Contenu stérile lorsque l’emballage est scellé
+d’origine et intact. En cas de doute quant à la stérilité du produit, ne pas
+
+
+                                       13
+l’utiliser. Conserver à l’abri de la lumière, dans un lieu frais et sec. Éviter toute
+exposition prolongée à la lumière. Lors du retrait de l’emballage, inspecter le
+produit afin de s’assurer qu’il n’est pas endommagé.
+
+RÉFÉRENCES
+Le présent mode d’emploi a été rédigé en fonction de l’expérience de
+médecins et/ou de leurs publications médicales. Consulter le représentant
+local de Cook pour en savoir plus.
+
+ MAGYAR
+
+RÖGZÍTETT MAGÚ VEZETŐDRÓTOK
+FIGYELEM: Az USA szövetségi törvényei értelmében ez az eszköz
+kizárólag orvos (vagy megfelelő engedéllyel rendelkező egészségügyi
+szakember) által vagy rendeletére forgalmazható.
+
+AZ ESZKÖZ LEÍRÁSA
+A rögzített magú vezetődrótok rozsdamentes acél belső szárral és
+rozsdamentes acél külső spirállal rendelkeznek. Többféle átmérővel,
+hosszúságban és csúcskonfigurációval kaphatók. Egyes eszközök zöld
+PTFE-bevonattal rendelkeznek a más eszközökkel való koaxiális használat
+megkönnyítése céljából. A termékspecifikációkat lásd a termék címkéjén.
+
+RENDELTETÉS
+A rögzített magú vezetődrótok eszközök behelyezésének megkönnyítésére
+szolgálnak diagnosztikai és intervenciós eljárások során.
+
+ELLENJAVALLATOK
+Nem ismertek
+
+„VIGYÁZAT” SZINTŰ FIGYELMEZTETÉSEK
+ • Ez a termék nem szolgál a koronáriás artériákban való alkalmazásra.
+ • A termék érzékeny műszer. Erővel történő angulatiója kerülendő.
+ • Ne manipulálja és ne húzza vissza a vezetődrótot fémtűn vagy fémkanülön
+   keresztül. Az éles szélek megkarcolhatják vagy elnyírhatják a vezetődrót
+   anyagát.
+ • A csúcs konfigurációjának vagy ívének kézzel történő módosítása
+   károsíthatja a vezetődrótot.
+
+ÓVINTÉZKEDÉSEK
+ • A termék a diagnosztikai és intervenciós technikákra kiképzett és azokban
+   járatos orvosok általi használatra szolgál. Az angiográfiás eljárásokban
+   használt eszközök elhelyezésére szolgáló standard eljárásokat kell
+   alkalmazni.
+ • Ne kísérelje meg elforgatni a vezetődrótot.
+ • A vezetődrótok manipulálása során alkalmazzon orvosi képalkotást. Ne
+   tolja előre és ne manipulálja a vezetődrótot, ha a disztális csúcs megfelelő
+   mozgására nincs látható bizonyíték.
+ • Amikor a vezetődrótot másik eszközzel használja, a vezetődrót és az eszköz
+   kompatibilitásának biztosításához vegye figyelembe a végnyílás méretét
+   és az eszköz hosszát.
+                                          14
+ • Ne tolja előre vagy húzza vissza a vezetődrótot, ha ellenállást tapasztal,
+   mert perforáció következhet be.
+ • Mindig a hajlékony vég felől vezesse be. A merev vég felől történő
+   behelyezés a szövet vagy az eszköz sérülését okozhatja.
+ • Használat előtt vizsgálja meg a vezetődrótot, és ellenőrizze, hogy
+   nincsenek-e rajta törések vagy sérülések.
+
+HASZNÁLATI UTASÍTÁS
+ 1. Öblítse át a vezetődróttartót; ehhez csatlakoztasson egy heparinos
+    fiziológiás sóoldattal vagy steril vízzel töltött fecskendőt a vezetődróttartó
+    kónuszához. Fecskendezzen be elegendő oldatot ahhoz, hogy a
+    vezetődrót teljes felületét benedvesítse.
+    MEGJEGYZÉS: Ha a vezetődróttartó átöblítése nem lehetséges, távolítsa
+    el a vezetődrótot a tartóból, és helyezze heparinos fiziológiás sóoldatot
+    vagy steril vizet tartalmazó edénybe, vagy nedvesítse meg a vezetődrót
+    felületét annak teljes hosszában heparinos fiziológiás sóoldattal átitatott
+    gézlappal.
+ 2. Körültekintően távolítsa el a vezetődrótot a tartóból.
+ 3. Szükség esetén vezesse be a (mellékelt) vezetődrót-bevezető eszközt a
+    szelepszerelvényen vagy a vezetőhüvely kónuszán vagy más intervenciós
+    eszközön keresztül. Vezesse be a vezetődrót csúcsát a bevezetőeszközön
+    keresztül.
+ 4. Ekkor elkezdhető a szabványos vezetődrót-manőverezési technikák
+    alkalmazása.
+
+KISZERELÉS
+Kiszerelés: etilén-oxid gázzal sterilizálva, széthúzható csomagolásban. Egyszeri
+használatra. Felbontatlan, sértetlen csomagolásban steril. Ha a termék
+sterilitása kétséges, ne használja. Sötét, száraz, hűvös helyen tárolandó. Tartós
+megvilágítása kerülendő. A csomagolásból való eltávolítás után vizsgálja meg
+a terméket, és ellenőrizze, hogy nem sérült-e.
+
+HIVATKOZÁSOK
+Ez a használati utasítás orvosok tapasztalatán és/vagy az általuk közölt
+szakirodalmon alapul. Ha további információkra van szüksége, forduljon a
+Cook helyi értékesítési képviselőjéhez.
+
+                                                                      ITALIANO
+
+GUIDE AD ANIMA FISSA
+ATTENZIONE – Le leggi federali degli Stati Uniti d’America limitano la
+vendita del presente dispositivo a medici, a personale autorizzato o a
+operatori sanitari abilitati.
+
+DESCRIZIONE DEL DISPOSITIVO
+Le guide ad anima fissa sono realizzate con un mandrino interno e una spirale
+esterna, entrambi in acciaio inossidabile. Sono disponibili in diversi diametri,
+lunghezze e configurazioni della punta. Alcuni dispositivi vengono forniti con
+un rivestimento verde in PTFE per agevolare l’uso coassiale di altri dispositivi.
+Per i dati tecnici relativi al dispositivo, fare riferimento alla relativa etichetta.
+
+                                         15
+USO PREVISTO
+Le guide ad anima fissa sono previste per agevolare il posizionamento di
+dispositivi nel corso di procedure diagnostiche e interventistiche.
+
+CONTROINDICAZIONI
+Nessuna nota
+
+AVVERTENZE
+ • Questo prodotto non è indicato per l‘uso nelle arterie coronarie.
+ • Questo prodotto è uno strumento delicato. Evitarne l‘angolazione forzata.
+ • Evitare la manipolazione o il ritiro della guida attraverso un ago o una
+   cannula metallici. Gli spigoli vivi possono graffiare o lacerare il materiale
+   della guida.
+ • L‘alterazione manuale della configurazione o della curvatura della punta
+   può danneggiare la guida.
+
+PRECAUZIONI
+ • Questo prodotto deve essere utilizzato solo da medici competenti ed
+   esperti nelle tecniche diagnostiche e interventistiche. Utilizzare le tecniche
+   standard di posizionamento dei dispositivi impiegate nelle procedure
+   angiografiche.
+ • Non tentare di torcere la guida.
+ • Servirsi dell‘imaging medico quando si manipola la guida. Non fare
+   avanzare né manipolare la guida senza evidenza visiva di un movimento
+   corrispondente dell‘estremità distale.
+ • Per l‘uso della guida con un altro dispositivo, è necessario verificare che
+   la dimensione del foro terminale e la lunghezza del dispositivo siano
+   compatibili con la guida.
+ • Non fare avanzare né ritirare una guida in presenza di resistenza, poiché si
+   può provocare una perforazione.
+ • Inserire per prima solo l‘estremità flessibile. L‘inserimento dall‘estremità
+   rigida può causare danni al tessuto o al dispositivo.
+ • Prima dell‘uso, ispezionare la guida per escludere la presenza di
+   attorcigliamenti o danni.
+
+ISTRUZIONI PER L’USO
+ 1. Lavare il supporto di confezionamento della guida collegando una siringa
+    contenente soluzione fisiologica eparinata o acqua sterile al raccordo del
+    supporto stesso. Iniettare una quantità di soluzione sufficiente a bagnare
+    l‘intera superficie della guida.
+    NOTA – Se il lavaggio attraverso il supporto di confezionamento della
+    guida non fosse possibile, estrarre la guida dal supporto e collocarla in
+    una bacinella di soluzione fisiologica eparinata o acqua sterile, oppure
+    umettare la superficie della guida per l‘intera lunghezza utilizzando una
+    garza inumidita di soluzione fisiologica eparinata.
+ 2. Estrarre con cautela la guida dal supporto di confezionamento.
+ 3. Se necessario, introdurre un inseritore per guida (in dotazione) attraverso
+    il gruppo della valvola o il connettore della guaina di introduzione o altro
+    dispositivo interventistico. Introdurre l‘estremità della guida nell‘inseritore.
+ 4. A questo punto è possibile utilizzare tecniche con guida standard.
+
+
+                                        16
+CONFEZIONAMENTO
+Il prodotto è sterilizzato mediante ossido di etilene ed è fornito in confezione
+con apertura a strappo. Esclusivamente monouso. Il prodotto è sterile se la
+sua confezione è chiusa e integra. Non utilizzare il prodotto in caso di dubbi
+sulla sua sterilità. Conservare in luogo fresco e asciutto, al riparo dalla luce.
+Evitare l’esposizione prolungata alla luce. Dopo l’estrazione dalla confezione,
+esaminare il prodotto per accertarsi che non abbia subito danni.
+
+BIBLIOGRAFIA
+Le presenti istruzioni per l’uso sono basate sull’esperienza dei medici e/o
+sulle loro pubblicazioni specialistiche. Per ulteriori informazioni, rivolgersi al
+rappresentante Cook di zona.
+
+                                                               NEDERLANDS
+
+VOERDRADEN MET EEN VASTE KERN
+LET OP: Volgens de federale wetgeving van de Verenigde Staten mag dit
+hulpmiddel uitsluitend worden aangekocht door of in opdracht van een
+arts (of een zorgverlener met de juiste bevoegdheid).
+
+BESCHRIJVING VAN HET HULPMIDDEL
+Voerdraden met een vaste kern worden gemaakt met een roestvrijstalen
+inwendige mandrijn en een roestvrijstalen uitwendige coil. Ze zijn verkrijgbaar
+in diverse diameters, lengtes en tipconfiguraties. Sommige hulpmiddelen
+worden geleverd met een groene PTFE-coating om coaxiaal gebruik met
+andere hulpmiddelen te vergemakkelijken. Zie het productetiket voor de
+productspecificaties.
+
+BEOOGD GEBRUIK
+Voerdraden met een vaste kern zijn bedoeld om de plaatsing van
+hulpmiddelen tijdens diagnostische en interventionele procedures te
+vergemakkelijken.
+
+CONTRA-INDICATIES
+Geen, voor zover bekend
+
+WAARSCHUWINGEN
+ • Dit product is niet bestemd voor gebruik in de coronaire arteriën.
+ • Dit product is een kwetsbaar instrument. Het mag niet met kracht worden
+   omgebogen.
+ • Vermijd manoeuvreren of terugtrekken van de voerdraad door een
+   metalen naald of canule. Door contact met een scherpe rand kan er
+   materiaal van de voerdraad worden geschraapt of gesneden.
+ • Als de configuratie of de kromming van de tip met de hand wordt
+   gewijzigd, kan de voerdraad beschadigd raken.
+
+VOORZORGSMAATREGELEN
+ • Dit product dient voor gebruik door artsen met een opleiding in
+   en ervaring met diagnostische en interventionele technieken. Er
+   dienen standaardtechnieken voor het plaatsen van hulpmiddelen bij
+   angiografische procedures te worden toegepast.
+
+                                         17
+ • Oefen geen torsiekracht uit op de voerdraad.
+ • Maak bij het manoeuvreren van de voerdraad gebruik van medische
+   beeldvorming. De voerdraad niet opvoeren of manoeuvreren zonder
+   visueel bewijs van overeenkomstige beweging van de distale tip.
+ • Wanneer u de voerdraad met een ander hulpmiddel gebruikt, houdt dan
+   rekening met de eindopeningmaat en de lengte van dat hulpmiddel om
+   ervoor te zorgen dat de voerdraad en het hulpmiddel goed op elkaar zijn
+   afgestemd.
+ • Een voerdraad mag niet worden opgevoerd of teruggetrokken wanneer
+   weerstand wordt ondervonden, omdat dat tot perforatie kan leiden.
+ • Breng altijd het flexibele uiteinde als eerste in. Inbrengen met het stijve
+   uiteinde eerst kan beschadiging van het weefsel of het hulpmiddel
+   veroorzaken.
+ • Inspecteer de voerdraad vóór gebruik op knikken en beschadiging.
+
+GEBRUIKSAANWIJZING
+ 1. Spoel de voerdraadhouder door, door een spuit met gehepariniseerde
+    zoutoplossing of steriel water op de fitting van de voerdraadhouder te
+    bevestigen. Injecteer voldoende oplossing om het gehele oppervlak van
+    de voerdraad nat te maken.
+    NB: Als doorspoelen van de voerdraadhouder niet mogelijk is,
+    haal de voerdraad dan uit de houder en leg hem in een kom met
+    gehepariniseerde zoutoplossing of steriel water, of maak het
+    voerdraadoppervlak over de gehele lengte nat met een gaasje
+    bevochtigd met gehepariniseerde zoutoplossing.
+ 2. Haal de voerdraad voorzichtig uit de houder.
+ 3. Plaats zo nodig een voerdraadintroductie-instrument (meegeleverd)
+    door het klepsysteem of aanzetstuk van de geleidesheath of een ander
+    interventioneel instrument. Breng de tip van de voerdraad in via het
+    introductie-instrument.
+ 4. Nu kunnen standaard voerdraadtechnieken worden toegepast.
+
+WIJZE VAN LEVERING
+Wordt steriel (gesteriliseerd met ethyleenoxide) geleverd in gemakkelijk open
+te trekken verpakkingen. Bestemd voor eenmalig gebruik. Steriel indien de
+verpakking ongeopend en onbeschadigd is. Gebruik het product niet als
+er twijfel bestaat over de steriliteit van het product. Donker, droog en koel
+bewaren. Vermijd langdurige blootstelling aan licht. Inspecteer het product
+nadat het uit de verpakking is genomen om er zeker van te zijn dat het niet
+beschadigd is.
+
+LITERATUUR
+Deze gebruiksaanwijzing is gebaseerd op de ervaringen van artsen en/of
+door hen gepubliceerde literatuur. Neem contact op met uw plaatselijke
+vertegenwoordiger van Cook voor meer informatie.
+
+
+
+
+                                      18
+                                                                          NORSK
+
+LEDEVAIERE MED FAST KJERNE
+FORSIKTIG: I henhold til amerikansk lovgivning skal denne anordningen
+bare selges av eller foreskrives av en lege (eller en autorisert behandler).
+
+BESKRIVELSE AV ANORDNINGEN
+Ledevaiere med fast kjerne er laget med en innvendig mandreng i rustfritt
+stål og en utvendig spiral i rustfritt stål. De er tilgjengelige i ulike diametere,
+lengder og spisskonfigurasjoner. Enkelte anordninger leveres med et
+grønt PTFE-belegg for å lette koaksial bruk med andre anordninger. Se
+produktetiketten for produktspesifikasjoner.
+
+TILTENKT BRUK
+Ledevaiere med fast kjerne er tiltenkt brukt til å gjøre det lettere å plassere
+anordninger under diagnostiske og intervensjonelle prosedyrer.
+
+KONTRAINDIKASJONER
+Ingen kjente
+
+ADVARSLER
+ • Dette produktet er ikke beregnet for bruk i koronararteriene.
+ • Dette produktet er et ømfintlig instrument. Unngå vinkling med tvang.
+ • Unngå manipulering eller uttrekking av ledevaieren tilbake gjennom en
+   metallnål eller -kanyle. En skarp kant kan skrape eller rive av materiale fra
+   ledevaieren.
+ • Manuell endring av spissens konfigurasjon eller kurve kan skade
+   ledevaieren.
+
+FORHOLDSREGLER
+ • Dette produktet er beregnet til bruk av leger som er opplært og har
+   erfaring i diagnostiske og intervensjonelle teknikker. Standardteknikker for
+   plassering av anordninger i angiografiske prosedyrer skal anvendes.
+ • Ikke forsøk å vri ledevaieren.
+ • Bruk medisinsk avbildning når ledevaieren manipuleres. Ikke før frem eller
+   manipuler ledevaieren uten synlig bevis for tilsvarende bevegelse av den
+   distale spissen.
+ • Når ledevaieren brukes med en annen anordning, skal endehullets
+   størrelse og anordningens lengde vurderes for å sikre riktig tilpasning
+   mellom ledevaieren og anordningen.
+ • Ikke før frem eller trekk tilbake en ledevaier når det møtes motstand, da
+   det kan oppstå perforasjon.
+ • Bruk kun den fleksible enden som første innsatte ende. Hvis den settes inn
+   fra den rigide enden, kan det oppstå skade på vev eller anordningen.
+ • Inspiser ledevaieren med henblikk på knekk eller skade før bruk.
+
+BRUKSANVISNING
+ 1. Skyll ledevaierens holder ved å feste en sprøyte med heparinisert
+    saltløsning eller sterilt vann mot tilpasningen på ledevaierens holder.
+    Injiser nok løsning til å fukte overflaten på ledevaieren fullstendig.
+
+                                         19
+    MERK: Hvis det ikke er mulig å skylle gjennom ledevaierens holder,
+    fjern ledevaieren fra holderen og legg den i en skål med heparinisert
+    saltløsning eller sterilt vann, eller fukt overflaten langs hele ledevaierens
+    lengde ved bruk av gas fuktet med heparinisert saltløsning.
+ 2. Fjern ledevaieren forsiktig fra holderen.
+ 3. Hvis nødvendig, før et innføringsverktøy for ledevaier (medfølger) gjennom
+    ventilenheten eller muffen på ledehylsen eller en annen intervensjonell
+    anordning. Sett inn spissen på ledevaieren gjennom innføringsverktøyet.
+ 4. Standard ledevaierteknikker kan nå benyttes.
+
+LEVERINGSFORM
+Leveres sterilisert med etylenoksidgass i peel-open-innpakninger. Beregnet
+for engangsbruk. Steril hvis pakningen er uåpnet og uskadet. Bruk ikke
+produktet hvis du er i tvil om det er sterilt. Oppbevares på et mørkt, tørt og
+kjølig sted. Må ikke utsettes for lys i lengre perioder. Kontroller produktet ved
+utpakkingen for å forsikre deg om at det ikke er skadet.
+
+REFERANSER
+Denne bruksanvisningen er basert på legers erfaring og (eller) deres
+publiserte litteratur. Kontakt din lokale salgsrepresentant for Cook for
+nærmere informasjon.
+
+POLSKI
+
+PROWADNIKI Z NIERUCHOMYM RDZENIEM
+PRZESTROGA: Zgodnie z prawem federalnym Stanów Zjednoczonych
+sprzedaż opisywanego urządzenia może być prowadzona wyłącznie przez
+lekarza lub na zlecenie lekarza (bądź uprawnionej osoby posiadającej
+odpowiednie zezwolenie).
+
+OPIS URZĄDZENIA
+Prowadniki z nieruchomym rdzeniem są wykonane z mandrynu
+wewnętrznego ze stali nierdzewnej i spirali zewnętrznej ze stali nierdzewnej.
+Są dostępne w różnych średnicach, długościach i konfiguracjach końcówek.
+Niektóre urządzenia są dostarczane z zieloną powłoką PTFE ułatwiającą
+koncentryczne stosowanie z innymi urządzeniami. Parametry techniczne
+produktu są podane na etykiecie produktu.
+
+PRZEZNACZENIE
+Prowadniki z nieruchomym rdzeniem ułatwiają umieszczanie urządzeń
+podczas zabiegów diagnostycznych i interwencyjnych.
+
+PRZECIWWSKAZANIA
+Brak znanych
+
+OSTRZEŻENIA
+ • Ten produkt nie jest przeznaczony do stosowania w tętnicach wieńcowych.
+ • Ten produkt jest delikatnym narzędziem. Należy unikać wyginania go
+   na siłę.
+ • Należy unikać manipulowania prowadnikiem lub wycofywania go przez
+   metalową igłę lub kaniulę. Ostra krawędź może zadrapać lub przeciąć
+   materiał prowadnika.
+                                      20
+ • Ręczna zmiana konfiguracji lub zakrzywienia końcówki może doprowadzić
+   do uszkodzenia prowadnika.
+
+ŚRODKI OSTROŻNOŚCI
+ • Ten produkt jest przeznaczony do stosowania przez lekarzy przeszkolonych
+   i mających doświadczenie w zakresie technik diagnostycznych
+   i interwencyjnych. Należy stosować standardowe metody umieszczania
+   urządzeń podczas zabiegów angiograficznych.
+ • Nie wolno obracać prowadnika.
+ • Podczas manipulowania prowadnikiem należy korzystać z obrazowania
+   medycznego. Nie wolno wprowadzać prowadnika ani nim manipulować
+   bez wzrokowego potwierdzenia stosownego ruchu końcówki dystalnej.
+ • Jeśli prowadnik jest używany z innym urządzeniem, wówczas należy
+   wziąć pod uwagę rozmiar otworu końcowego i długość urządzenia, aby
+   zapewnić właściwe dopasowanie między prowadnikiem a urządzeniem.
+ • Nie wolno wprowadzać ani wycofywać prowadnika w przypadku
+   napotkania oporu, ponieważ może to spowodować perforację.
+ • Najpierw należy wprowadzić końcówkę giętką. Wprowadzanie końcówki
+   sztywnej może spowodować uszkodzenie tkanki lub urządzenia.
+ • Przed użyciem prowadnik należy sprawdzić pod kątem zapętleń
+   i uszkodzeń.
+
+INSTRUKCJA UŻYCIA
+ 1. Przepłukać oprawkę prowadnika, podłączając strzykawkę napełnioną
+    heparynizowaną solą fizjologiczną lub wodą jałową do łącznika oprawki
+    prowadnika. Wstrzyknąć odpowiednią ilość roztworu, aby nawilżyć
+    całkowicie powierzchnię prowadnika.
+    UWAGA: Jeśli przepłukiwanie przez oprawkę prowadnika nie jest
+    możliwe, wówczas należy wyjąć prowadnik z oprawki i umieścić go
+    w zbiorniku napełnionym heparynizowaną solą fizjologiczną lub wodą
+    jałową, albo nawilżyć powierzchnię prowadnika na całej długości,
+    wycierając ją gazą nasączoną roztworem heparynizowanej soli
+    fizjologicznej.
+ 2. Ostrożnie wyjąć prowadnik z oprawki.
+ 3. W razie potrzeby wprowadzić narzędzie do wprowadzania prowadnika
+    (dostarczone) przez zespół zastawki lub złączkę koszulki prowadzącej lub
+    innego urządzenia interwencyjnego. Wprowadzić końcówkę prowadnika
+    przez narzędzie do wprowadzania.
+ 4. Można teraz zastosować standardowe metody w celu umieszczenia
+    prowadnika.
+
+POSTAĆ W CHWILI DOSTARCZENIA
+Produkt sterylizowany gazowym tlenkiem etylenu; dostarczany
+w rozrywalnych opakowaniach. Produkt jest przeznaczony do jednorazowego
+użycia. Sterylny, jeśli opakowanie nie zostało otwarte ani uszkodzone. Jeśli
+sterylność budzi wątpliwości, nie należy używać produktu. Przechowywać
+w ciemnym, suchym i chłodnym miejscu. Unikać przedłużonej ekspozycji na
+światło. Produkt należy sprawdzić zaraz po wyjęciu z opakowania, aby się
+upewnić, że nie został uszkodzony.
+
+
+
+
+                                     21
+PIŚMIENNICTWO
+Niniejszą instrukcję użycia opracowano na podstawie doświadczeń lekarzy
+i (lub) ich publikacji. Bliższe informacje można uzyskać od lokalnego
+przedstawiciela firmy Cook.
+
+PORTUGUÊS
+
+FIOS GUIA COM PARTE CENTRAL FIXA
+ATENÇÃO: A lei federal dos EUA restringe a venda deste dispositivo por
+um médico ou mediante prescrição médica (ou um profissional de saúde
+devidamente credenciado).
+
+DESCRIÇÃO DO DISPOSITIVO
+Os fios guia com parte central fixa são compostos por um mandril interno em
+aço inoxidável e uma espiral externa em aço inoxidável. São disponibilizados
+em diversos diâmetros, comprimentos e configurações da ponta. Alguns
+dispositivos são fornecidos com um revestimento de PTFE verde para facilitar
+a utilização coaxial com outros dispositivos. Consulte as especificações do
+produto no rótulo correspondente.
+
+UTILIZAÇÃO PREVISTA
+Os fios guia com parte central fixa destinam-se a facilitar a colocação de
+dispositivos durante procedimentos de diagnóstico e intervenção.
+
+CONTRAINDICAÇÕES
+Não são conhecidas
+
+ADVERTÊNCIAS
+ • Este produto não se destina a utilização em artérias coronárias.
+ • Este produto é um instrumento delicado. Evite angulações forçadas.
+ • Evite manusear ou recuar o fio guia através de uma cânula ou agulha de
+   metal. Um bordo afiado poderá raspar ou rasgar material do fio guia.
+ • A alteração manual da curva ou da configuração da ponta poderá danificar
+   o fio guia.
+
+PRECAUÇÕES
+ • Este produto destina-se a ser utilizado por médicos experientes e com
+   formação em técnicas de diagnóstico e intervenção. Devem empregar-
+   se técnicas padrão de colocação de dispositivos em procedimentos
+   angiográficos.
+ • Não tente proceder à torção do fio guia.
+ • Utilize uma técnica imagiológica médica quando manipular o fio guia. Não
+   faça avançar nem manipule o fio guia sem evidência visual de movimento
+   correspondente da ponta distal.
+ • Quando utilizar o fio guia com outro dispositivo, considere as dimensões
+   do orifício terminal e o comprimento do dispositivo para garantir um
+   ajuste adequado entre o fio guia e o dispositivo.
+ • Não faça avançar nem recuar um fio guia quando sentir resistência, pois
+   poderá ocorrer perfuração.
+
+
+                                       22
+ • Insira apenas a extremidade flexível primeiro. A inserção a partir da
+   extremidade rígida pode danificar os tecidos ou o dispositivo.
+ • Inspecione o fio guia antes da utilização, verificando se está dobrado ou
+   danificado.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+ 1. Irrigue o suporte do fio guia, ligando uma seringa com soro fisiológico
+    heparinizado ou água estéril ao encaixe do suporte do fio guia. Injete
+    solução suficiente para molhar toda a superfície do fio guia.
+    NOTA: Se a irrigação através do suporte do fio guia não for possível, retire
+    o fio guia do suporte e coloque-o num recipiente de soro fisiológico
+    heparinizado ou água estéril, ou humedeça a superfície do fio guia em
+    toda a sua extensão, utilizando uma compressa humedecida com soro
+    fisiológico heparinizado.
+ 2. Retire cuidadosamente o fio guia do suporte.
+ 3. Se necessário, introduza uma ferramenta de introdução de fio guia
+    (fornecida) através do conjunto da válvula ou do conector da bainha guia
+    ou de outro dispositivo de intervenção. Introduza a ponta do fio guia
+    através da ferramenta de introdução.
+ 4. Podem agora ser aplicadas técnicas para fio guia padrão.
+
+APRESENTAÇÃO
+Fornecido esterilizado por gás óxido de etileno em embalagens de abertura
+fácil. Destina-se a uma única utilização. Estéril desde que a embalagem não
+esteja aberta nem danificada. Se tiver alguma dúvida quanto à esterilidade do
+produto, não o utilize. Guardar num local protegido da luz, seco e fresco. Evitar
+a exposição prolongada à luz. Depois de retirar o produto da embalagem,
+inspecione-o para se certificar de que não ocorreram danos.
+
+REFERÊNCIAS
+Estas instruções de utilização baseiam-se na experiência de médicos e/ou na
+literatura publicada por médicos. Consulte o representante de vendas local da
+Cook para obter mais informações.
+
+                                                                  SVENSKA
+
+LEDARE MED FAST KÄRNA
+VAR FÖRSIKTIG: Enligt federal lagstiftning i USA får denna produkt
+endast säljas av eller på ordination från en läkare (eller korrekt
+legitimerad praktiker).
+
+BESKRIVNING AV APPARATEN
+Ledare med fast kärna är tillverkade med en innermandräng och en
+ytterspiral av rostfritt stål. De finns i flera olika diametrar, längder och
+spetskonfigurationer. Vissa enheter levereras med en grön PTFE-beläggning
+för att underlätta koaxial användning med andra enheter. Se produktetiketten
+för produktspecifikationer.
+
+
+
+
+                                       23
+AVSEDD ANVÄNDNING
+Ledarna med fast kärna är avsedda för att underlätta placeringen av enheter
+under diagnostiska och interventionella ingrepp.
+
+KONTRAINDIKATIONER
+Inga kända
+
+VARNINGAR
+ • Denna produkt är inte avsedd för användning i koronarartärer.
+ • Produkten är ett ömtåligt instrument. Undvik kraftfull vinkling.
+ • Manipulera eller dra inte tillbaka ledaren genom en metallnål eller kanyl.
+   En vass kant kan skrapa eller skära av material från ledaren.
+ • Att ändra spetskonfigurationen eller spetsens böjning manuellt kan skada
+   ledaren.
+
+VAR FÖRSIKTIG!
+ • Denna enhet är avsedd att användas av läkare med utbildning i och
+   erfarenhet av diagnostiska och interventionella tekniker. Standardtekniker
+   för placering av enheter vid angiografiska ingrepp ska tillämpas.
+ • Försök inte att vrida ledaren.
+ • Använd bilddiagnostik när du manipulerar ledaren. Ledaren får inte föras
+   fram eller manipuleras utan visuellt belägg för motsvarande rörelse av den
+   distala spetsen.
+ • När ledaren används med en annan enhet, ska ändhålens storlek och
+   längden på enheten beaktas, för att säkerställa lämplig passform mellan
+   ledaren och enheten.
+ • Ledaren får inte föras fram eller dras tillbaka om motstånd uppstår,
+   eftersom det skulle kunna orsaka perforation.
+ • Du bör endast föra in den böjliga änden först. Att föra in den från den
+   styva änden kan orsaka skada på vävnad eller på enheten.
+ • Kontrollera ledaren så att den inte är böjd eller skadad före användning.
+
+BRUKSANVISNING
+ 1. Spola igenom ledarhållaren genom att ansluta en spruta med
+    hepariniserad koksaltlösning eller sterilt vatten till kopplingen på
+    ledarhållaren. Injicera tillräckligt med lösning för att helt fukta ledarens yta.
+    OBS! Om spolning genom ledarhållaren inte är möjlig, avlägsna ledaren
+    från hållaren och placera den i en skål med hepariniserad koksaltlösning
+    eller sterilt vatten, eller fukta ledarens yta över dess hela längd genom att
+    använda en gaskompress fuktad med hepariniserad koksaltlösning.
+ 2. Avlägsna försiktigt ledaren från hållaren.
+ 3. För vid behov in ett ledarinföringsverktyg (medföljer) genom
+    ventilenheten eller fattningen på styrhylsan eller annan interventionell
+    anordning. För in ledarens spets genom införingsverktyget.
+ 4. Standardledartekniker kan nu tillämpas.
+
+
+
+
+                                        24
+LEVERANSSÄTT
+Levereras i etylenoxidgassteriliserade ”peel-open”-förpackningar. Endast
+avsedd för engångsbruk. Steril såvida förpackningen är oöppnad och oskadad.
+Använd inte produkten om det är tveksamt att produkten är steril. Förvaras
+mörkt, torrt och svalt. Undvik långvarig exponering för ljus. Inspektera
+produkten vid uppackningen för att säkerställa att den inte är skadad.
+
+REFERENSER
+Denna bruksanvisning är baserad på erfarenheter från läkare och (eller) deras
+publicerade litteratur. Vänd dig till din lokala Cook-återförsäljare för mer
+information.
+
+
+
+
+                                     25
+                          A symbol glossary can be found at
+                          cookmedical.com/symbol-glossary
+                                 Glosář symbolů naleznete na
+                          cookmedical.com/symbol-glossary
+                           Der findes en symbolforklaring på
+                          cookmedical.com/symbol-glossary
+                          Eine Symbollegende finden Sie auf
+                          cookmedical.com/symbol-glossary
+       Ένα γλωσσάρι των συμβόλων μπορείτε να βρείτε στη
+              διεύθυνση cookmedical.com/symbol-glossary
+   En cookmedical.com/symbol-glossary puede consultarse
+                                      un glosario de símbolos
+       Pour un glossaire des symboles, consulter le site Web
+                          cookmedical.com/symbol-glossary
+             A szimbólumok magyarázatának ismertetése a
+   cookmedical.com/symbol-glossary weboldalon található
+             Un glossario dei simboli si può trovare nel sito
+                          cookmedical.com/symbol-glossary
+         Een verklarende lijst van symbolen is te vinden op
+                          cookmedical.com/symbol-glossary
+                               En symbolforklaring finnes på
+                          cookmedical.com/symbol-glossary
+              Słownik symboli można znaleźć pod adresem
+                  https://cookmedical.com/symbol-glossary
+                         Existe um glossário de símbolos em
+                          cookmedical.com/symbol-glossary
+                                   En symbolordlista finns på
+                          cookmedical.com/symbol-glossary
+
+
+
+
+Manufacturer                                  EC Representative
+COOK INCORPORATED                         Cook Medical Europe Ltd
+750 Daniels Way                                    O’Halloran Road
+Bloomington, IN 47404 U.S.A.              National Technology Park
+                                                   Limerick, Ireland
+
+www.cookmedical.com                                      2021-07
+© COOK 2021                                         T_FCWG_REV2
+

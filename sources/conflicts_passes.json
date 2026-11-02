@@ -71,5 +71,55 @@
   "hold": "1",
   "existing": "GWBC30: preformed 360\u00b0 curved tip",
   "existing_source": "FDA 510(k) K181001 summary (Medtronic Confida Brecker Guidewire, cleared May 3, 2018) p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181001.pdf"
+ },
+ {
+  "pass": "passSH17",
+  "model": "Navitor",
+  "field": "access_routes",
+  "value": "Transfemoral; subclavian/axillary; transaortic",
+  "source": "Abbott Navitor TAVI System US IFU ARTEN600249797_C (eIFU US/en, effective 2026-04-22; covers NVRO-35 Navitor Titan; 'USA only: Federal law' caution p.65) p.6; https://manuals.eifu.abbott/content/dam/av/manuals-eifu/global/US/en/ARTEN600249797_C.PDF",
+  "hold": "1",
+  "existing": "Transfemoral; subclavian/axillary",
+  "existing_source": "Abbott Navitor TAVI System IFU ARTMT600163776_B (IFU) p.4\u20135; https://manuals.eifu.abbott/content/dam/av/manuals-eifu/global/IS/en/ARTMT600163776_B.PDF"
+ },
+ {
+  "pass": "passSH17",
+  "model": "Navitor",
+  "field": "approval_indications",
+  "value": "US PMA P190023. Symptomatic severe native calcific aortic stenosis, heart-team judged high or greater surgical risk (STS PROM \u22658% at 30 days)",
+  "source": "Abbott Navitor TAVI System US IFU ARTEN600249797_C (eIFU US/en, effective 2026-04-22; covers NVRO-35 Navitor Titan; 'USA only: Federal law' caution p.65) p.8\u20139; https://manuals.eifu.abbott/content/dam/av/manuals-eifu/global/US/en/ARTEN600249797_C.PDF",
+  "hold": "1",
+  "existing": "US PMA P190023. Symptomatic severe native aortic stenosis, high or extreme surgical risk",
+  "existing_source": "Abbott Navitor TAVI System IFU ARTMT600163776_B (IFU) p.5; https://manuals.eifu.abbott/content/dam/av/manuals-eifu/global/IS/en/ARTMT600163776_B.PDF"
+ },
+ {
+  "pass": "passSH17",
+  "model": "Agilis NxT",
+  "field": "deflection",
+  "value": "408309, 408310, G408318\u2013G408321, G408324: bi-directional, clockwise \u2265180\u00b0 / counterclockwise \u226590\u00b0",
+  "source": "Abbott Agilis NxT Steerable Introducer US IFU ARTMT600354396_A (eIFU US/en, 2025-04-01; covers 408309, 408310, G408318\u2013G408321, G408324; CAUTION: Federal (USA) law p.2) p.3; https://manuals.eifu.abbott/content/dam/av/manuals-eifu/global/US/en/ARTMT600354396_A.pdf",
+  "hold": "1",
+  "existing": "Dual-Reach bi-directional (all 8.5 F curls); do not deflect beyond 180\u00b0 before catheter insertion",
+  "existing_source": "Abbott US HCP pages 'Agilis NxT Ordering Information' (curve type) + 'Indications, Safety & Warnings' (precautions) p.n/a (web page); https://www.cardiovascular.abbott/us/en/hcp/products/electrophysiology/access-introducers/agilis-nxt/ordering-information.html ; https://www.cardiovascular.abbott/us/en/hcp/products/electrophysiology/access-introducers/agilis-nxt/indications-safety-warnings.html"
+ },
+ {
+  "pass": "passSH17",
+  "model": "PASCAL Precision (PASCAL implant)",
+  "field": "approval_indications",
+  "value": "FLAG: Edwards announced US FDA approval of PASCAL Precision for T-TEER (symptomatic severe TR, \u2265intermediate surgical risk) on 2026-10-21; US tricuspid labeling not yet posted \u2014 existing \"No US tricuspid indication found\" may be outdated",
+  "source": "TCTMD news 2026-10-21 (citing Edwards press release) p.n/a (web page); https://www.tctmd.com/news/fda-green-lights-pascal-system-tricuspid-valve-repair",
+  "hold": "1",
+  "existing": "US PMA P220003 (2022). Significant symptomatic degenerative MR at prohibitive surgical risk. No US tricuspid indication found",
+  "existing_source": "FDA SSED P220003 PASCAL Precision System (SSED) p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf22/P220003B.pdf"
+ },
+ {
+  "pass": "passSH17",
+  "model": "PASCAL Precision (PASCAL Ace implant)",
+  "field": "approval_indications",
+  "value": "FLAG: Edwards announced US FDA approval of PASCAL Precision for T-TEER on 2026-10-21 and FDA clearance of PASCAL Ace with Capture Clarity for M-TEER; US labeling not yet posted",
+  "source": "TCTMD news 2026-10-21 (citing Edwards press release) p.n/a (web page); https://www.tctmd.com/news/fda-green-lights-pascal-system-tricuspid-valve-repair",
+  "hold": "1",
+  "existing": "US PMA P220003 (2022). Significant symptomatic degenerative MR at prohibitive surgical risk. No US tricuspid indication found",
+  "existing_source": "FDA SSED P220003 PASCAL Precision System (SSED) p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf22/P220003B.pdf"
  }
 ]

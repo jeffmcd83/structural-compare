@@ -74,3 +74,20 @@ Gaps / declined:
 - BRK needle_curves: IFU and GUDID (OD 1.3 mm, 71/89/98 cm; BRK / BRK-1 / XS variants) give no curve geometry → blank.
 - Agilis NxT Dual-Reach SI-1371-S/-M/-L: US-cleared K243493 (2024-12-13), GUDID in commercial distribution, 13 Fr, 71 cm (product code DYB). Only IFU found is OUS (ARTMT600338988_B) → candidate new row, not added (no US IFU for curves/ID/deflection).
 - Safari exact model, Amplatz Extra Stiff, TRUE nominal/RBP, Z-MED II, Sentrant/DrySeal ID/OD, VersaCross Access Solution, WATCHMAN access sheath curves, PASCAL guide/grasping: not re-attempted this pass (no new sources beyond SH14 searches).
+
+## Pass SH17 — gap fill (2026-11-02, /preview/ only, tag preview-passsh17). 21 values applied, 5 new conflicts (hold=1). Backup structural-specs-verified.pre-passSH17.csv. Overall 84.6% (478/565) → 87.7% (505/576; new row adds 11 cells) (TAVI valve 91→97%, Valve wire 62→73%, Steerable guide/sheath 64→76%, Mitral TEER 82→86%).
+Filled (sources/passSH17/values.csv, docs in sources/passSH17/docs/; page numbers are PDF pages):
+- Navitor Titan NVRO-35 (commercial US IFU ARTEN600249797_C, eIFU US/en, effective 2026-04-22; 'USA only: Federal law' p.65): expansion type, frame, leaflet tissue, NaviSeal skirt (p.6), delivery system FNAV-DS-LG + NVTR-LS-LG+ (Table 1 p.5, Table 3 p.6), delivery profile 15F equiv / 6.3 mm / ≥5.5 mm vessel (Table 3 p.6), sheath compat integrated or 19F introducer (pp.6–7, p.18), access TF / subclavian-axillary / transaortic (p.6), indication high-or-greater risk STS ≥8% (pp.8–9); annulus value re-sourced to US IFU Table 2 p.6 (same value).
+- Agilis NxT (US IFU ARTMT600354396_A, pp.3–4): compatible devices, prefixed with the 7 catalog numbers the IFU covers.
+- NEW ROW Agilis NxT Dual-Reach SI-1371-S/-M/-L (fam.py; GUDID SH_Agilis brand "Dual-Reach"; K241370/K243493; US IFU ARTEN600341730_B, Federal (USA) caution p.2): deflection CW ≥180°/CCW ≥90° (p.3), ID 13 F, 17.5 F OD requirement, 0.035" wire (pp.3–5), compatible devices BRK needle / Abbott dilators (pp.3–5). Curves blank (not in IFU).
+- PASCAL Precision (PASCAL implant / PASCAL Ace implant): independent grasping = Yes (FDA-posted US labeling P220003D p.8, clasp lock Fig. 4 p.34).
+- Amplatz Extra Stiff (Cook US IFU T_FCWG_REV2 p.3 via US IFU finder + Cook US product page spec table): core, coating, tip config, stiffness tier, use — all prefixed THSF-/THSCF-…-AES (other GUDID SKUs e.g. AES-0xx, -BH, other J radii not covered).
+Conflicts (held, hold=1, existing values kept):
+- Navitor (23–29) access_routes: US IFU adds transaortic (p.6) vs existing OUS-IFU value "Transfemoral; subclavian/axillary".
+- Navitor (23–29) approval_indications: US IFU says "high or greater risk (STS ≥8%)" (pp.8–9) vs existing "high or extreme surgical risk" (OUS IFU).
+- Agilis NxT deflection: US IFU "CW ≥180° / CCW ≥90°" (p.3) vs existing web-page value.
+- PASCAL implant + PASCAL Ace approval_indications: FLAG — TCTMD (2026-10-21, citing Edwards) reports US FDA approval of PASCAL for T-TEER and clearance of PASCAL Ace with Capture Clarity; US tricuspid labeling not yet posted, so "No US tricuspid indication found" may be stale. No rows added.
+Declined:
+- PASCAL guide_size_fr: 22 Fr appears only in OUS Edwards eIFUs (DOC-0256159A/0244848A/0252962A/0215214A); US P220003D gives no French size.
+- New US approvals since 2026-10-29: openFDA PMA data ends 2026-10-16 and 510(k) 2026-10-18 → window not checkable there; web search found nothing beyond PASCAL items above.
+- Not attempted: Safari H74939271/272, TRUE, Z-MED II, Sentrant/DrySeal ID/OD, VersaCross, WATCHMAN curves, Perclose range, SAPIEN delivery profiles, Trilogy skirt, Confida stiffness.

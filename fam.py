@@ -113,6 +113,7 @@ SH={
 "VersaCross Access Solution":("SH_VersaCross",r"^VersaCross(™)? Access Solution$",None,None,"Transseptal access"),
 "VersaCross Steerable Access Solution":("SH_VersaCross",r"^VersaCross(™)? Steerable Access Solution$",None,None,"Steerable guide/sheath"),
 "Agilis NxT":("SH_Agilis",r"^Agilis™( NxT)?$",r"NxT|Steerable Introducer",None,"Steerable guide/sheath"),
+"Agilis NxT Dual-Reach":("SH_Agilis",r"Dual-Reach",None,None,"Steerable guide/sheath"),
 "SAPIEN M3":("SH_SAPIEN_M3",r"^SAPIEN M3",None,None,"TMVR valve"),
 "EVOQUE":("SH_EVOQUE",r"EVOQUE",None,None,"TTVR valve"),
 "WATCHMAN FLX":("SH_WATCHMAN",r"^WATCHMAN FLX™$",None,None,"LAAO device"),

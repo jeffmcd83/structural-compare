@@ -1,0 +1,664 @@
+Agilis™ NxT Steerable Introducer
+Dual‑Reach™
+
+     SI-1371-S, SI-1371-M, SI-1371-L
+
+Instructions for Use
+CAUTION: Federal (USA) law restricts this device to sale by or on the order of a physician.
+
+
+       WARNING: This product can expose you to chemicals including ethylene oxide,
+which is known to the State of California to cause cancer and birth defects or other
+reproductive harm. For more information, go to www.P65Warnings.ca.gov.
+™ Indicates a trademark of the Abbott group of companies.
+‡ Indicates a third-party trademark, which is property of its respective owner.
+Pat. http://www.abbott.com/patents
+© 2024 Abbott. All Rights Reserved.
+EN: English
+Instructions for Use
+
+Description
+The Agilis™ NxT Steerable Introducer Dual-Reach™ set consists of a dilator
+and steerable introducer, which is designed to provide flexible catheter
+positioning in the cardiac anatomy. The inner diameter of the steerable
+introducer is 13 F. The steerable introducer includes a hemostasis valve to
+minimize blood loss during catheter introduction and/or exchange. It has a
+sideport with three-way stopcock for air or blood aspiration, fluid infusion,
+blood sampling, and pressure monitoring. The handle is equipped with a
+rotating collar to deflect the tip clockwise ≥180° and counterclockwise ≥90°.
+Actual curve angles will vary. The steerable introducer features distal vent
+holes to facilitate aspiration and minimize cavitation and a radiopaque tip
+marker to improve fluoroscopic visualization.
+
+Indications for Use
+The Agilis™ NxT Steerable Introducer Dual-Reach™ is indicated for the
+introduction of various cardiovascular catheters into the heart, including the
+left side of the heart, during the treatment of cardiac arrhythmias.
+
+Intended Purpose
+The Agilis™ NxT Steerable Introducer Dual-Reach™ is intended to introduce
+various cardiovascular catheters into the heart, including the left side of the
+heart through the interatrial septum.
+
+Patient Target Group
+The Agilis™ NxT Steerable Introducer Dual‑Reach™ is for patients requiring
+placement of catheters in the cardiac anatomy, including transseptal access,
+who have a vascular anatomy compatible with introducers that have an
+outer diameter of 17.5 F.
+
+Intended User
+The Agilis™ NxT Steerable Introducer Dual-Reach™ is for use by clinicians
+who are specially trained in percutaneous and transseptal access as well as
+electrophysiology (EP) procedures.
+
+Clinical Benefits
+The intended clinical benefit of the Agilis™ NxT Steerable
+Introducer Dual-Reach™ is to facilitate introduction of various cardiovascular
+devices into the heart, including the left side of the heart through the
+interatrial septum as measured by successful introduction of the device.
+
+Contraindications
+The Agilis™ NxT Steerable Introducer Dual-Reach™ is contraindicated for:
+ ▪ Previous interatrial septal patch.
+ ▪ Known or suspected atrial myxoma.
+ ▪ Acute myocardial infarction.
+ ▪ Unstable angina.
+ ▪ Recent cerebral vascular accident (CVA).
+ ▪ Patients who do not tolerate anticoagulation therapy.
+ ▪ Patients with an active infection.
+ ▪ Presence of an intracardiac thrombus.
+
+Warnings
+ ▪ Do not alter this device in any way.
+ ▪ This device must be used by board-certified electrophysiologists, or EP
+    fellows in training, in a fully-equipped operational EP laboratory.
+ ▪ This device is intended for one time use only; do not reprocess or reuse
+   it. Note the product “Use by” date on the package. Any attempt to re-
+   sterilize and reuse this system may compromise its integrity. Adverse
+   effects of using nonsterile components may include, but are not limited
+   to:
+   – Local or systemic infection or reaction
+   – Mechanical damage
+   – Inaccurate functionality
+ ▪ Always aspirate, insert and withdraw components, and exchange
+   catheters slowly to minimize the risk of air emboli.
+ ▪ Aspirate all air before fluid infusion from the sideport.
+ ▪ Provide continuous heparinized saline infusion while the introducer
+   remains in the vessel.
+ ▪ Fibrin may accumulate in or on the introducer tip during the procedure.
+   To prevent dislodgement of potential thrombus, aspirate when removing
+   dilator or catheter.
+ ▪ Before removing the steerable introducer, reinsert the guidewire
+   through the introducer, reintroduce the dilator over the guidewire,
+   straighten the steerable introducer, then remove the dilator, guidewire,
+   and introducer as a unit.
+ ▪ Maximum in-vivo time: 7 hours.
+ ▪ Read the IFU carefully before using this device to help reduce the
+   potential risks and complications associated with the transseptal
+   technique, such as air emboli and perforation of the aorta and left
+   atrium.
+ ▪ Aspirate and saline flush the introducer frequently to minimize the
+   potential for thrombus formation.
+ ▪ Do not use the introducer without a catheter or dilator supporting the
+   lumen. Use of the introducer directly over a wire without a catheter or
+   dilator supporting the lumen may result in complications that can cause
+   death.
+ ▪ For both patients and laboratory staff, cardiac catheterization
+   procedures present the potential for significant x-ray exposure, which
+   can result in acute radiation injury as well as increased risk for somatic
+   and genetic effects due to the x-ray beam intensity and duration of the
+   fluoroscopic imaging. Carefully consider the use of this introducer in
+   pregnant women.
+ ▪ Persons with known history of allergies to any of the materials listed
+   below may suffer an allergic reaction to this device. Before use, counsel
+   the patient on the materials contained in the device and discuss a
+   thorough history of allergies. This device contains:
+   – Polyether block amide (PEBAX)
+   – Polytetrafluoroethylene
+   – ABS
+   – Silicone rubber
+   – DOW Corning 360 fluid
+   – HDPE
+   – MDX/hexane solution
+   – Nylon
+
+Precautions
+General
+ ▪ Federal law (U.S.) restricts this device to sale by or on the order of a
+    physician.
+
+                                       1
+ ▪ Only use this device with equipment that complies with international
+    safety standards.
+ ▪ Store in a cool, dark, dry place.
+ ▪ Inspect all components before use. Do not use if the packaging or items
+    in the kit appear to be damaged or defective.
+ ▪ Conditions requiring special consideration when using this product may
+   be, but are not limited to, small left atrium, marked right atrial
+   enlargement, and marked distortion of the thorax configuration
+   (example, kyphosis or scoliosis).
+ ▪ Individual patient anatomy and physician technique may require
+   procedural variations.
+Compatibility
+ ▪ The French size specified represents the inner diameter of the
+    introducer sheath.
+ ▪ Do not attempt to insert a catheter having a distal tip or body size larger
+    than the introducer size indicated.
+ ▪ Do not attempt to use a guidewire larger than the maximum diameter
+    specified on the package label.
+ ▪ The Agilis™ NxT Steerable Introducer Dual-Reach™ is designed to
+   interlock only with Abbott Medical dilators. Misuse may result in serious
+   complications.
+ ▪ Introducer materials are not compatible with magnetic resonance
+   imaging (MRI).
+ ▪ Only use a curved needle with a stylet, such as the BRK™ Transseptal
+   Needle.
+Preparation
+ ▪ Before inserting the device into the patient, pre‑assemble the steerable
+    introducer and the dilator.
+ ▪ Before advancing the dilator or any other component, verify that the
+   hemodynamics are acceptable. Monitor the hemodynamics throughout
+   the procedure.
+ ▪ Maintain an activated clotting time (ACT) of greater than 300 seconds at
+   all times during use.
+ ▪ If monitoring left atrial pressure during the procedure, take note of any
+   negative pressure as it may increase risk of air ingress into the
+   introducer.
+Use with dilator/catheter
+ ▪ Confirm the correct location of the needle on the fossa ovalis before
+    advancing the needle.
+ ▪ Avoid tilting the introducer handle upward during catheter or dilator
+   insertion or withdrawal to avoid air ingress. Keep the handle at or below
+   the level of the shaft. With the handle kept at or below the introducer
+   shaft or heart level, blood or saline may leak from the introducer
+   hemostasis valve during insertion. Leaking of blood or saline from the
+   valve is a sign that the introducer is not filled with air, and is safe for
+   catheter or dilator insertion.
+ ▪ During insertion, do not create excessive bends in this device. This may
+   inhibit advancement of the needle and may result in inadvertent needle
+   puncture of the dilator/introducer assembly.
+ ▪ During insertion, check for excessive resistance as the tip of the needle
+   advances through the curvature of the introducer/dilator assembly. If
+   there is any resistance to needle advancement, retract the needle, and
+   inspect the components.
+ ▪ During insertion, always use the stylet to facilitate needle passage
+   through the dilator/introducer assembly. Failure to use the stylet may
+   inhibit the advancement of the needle and result in inadvertent needle
+   puncture of the dilator/introducer assembly or skiving of material from
+   the inner surface of the dilator.
+ ▪ If resistance is met when advancing or withdrawing the guidewire or
+   introducer, determine the cause and correct it before continuing with
+   the procedure.
+ ▪ Aspirate the introducer slowly from the sideport to prevent drawing air
+   across the hemostasis valve into the introducer.
+ ▪ If aspiration is difficult, confirm that the introducer tip is not occluded or
+   in contact with tissue.
+ ▪ If aspiration during withdrawal is difficult, re‑confirm that the tip is not
+   occluded or in contact with tissue.
+ ▪ Do not torque or rotate the handle if the distal tip/shaft of the
+   introducer is constrained.
+ ▪ If the introducer shaft is unable to freely rotate, only manipulate the
+   introducer via the articulation knob.
+ ▪ Only inject or saline flush from the sideport.
+ ▪ If pericardial or aortic entry occurs, do not advance the dilator over the
+   needle. If the needle has penetrated the pericardium or aorta, it must
+   be withdrawn. Monitor vital signs closely.
+ ▪ Advance the introducer under fluoroscopic guidance to minimize the
+   risk of cardiac damage, perforation, or tamponade. Compatible
+   navigation and visualization systems may also be considered.
+ ▪ Do not remove the dilator or the catheter rapidly. Damage to the
+   hemostasis valve may occur.
+ ▪ There is a risk of air ingress when inserting or withdrawing objects from
+   the hemostasis valve of the introducer.
+   To prevent vacuum buildup in the introducer, insert or withdraw objects
+   slowly, ensuring the tip of the introducer does not become occluded.
+   Rapid insertion or withdrawal may result in air ingress that could be
+   visually observed as air bubbles in the sideport tubing or audible
+   suction.
+ ▪ After the introducer is inserted into the vasculature and the dilator is
+   removed, and prior to any catheter insertion, aspirate until steady blood
+   return is achieved before flushing or infusion.
+ ▪ Immediately after every device insertion or removal, aspirate 20 to
+   30 mL until steady blood return is achieved to mitigate air ingress.
+ ▪ If the catheter is equipped with a straightener or valve bypass tool,
+   avoid tilting the introducer handle upward while breaching the
+   hemostasis valve as it may draw air in through the valve during catheter
+   insertion. Remember to remove the insertion tool from the valve as
+   soon as possible once the catheter tip has cleared the valve.
+Post Procedure
+ ▪ After use, classify this device, its accessories, and packaging for disposal
+    appropriately (example: biohazard, sharps, non-hazardous waste, and so
+    forth). Dispose of the device, its accessories, and packaging in
+    compliance with facility procedures and applicable laws and regulations.
+
+Potential Adverse Events
+The following potential complications may occur during the use of this
+device, but are not limited to:
+ Adverse Event Category         Adverse Event Subcategory
+Arrhythmia                        N/A
+Bleeding                          Major bleeding requiring surgery or trans-
+                                  fusion
+                                  Hemorrhage/bleeding
+
+
+                                        2
+Adverse Event Category           Adverse Event Subcategory
+                                 Hematomas
+                                 Anemia
+Cardiac perforation              Cardiac tamponade
+                                 Pericardial complica- Pericardial effusion
+                                 tions
+                                                       Hemopericardium
+                                                          Pneumopericardium
+                                                          Pericarditis
+Cardiovascular injury            Atrial/ventricular trauma
+                                 Great vessel perforation
+                                 Valvular damage
+Cerebral injury                  Asymptomatic cerebral emboli (ACE)
+                                 Stroke/cerebrovascular accident
+                                 Transient ischemic attack (TIA)
+Coronary artery injury           N/A
+Embolism                         Air embolism
+                                 Foreign body embolism
+                                 Pulmonary embolism
+                                 Thromboembolism
+                                 Thrombosis/thrombus
+Hypotension                      Vasovagal reaction
+Immunological reaction           Anesthesia reaction
+                                 Anaphylaxis
+Infection                        Endocarditis
+                                 Pneumonia
+                                 Sepsis/shock
+Organ injury                     Esophageal injury
+                                 Pleural effusion
+Pain                             Groin
+Peripheral vascular injury       Arteriovenous fistula
+                                 Dissection
+                                 Laceration
+                                 Pseudoaneurysm
+Superficial tissue injury        N/A
+Please consult the respective manufacturer's labeling for adverse events
+associated with the use of either cardiovascular catheters or endomyocardial
+biopsy devices.
+
+Packaging
+The device kit is supplied sterile in a tray contained within a chevron pouch.
+The package contents are listed on the respective pouch and box labels. The
+instructions for use is recyclable. Dispose of used product and packaging
+following standard solid biohazard waste procedures.
+
+Suggested Transseptal Procedure
+There are eight major steps in the transseptal technique:
+ 1. Prepare and assemble the equipment.
+ 2. Advance the introducer/dilator assembly into right atrium.
+ 3. Position the BRK™ Transseptal Needle inside assembly.
+ 4. Drag the assembly and engage fossa ovalis.
+ 5. Puncture the fossa ovalis with the BRK™ Transseptal Needle.
+ 6. Advance the introducer/dilator assembly over fixed needle.
+ 7. Advance the introducer over the fixed dilator and needle into the left
+    atrium.
+ 8. Remove the dilator and needle from the introducer.
+
+Prepare and Assemble Equipment
+ 1. Remove contents from packaging.
+       NOTE: Do not assemble the introducer and dilator.
+ 2. Verify the deflection of the introducer prior to inserting into the patient.
+ 3. Flush the dilator and the transseptal introducer with heparinized saline.
+       NOTE: Maintain the syringe on the dilator to prevent leaking
+       NOTE: The fill volume of the introducer is approximately 15 mL.
+ 4. Close the introducer stopcock.
+ 5. Obtain/prepare a compatible BRK™ Transseptal Needle.
+ 6. Remove the stylet from the needle and flush the needle with
+    heparinized saline.
+ 7. Insert the stylet into the needle and lock it onto the hub.
+ 8. Insert the dilator fully into the transseptal introducer.
+
+Advance Introducer/Dilator Assembly into Right
+Atrium
+ 1. Obtain femoral venous access (right femoral preferred). (Optional) A
+    larger (greater than or equal to 2.5 F sizes greater than the transseptal
+    introducer) standard length introducer may be used to obtain and
+    maintain venous access for device exchange and hemostasis.
+ 2. Introduce a 0.035 inch, 180-300 cm guidewire into the right atrium (RA).
+       NOTE: A 0.035 inch, 180-300 cm guidewire is recommended. The
+       dilator is compatible with up to a 0.038 inch guidewire.
+ 3. Insert the introducer/dilator into the vein over the guidewire until the
+    introducer tip is in the RA. Orient the dilator tip medially.
+
+Position the BRK™ Transseptal Needle and Stylet
+Assembly Inside the Introducer/Dilator Assembly
+ 1. Remove the guidewire from the dilator.
+ 2. Fully aspirate and then flush the dilator with heparinized saline.
+ 3. Separate the introducer and dilator by withdrawing the dilator
+    approximately 5 cm (See the following figure). This will facilitate passage
+    of the needle curve through the rigid hubs of the dilator and introducer.
+Figure 1. Withdraw Dilator
+                                             1. Approximately 5 cm
+
+
+
+
+                                         3
+ 4. Lock the stylet onto the hub.
+ 5. Insert the needle/stylet into the dilator. Advance the needle/stylet
+    under appropriate visualization modality until it is approximately 2 cm
+    from the dilator tip inside the introducer (See the following figure).
+Figure 2. Advance Needle
+                                           1. Needle
+                                           2. Stylet
+                                           3. Dilator tip
+                                           4. Introducer
+
+ 6. Reconnect the introducer and dilator by advancing the dilator and
+    needle/stylet into the introducer simultaneously under appropriate
+    visualization modality. Ensure the needle's position within the dilator
+    does not change as both components are advanced together. Make
+    certain to maintain the introducer tip position in the RA.
+ 7. Under appropriate visualization modality, advance the needle/stylet
+    until the stylet is positioned just proximal of the dilator tip (See the
+    following figure).
+Figure 3. Stylet Position
+                                           1. Introducer tip
+                                           2. Dilator
+                                           3. Needle
+                                           4. Stylet
+
+
+
+
+ 8. Remove the stylet. Do not discard.
+ 9. Aspirate the needle until blood return is observed. Discard the syringe.
+       NOTE: The use of a slip-tip (non Luer-Lok‡) syringe may prevent
+       aspirating air.
+10. Flush the needle with heparinized saline. Close the stopcock.
+11. Advance the needle under appropriate visualization modality until the
+    needle tip is just proximal of the dilator tip (see the following figure).
+Figure 4. Needle Tip Position
+                                           1. Dilator tip
+                                           2. Needle tip
+
+
+
+
+12. (Optional) Attach a 3-way rotating stopcock to the needle hub.
+13. (Optional) Attach a syringe with radiopaque contrast media to the
+    stopcock. Aspirate the BRK™ Transseptal Needle until blood return is
+    observed. Then load the needle with the contrast media under
+    visualization modality guidance.
+14. (Optional) Connect a pressure monitoring line to the stopcock.
+15. (Optional) Use a standard 3-port manifold setup to connect contrast,
+    pressure, and flush lines.
+
+Engage the Fossa Ovalis
+ 1. Visualize and identify anatomic landmarks.
+ 2. (Optional) If using fluoroscopy, set the unit to an appropriate angle
+    parallel to the plane of the mitral valve and orthogonal to the plane of
+    the septum. This will typically be approximately 30 to 40 degrees left
+    anterior oblique (LAO).
+ 3. (Optional) The coronary sinus and His bundle catheter positions can
+    serve as useful anatomic landmarks. In the appropriate LAO view, the
+    coronary sinus catheter will be seen in profile. In the appropriate right
+    anterior oblique (RAO) view the His bundle catheter will appear in
+    profile. The fossa ovalis is located at or slightly below the level of His
+    bundle catheter and superior and posterior to the coronary sinus
+    ostium.
+ 4. (Optional) Placing a pigtail angiographic/hemodynamic monitoring
+    catheter in the non-coronary cusp of the aortic valve can serve as a
+    useful anatomic landmark.
+ 5. (Optional) Observe the pressure waveform being recorded through the
+    BRK™ Transseptal Needle.
+ 6. Adjust the pointer flange so that the needle is perpendicular to the fossa
+    ovalis (typically between 3:00 and 5:00 o’clock, as viewed from the foot
+    end of the patient). (See the following figure.)
+Figure 5. Pointer Flange Position
+                                           1. Needle pointer flange
+
+
+
+
+ 7. Confirm that the needle tip is inside the dilator.
+ 8. After confirming that the tip of the needle is within the dilator, drag the
+    entire introducer/dilator/needle assembly slowly. Prevent any
+    movement of the assembly parts relative to each other. It is critical to
+    maintain the previous orientation of the pointer flange while dragging
+    assembly.
+ 9. In the LAO view (orthogonal to the interatrial septum) observe the tip of
+    the dilator during the drag for abrupt medial (or rightward) movement,
+    indicating the tip has engaged the fossa ovalis (two characteristic
+    “jumps” of the dilator). (See the following figures.)
+       NOTE: If the fossa ovalis is probe patent, the dilator tip will now move
+       into the left atrium with ease.
+Figure 6. Dilator Tip Position
+                                           Starting position in SVC
+
+
+
+
+                                       4
+                                            Initial medial movement in RA
+
+
+
+
+                                            Abrupt medial movement onto fos-
+                                            sa ovalis
+
+
+
+
+ ▪ (Optional) If pressure is being monitored through the needle, note that
+    the pressure through the needle will not be accurate at this point, since
+    the tip is against the fossa ovalis.
+
+Puncture the Fossa Ovalis
+  CAUTION: Confirm the correct location of the needle on the fossa ovalis
+  before advancing the needle.
+ 1. Once the correct location is confirmed, advance the needle across the
+    interatrial septum.
+ 2. (Optional): Under pressure monitoring, entry into the left atrium is
+    confirmed when the pressure tracing shows a left atrial pressure
+    waveform.
+ 3. (Optional): Left atrial access can be confirmed with contrast injections.
+ 4. If there is any resistance to needle advancement, re-evaluate the
+    anatomic landmarks.
+        CAUTION: If pericardial or aortic entry occurs, do not advance the
+        dilator over the needle. If the needle has penetrated the
+        pericardium or aorta, it must be withdrawn. Monitor vital signs
+        closely.
+
+Advance Introducer/Dilator Assembly
+ ▪ While maintaining a fixed needle position within the left atrium,
+    advance the introducer/dilator assembly fully over the needle into the
+    left atrial cavity.
+
+Advance the Introducer Over the Fixed Dilator
+and Needle into the Left Atrium
+ 1. Maintain the position of the needle and dilator across the septum.
+ 2. While maintaining the dilator in a fixed location, advance the introducer
+    fully over the dilator into the left atrial cavity.
+
+Withdraw the BRK™ Transseptal Needle and the
+Dilator
+  CAUTION: There is a risk of air ingress when inserting or withdrawing
+  objects from the hemostasis valve of the introducer.
+  To prevent vacuum buildup in the introducer, insert or withdraw objects
+  slowly, ensuring the tip of the introducer does not become occluded.
+  Rapid insertion or withdrawal may result in air ingress that could be
+  visually observed as air bubbles in the sideport tubing or audible
+  suction.
+ 1. Turn the needle stopcock to the off position and disconnect any
+    attachments to the needle hub.
+ 2. Remove the BRK™ Transseptal Needle from the dilator. The needle may
+    be cleaned and set aside for repeat use in this procedure. Otherwise,
+    discard by appropriate means for contaminated sharp objects.
+ 3. Confirm that the introducer tip is not occluded or in contact with tissue.
+    Immediately attach a 20 mL or larger syringe to the dilator and aspirate.
+    Continue aspirating blood while holding the introducer in position and
+    withdrawing the dilator. The blood should be arterial blood.
+       CAUTION: If aspiration during withdrawal is difficult, re‑confirm that
+       the tip is not occluded or in contact with tissue.
+ 4. Once the dilator is removed, aspirate blood through the sideport of the
+    introducer, and then flush it with heparinized saline, taking care to avoid
+    air bubbles.
+ 5. Provide 2 mL per minute minimum drip rate using a gravity IV
+    administration bag. The gravity IV administration bag increases infusion
+    if device removal creates a vacuum. This can prevent air ingress if the
+    introducer tip is occluded.
+ 6. The introducer is now in place in the left atrium.
+
+Catheter Introduction and Withdrawal
+ 1. Hold the proximal end of the introducer handle at or below level of the
+    insertion site/heart level.(See the following figure.)
+Figure 7. Handle Position
+
+
+
+
+ 1. Introducer handle position
+ 2. Insert device approximately 10 cm and slowly aspirate approximately 20
+    to 30 mL from the introducer.
+ 3. Raise the proximal end of the introducer handle above the level of
+    insertion site/heart level and slowly aspirate the introducer to prevent
+    possibly air ingress through the hemostasis valve of the introducer prior
+    to connecting continuous saline. Rapid aspiration may pull air in through
+    the hemostasis valve.
+ 4. During catheter withdrawal, hold the proximal end of the introducer
+    handle at or below level of the insertion site/heart level. (See the
+    previous figure.)
+ 5. After withdrawal of any object through the hemostasis valve, including
+    dilator, slowly aspirate approximately 20 to 30 mL from the introducer.
+
+Remove the Introducer
+ 1. After the catheter is removed, prepare the introducer for removal by
+    reintroducing the dilator, and ensuring neutral deflection.
+ 2. Withdraw the introducer.
+ 3. Dispose of the introducer in medical waste per site.
+
+Incident Reporting
+If, in the course of use of this device, you have reason to believe that a
+serious incident occurred, please report it to the manufacturer. For
+customers in the European Union, report the serious incident to your
+national authority as well as to the manufacturer.
+
+Warranty
+Abbott Medical warrants that its products shall be free from defects in
+materials and workmanship under normal use. This warranty does not
+exceed the “Expiration” date stated on any product labeling. The authorized
+uses and approved methods of use of each of our products are set forth in
+the related “Instructions for Use” that accompany each product. Abbott
+Medical disclaims any responsibility and liability for the use of its products in
+a manner that has not been authorized or approved. Abbott Medical’s
+                                        5
+liability under this warranty is limited to replacing its products. The foregoing
+warranty excludes and is in lieu of all other warranties whether expressed or
+implied including, but not limited to, any implied warranties of
+merchantability or fitness for a particular purpose. Abbott Medical disclaims
+any liability for any incidental or consequential loss, damage, or expense
+directly or indirectly arising from the use of this product, other than as
+expressly provided by specific law. Abbott Medical neither assumes nor
+authorizes any other person to assume for it any other or additional liability
+for loss, damage, or expense in connection with this product. For more
+details please review complete Abbott Medical warranty policy available
+from Abbott Medical or on the back of an Abbott Medical invoice.
+
+Symbols
+The symbols below and harmonized symbols may be found on the product
+or product label. For harmonized symbols, refer to the Universal Symbols
+Glossary at medical.abbott/manuals.
+ Symbol                                Definition
+                                           Quantity
+
+
+                                           Consult instructions for use on this
+                                           website
+
+
+                                           Date of manufacture
+
+
+                                           Use by
+
+
+ LOT                                       Lot number
+                                           Keep dry
+
+
+
+                                           Keep away from sunlight
+
+
+                                           Protect from heat and radioactive
+                                           sources
+
+
+                                           Do not use if package is damaged
+
+
+                                           Do not re-use
+
+
+
+                                           Do not resterilize
+
+
+                                           Sterilized using ethylene oxide
+
+
+ Steerable Introducer                      Steerable Introducer
+                                           Length
+                                           Manufacturer
+
+
+                                           Country of manufacture
+
+
+                                           Catalog number
+
+
+ UDI                                       Unique Device Identifier
+                                           Recommended Needle
+
+                                           Recommended guidewire (symbol will
+                                           be gray)
+                                           Introducer Dilator
+
+                                           Single sterile barrier system
+
+                                           CAUTION: Federal (USA) law restricts
+                                           this device to sale by or on the order
+                                           of a physician.
+
+                                           Inner diameter
+
+
+
+                                           Outer diameter
+
+
+
+                                           Usable length
+
+                                           Temperature limitation
+
+
+                                           Excursion temperature limit
+
+
+
+
+                                           Excursion humidity limit
+
+
+
+
+                                       6
+7
+abbott.com
+
+2024-09
+ARTEN600341730 B
+
+
+
+*600341730*
+
