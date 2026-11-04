@@ -91,3 +91,8 @@ Declined:
 - PASCAL guide_size_fr: 22 Fr appears only in OUS Edwards eIFUs (DOC-0256159A/0244848A/0252962A/0215214A); US P220003D gives no French size.
 - New US approvals since 2026-10-29: openFDA PMA data ends 2026-10-16 and 510(k) 2026-10-18 → window not checkable there; web search found nothing beyond PASCAL items above.
 - Not attempted: Safari H74939271/272, TRUE, Z-MED II, Sentrant/DrySeal ID/OD, VersaCross, WATCHMAN curves, Perclose range, SAPIEN delivery profiles, Trilogy skirt, Confida stiffness.
+
+## 2026-11-04 weekly recall check (pass sh18, preview only)
+- openFDA recall API (last_updated 2026-10-31) re-run: no new or changed exact-model matches.
+- Changed: SAPIEN M3 Commander M delivery system Early Alert is now classified — Class 1 recall Z-0287-2027 (event 100067), model 9880CM29A, UDI-DI 00690103219777, same 4 lots, initiated 2026-10-05, FDA posted 2026-11-02. Source: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=223232 . raw/recall_manual.csv row replaced (old row cited model "9880CM29"; FDA record gives 9880CM29A).
+- FDA Recalls & Early Alerts list, Safety Communications, Letters to HCPs: nothing else for guide devices.
