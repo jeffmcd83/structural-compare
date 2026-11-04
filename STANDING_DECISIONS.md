@@ -40,3 +40,4 @@ History:
 - 2026-10-29: pass sh16 (Jeff decision, confirmed 2026-10-31): Abbott eIFU documents tagged US with a Federal-law (U.S.) caution count as US labeling even when the file path is a non-US folder (BRK ARTMT600239457_A). Agilis Dual-Reach SI-1371 is US-cleared (K243493) but has no US IFU found → not added as a row.
 - 2026-10-31: Released v1.2.2 (pass sh16) live with Jeff's OK.
 - 2026-11-02: Released v1.2.3 (pass sh17) live with Jeff's OK. 5 sh17 conflicts held, not applied.
+- 2026-11-04: pass sh18 (preview only): weekly recall check — SAPIEN M3 Commander M Early Alert now Class 1 recall Z-0287-2027 (9880CM29A). Awaiting Jeff's release OK.
