@@ -104,3 +104,10 @@ Declined:
 - FLAG: FDA approved PASCAL Precision for tricuspid TEER, PMA P220003/S029 (decision 2026-10-20, code NPS; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P220003S029). Supplement labeling PDFs (P220003S029A-D) not yet posted (404). No tricuspid row added; existing "No US tricuspid indication found" values now outdated - awaiting Jeff's call / labeling. STANDING_DECISIONS "no PASCAL tricuspid row" superseded once labeling is posted.
 - Unsourced still: SAPIEN 3 family delivery_profile (US IFU DOC-0251232B gives no numbers; FDA labeling PDFs 404).
 - Fill 508/576 = 88.2% (was 505, 87.7%).
+
+## Pass sh20 (2026-11-05, /preview/ only, tag preview-passsh20). Jeff-approved PASCAL T-TEER from PMA P220003/S029 + includes sh18 recall and sh19 gap-fill already on preview.
+Backup structural-specs-verified.pre-passSH20.csv. Overall 88.2% (508/576) → 86.1% (520/604) — fill % drop is from 2 new Tricuspid TEER rows whose delivery/access/implant fields stay blank until US tricuspid labeling is posted.
+Applied (sources/passSH20/values.csv; PMA HTML cached in sources/passSH20/docs/P220003S029_pma.html):
+- NEW ROWS under Tricuspid TEER: PASCAL Precision T-TEER (PASCAL implant) and PASCAL Precision T-TEER (PASCAL Ace implant). Same GUDID SKUs as mitral (20000ISA / 20000ISMA). Fields from FDA PMA P220003/S029 record only: family=PASCAL, generation=Latest, fda_approval_date=2026-10-20, fda_submission=P220003/S029, product_code=NPS, approval_indications=Approval Order Statement (symptomatic severe TR despite OMT, intermediate+ surgical risk, heart-team appropriate for T-TEER). Source URL https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P220003S029. Supplement labeling PDFs still 404 — no delivery_system / access_routes / implant_sizes / guide_size_fr / independent_grasping copied from mitral.
+- Mitral PASCAL implant + Ace: approval_indications updated to drop outdated "No US tricuspid indication found" (mitral text unchanged from P220003).
+Jeff decision logged in STANDING_DECISIONS.md (PMA approval record may establish indication when labeling not yet posted, with Jeff's OK).

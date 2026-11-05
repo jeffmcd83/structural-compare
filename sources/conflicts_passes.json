@@ -110,7 +110,8 @@
   "source": "TCTMD news 2026-10-21 (citing Edwards press release) p.n/a (web page); https://www.tctmd.com/news/fda-green-lights-pascal-system-tricuspid-valve-repair",
   "hold": "1",
   "existing": "US PMA P220003 (2022). Significant symptomatic degenerative MR at prohibitive surgical risk. No US tricuspid indication found",
-  "existing_source": "FDA SSED P220003 PASCAL Precision System (SSED) p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf22/P220003B.pdf"
+  "existing_source": "FDA SSED P220003 PASCAL Precision System (SSED) p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf22/P220003B.pdf",
+  "resolved": "Jeff 2026-11-05: PMA P220003/S029 approval record establishes US tricuspid indication even though supplement labeling PDFs are not yet posted; applied in passSH20: US PMA P220003 (2022). Significant symptomatic degenerative MR at prohibitive surgical risk."
  },
  {
   "pass": "passSH17",
@@ -120,6 +121,7 @@
   "source": "TCTMD news 2026-10-21 (citing Edwards press release) p.n/a (web page); https://www.tctmd.com/news/fda-green-lights-pascal-system-tricuspid-valve-repair",
   "hold": "1",
   "existing": "US PMA P220003 (2022). Significant symptomatic degenerative MR at prohibitive surgical risk. No US tricuspid indication found",
-  "existing_source": "FDA SSED P220003 PASCAL Precision System (SSED) p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf22/P220003B.pdf"
+  "existing_source": "FDA SSED P220003 PASCAL Precision System (SSED) p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf22/P220003B.pdf",
+  "resolved": "Jeff 2026-11-05: PMA P220003/S029 approval record establishes US tricuspid indication even though supplement labeling PDFs are not yet posted; applied in passSH20: US PMA P220003 (2022). Significant symptomatic degenerative MR at prohibitive surgical risk."
  }
 ]

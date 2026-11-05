@@ -107,6 +107,8 @@ SH={
 "MitraClip G5":("SH_MitraClip",r"(?i)mitraclip",r"G5 Delivery System",None,"Mitral TEER"),
 "PASCAL Precision (PASCAL implant)":("SH_PASCAL_Edwards",r"PASCAL",r"PRECISION SYSTEM . IMPLANT SYSTEM",None,"Mitral TEER"),
 "PASCAL Precision (PASCAL Ace implant)":("SH_PASCAL_Edwards",r"PASCAL",r"ACE IMPLANT",None,"Mitral TEER"),
+"PASCAL Precision T-TEER (PASCAL implant)":("SH_PASCAL_Edwards",r"PASCAL",r"PRECISION SYSTEM . IMPLANT SYSTEM",None,"Tricuspid TEER"),
+"PASCAL Precision T-TEER (PASCAL Ace implant)":("SH_PASCAL_Edwards",r"PASCAL",r"ACE IMPLANT",None,"Tricuspid TEER"),
 "TriClip G4":("SH_TriClip",r"^TriClip™$",r"G4 Delivery",None,"Tricuspid TEER"),
 "TriClip G5":("SH_TriClip",r"^TriClip™$",r"G5 Delivery",None,"Tricuspid TEER"),
 "BRK / BRK-1":("SH_BRK",r"^BRK(-1)?™$",None,None,"Transseptal access"),

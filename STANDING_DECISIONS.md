@@ -5,7 +5,7 @@ Inherited rules (from coronary-specs):
 - Numbered passes (passSHNN) with backups structural-specs-verified.pre-passSHNN.csv.
 - Keep FILL_LOG, SOURCES, INDEX, STANDING_DECISIONS current.
 - Recalls via openFDA, matched by exact catalog/GTIN/PMA.
-- US-labelled indications only (e.g. PASCAL has no US tricuspid label -> no tricuspid row).
+- US-labelled indications only. When Jeff approves, a FDA PMA approval-order statement may establish a US indication even if supplement labeling PDFs are not yet posted (see 2026-11-05 PASCAL T-TEER).
 - Exclude devices not labelled for the therapy area.
 - Publish to /preview/ first; root only with Jeff's explicit approval via release.sh <tag>.
 History:
@@ -41,3 +41,4 @@ History:
 - 2026-10-31: Released v1.2.2 (pass sh16) live with Jeff's OK.
 - 2026-11-02: Released v1.2.3 (pass sh17) live with Jeff's OK. 5 sh17 conflicts held, not applied.
 - 2026-11-04: pass sh18 (preview only): weekly recall check — SAPIEN M3 Commander M Early Alert now Class 1 recall Z-0287-2027 (9880CM29A). Awaiting Jeff's release OK.
+- 2026-11-05: Jeff approved adding PASCAL / PASCAL Precision / PASCAL Ace Tricuspid TEER rows from FDA PMA P220003/S029 (decision 2026-10-20; product code NPS; Approval Order Statement on the PMA record). Supplement labeling PDFs (P220003S029A–D) were still 404. Rule: when Jeff approves, the FDA PMA approval record (approval-order statement and fields named on that record) may be used for US indication and related regulatory identity fields even though updated IFU/SSED labeling is not yet posted on accessdata. Exact-model only; do not copy mitral delivery/access/implant specs onto the tricuspid rows without a tricuspid-labeled source. Mitral PASCAL rows: remove the outdated "No US tricuspid indication found" clause (tricuspid covered under separate T-TEER rows). pass sh20 (preview only).
