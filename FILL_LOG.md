@@ -96,3 +96,11 @@ Declined:
 - openFDA recall API (last_updated 2026-10-31) re-run: no new or changed exact-model matches.
 - Changed: SAPIEN M3 Commander M delivery system Early Alert is now classified — Class 1 recall Z-0287-2027 (event 100067), model 9880CM29A, UDI-DI 00690103219777, same 4 lots, initiated 2026-10-05, FDA posted 2026-11-02. Source: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=223232 . raw/recall_manual.csv row replaced (old row cited model "9880CM29"; FDA record gives 9880CM29A).
 - FDA Recalls & Early Alerts list, Safety Communications, Letters to HCPs: nothing else for guide devices.
+
+## Pass sh19 (2026-11-05)
+- SAPIEN M3 delivery_profile: Commander M 9880CM29 16F shaft OD, 112 cm; 23F guide sheath 9880GS (ID 23F, OD 29F, 77 cm) - FDA P250019D pp.2, 44.
+- WATCHMAN FLX Pro access_sheath: compatible with all WATCHMAN Access Systems, packaged separately - FDA P130013S074D pp.108, 196.
+- Trilogy skirt: flared Sealing Ring (LVOT inflow to annular basal plane), material not stated - SSED P250024B p.2.
+- FLAG: FDA approved PASCAL Precision for tricuspid TEER, PMA P220003/S029 (decision 2026-10-20, code NPS; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P220003S029). Supplement labeling PDFs (P220003S029A-D) not yet posted (404). No tricuspid row added; existing "No US tricuspid indication found" values now outdated - awaiting Jeff's call / labeling. STANDING_DECISIONS "no PASCAL tricuspid row" superseded once labeling is posted.
+- Unsourced still: SAPIEN 3 family delivery_profile (US IFU DOC-0251232B gives no numbers; FDA labeling PDFs 404).
+- Fill 508/576 = 88.2% (was 505, 87.7%).
