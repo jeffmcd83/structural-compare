@@ -111,3 +111,15 @@ Applied (sources/passSH20/values.csv; PMA HTML cached in sources/passSH20/docs/P
 - NEW ROWS under Tricuspid TEER: PASCAL Precision T-TEER (PASCAL implant) and PASCAL Precision T-TEER (PASCAL Ace implant). Same GUDID SKUs as mitral (20000ISA / 20000ISMA). Fields from FDA PMA P220003/S029 record only: family=PASCAL, generation=Latest, fda_approval_date=2026-10-20, fda_submission=P220003/S029, product_code=NPS, approval_indications=Approval Order Statement (symptomatic severe TR despite OMT, intermediate+ surgical risk, heart-team appropriate for T-TEER). Source URL https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P220003S029. Supplement labeling PDFs still 404 — no delivery_system / access_routes / implant_sizes / guide_size_fr / independent_grasping copied from mitral.
 - Mitral PASCAL implant + Ace: approval_indications updated to drop outdated "No US tricuspid indication found" (mitral text unchanged from P220003).
 Jeff decision logged in STANDING_DECISIONS.md (PMA approval record may establish indication when labeling not yet posted, with Jeff's OK).
+
+## Pass sh21 — gap fill (2026-11-09, /preview/ only, tag preview-passsh21). 4 values applied, 0 conflicts. Backup structural-specs-verified.pre-passSH21.csv. Overall 86.1% (520/604) → 86.8% (524/604) (Large-bore sheath 89→91%, LAAO access sheath 80→86%). Preview still also carries unreleased sh18–sh20.
+Filled (sources/passSH21/values.csv, docs in sources/passSH21/docs/):
+- DrySeal Flex sheath_id_od: min ID / nominal OD for all 11 sizes (10–26 Fr) — Gore U.S. Aortic Accessories Brochure 24AR1024-EN03 p.3 (GDSF table; footnote equates DSF numbers).
+- WATCHMAN FXD Curve curves: M635TU80010 single, M635TU80020 double — BSC WATCHMAN FLX US product list p.1.
+- WATCHMAN TruSteer curves: neutral double curve, bi-directional steering (superior–inferior) — BSC brochure SH-1659013-AA pp.3, 8 (US ordering). Brochure OD 17F (5.6 mm) vs existing OD 5.7 mm: rounding only, existing kept.
+- WATCHMAN TruSeal curves: M635TU70010 SGL / 70020 DBL / 70040 ANT — FDA Recalls & Early Alerts page (Affected Product table, "US" rows). TruSeal EU sell sheet (M635TS codes, OUS) not used.
+Declined / still blank:
+- PASCAL T-TEER rows: P220003S029A–D labeling still 404. Edwards US IFU DOC-0553668A (effective 2026-04-01, Federal (USA) caution) is mitral-only and gives no guide sheath French size → PASCAL guide_size_fr and T-TEER delivery/access/implant fields stay blank.
+- TRUE nominal/RBP/guidewire: BD US sell sheets (BD-32388v2, BD-110009) still 403 from the box; BD US product page gives no numbers.
+- Sentrant ID/OD: Medtronic US page lists sheath size (Fr) and length only, no OD.
+- Safari H74939271/272: only Taiwan-licence IFU (non-US) describes the original model → not used.
