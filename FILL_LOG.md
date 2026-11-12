@@ -123,3 +123,16 @@ Declined / still blank:
 - TRUE nominal/RBP/guidewire: BD US sell sheets (BD-32388v2, BD-110009) still 403 from the box; BD US product page gives no numbers.
 - Sentrant ID/OD: Medtronic US page lists sheath size (Fr) and length only, no OD.
 - Safari H74939271/272: only Taiwan-licence IFU (non-US) describes the original model → not used.
+
+## Pass sh22 — gap fill (2026-11-12, /preview/ only, tag preview-passsh22). 15 values applied, 0 new conflicts. Backup structural-specs-verified.pre-passSH22.csv. Overall 86.8% (524/604) → 89.2% (539/604) (Valvuloplasty balloon 62→77%, Transseptal access 59→77%, Steerable guide/sheath 76→91%, Tricuspid TEER 71→75%; Shared accessories therapy 69→85%).
+Filled (sources/passSH22/values.csv, docs cached in sources/passSH22/docs/):
+- PASCAL Precision T-TEER (PASCAL implant) + (PASCAL Ace implant) independent_grasping = Yes: Edwards US T-TEER brochure PP--US-12658 v1.0 p.2 ("Secure leaflet capture during independent grasping"; US ISI with T-TEER indication p.1) + US T-TEER page PP--US-12569. System-level statement (brochure does not split PASCAL vs Ace). Brochure-level; yields to IFU once US tricuspid labeling is posted.
+- VersaCross Access Solution (VXSK): puncture_mechanism (RF Wire + RFP-100A), needle_curves (RF wire J 9 mm / pigtail 24 mm; sheath 45/55/90°; dilator D0/D1), sheath_compat (8.5F 2.8 mm sheath 63/81 cm, ≥11 F introducer, 0.035"), compatible_devices (RFP-100A + supplied cable; not NRG needle) — BSC US HCP product page + US Indications/safety page (Federal law (USA) caution).
+- VersaCross Steerable Access Solution (VSTK): curves S 17 / M 22 / L 50 mm, deflection 90° CCW / 180° CW, ID 8.5F (2.8 mm), 72 cm, compatible devices / indication — BSC US HCP page + US Indications page.
+- Agilis NxT Dual-Reach curves: SI-1371-S 18.4 / -M 24.8 / -L 45.1 mm curl — Abbott US Agilis NxT Ordering Information page.
+- Z-MED II rbp_atm, shaft_length_cm (usable), sheath_compat (introducer Fr), guidewire_compat_in — B. Braun Interventional Systems US BAV brochure BIS06_041823 pp.2–3 (Z-MED II™ rows only; 77 of 91 GUDID SKUs listed; cover carries a "DRAFT 031023" mark though it is the file posted on bisusa.com). Nominal pressure not stated (US IFU IFU-305BV Rev.02 says nominal/RBP on package label; its sizing chart marks nominal/RBP by print style only) → blank.
+Checked / still blank:
+- PASCAL T-TEER delivery/access/implant/guide: P220003S029A–D still 404; no US tricuspid IFU found on eifu.edwards.com (DOC-0252962A/0564808A/0256159A/0227332A/0215146A are OUS, mitral+tricuspid CE wording). Not copied from mitral.
+- TRUE nominal/RBP/guidewire: values are in BD US sell sheet BD-110009 (search index shows 3 atm nominal / 6 atm RBP / 0.035") but bd.com still 403 to curl, browser and fetch → not cached, not applied.
+- Sentrant ID/OD: Medtronic US page gives Fr + length only. Confida stiffness: US page has a bench stiffness chart image only (no stated value). Safari H74939271/272, SAPIEN 3 delivery profiles, BRK curves: no new sources.
+- New US approvals 2026-10-10 → openFDA last_updated 2026-11-02: nothing new in guide scope. Noted only: P260019 Amplatzer Paraclose PVL Occluder (original PMA, 2026-10-27; PVL closure not a guide category — needs Jeff's call); P190023/S033 Navitor terminal liquid sterilization (no new model); K262917 reprocessed BRK (reprocessing excluded).
