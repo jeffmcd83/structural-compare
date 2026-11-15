@@ -37,6 +37,7 @@ for fam,(fn,brx,inc,exc) in F.items():
                 S[{'Depth':'cw','Length':'al','Width':'gw_'}[t]].append(v);continue
             if cat in('TAVI valve','TTVR valve') and t=='Outer Diameter' and u=='Millimeter' and v>=18: S['vs'].append(v);continue
             if cat=='Valve wire' and t=='Outer Diameter' and u=='Inch': S['wire'].append(v);continue
+            if cat=='PVL occluder' and t=='Outer Diameter' and u=='Millimeter': S['dia'].append(v);continue
             if t in('Stent Diameter','Balloon Diameter') or (t=='Outer Diameter' and u=='Millimeter' and cat in('DES','BMS','Balloon')): S['dia'].append(v)
             elif t in('Stent Length','Balloon Length') or (t=='Length' and u=='Millimeter' and cat in('DES','BMS','Balloon','Covered stent')): S['len'].append(v)
             elif t=='Catheter Gauge': S['fr'].append(v)
@@ -63,6 +64,7 @@ for fam,(fn,brx,inc,exc) in F.items():
     man=comp.most_common(1)[0][0] if comp else ''
     q='https://api.fda.gov/device/udi.json?search='+urllib.parse.quote(f'brand_name:"{R[0]["brand_name"]}"') if R else ''
     gsrc=f'GUDID (FDA AccessGUDID via openFDA UDI) — {len(R)} device identifiers, brand "{R[0]["brand_name"] if R else ""}"; record-level device_sizes; {q}'
+    if R and R[0].get('_source'): gsrc=f'GUDID (FDA AccessGUDID lookup API; openFDA UDI not yet indexed 2026-11-14) — {len(R)} device identifiers, brand "{R[0]["brand_name"]}", description "{R[0]["device_description"]}"; record-level device_sizes; https://accessgudid.nlm.nih.gov/devices/search?query=Paraclose'
     def ap(s):
         return f'https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id={s}' if s.startswith(('P','H')) else f'https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID={s}'
     o={'category':cat,'manufacturer':man,'model':fam,'reprocessed':'Yes (third-party 510(k))' if reproc else 'No',
@@ -102,7 +104,8 @@ SPEC={'DES':['drug','drug_dose','polymer','strut_thickness_um','platform_alloy',
 'Mitral TEER':['implant_sizes','independent_grasping','delivery_system','guide_size_fr','access_routes','approval_indications'],
 'Tricuspid TEER':['implant_sizes','independent_grasping','delivery_system','guide_size_fr','access_routes','approval_indications'],
 'Transseptal access':['puncture_mechanism','needle_curves','sheath_compat','compatible_devices'],
-'Steerable guide/sheath':['curves','deflection','inner_diameter_fr','compatible_devices']}
+'Steerable guide/sheath':['curves','deflection','inner_diameter_fr','compatible_devices'],
+'PVL occluder':['implant_design','implant_sizes','approved_positions','sizing_range','delivery_system','access_sheath','compatible_devices','access_routes','approval_indications']}
 allspec=[];[allspec.append(x) for v in SPEC.values() for x in v if x not in allspec]
 # conservative name-derived values
 for o in rows:

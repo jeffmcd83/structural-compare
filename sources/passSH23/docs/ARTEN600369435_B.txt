@@ -1,0 +1,1058 @@
+Amplatzer™
+Paraclose PVL Occluder
+                     9-APVL-042, 9-APVL-063, 9-APVL-084, 9-APVL-103, 9-APVL-105, 9-APVL-123, 9-APVL-125, 9-APVL-143, 9-APVL-145
+
+
+
+
+Instructions for Use
+Proposition 65, a State of California voter initiative, requires the following notice:
+
+
+      WARNING: This product can expose you to chemicals including ethylene oxide, which is known to the State of California to cause cancer and birth defects or other reproductive
+harm. For more information, go to www.P65Warnings.ca.gov.
+™ Indicates a trademark of the Abbott group of companies.
+‡ Indicates a third party trademark, which is property of its respective owner.
+Pat. http://www.abbott.com/patents
+© 2026 Abbott. All Rights Reserved.
+Amplatzer™
+Paraclose PVL Occluder
+Instructions for Use
+  CAUTION: Read all instructions carefully. Failure to follow these instructions, warnings, and precautions may lead to device damage or patient injury.
+  WARNING: The Amplatzer™ Paraclose PVL Occluder should only be used by physicians trained in standard transcatheter techniques for structural heart
+  interventions.
+
+Device Description
+The Amplatzer™ Paraclose PVL Occluder is a self-expandable occlusion device. The device has a distal lobe with an extended rim and a proximal disc
+comprised of braided nitinol wires designed for the occlusion of a paravalvular leak (PVL). The distal lobe is designed to fill the PVL defect and the extended
+rim with the proximal disc is deployed on either side of the PVL defect to secure the device in position. A radiopaque platinum marker is sewn to the
+extended rim centered in the long axis at the edge of the distal lobe to indicate the orientation of the device in the paravalvular space. The device has a
+radiopaque marker band at each end and a screw attachment at the proximal end for attaching to the delivery wire.
+The Amplatzer™ Paraclose PVL Occluder is sterile and intended for single use only. The device is available in nine different sizes. See the Amplatzer™
+Paraclose PVL Occluder dimensions and corresponding catheter dimensional requirements table (page 1) and the Amplatzer™ Paraclose PVL Occluder
+sizing table (page 2) for PVL Occluder size information.
+The Amplatzer™ Paraclose PVL Occluder includes the following delivery components: a loader, delivery wire, hoop dispenser and luer, and a vise. The loader
+consists of a tube with an over-molded hub at the proximal end with a strain relief at the joint of the hub to the tubing, which designates the outer diameter
+of the loader. The delivery wire consists of a solid nitinol wire with a distal taper for flexibility and a segment at the distal tip for attaching the end screw. The
+hoop dispenser is a tube with a tapered distal end to be inserted into the loader hub for flushing of the system and a luer pressed onto the proximal end for
+syringe attachment. The vise is a plastic handle with a metal set screw for clamping onto the delivery wire to allow easier rotation of the delivery wire.
+Figure 1. Amplatzer™ Paraclose PVL Occluder dimensions
+
+
+
+
+ Table 1. Amplatzer™ Paraclose PVL Occluder dimensions and corresponding catheter dimensional requirements
+
+                      Amplatzer™ Paraclose PVL Occluder Dimensions                                         Catheter Dimensional Requirements
+
+                               1                    2                     3                    4
+
+
+
+                              mm                   mm                   mm                   mm                mm (inches)               Fr                cm
+9-APVL-042                     4                    2                     2                   6.5                  ≥1.78                 ≥5               ≤120
+                                                                                                                  (0.070)
+9-APVL-063                     6                    3                     2                   6.5                  ≥1.78                 ≥5               ≤120
+                                                                                                                  (0.070)
+9-APVL-084                     8                    4                     2                   6.5                  ≥1.83                 ≥5               ≤120
+                                                                                                                  (0.072)
+9-APVL-103                     10                   3                     2                   6.5                  ≥1.83                 ≥5               ≤120
+                                                                                                                  (0.072)
+9-APVL-105                     10                   5                     2                   6.5                  ≥1.83                 ≥5               ≤120
+                                                                                                                  (0.072)
+9-APVL-123                     12                   3                     2                   6.5                  ≥2.54                 ≥7               ≤120
+                                                                                                                  (0.100)
+9-APVL-125                     12                   5                     2                   6.5                  ≥2.54                 ≥7               ≤120
+                                                                                                                  (0.100)
+9-APVL-143                     14                   3                     2                   6.5                  ≥2.54                 ≥7               ≤120
+                                                                                                                  (0.100)
+9-APVL-145                     14                   5                     2                   6.5                  ≥2.54                 ≥7               ≤120
+                                                                                                                  (0.100)
+
+
+
+
+                                                                                   1
+Table 2. Amplatzer™ Paraclose PVL Occluder sizing table
+
+
+
+
+                                          14              9-APVL-145   9-APVL-145   9-APVL-145
+                                          13              9-APVL-143   9-APVL-145   9-APVL-145
+                                          12              9-APVL-123   9-APVL-145   9-APVL-145
+                                          11              9-APVL-123   9-APVL-143   9-APVL-125
+                                          10              9-APVL-103   9-APVL-105   9-APVL-105
+                                           9              9-APVL-103   9-APVL-123   9-APVL-105
+         Long Axis                         8              9-APVL-103   9-APVL-103   9-APVL-105
+                                                          9-APVL-084   9-APVL-084
+                                           7              9-APVL-084   9-APVL-103   9-APVL-105
+                                                                       9-APVL-084
+           (mm)                            6              9-APVL-063   9-APVL-103   9-APVL-084
+                                                                       9-APVL-084
+                                           5              9-APVL-063   9-APVL-084   9-APVL-084
+                                           4              9-APVL-063   9-APVL-063   9-APVL-084
+                                           3              9-APVL-042   9-APVL-063   9-APVL-063
+                                           2              9-APVL-042   9-APVL-042   9-APVL-063
+                                                              2            3            4
+                                                          Short Axis
+
+                                                            (mm)
+
+
+
+
+                                                              2
+Performance Characteristics of the Amplatzer™ Paraclose PVL Occluder
+The performance characteristics of the Amplatzer™ Paraclose PVL Occluder are described below.
+These device components are identified in the following graphic:
+1 - 6. Amplatzer™ Paraclose PVL Occluder - The Amplatzer™ Paraclose PVL Occluder, with its multi-layer braided nitinol wires in combination with the oblong
+shape of the device is designed to provide rapid reduction in PVL grade. The distal lobe is designed to fill the PVL defect and the extended rim with the
+proximal disc is deployed on either side of the PVL defect. The extended rim provides positional stability while minimizing interference with the valve. The
+radiopaque marker bands and platinum marker provide visual guidance under fluoroscopy. The end screw allows the attachment, recapture, and release of
+the device, enabling precise placement within the anatomy.
+Figure 2. Amplatzer™ Paraclose PVL Occluder
+                                                                                   1. End screw (with a proximal marker band)
+                                                                                   2. Radiopaque marker band
+                                                                                   3. Platinum marker
+                                                                                   4. Distal lobe (braided nitinol wires)
+                                                                                   5. Extended rim (braided nitinol wires)
+                                                                                   6. Proximal disc (braided nitinol wires)
+
+
+
+
+These device components are identified in the following graphic:
+ 1. Amplatzer™ Paraclose PVL Occluder
+ 2. Loader - The loader introduces the Amplatzer™ Paraclose PVL Occluder into a delivery sheath. The proximal hub of the loader is designed to be attached
+    to the hoop dispenser to allow flushing of the loader.
+ 3. Delivery wire - The delivery wire attaches to the Amplatzer™ Paraclose PVL Occluder to control its movement through a delivery sheath.
+ 4. Hoop dispenser and luer - The hoop dispenser protects the delivery wire until use, and the luer provides a conduit for flushing the Amplatzer™ Paraclose
+    PVL Occluder through the loader.
+ 5. Vise - The vise attaches to the delivery wire and serves as a handle for disconnecting (unscrewing) the delivery wire from the device.
+Figure 3. Amplatzer™ Paraclose PVL Occluder components
+
+
+
+
+ 1. Amplatzer™ Paraclose PVL Occluder
+ 2. Loader
+ 3. Delivery wire
+ 4. Hoop dispenser and luer
+ 5. Vise
+
+Indications for Use
+The Amplatzer™ Paraclose PVL Occluder is indicated for use in patients who have developed a clinically significant paravalvular leak associated with a surgical
+aortic or mitral valve prosthesis.
+
+Contraindications
+The Amplatzer™ Paraclose PVL Occluder is contraindicated for:
+ ▪ Patients with active endocarditis or other systemic infections requiring treatment
+
+                                                                               3
+ ▪ Patients with a rocking valve or with an extensive paravalvular leak involving more than half of the valve perimeter
+ ▪ Patients with intracardiac mass, vegetation, tumor, or thrombus at any site that may interfere with the implant procedure
+ ▪ Patients’ access site is inadequate to accommodate the appropriate sheath size
+ ▪ Patients in whom the short axis of the paravalvular leak defect exceeds 5 mm
+
+Warnings
+     ▪ This device was sterilized with ethylene oxide and is for single use only. Do not reuse or resterilize this device. Attempts to reuse or resterilize this
+       device can cause a malfunction, insufficient sterilization, or harm to the patient.
+     ▪ Do not use this device if the sterile package is open or damaged. Inspect all components before use. Do not use if the package or items appear to
+       be damaged or defective.
+     ▪ DO NOT use the Amplatzer™ Paraclose PVL Occluder after the Use-by date stated on the package label.
+
+     ▪ Prepare for situations that require the removal of this device. Preparation includes access to a transcatheter snare kit and an on-site surgeon.
+     ▪ The physician should determine which patients are candidates for procedures that use this device.
+     ▪ The use of this device in patients who are hemodynamically unstable at the time of the implant procedure may increase the risk of serious
+       adverse events.
+     ▪ The Amplatzer™ Paraclose PVL Occluder consists of a nickel-titanium alloy, which is generally considered safe. However, in vitro testing has
+       demonstrated that nickel is released from this device for a minimum of 60 days. Patients who are allergic to nickel may have an allergic reaction
+       to this device, especially those with a history of metal allergies. Prior to implantation, patients should be counseled on the materials contained in
+       the device, as well as potential for allergy/hypersensitivity to these materials. Certain allergic reactions can be serious; patients should be
+       instructed to notify their physicians immediately if they suspect they are experiencing an allergic reaction such as difficulty breathing or
+       inflammation of the face or throat. Some patients may also develop an allergy to nickel if this device is implanted.
+
+Precautions
+     ▪ The decision to use an Amplatzer™ Paraclose PVL Occluder to treat a paravalvular leak as an alternative to surgery should be reviewed by a heart
+       team, based on the patient’s surgical risk and patient’s preference.
+     ▪ Prolonged procedure time may increase the risk of exposure to anesthesia, contrast media, or radiation.
+     ▪ The physician should exercise clinical judgment in situations that involve the use of anticoagulants or antiplatelet drugs before, during, or after the
+       use of this device.
+     ▪ Use caution during advancement of the delivery sheath through the paravalvular leak defect to avoid defect enlargement.
+
+     ▪ Use caution during advancement of the delivery sheath and during deployment or positioning of the Amplatzer™ Paraclose PVL Occluder near
+       adjacent cardiac structures or previously implanted devices to avoid potential damage.
+
+Use in Specific Populations
+ ▪ Pregnancy - The safety and effectiveness of this device has not been established during pregnancy. Fluoroscopic X-ray guidance is used during placement
+    of the device. The risk of increased X-ray exposure for patients who are pregnant must be weighed against the potential benefits of this procedure.
+ ▪ Nursing mothers - The safety and effectiveness of this device has not been established in lactating mothers. There has been no quantitative assessment
+    for the presence of leachables in breast milk.
+ ▪ Pediatric population - The safety and effectiveness of this device has not been established in a pediatric population.
+
+MRI Safety Information
+
+
+Non-clinical testing has demonstrated that the Amplatzer™ Paraclose PVL Occluders implanted in conjunction with the Masters Series, Trifecta/Trifecta GT, or
+Biocor/Epic valves are MR Conditional. A patient with multiple PVL Occluders implanted to address paravalvular leakage, in combination with the referenced
+valves, can be safely scanned in an MR system under the following conditions. Failure to follow these conditions may result in patient injury
+Device Name                                                                        Amplatzer™ Paraclose PVL Occluder
+Static Magnetic Field Strength (B0)                                                1.5 T or 3.0 T
+Maximum Field Spatial Gradient                                                     20T/m (2000 gauss/cm)
+RF Excitation                                                                      Circularly Polarized (CP)
+RF Transmit Coil Type                                                              Body Coil
+Operating Mode                                                                     Normal Operating Mode
+Maximum Whole Body SAR                                                             2.0W/kg (Normal Operating Mode)
+Maximum Head SAR                                                                   N/A
+Scan Duration                                                                      2.0W/kg whole-body-averaged SAR for 60 minutes of continuous RF (a
+                                                                                   sequence or back-to-back series/scan without breaks)
+MR Image Artifact                                                                  The presence of this implant may produce an image artifact.
+
+  NOTE: MR image quality may be compromised if the area of interest is in the same area or relatively close to the position of the device. Therefore, it may
+  be necessary to optimize MR imaging parameters for the presence of this implant.
+
+Potential Adverse Events
+Potential adverse events that may occur during or after a procedure placing the Amplatzer™ Paraclose PVL Occluder include, but are not limited to:
+ ▪ Acute kidney injury                                                             ▪ Heart failure
+ ▪ Acute myocardial infarction                                                     ▪ Hematoma
+ ▪ Air embolism                                                                    ▪ Hemothorax
+ ▪ Allergic reaction/toxic effect due to contrast media, medication,or metal       ▪ Impaired hemodynamics
+ ▪ Aortic dissection                                                               ▪ Infection
+ ▪ Arrhythmia                                                                      ▪ Interference with valve function (including bioprosthetic leaflet injury)
+ ▪ Atrioventricular block                                                          ▪ Mechanical leaflet escape
+                                                                               4
+ ▪ Bleeding                                                                          ▪ Need for transfusion
+ ▪ Cardiac perforation                                                               ▪ New or worsening hemolytic anemia
+ ▪ Complications due to transseptal crossing, such as longer procedure times         ▪ Pericardial effusion
+ ▪ Conversion to emergency surgery or need for later reoperation                     ▪ Pneumothorax
+ ▪ Coronary injury                                                                   ▪ Pseudoaneurysm
+ ▪ Coronary obstruction                                                              ▪ Pulmonary edema
+ ▪ Death                                                                             ▪ Residual, recurrent (or both) regurgitation due to procedural failure
+ ▪ Device dislodgement                                                               ▪ Stroke, including transient ischemic attack
+ ▪ Device embolization                                                               ▪ Tamponade
+ ▪ Device migration                                                                  ▪ Thrombus
+ ▪ Device or valve thrombosis                                                        ▪ Valve dehiscence or prolapse
+ ▪ Endocarditis                                                                      ▪ Vascular access-site and access-related complications
+ ▪ Fracture or blockage of mechanical heart valve causing acute massive              ▪ Ventricular arrhythmia
+   regurgitation or obstruction to blood flow
+
+Directions for Use
+Commercially available materials recommended for use with the Amplatzer™ Paraclose PVL Occluder:
+  ▪ Delivery catheter that is appropriate for the occluder size as indicated in the dimensional requirements table (page 1). (If preferred, a delivery sheath
+    may be used to deliver the occluder; make sure that the inner diameter of the sheath can accommodate the occluder as specified in the Amplatzer™
+    Paraclose PVL Occluder sizing table (page 2).)
+  ▪ Y‑connector kit
+  ▪ 20‑cc syringe with sterile saline
+  ▪ 0.035‑inch guidewire
+  ▪ Transcatheter snare kit
+Pre-Procedure Care
+  ▪ Aspirin (for example, 81 mg or 325 mg) or an alternative antiplatelet/anticoagulant is recommended to be started at least 24 hours prior to the
+    procedure.
+  ▪ Patients should be fully heparinized throughout the procedure using adequate dosing so as to keep the activated clotting time (ACT) greater than
+    250 seconds.
+
+Procedure
+ 1. After determining the PVL defect location, shape, and size (long and short axes) using transesophageal echocardiogram (TEE), three-dimensional CT scan
+    imaging or other appropriate imaging modalities, select an occluder using the sizing chart based on the long and short axes measurements. See
+    Amplatzer™ Paraclose PVL Occluder sizing table (page 2).
+       NOTE: The occluder sizes recommended in the sizing chart are at least 20% larger in area than the PVL defect area to be occluded.
+      WARNING: Occluder size selection outside the recommended sizing in Table 2 may result in an increased risk of embolization or residual leak.
+ 2. Make sure that the occlusion site is long enough to accommodate the implanted occluder without unintentionally interfering with the valve function or
+    obstructing coronary arteries. The Amplatzer™ Paraclose PVL Occluder dimensions table (page 1) lists the dimensions of the occluder when it is
+    uncompressed.
+       NOTE: The occluder will lengthen when implanted adjacent to a valve, and the increase in length will vary depending on the paravalvular leak defect
+       size, adjacent tissue, and previously placed sutures.
+ 3. Select a delivery catheter with the dimensions listed in the Amplatzer™ Paraclose PVL Occluder dimensions table (page 1). French sizes are given as a
+    reference. Refer to the delivery catheter labeling to find the inner diameter (ID) and ensure that it is sufficient to accommodate the occluder.
+       NOTE: If the inner diameter of the original access catheter is sufficient for the selected occluder size, then that catheter may be used for occluder
+       delivery. It is recommended to select a catheter that has a straight or multipurpose tip curve configuration.
+ 4. Obtain appropriate access and administer heparin to achieve a recommended activated clotting time of greater than 250 seconds throughout the
+    procedure.
+ 5. Access the paravalvular leak and perform an angiogram using standard technique or use TEE and fluoroscopy to visualize the desired occlusion site and
+    cross the defect with a guidewire.
+ 6. Advance the delivery catheter over the guidewire until the distal tip is at the leading edge of the occlusion site.
+ 7. Remove the guidewire slowly.
+ 8. Prepare the occluder for use:
+     a. Inspect the sterile (outer) pouch and verify that it is unopened and undamaged. Do not use the occluder if the sterile pouch is open or damaged.
+           NOTE: Inside the sterile pouch, the occluder is covered with an inner unsealed pouch that is not intended to be sealed.
+     b. Gently open the sterile pouch and inspect the components for damage. Do not use the occluder if it has been damaged.
+     c. Make sure the occluder is threaded tightly onto the delivery wire. Turn the occluder counterclockwise 1/8 of a turn to make disconnection easier.
+            CAUTION: Do not overtighten the connection.
+            WARNING: The loader hub luer is not intended to be connected to another device other than the hoop dispenser during flushing. There is a
+            possibility that a misconnection can occur between the loader hub luer and another device using a luer, which may result in patient injury.
+ 9. Pull the loader away from the hoop dispenser to expose a section of the delivery wire.
+10. Submerge the occluder and the tip of the loader in sterile saline. While holding the loader steady, grasp the delivery wire near the hub of the loader and
+    pull the delivery wire to retract the occluder into the loader. The occluder is properly loaded when the entire occluder is compressed within the loader
+    and the distal marker band is no more than 1 cm from the distal end of the loader.
+       CAUTION: Do not retract the occluder so far that the distal end of the occluder is more than 1 cm from the distal end of the loader. Retracting the
+       occluder too far may prevent the occluder from deploying properly.
+11. Push the delivery wire back into the hoop dispenser, then reconnect the loader to the hoop dispenser.
+12. Purge air from the loader and occluder by flushing the hoop dispenser and loader with sterile saline (using a 20-cc syringe) until saline exits the distal tip
+    of the loader.
+13. Remove the loader, delivery wire, and vise from the hoop dispenser. Retain the vise for use in Step 23a.
+                                                                                 5
+14. Insert the loader through the Y-connector into the delivery catheter until the loader stops.
+      NOTE: For the 4 mm x 2 mm device only: if the Y‑connector is longer than the loader tubing, the loader may be inserted directly into the delivery
+      catheter. After Step 16, backload the Y‑connector over the delivery wire, attach the Y‑connector to the delivery catheter, and de-air the Y‑connector.
+15. Allow blood backflow or aspirate the system to ensure that air is purged from the catheter and the loader.
+16. Advance the delivery wire to move the occluder into the delivery catheter. Remove the loader from the wire.
+17. Advance the delivery wire and occluder to the distal end of the delivery catheter.
+       WARNING: Do not twist or rotate the delivery wire or the occluder may detach prematurely.
+18. Hold the delivery wire in place and slowly withdraw the delivery catheter to deploy the distal lobe of the occluder at the occlusion site.
+19. The orientation of the occluder in the paravalvular space may be determined using the platinum marker. If a different orientation of the occluder in the
+    paravalvular space is desired, readvance the delivery catheter to recapture the occluder within the catheter, then rotate the entire delivery system to
+    reposition the occluder in the paravalvular space.
+      NOTE: It may be necessary to advance the entire delivery system through the paravalvular space and fully deploy the occluder within the heart
+      chamber. Rotate the delivery wire clockwise to orient the occluder, recapture the occluder within the delivery catheter, reposition the delivery system,
+      and deploy the distal lobe at the occlusion site.
+        WARNING: Do not twist or rotate the delivery wire in the counter-clockwise direction or the occluder may detach prematurely.
+        WARNING: The occluder may be recaptured a maximum of three times. Replace the occluder after the third recapture.
+20. If the position and orientation of the occluder in the paravalvular space are satisfactory, withdraw the delivery catheter to completely deploy the
+    occluder.
+21. Using fluoroscopy and TEE or other appropriate imaging modalities, verify the position of the occluder is satisfactory and that there is no unintentional
+    interference with the valve function (for example, leaflet obstruction or regurgitation) or obstruction of the coronary arteries.
+22. If the occluder position is unsatisfactory:
+      a. Stabilize the wire and re-advance the delivery catheter until the occluder is recaptured within the catheter.
+      b. Reposition and redeploy the occluder or remove the occluder from the patient.
+            WARNING: The occluder may be recaptured a maximum of three times. Replace the occluder after the third recapture (this includes any
+            recaptures in step 19).
+23. If the occluder position is satisfactory:
+      a. Attach the plastic vise to the delivery wire and detach the occluder by rotating the delivery wire counter-clockwise until it separates from the
+         occluder.
+           NOTE: Ensure there is minimal to no tension on the delivery wire.
+     b. Remove all delivery system components from the patient.
+
+Residual Leak
+If residual leak is present after device placement, a second device may be considered. It is recommended to leave the delivery wire attached to the first
+device to avoid device embolization during deployment of the second device. Access the defect with a guidewire and second delivery catheter. Deploy the
+second device per the IFU while holding the first device in place. After device assessment yields acceptable results, remove the guidewire (if present) and
+detach both devices from the delivery wires.
+A prospective study of multiple device implantation during a single procedure has not been completed. However, data from the PARADIGM trial has
+demonstrated that the use of multiple devices is feasible. Within the PARADIGM trial, n=58 patients were implanted with multiple devices, with 94.8%
+achieving the primary endpoint (refer to the Clinical Summary section (page 6) for additional details).
+
+Patient Counseling Information
+Post-procedure oral anticoagulation, antiplatelet therapy, or both should be prescribed according to the individual indications for antithrombotic therapy of
+each patient while taking into consideration individual patient risks and benefits. Following implantation of the Amplatzer™ Paraclose PVL Occluder, the
+following anti-thrombotic therapy is recommended:
+  ▪ For patients who are already indicated for long-term anticoagulation therapy in combination with antiplatelet therapy, no additional anti-thrombotic
+     therapy is needed post implant.
+  ▪ For patients who are already indicated for long-term anticoagulation therapy without antiplatelet therapy, no additional anti-thrombotic therapy is
+     needed post-implant.
+  ▪ For patients who are not indicated for long-term anticoagulation therapy, dual antiplatelet therapy with agents such as aspirin 75 mg to 325 mg daily and
+     clopidogrel 75 mg daily should be administered for a minimum of six months post-implant.
+  ▪ The decision to continue antiplatelet therapy beyond six months is at the discretion of the physician based on individual patient indications, risks, and
+     benefits.
+Instruct the patient when to seek medical attention.
+Advise patients to contact their physician if they experience symptoms of heart failure or hemolysis that may indicate a recurrence of a paravalvular leak.
+Endocarditis prophylactic antibiotic therapy should be administered in accordance with established guidelines.
+
+Patient Registration
+A medical device registration form and return envelope are included with each device. Complete the temporary identification card attached to the medical
+device registration form and provide it to the patient. After implantation, please complete all requested information and return the original form to Abbott
+Medical. A permanent implant card from Abbott will be mailed to the patient, encourage the patient to carry this card with them as much as possible.
+
+Storage and Handling
+Typical ambient room temperature and humidity are acceptable for storing the device. Protect from moisture. There are no other special storage
+requirements beyond what is typical for medical devices.
+
+Clinical Summary
+Design
+The Amplatzer™ Paraclose PVL Occluder was studied in the “PARAvalvular leak closure with the Amplatzer Valvular Plug occluDer for Interventional
+transcatheter closure for PVL with surgical bioloGical and Mechanical heart valve” (PARADIGM) study under the name Amplatzer™ Valvular Plug III (APVL3).
+The PARADIGM study was a prospective, multi-center, international, single arm study intended to demonstrate the safety and effectiveness of the APVL3
+occluder as a treatment for clinically significant paravalvular leak following surgical implant of a mechanical or biological heart valve in the aortic or mitral
+position. A total of 200 subjects were enrolled in 24 sites (14 in the United States, eight in the European Union, and two in Canada) from November 2020
+                                                                                 6
+    until October 2025. Subject follow-up occurred at discharge, 30 days, 6 months, and 12 months. The primary endpoint for the study is a composite of safety
+    and effectiveness measures evaluating the percent of patients successfully treated with an APVL3 occluder for the reduction of PVL, where success is defined
+    as:
+      ▪ Transcatheter placement of the APVL3 in the intended location without interfering with the surgical valve function on exit from procedure
+      ▪ Reduction in PVL by greater than or equal to two grades on exit from procedure
+      ▪ Freedom from intra-procedural death
+      ▪ Freedom from unplanned surgical procedure or transcatheter reintervention related to the APVL3 through 30 days
+    Additional success measures were evaluated based on the recommendations defined in the 2017 Paravalvular Leak Academic Research Consortium (PVLARC)
+    publication on PVL clinical trials 1, and include Technical Success on exit from the procedure, Device Success at 30 days, and Procedural Success at 30 days.
+    The data cutoff used for primary endpoint analysis occurred on 3 February 2026, after all subjects enrolled and completed the 30-day follow-up window.
+
+    Patients Studied
+    Enrollment in the PARADIGM study was limited to patients who met all the following inclusion criteria:
+      ▪ Subject is implanted with a mechanical or biological surgical valve in the aortic or mitral position.
+            Note: Subjects in European countries can only be implanted with a mechanical valve in the aortic or mitral position
+      ▪ Subject has a clinically significant paravalvular leak with a severity grade of moderate or higher, associated with signs of heart failure and/or hemolysis
+        necessitating recurring blood transfusions.
+      ▪ Subject has one PVL defect that can be closed with a single Amplatzer™ Paraclose PVL Occluder as assessed pre-procedurally
+      ▪ Subject has provided written informed consent
+      ▪ Subject is ≥18 years old
+    Key exclusion criteria included:
+      ▪ Rocking valve or valve dehiscence involving >40% of the sewing ring
+      ▪ PVLs originating from a transcatheter or suture‑less valve
+      ▪ >1 PVL adjacent to same valve, or PVL in both mitral and aortic valve
+      ▪ Known or suspected active endocarditis or other active infection
+      ▪ Documented intracardiac mass, vegetation, tumor, or thrombus in last 6 months
+    Baseline characteristics and PVL characteristics for the 200 subjects enrolled in PARADIGM are shown in the following two tables. Of the 200 subjects
+    enrolled, the mean age was 67.7 years, and 140 subjects had a surgical mechanical valve, and 60 subjects had a surgical biological valve.
+     Table 3. Baseline Characteristics
+     Characteristic                                                                               Total (N=200)
+     Age (year)
+      Mean ± SD (n)                                                                               67.7 ± 11.5 (200)
+      Range (min, max)                                                                            (30, 90)
+     Gender
+      Male                                                                                        58.5% (117/200)
+     Ethnicity
+      Hispanic or Latino                                                                          0.5% (1/200)
+     Race
+      American Indian or Alaskan Native                                                           0.0% (0/200)
+      Asian                                                                                       1.0% (2/200)
+      Black or African American                                                                   5.0% (10/200)
+      Native Hawaiian or Pacific Islander                                                         0.0% (0/200)
+      White                                                                                       46.5% (93/200)
+      Declined or Unable to Disclose                                                              47.5% (95/200)
+     Height (cm)
+      Mean ± SD (n)                                                                               170.65 ± 10.38 (200)
+      Range (min, max)                                                                            (145.00, 193.04)
+
+     Weight (kg)
+      Mean ± SD (n)                                                                               77.73 ± 18.08 (200)
+      Range (min, max)                                                                            (38.00, 140.00)
+
+     BMI (kg/m2)
+      Mean ± SD (n)                                                                               26.5 ± 5.3 (200)
+      Range (min, max)                                                                            (16, 48)
+
+     Logistic EuroSCORE
+      Mean ± SD (n)                                                                               7.70 ± 6.75 (197)
+      Range (min, max)                                                                            (0.7, 36.0)
+
+     STS Risk Score
+      Risk of mortality
+        Mean ± SD (n)                                                                             4.16 ± 4.18 (196)
+        Range (min, max)                                                                          (0.2, 29.6)
+
+
+
+1
+    Ruiz CE, Hahn RT, Berrebi A, et al. Clinical Trial Principles and Endpoint Definitions for Paravalvular Leaks in Surgical Prosthesis. JACC. 2017;69(16):2067-2087.
+                                                                                              7
+Table 3. Baseline Characteristics
+Characteristic                                Total (N=200)
+ Morbidity or mortality
+  Mean ± SD (n)                               20.19 ± 12.20 (196)
+  Range (min, max)                            (2.0, 73.4)
+
+Anticoagulation/Antiplatelet medication       97.0% (194/200)
+Anticoagulation medication                    82.5% (165/200)
+Antiplatelet medication                       34.5% (69/200)
+NYHA Classification
+ Class I                                      2.0% (4/196)
+ Class II                                     44.9% (88/196)
+ Class III                                    48.5% (95/196)
+ Class IV                                     4.6% (9/196)
+
+
+
+
+                                          8
+ Table 4. PVL Characteristics
+Characteristic                                                                    Total (N=200)
+Indication for PVL Closure
+  Heart failure (HF)                                                              63.0% (126/200)
+  Hemolysis                                                                       10.5% (21/200)
+  Both HF and Hemolysis                                                           26.5% (53/200)
+Valve Type
+  Mechanical                                                                      70.0% (140/200)
+  Biological                                                                      30.0% (60/200)
+PVL Severity Grade
+  None/Trace                                                                      0.0% (0/200)
+  Mild                                                                            0.0% (0/200)
+  Mild to moderate                                                                0.0% (0/200)
+  Moderate                                                                        25.0% (50/200)
+  Moderate to severe                                                              28.0% (56/200)
+  Severe                                                                          47.0% (94/200)
+PVL Defect Location
+   Aortic                                                                         35.0% (70/200)
+   Mitral                                                                         65.0% (130/200)
+
+
+The baseline medical history for all subjects is shown in the following table. The mean time since last valve surgery was 120.2 months, ranging from 1.1
+months to 537.7 months.
+ Table 5. Baseline Medical History
+
+                                                                                  Total (N= 200)
+
+Time since last valve surgery (months)
+  Mean ± SD (n)                                                                   120.2 ± 116.9 (168)
+  Median (Q1, Q3)                                                                 74.9 (27.5, 194.1)
+  Range (min, max)                                                                (1.1, 537.7)
+
+Previous cardiovascular procedures
+
+  Balloon valvuloplasty                                                           6.0% (12/200)
+
+  Carotid artery stent                                                            0.5% (1/200)
+
+  Carotid endarterectomy                                                          1.0% (2/200)
+
+  Coronary artery bypass graft                                                    13.0% (26/200)
+
+  Left atrial appendage ligation/removal                                          14.0% (28/200)
+
+  Percutaneous transluminal coronary angioplasty with stent                       9.5% (19/200)
+
+  Percutaneous transluminal coronary angioplasty without stent                    4.0% (8/200)
+
+  Permanent pacemaker (PPM)                                                       27.5% (55/200)
+
+Coexisting cardiovascular diseases
+
+  Coronary artery disease                                                         29.0% (58/200)
+
+  Cardiomyopathy                                                                  16.5% (33/200)
+
+  Cardiac arrhythmias                                                             77.0% (154/200)
+
+    Atrial fibrillation                                                           67.5% (135/200)
+
+    Atrial tachycardia                                                            3.5% (7/200)
+
+    Atrial flutter                                                                11.0% (22/200)
+
+    Sinus tachycardia                                                             3.0% (6/200)
+
+    Sinus bradycardia                                                             4.0% (8/200)
+
+    Junctional rhythm                                                             2.0% (4/200)
+
+    First degree Atrioventricular (AV) block                                      6.5% (13/200)
+
+
+                                                                              9
+Table 5. Baseline Medical History
+
+                                                                       Total (N= 200)
+
+   Second degree AV block                                              1.5% (3/200)
+   Third degree AV block                                               5.5% (11/200)
+   Left fascicular block                                               1.5% (3/200)
+   Bundle branch block                                                 9.0% (18/200)
+   Premature ventricular contractions /ventricular bigeminy            4.0% (8/200)
+   Ventricular tachycardia                                             5.0% (10/200)
+   Intra-ventricular conduction delay                                  0.5% (1/200)
+   Supraventricular tachycardia                                        1.0% (2/200)
+   Sick sinus syndrome                                                 1.5% (3/200)
+   Ventricular fibrillation                                            2.0% (4/200)
+   Other                                                               1.5% (3/200)
+ Infectious endocarditis                                               21.0% (42/200)
+ Myocardial infarction (MI)                                            10.0% (20/200)
+ Right ventricular dysfunction                                         16.5% (33/200)
+Other coexisting medical conditions
+ Active peptic ulcer                                                   3.0% (6/200)
+ Active vasculopathies                                                 3.0% (6/200)
+ Any present or historical tobacco use                                 29.5% (59/200)
+ Autoimmune disease                                                    6.0% (12/200)
+ Blood disorder                                                        40.5% (81/200)
+   Anemia                                                              37.0% (74/200)
+   Thrombocytopenia                                                    6.5% (13/200)
+   Other                                                               2.5% (5/200)
+ Cancer                                                                19.5% (39/200)
+ Carotid artery disease                                                3.5% (7/200)
+ Cerebrovascular disease                                               7.5% (15/200)
+ Cerebrovascular accident (CVA)                                        14.0% (28/200)
+ Chronic lung disease                                                  12.5% (25/200)
+ Diabetes                                                              18.5% (37/200)
+ Endovascular stent graft or prosthesis                                3.0% (6/200)
+ Hemorrhage, excessive bleeding                                        8.0% (16/200)
+ Hostile mediastinum/prohibitive chest deformity                       0.5% (1/200)
+ Hypercoagulative disorders
+   Yes                                                                 0.5% (1/200)
+   No                                                                  81.5% (163/200)
+   Unknown                                                             18.0% (36/200)
+ Hyperlipidemia                                                        56.5% (113/200)
+ Hypertension                                                          67.5% (135/200)
+ Internal mammary artery or other critical conduit crossing midline    4.0% (8/200)
+ Kidney disease                                                        23.5% (47/200)
+ Non-cerebral embolism                                                 5.0% (10/200)
+ Peripheral vascular disease                                           5.0% (10/200)
+ Pulmonary hypertension                                                29.5% (59/200)
+ Severe liver disease                                                  3.0% (6/200)
+ Transient ischemic attack (TIA)                                       10.0% (20/200)
+
+
+
+
+                                                                      10
+Results
+Procedure and Implant Characteristics
+The following table shows the index procedure characteristics for all subjects that attempted APVL3 implant and all devices that were implanted during the
+index procedure. The average procedure time was 91.7 minutes, and 69.5% of subjects underwent a procedure with general anesthesia. Vascular access was
+achieved with a femoral vein or femoral artery approach in 51.5% and 44.0% of subjects, respectively, followed by a transapical approach in 3.0% of subjects,
+and a radial artery approach in 1.5% of subjects. An arteriovenous rail was used in 17% of subjects to assist physicians in crossing the PVL defect with the
+delivery catheter.
+The number of PVL closure devices implanted ranged from zero to four, with the majority of subjects (69.5%) being implanted with a single device. Subjects
+were implanted with both APVL3 and commercially available occluders as needed, based on the implanting physician’s judgement regarding the PVL defect
+morphology and best strategy to close the defect. The overall summary of devices implanted is illustrated in the Overview of Devices Implanted table.
+ Table 6. Index Procedure Characteristics
+                                                                               Total (N= 200)
+Procedure Time (mins)
+  Mean ± SD (n)                                                                91.7 ± 51.7 (200)
+  Range (min, max)                                                             (12, 281)
+
+Anesthesia
+  Conscious sedation                                                           28.0% (56/200)
+  General anesthesia                                                           69.5% (139/200)
+Vascular Access
+  Femoral Artery                                                               44.0% (88/200)
+  Femoral Vein                                                                 51.5% (103/200)
+  Radial Artery                                                                1.5% (3/200)
+  Transapical                                                                  3.0% (6/200)
+Device Approach
+  Antegrade                                                                    64.5% (129/200)
+  Retrograde                                                                   33.5% (67/200)
+  Both                                                                         2.0% (4/200)
+Arteriovenous Rail Used                                                        17.0% (34/200)
+Number of Devices Implanted
+   0                                                                           1.5% (3/200)
+   1                                                                           69.5% (139/200)
+   2                                                                           20.5% (41/200)
+   3                                                                           7.0% (14/200)
+   4                                                                           1.5% (3/200)
+Devices Implanted
+  Amplatzer Valvular Plug III (APVL3)                                          256
+  Amplatzer Vascular Plug II (AVP II)                                          10
+  Amplatzer Duct Occluder II (ADO II)                                          3
+  Amplatzer Septal Occluder (ASO)                                              3
+  Amplatzer Vascular Plug IV (AVP IV)                                          2
+  Amplatzer Muscular VSD Occluder (VSD MUSC)                                   1
+
+
+
+
+                                                                             11
+Figure 4. Overview of Devices Implanted
+
+
+
+
+  2NOTE: Additional PVL defects (>1 defect) were identified intraprocedurally. Two (2) subjects had both multiple devices in a single defect and a second
+  defect identified intraprocedurally.
+At least one APVL3 device was implanted in 96% (192/200) subjects, and 24.5% (49/200) subjects were implanted with multiple APVL3 devices, summarized
+in the following table. There were also 19 non-study devices implanted in 15 patients, 10 of which were in conjunction with the APVL3 device.
+ Table 7. Subject Level APVL3 Devices Implanted
+                                                                                Total (N= 200)
+Number of APVL3 Devices Implanted
+   0                                                                            4.0% (8/200)
+   1                                                                            71.5% (143/200)
+   2                                                                            18.0% (36/200)
+   3                                                                            5.5% (11/200)
+   4                                                                            1.0% (2/200)
+Number of APVL3 Devices Implanted
+ Mean ± SD (n)                                                                  1.3 ± 0.7 (200)
+
+At least 1 APVL3 Device Implanted                                               96.0% (192/200)
+Subjects with Non-Study Devices Implanted                                       7.5% (15/200)
+Number of Non-Study Devices Implanted                                           191
+1 Non-Study devices were AVP II, ADO II, ASO, AVP IV, VSD MUSC
+
+The following table summarizes the site-reported PVL grade at exit of the procedure for all subjects (N=200), for subjects who received at least one device
+(N=197), and only for subjects who received at least one APVL3 device (N=192). Among all subjects, the site-reported residual PVL after device implant was
+mild or less in 91.5% at exit from the procedure: the majority (61.5%) had PVL severity grade of None/Trace, 30.0% had mild PVL, and only 1.5% had
+moderate-to-severe or severe PVL. Among subjects who received at least one device, 92.9% had mild or less residual PVL; similarly, among subjects who
+received at least one APVL3 device, 93.2% had mild or less residual PVL.
+ Table 8. Site-reported PVL Grade Post-Implant
+Post-Implant PVL Severity Grade          Total Subjects                         Subjects with at least 1 Device Im-    Subjects with at least 1 APVL3 Im-
+(site reported)1                         (N=200)                                planted                                planted
+                                                                                (N=197)                                (N=192)
+  None/Trace                             61.5% (123/200)                        62.4% (123/197)                        62.5% (120/192)
+  Mild                                   30.0% (60/200)                         30.5% (60/197)                         30.7% (59/192)
+  Mild to moderate                       5.0% (10/200)                          4.6% (9/197)                           4.7% (9/192)
+  Moderate                               2.0% (4/200)                           1.5% (3/197)                           1.0% (2/192)
+  Moderate to severe                     1.0% (2/200)                           1.0% (2/197)                           1.0% (2/192)
+  Severe                                 0.5% (1/200)                           0.0% (0/197)                           0.0% (0/192)
+1 The most severe PVL grade was used when multiple grades were recorded.
+
+Primary Endpoint
+The primary endpoint was met in 94.0% of subjects, with LCB of 90.2%, significantly exceeding the study PG (p < 0.0001, see the following table). The rates of
+the individual components are 96.0% for transcatheter placement of the APVL3 in the intended location without interfering with the surgical valve function
+on exit from procedure, 97.5% for reduction in PVL by greater than or equal to two grades on exit from procedure, 100% for freedom from intra-procedural
+
+                                                                              12
+death, and 98.5% for freedom from unplanned surgical procedure or transcatheter reintervention related to the APVL3 through 30 days. These results
+demonstrate strong technical success and favorable short-term safety profile of the Paraclose Occluder.
+ Table 9. Primary Endpoint Analysis (30 days)
+                                                                                                                                         Total (N=200)
+Primary Endpoint                                                                                                                         94.0% (188/200)
+
+  Lower confidence bound1                                                                                                                90.2%
+
+  p-value                                                                                                                                <0.0001
+Primary Endpoint Components:                                                                                                             96.0% (192/200)
+   Transcatheter placement of the APVL3 in the intended location without interfering
+   with the surgical valve function on exit from procedure
+    Reduction in PVL by greater than or equal to two grades on exit from procedure                                                       97.5% (195/200)
+    Freedom from intra-procedural death (during procedure)                                                                               100.0% (200/200)
+    Freedom from unplanned surgical procedure or transcatheter reintervention related to the APVL3 through 30 days                       98.5% (197/200)
+1 Based on one-sided 96% lower confidence bound. The confidence bound and p-value are based an exact test.
+
+
+Subgroup analysis was conducted on geographical region (US vs OUS), gender (male vs female), valve type (mechanical vs biological), implant position (aortic
+vs mitral), and number of devices implanted (single vs multiple). The results are descriptively summarized in the following table, showing overall success was
+high across all subgroups. Geographic region showed slightly lower success in the US compared to OUS (89.0% vs 99.0%), likely attributed to the commercial
+availability of the APVL3 device in EU and Canada and therefore greater familiarity with device implantation. Mechanical valves had a higher success rate
+than tissue valves (96.4% vs 88.3%), likely driven by OUS contribution to mechanical valve enrollments only, and their familiarity with APVL3, versus US
+contribution to both mechanical and tissue valve enrollments.
+ Table 10. Subgroup Analysis of Primary Endpoint (30 days)
+Subgroup                                                                             Total (N=200)
+Geographic region
+  US                                                                                 89.0% (89/100)
+  OUS                                                                                99.0% (99/100)
+Gender
+  Female                                                                             94.0% (78/83)
+  Male                                                                               94.0% (110/117)
+Valve type
+  Mechanical                                                                         96.4% (135/140)
+  Biological                                                                         88.3% (53/60)
+Implant position
+  Aortic                                                                             95.7% (67/70)
+  Mitral                                                                             93.1% (121/130)
+
+Number of devices1
+  Single                                                                             95.7% (133/139)
+  Multiple                                                                           94.8% (55/58)
+1 Subjects with no devices implanted are excluded.
+
+Success Measures
+Additional success measures and their associated definitions are provided in the following table. If a subject fails a single component of a success measure,
+they are considered a failure for that measure. If a subject is not evaluable for one component of a success measure, and does not fail any other component,
+they are considered not evaluable for that success measure and excluded from the calculation. Technical success at procedure exit was achieved in 95.0%
+(190/200) of subjects. Device success at 30 days post procedure was achieved in 92.0% (160/174) of subjects. Procedural success at 30 days post procedure
+was achieved in 77.3% (140/181) of subjects.
+ Table 11. Success Measures (30 days)
+                                                                                Total (N= 200)
+Technical Success (assessed on exit from procedure laboratory)                  95.0% (190/200)
+  Freedom from intra-procedural death                                           100.0% (200/200)
+  Placement of the APVL3 in the intended location                               96.0% (192/200)
+  Freedom from unplanned surgical procedure or transcatheter reinterven-        98.5% (197/200)
+tion related to the APVL3
+
+Device Success (assessed at 30 days)                                            92.0% (160/174)1
+
+
+  Freedom from intra-procedural death                                           100.0% (200/200)
+
+
+
+                                                                              13
+ Table 11. Success Measures (30 days)
+                                                                                 Total (N= 200)
+   Placement of the APVL3 in the intended location with no migration, embo- 95.0% (190/200)
+lization, or
+   detachment
+  Freedom from unplanned surgical procedure or transcatheter reinterven-         98.5% (197/200)
+tion related to the APVL3
+
+  Reduction in PVL by greater than or equal to two grades1                       97.6% (161/165)2
+
+
+Procedural Success (assessed at 30 days)                                         77.3% (140/181)3
+
+
+  Device success                                                                 92.0% (160/174)
+
+
+  No device- or procedure-related serious adverse events                         83.0% (166/200)
+
+
+1 Twenty-six (26) subjects did not have available PVL grades at 30 days and did not fail another component, therefore are not included in the calculation.
+2 Thirty-five (35) subjects did not have available PVL grades at 30 days because of missed visit (n=9), subject discontinued the study (n=4), and PVL grade not
+evaluable on TTE (n=22). These subjects are not included in the calculation.
+3 Nineteen (19) subjects were not evaluable for Device Success and did not fail any other endpoint, therefore are not included in the calculation.
+
+Additional Safety Endpoints
+Safety Endpoints Through 30 Days
+The rates of safety events through 30 days, as determined by a clinical events committee (CEC), are shown in the following table. The 30-day mortality rate
+was 2%, all of which were classified as cardiovascular mortality. There were 6.5% of subjects who experienced a major bleeding event, 3.0% of subjects who
+experienced a minor vascular access complication, and 2.0% of subjects who experienced a major vascular access complication. Of the 15 major bleeding
+events, 11 were classified as serious adverse events. Of those 11 SAEs, CEC adjudicated six of them as being related to the procedure, two of them as being
+related to the delivery system, and none as being related to the device. Device embolization occurred in 1.5% of subjects, of which CEC adjudicated 2 events
+as possibly related to the device and possibly related to the delivery system. There were 5.0% of subjects who needed an unplanned surgical or
+interventional procedure, comprising of three heart block events requiring permanent pacemaker implantation, three device embolization retrievals during
+the procedure that were recovered by transcatheter means without complication, two events of hemothorax requiring surgical intervention, one event for a
+craniectomy, and one event of hypotension. Hemolytic anemia, either new or worsening, was seen in 3.5% of subjects. There were no instances of
+endocarditis, device or valve thrombosis, device interference with the surgical valve, or systemic embolism.
+ Table 12. Safety Endpoint Events Through 30 Days
+Endpoint Event (procedure through 30 days, un-        Rate per Subject % (n/N)                             Events (n)
+less otherwise specified)
+Coronary obstruction (peri-procedure)                 0.0% (0/200)                                         0
+Acute kidney injury (<7 days post procedure)          1.5% (3/200)                                         3
+Mortality (all-cause)                                 2.0% (4/200)                                         4
+  Cardiovascular mortality                            2.0% (4/200)                                         4
+Life-threatening, disabling or major bleeding, or     6.5% (13/200)                                        15
+other major cardiac complications (BARC type 3a
+and above)
+Major Cardiac Complications                           1.0% (2/200)                                         2
+Major vascular complications (access-site and ac-     2.0% (4/200)                                         5
+cess-related)
+Minor vascular complications (access-site and ac-     3.0% (6/200)                                         6
+cess-related)
+Device dislodgement, migration or embolization        1.5% (3/200)                                         3
+Unplanned surgical or interventional procedures       5.0% (10/200)                                        10
+Heart block requiring permanent pacemaker inser- 1.5% (3/200)                                              3
+tion
+Device related endocarditis                           0.0% (0/200)                                         0
+Valve dehiscence                                      0.5% (1/200)                                         1
+Hemolytic anemia (newly developed or worsen-          3.5% (7/200)                                         8
+ing)
+ Blood transfusions for treatment of hemolytic        2.5% (5/200)                                         6
+anemia (newly developed or worsening)
+ Device-related hemolytic anemia (newly devel-        1.0% (2/200)                                         2
+oped or worsening)
+Device or valve thrombosis                            0.0% (0/200)                                         0
+Interference of APVL3 with surgical valve function    0.0% (0/200)                                         0
+                                                                               14
+ Table 12. Safety Endpoint Events Through 30 Days
+Endpoint Event (procedure through 30 days, un-       Rate per Subject % (n/N)                             Events (n)
+less otherwise specified)
+Heart failure hospitalizations                       3.5% (7/200)                                         7
+Systemic embolism (including device-related sys-     0.0% (0/200)                                         0
+temic thromboembolism)
+Stroke                                               1.0% (2/200)                                         2
+Transient Ischemic Attack (TIA)                      0.5% (1/200)                                         1
+
+Safety Endpoints From 31 Days to 365 Days
+A summary of safety endpoint events occurring from 31 to 365 days post index procedure, adjudicated by the CEC, is presented below in the following table.
+There were 19 deaths and 15 cardiovascular deaths. The most frequent event out to 12 months was heart failure hospitalization with 36 events in 23
+subjects. There were 10 stroke events in nine subjects, and nine events of newly or worsening hemolysis in 8 subjects. A single event of endocarditis, device
+or valve thrombosis, interference with valve function by the device, and device embolization were reported. There were no instances of systemic embolism
+or transient ischemic attack.
+ Table 13. Safety Endpoint Events from 31 Days Through 365 Days
+Endpoint Event                                       Subjects                                             Events
+All-Cause Mortality                                  19                                                   19
+   Cardiovascular Mortality                          15                                                   15
+Endocarditis (related to the device)                 1                                                    1
+Valve dehiscence                                     5                                                    7
+Hemolytic anemia (newly developed or worsen-         8                                                    9
+ing)
+  Device-related hemolytic anemia (newly devel-      5                                                    5
+oped or worsening)
+  Blood transfusions for treatment of hemolytic      5                                                    5
+anemia (newly developed or worsening)
+Device or valve thrombosis                           1                                                    1
+Interference of APVL3 with surgical valve function   1                                                    1
+(including bioprosthetic valve tissue erosion or
+perforation)
+Device dislodgement, migration, or embolization      1                                                    1
+Heart failure hospitalizations                       23                                                   36
+Systemic embolism                                    0                                                    0
+   Device-related systemic thromboembolism           0                                                    0
+Stroke                                               9                                                    10
+Transient Ischemic Attack (TIA)                      0                                                    0
+
+Safety Endpoints Through 30 Days Stratified by Number of Devices Implanted
+The rates of safety events through 30 days, as determined by a clinical events committee (CEC), are shown in the following table, with event rates separated
+by the number of devices implanted within a subject.
+ Table 14. Safety Endpoint Events Through 30 Days Stratified by Number of Devices Implanted
+                                  Single Device Implanted (N=139)                              Multiple Devices Implanted (N=58)
+Endpoint Event (procedure         Rate per Subject % (n/N)      Events (n)                     Rate per Subject % (n/N)        Events (n)
+through 30 days, unless oth-
+erwise specified)
+Intra-procedural death (dur-      0.0% (0/139)                  0                              0.0% (0/58)                     0
+ing procedure)
+
+Coronary obstruction (peri-       0.0% (0/139)                  0                              0.0% (0/58)                     0
+procedure1)
+
+Acute kidney injury (<7 days      0.7% (1/139)                  1                              3.4% (2/58)                     2
+post procedure)
+Mortality (all-cause)             2.2% (3/139)                  3                              1.7% (1/58)                     1
+ Cardiovascular mortality         2.2% (3/139)                  3                              1.7% (1/58)                     1
+Life threatening, disabling or    4.3% (6/139)                  6                              12.1% (7/58)                    9
+major bleeding (BARC type
+3a and above)
+Major Cardiac Complications       0.0% (0/139)                  0                              3.4% (2/58)                     2
+
+
+
+                                                                              15
+ Table 14. Safety Endpoint Events Through 30 Days Stratified by Number of Devices Implanted
+                                 Single Device Implanted (N=139)                               Multiple Devices Implanted (N=58)
+Endpoint Event (procedure        Rate per Subject % (n/N)       Events (n)                     Rate per Subject % (n/N)        Events (n)
+through 30 days, unless oth-
+erwise specified)
+Major and minor vascular         4.3% (6/139)                   7                              3.4% (2/58)                     4
+complications (access-site
+and access-related)
+Complications due to septal      0.0% (0/139)                   0                              0.0% (0/58)                     0
+crossing (for trans-septal ac-
+cess)
+Device dislodgement, migra-      0.7% (1/139)                   1                              3.4% (2/58)                     2
+tion or embolization
+Unplanned surgical or inter-     3.6% (5/139)                   5                              8.6% (5/58)                     5
+ventional procedures (such
+as cardiopulmonary bypass
+or hemodynamic support re-
+sponse, and conversion to
+emergency surgery)
+Heart block requiring perma- 1.4% (2/139)                       2                              1.7% (1/58)                     1
+nent pacemaker insertion
+Endocarditis (related to the     0.0% (0/139)                   0                              0.0% (0/58)                     0
+device)
+Valve dehiscence                 0.0% (0/139)                   0                              1.7% (1/58)
+Hemolytic anemia (newly de- 2.2% (3/139)                        3                              3.4% (2/58)                     1
+veloped or worsening)
+ Blood transfusions for treat- 2.2% (3/139)                     3                              1.7% (1/58)                     2
+ment of hemolytic anemia
+(newly developed or worsen-
+ing)
+ Device-related hemolytic        0.7% (1/139)                   1                              1.7% (1/58)                     1
+anemia (newly developed or
+worsening)
+Device or valve thrombosis       0.0% (0/139)                   0                              0.0% (0/58)                     0
+Interference of APVL3 with     0.0% (0/139)                     0                              0.0% (0/58)                     0
+surgical valve function (in-
+cluding bioprosthetic valve
+tissue erosion or perforation)
+Heart failure hospitalizations   1.4% (2/139)                   2                              8.6% (5/58)                     5
+Systemic embolism                0.0% (0/139)                   0                              0.0% (0/58)                     0
+ Device-related systemic         0.0% (0/139)                   0                              0.0% (0/58)                     0
+thromboembolism
+Stroke                           1.4% (2/139)                   2                              0.0% (0/58)                     0
+Transient Ischemic Attack        0.0% (0/139)                   0                              1.7% (1/58)                     1
+(TIA)
+1 Peri-procedure is defined as within 2 days of procedure.
+
+Additional Effectiveness Endpoints
+Paravalvular Leak
+The PVL grade at baseline through 12 months follow-up, as assessed by a core laboratory, is shown in the following figure. Prior to PVL closure procedure,
+mild or less PVL was reported in 18.5% of subjects. At discharge from the PVL closure procedure, mild or less residual PVL was reported in over 95% of
+subjects and remained at that level or higher through 30 days, 6 months, and 12 months.
+
+
+
+
+                                                                              16
+Figure 5. Paravalvular Leak Through 12 Months (Core Lab Assessed)
+
+
+
+
+*Out of 200 subjects enrolled, nine (9) subjects had baseline TEE & CT instead of TTE, and 37 subjects had unevaluable PVL grade by core lab. Enrollment in
+the study was based on site assessment of moderate or greater PVL, which was available for all 200 subjects.
+
+NYHA Functional Classification
+The NYHA functional class of subjects at baseline, 30 days, 6 months, and 12 months is shown in the following figure. At baseline, the proportion of subjects
+with NYHA class III or IV was 53.1% and was reduced to 17.1% at 30 days, 12.2% at 6 months, and 15.2% at 12 months.
+Figure 6. NYHA Functional Class Through 12 Months
+
+
+
+
+Quality of Life Measures
+The improvement in self-reported Quality-of-life measures (Kansas City Cardiomyopathy Questionnaire (KCCQ) and EuroQol 5D (EQ-5D)) observed between
+baseline and 30 days and between baseline and 12 months are shown in the following table (paired data). Subjects reported a mean change in KCCQ overall
+summary score of 15.67 points at 30 days and 18.80 points at 12 months. The proportion of subjects who experienced a change greater than the minimally
+clinically important difference (MCID) of 5 points [Abdel Jawad 2025, Spertus 2025] is 66.5% at 30 days and 72.9% at 12 months. Subjects reported a mean
+change in EQ-5D overall index score of 0.09 at 30 days and 0.10 at 12 months. The proportion of subjects who experienced a change greater than the
+minimally important difference (MID) of .05 is 53.4% at 30 days and 55.0% at 12 months.
+ Table 15. Quality of Life Measures Through 12-months – Paired Data
+KCCQ                            Baseline                        Follow-up                       Change from Baseline           Subjects with Score Change
+                                                                                                (follow-up – baseline)         >5 points*
+                                                                                                mean [95% CI]                  % (n/N)
+30 Days
+Overall summary score
+ Mean ± SD (n)                  58.16 ± 24.52 (176)             73.82 ± 21.05 (176)             15.67 [12.59, 18.75]           66.5% (117/176)
+ Range (min, max)               (1.0, 100.0)                    (10.4, 100.0)
+
+12 Months
+
+
+                                                                              17
+ Table 15. Quality of Life Measures Through 12-months – Paired Data
+Overall summary score
+  Mean ± SD (n)                  57.99 ± 24.96 (118)                76.79 ± 21.39 (118)             18.80 [14.75, 22.86]             72.9% (86/118)
+  Range (min, max)               (11.5, 100.0)                      (19.8, 100.0)
+EQ-5D                            Baseline                           Follow-up                       Change from Baseline             Subjects with Score Change
+                                                                                                    (follow-up - baseline)           > 0.05
+                                                                                                    mean [95% CI]                    % (n/N)
+30 days
+Overall Index Score
+  Mean ± SD (n)                  0.73 ± 0.25 (176)                  0.83 ± 0.18 (176)               0.09 [0.06, 0.13]                53.4% (94/176)
+  Range (min, max)               (-0.45, 1.00)                      (-0.02, 1.00)
+12 Months
+Overall Index Score
+  Mean ± SD (n)                  0.73 ± 0.26 (120)                  0.83 ± 0.21 (120)               0.10 [0.06, 0.14]                55.0% (66/120)
+  Range (min, max)               (-0.45, 1.00)                      (0.08, 1.00)
+*5 point threshold is minimally clinically important difference for heart failure symptoms as defined by Spertus 2025
+
+Disposal
+Amplatzer™ Paraclose PVL Occluder components should be appropriately classified as biohazards and disposed of in compliance with applicable facility
+procedures and local and country laws and regulations.
+
+Reporting Device Incidents
+If, in the course of using this device, you have reason to believe that a serious incident occurred, please report it to Abbott Medical and the applicable
+competent authority or regulatory body.
+
+Warranty
+Abbott Medical warrants to buyer that, for a period equal to the validated shelf life of the product, this product shall meet the product specifications
+established by the manufacturer when used in accordance with the manufacturer’s instructions for use and shall be free from defects in materials and
+workmanship. Abbott Medical’s obligation under this warranty is limited to replacing or repairing at its option, at its factory, this product if returned within
+the warranty period to Abbott Medical and after confirmed to be defective by the manufacturer.
+EXCEPT AS EXPRESSLY PROVIDED IN THIS WARRANTY, ABBOTT MEDICAL DISCLAIMS ANY REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING ANY WARRANTY AS TO MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+See the Terms and Conditions of Sale for further information.
+
+Symbols
+The symbols below and harmonized symbols may be found on the product or product label. For harmonized symbols, refer to the Universal Symbols Glossary
+at medical.abbott/manuals.
+Symbol                                               Definition
+                                                     Does not contain natural rubber latex components
+
+
+                                                     Inner diameter
+
+
+
+                                                     Outer diameter
+
+
+
+                                                     Length
+
+
+                                                     Recommended delivery sheath dimensions
+
+                                                     USA only: Federal law restricts this device to sale by or on the order of a Physician
+
+
+                                                     Consult instructions for use or consult electronic instructions for use.
+
+
+
+
+ UDI                                                 Unique Device Identifier
+
+ PVL Occluder                                        PVL Occluder
+
+                                                     Single sterile barrier system with protective packaging inside
+
+
+
+                                                     Manufacturing facility
+
+
+
+
+                                                                                  18
+19
+Abbott Medical
+5050 Nathan Lane North
+Plymouth, MN 55442 USA
+abbott.com
+
+2026-10
+ARTEN600369435 B
+
+
+
+*600369435*
+

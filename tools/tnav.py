@@ -1,7 +1,7 @@
 # Combined therapy/category dropdown: order, labels, default, deep links, old-URL mapping, valve-position filter
 import sys;U=sys.argv[1]
 from playwright.sync_api import sync_playwright
-G=['TAVI','Mitral TEER','Tricuspid TEER','Mitral TMVR','Tricuspid TTVR','LAAO','Shared accessories']
+G=['TAVI','Mitral TEER','Tricuspid TEER','Mitral TMVR','Tricuspid TTVR','LAAO','PVL Closure','Shared accessories']  # sh23: PVL Closure added
 bad=[];errs=[]
 with sync_playwright() as p:
   b=p.chromium.launch(executable_path='/usr/bin/google-chrome')
@@ -12,7 +12,7 @@ with sync_playwright() as p:
     if [g[0] for g in groups]!=G: bad.append((n,'group order',[g[0] for g in groups]))
     for t,os in groups:
       for v,l in os:
-        SH={'Mitral TEER':'M-TEER','Tricuspid TEER':'T-TEER','Mitral TMVR':'TMVR','Tricuspid TTVR':'TTVR','Shared accessories':'Shared'}
+        SH={'Mitral TEER':'M-TEER','Tricuspid TEER':'T-TEER','Mitral TMVR':'TMVR','Tricuspid TTVR':'TTVR','Shared accessories':'Shared','PVL Closure':'PVL'}
         if not (l.startswith(t+' – ') if n=='desk' else l.startswith(SH.get(t,t)+' – ')): bad.append((n,'label',v,l))
     tav=[l for v,l in groups[0][1]]
     if tav[:4]!=['TAVI – Valves','TAVI – Valve wires','TAVI – Large-bore sheaths','TAVI – Embolic protection']: bad.append((n,'TAVI order',tav))

@@ -47,9 +47,9 @@ fetch('data/core.json?v=__VER__').then(r=>r.json()).then(d=>{D=d;document.queryS
 const DEF='TAVI valve';
 const ORDER=[['TAVI',[['TAVI valve','Valves'],['Valve wire','Valve wires'],['Large-bore sheath','Large-bore sheaths'],['Cerebral embolic protection','Embolic protection'],['Valvuloplasty balloon','Valvuloplasty balloons'],['Large-bore closure','Large-bore closure'],['Temporary pacing','Temporary pacing']]],
  ['Mitral TEER',[['Mitral TEER','Devices']]],['Tricuspid TEER',[['Tricuspid TEER','Devices']]],['Mitral TMVR',[['TMVR valve','Valves']]],['Tricuspid TTVR',[['TTVR valve','Valves']]],
- ['LAAO',[['LAAO device','Occluders'],['LAAO access sheath','Access sheaths']]],['Shared accessories',[['Transseptal access','Transseptal access'],['Steerable guide/sheath','Steerable guides/sheaths']]]];
+ ['LAAO',[['LAAO device','Occluders'],['LAAO access sheath','Access sheaths']]],['PVL Closure',[['PVL occluder','Occluders']]],['Shared accessories',[['Transseptal access','Transseptal access'],['Steerable guide/sheath','Steerable guides/sheaths']]]];
 function catLabel(c){for(const [t,L] of ORDER){const x=L.find(y=>y[0]===c);if(x)return t+' – '+x[1]}return (D.ther[c]||'')+' – '+c}
-const SHORT={'Mitral TEER':'M-TEER','Tricuspid TEER':'T-TEER','Mitral TMVR':'TMVR','Tricuspid TTVR':'TTVR','Shared accessories':'Shared'};const MQ=matchMedia('(max-width:720px)');function tl(t){return MQ.matches&&SHORT[t]||t}
+const SHORT={'Mitral TEER':'M-TEER','Tricuspid TEER':'T-TEER','Mitral TMVR':'TMVR','Tricuspid TTVR':'TTVR','Shared accessories':'Shared','PVL Closure':'PVL'};const MQ=matchMedia('(max-width:720px)');function tl(t){return MQ.matches&&SHORT[t]||t}
 function therOf(c){return D.ther[c]||''}
 function fillCats(cats){const seen=new Set();let h='';for(const [t,L] of ORDER){const o=L.filter(x=>cats.includes(x[0]));o.forEach(x=>seen.add(x[0]));
   const extra=cats.filter(c=>!seen.has(c)&&therOf(c)===t);extra.forEach(c=>seen.add(c));

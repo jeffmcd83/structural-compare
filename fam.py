@@ -125,11 +125,13 @@ SH={
 "WATCHMAN TruSteer Access System":("SH_WATCHMAN",r"TruSteer",None,None,"LAAO access sheath"),
 "WATCHMAN FXD Curve Access System":("SH_WATCHMAN",r"FXD Curve",None,None,"LAAO access sheath"),
 "Amulet Steerable Delivery Sheath":("SH_Amulet",r"^Amulet™$",r"Steerable Delivery Sheath",None,"LAAO access sheath"),
+# sh23 (2026-11-14, Jeff-approved): PVL closure
+"Amplatzer Paraclose PVL Occluder":("SH_Paraclose",r"^Amplatzer™$",r"Paraclose PVL Occluder",None,"PVL occluder"),
 }
 for k,(fn,b,i,e,c) in SH.items(): F[k]=(fn,b,i,e);CAT[k]=c
 THER={c:'Coronary' for c in set(CAT.values())}
 THER.update({c:'TAVI' for c in ['TAVI valve','Valve wire','Large-bore sheath','Cerebral embolic protection','Valvuloplasty balloon','Large-bore closure','Temporary pacing']})
-THER.update({'TMVR valve':'Mitral TMVR','TTVR valve':'Tricuspid TTVR','LAAO device':'LAAO','LAAO access sheath':'LAAO'})
+THER.update({'TMVR valve':'Mitral TMVR','TTVR valve':'Tricuspid TTVR','LAAO device':'LAAO','LAAO access sheath':'LAAO','PVL occluder':'PVL Closure'})
 THER.update({'Mitral TEER':'Mitral TEER','Tricuspid TEER':'Tricuspid TEER','Transseptal access':'Shared accessories','Steerable guide/sheath':'Shared accessories'})
 # --- structural-only standalone build (split from coronary-specs 2026-10-13) ---
 F={k:F[k] for k in SH};CAT={k:CAT[k] for k in SH};THER={c:THER[c] for c in set(CAT.values())}

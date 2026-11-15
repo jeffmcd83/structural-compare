@@ -1,0 +1,326 @@
+[
+{
+"brand_name": "Amplatzer\u2122",
+"version_or_model_number": "9-APVL-143",
+"catalog_number": "9-APVL-143",
+"company_name": "ST. JUDE MEDICAL, INC.",
+"device_description": "Paraclose PVL Occluder",
+"identifiers": [
+{
+"id": "05415067057242",
+"type": "Primary",
+"issuing_agency": "GS1"
+}
+],
+"premarket_submissions": [
+{
+"submission_number": "P260019",
+"supplement_number": "000"
+}
+],
+"product_codes": [
+{
+"code": "SJT",
+"name": "Para-device leak occluder"
+}
+],
+"device_sizes": [
+{
+"type": "Outer Diameter",
+"value": "14.0000",
+"unit": "Millimeter"
+}
+],
+"mri_safety": "MR Conditional",
+"publish_date": "2026-11-02",
+"_source": "AccessGUDID lookup API (converted to openFDA UDI shape; openFDA UDI had no Paraclose records on 2026-11-14)"
+},
+{
+"brand_name": "Amplatzer\u2122",
+"version_or_model_number": "9-APVL-084",
+"catalog_number": "9-APVL-084",
+"company_name": "ST. JUDE MEDICAL, INC.",
+"device_description": "Paraclose PVL Occluder",
+"identifiers": [
+{
+"id": "05415067057259",
+"type": "Primary",
+"issuing_agency": "GS1"
+}
+],
+"premarket_submissions": [
+{
+"submission_number": "P260019",
+"supplement_number": "000"
+}
+],
+"product_codes": [
+{
+"code": "SJT",
+"name": "Para-device leak occluder"
+}
+],
+"device_sizes": [
+{
+"type": "Outer Diameter",
+"value": "8.0000",
+"unit": "Millimeter"
+}
+],
+"mri_safety": "MR Conditional",
+"publish_date": "2026-11-02",
+"_source": "AccessGUDID lookup API (converted to openFDA UDI shape; openFDA UDI had no Paraclose records on 2026-11-14)"
+},
+{
+"brand_name": "Amplatzer\u2122",
+"version_or_model_number": "9-APVL-123",
+"catalog_number": "9-APVL-123",
+"company_name": "ST. JUDE MEDICAL, INC.",
+"device_description": "Paraclose PVL Occluder",
+"identifiers": [
+{
+"id": "05415067057266",
+"type": "Primary",
+"issuing_agency": "GS1"
+}
+],
+"premarket_submissions": [
+{
+"submission_number": "P260019",
+"supplement_number": "000"
+}
+],
+"product_codes": [
+{
+"code": "SJT",
+"name": "Para-device leak occluder"
+}
+],
+"device_sizes": [
+{
+"type": "Outer Diameter",
+"value": "12.0000",
+"unit": "Millimeter"
+}
+],
+"mri_safety": "MR Conditional",
+"publish_date": "2026-11-02",
+"_source": "AccessGUDID lookup API (converted to openFDA UDI shape; openFDA UDI had no Paraclose records on 2026-11-14)"
+},
+{
+"brand_name": "Amplatzer\u2122",
+"version_or_model_number": "9-APVL-063",
+"catalog_number": "9-APVL-063",
+"company_name": "ST. JUDE MEDICAL, INC.",
+"device_description": "Paraclose PVL Occluder",
+"identifiers": [
+{
+"id": "05415067057273",
+"type": "Primary",
+"issuing_agency": "GS1"
+}
+],
+"premarket_submissions": [
+{
+"submission_number": "P260019",
+"supplement_number": "000"
+}
+],
+"product_codes": [
+{
+"code": "SJT",
+"name": "Para-device leak occluder"
+}
+],
+"device_sizes": [
+{
+"type": "Outer Diameter",
+"value": "6.0000",
+"unit": "Millimeter"
+}
+],
+"mri_safety": "MR Conditional",
+"publish_date": "2026-11-02",
+"_source": "AccessGUDID lookup API (converted to openFDA UDI shape; openFDA UDI had no Paraclose records on 2026-11-14)"
+},
+{
+"brand_name": "Amplatzer\u2122",
+"version_or_model_number": "9-APVL-105",
+"catalog_number": "9-APVL-105",
+"company_name": "ST. JUDE MEDICAL, INC.",
+"device_description": "Paraclose PVL Occluder",
+"identifiers": [
+{
+"id": "05415067057280",
+"type": "Primary",
+"issuing_agency": "GS1"
+}
+],
+"premarket_submissions": [
+{
+"submission_number": "P260019",
+"supplement_number": "000"
+}
+],
+"product_codes": [
+{
+"code": "SJT",
+"name": "Para-device leak occluder"
+}
+],
+"device_sizes": [
+{
+"type": "Outer Diameter",
+"value": "10.0000",
+"unit": "Millimeter"
+}
+],
+"mri_safety": "MR Conditional",
+"publish_date": "2026-11-02",
+"_source": "AccessGUDID lookup API (converted to openFDA UDI shape; openFDA UDI had no Paraclose records on 2026-11-14)"
+},
+{
+"brand_name": "Amplatzer\u2122",
+"version_or_model_number": "9-APVL-042",
+"catalog_number": "9-APVL-042",
+"company_name": "ST. JUDE MEDICAL, INC.",
+"device_description": "Paraclose PVL Occluder",
+"identifiers": [
+{
+"id": "05415067057297",
+"type": "Primary",
+"issuing_agency": "GS1"
+}
+],
+"premarket_submissions": [
+{
+"submission_number": "P260019",
+"supplement_number": "000"
+}
+],
+"product_codes": [
+{
+"code": "SJT",
+"name": "Para-device leak occluder"
+}
+],
+"device_sizes": [
+{
+"type": "Outer Diameter",
+"value": "4.0000",
+"unit": "Millimeter"
+}
+],
+"mri_safety": "MR Conditional",
+"publish_date": "2026-11-02",
+"_source": "AccessGUDID lookup API (converted to openFDA UDI shape; openFDA UDI had no Paraclose records on 2026-11-14)"
+},
+{
+"brand_name": "Amplatzer\u2122",
+"version_or_model_number": "9-APVL-103",
+"catalog_number": "9-APVL-103",
+"company_name": "ST. JUDE MEDICAL, INC.",
+"device_description": "Paraclose PVL Occluder",
+"identifiers": [
+{
+"id": "05415067057303",
+"type": "Primary",
+"issuing_agency": "GS1"
+}
+],
+"premarket_submissions": [
+{
+"submission_number": "P260019",
+"supplement_number": "000"
+}
+],
+"product_codes": [
+{
+"code": "SJT",
+"name": "Para-device leak occluder"
+}
+],
+"device_sizes": [
+{
+"type": "Outer Diameter",
+"value": "10.0000",
+"unit": "Millimeter"
+}
+],
+"mri_safety": "MR Conditional",
+"publish_date": "2026-11-02",
+"_source": "AccessGUDID lookup API (converted to openFDA UDI shape; openFDA UDI had no Paraclose records on 2026-11-14)"
+},
+{
+"brand_name": "Amplatzer\u2122",
+"version_or_model_number": "9-APVL-125",
+"catalog_number": "9-APVL-125",
+"company_name": "ST. JUDE MEDICAL, INC.",
+"device_description": "Paraclose PVL Occluder",
+"identifiers": [
+{
+"id": "05415067057310",
+"type": "Primary",
+"issuing_agency": "GS1"
+}
+],
+"premarket_submissions": [
+{
+"submission_number": "P260019",
+"supplement_number": "000"
+}
+],
+"product_codes": [
+{
+"code": "SJT",
+"name": "Para-device leak occluder"
+}
+],
+"device_sizes": [
+{
+"type": "Outer Diameter",
+"value": "12.0000",
+"unit": "Millimeter"
+}
+],
+"mri_safety": "MR Conditional",
+"publish_date": "2026-11-02",
+"_source": "AccessGUDID lookup API (converted to openFDA UDI shape; openFDA UDI had no Paraclose records on 2026-11-14)"
+},
+{
+"brand_name": "Amplatzer\u2122",
+"version_or_model_number": "9-APVL-145",
+"catalog_number": "9-APVL-145",
+"company_name": "ST. JUDE MEDICAL, INC.",
+"device_description": "Paraclose PVL Occluder",
+"identifiers": [
+{
+"id": "05415067057327",
+"type": "Primary",
+"issuing_agency": "GS1"
+}
+],
+"premarket_submissions": [
+{
+"submission_number": "P260019",
+"supplement_number": "000"
+}
+],
+"product_codes": [
+{
+"code": "SJT",
+"name": "Para-device leak occluder"
+}
+],
+"device_sizes": [
+{
+"type": "Outer Diameter",
+"value": "14.0000",
+"unit": "Millimeter"
+}
+],
+"mri_safety": "MR Conditional",
+"publish_date": "2026-11-02",
+"_source": "AccessGUDID lookup API (converted to openFDA UDI shape; openFDA UDI had no Paraclose records on 2026-11-14)"
+}
+]

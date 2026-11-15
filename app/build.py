@@ -11,10 +11,10 @@ SIZE={'DES':['diameters_mm','lengths_mm'],'BMS':['diameters_mm','lengths_mm'],'C
 'TAVI valve':['valve_sizes_mm'],'Valve wire':['wire_diameter_in','length_cm'],'Large-bore sheath':['french_sizes','length_cm'],
 'Cerebral embolic protection':['french_sizes','length_cm'],'Valvuloplasty balloon':['diameters_mm','lengths_mm'],'Large-bore closure':['french_sizes'],
 'Temporary pacing':['french_sizes','length_cm'],'Mitral TEER':['clip_width_mm','arm_length_mm','grasping_width_mm'],'Tricuspid TEER':['clip_width_mm','arm_length_mm','grasping_width_mm'],
-'TMVR valve':['valve_sizes_mm'],'TTVR valve':['valve_sizes_mm'],'LAAO device':['diameters_mm'],'LAAO access sheath':['french_sizes','length_cm','inner_diameter_mm'],'Transseptal access':['french_sizes','length_cm'],'Steerable guide/sheath':['french_sizes','length_cm']}
+'TMVR valve':['valve_sizes_mm'],'TTVR valve':['valve_sizes_mm'],'LAAO device':['diameters_mm'],'LAAO access sheath':['french_sizes','length_cm','inner_diameter_mm'],'Transseptal access':['french_sizes','length_cm'],'Steerable guide/sheath':['french_sizes','length_cm'],'PVL occluder':['diameters_mm']}
 THER=json.load(open(R+'therapy_by_cat.json'))
 SECT={c:[['Identity & regulatory',COMMON],['Sizes (GUDID)',SIZE[c]],['Specifications (OEM IFU / spec sheet)',[f for f in SPEC[c] if f not in SIZE[c]]],['Safety',['recalls']]] for c in SPEC}
-LAB=lambda k:{'sheath_id_od':'Sheath ID / OD','sheath_compat':'Sheath / introducer compatibility','delivery_profile':'Delivery system profile','access_routes':'Labeled access routes','approval_indications':'FDA approval / indications','annulus_range_mm':'Annulus range (mm)','implant_sizes':'Implant sizes','independent_grasping':'Independent leaflet grasping','guide_size_fr':'Guide / sheath size (Fr)','grasping_width_mm':'Grasping width, arms open (mm)','clip_width_mm':'Clip / implant width (mm)','arm_length_mm':'Arm length (mm)','valve_position':'Valve position','family':'Product family','generation':'Generation','fda_approval_date':'FDA approval (this model)','implant_design':'Implant design','sizing_range':'Sizing (device → anatomy)','access_sheath':'Access / delivery sheath','anchoring':'Anchoring','inner_diameter_fr':'Inner diameter (Fr)','puncture_mechanism':'Puncture mechanism','needle_curves':'Needle / dilator curves','n_skus':'GUDID device count','fda_submission':'FDA PMA / 510(k) / HDE','catalog_numbers':'Catalog / model numbers','reprocessed':'Reprocessed (3rd-party 510(k))'}.get(k,(lambda m:(m.group(1).replace('_',' ').capitalize()+(' ('+{'mm':'mm','in':'in','cm':'cm','fr':'Fr','um':'µm','atm':'atm','gf':'gf','mhz':'MHz'}[m.group(2)]+')' if m.group(2) else '')))(re.match(r'(.*?)(?:_(mm|in|cm|fr|um|atm|gf|mhz))?$',k)))
+LAB=lambda k:{'sheath_id_od':'Sheath ID / OD','sheath_compat':'Sheath / introducer compatibility','delivery_profile':'Delivery system profile','access_routes':'Labeled access routes','approval_indications':'FDA approval / indications','annulus_range_mm':'Annulus range (mm)','implant_sizes':'Implant sizes','approved_positions':'Approved positions','independent_grasping':'Independent leaflet grasping','guide_size_fr':'Guide / sheath size (Fr)','grasping_width_mm':'Grasping width, arms open (mm)','clip_width_mm':'Clip / implant width (mm)','arm_length_mm':'Arm length (mm)','valve_position':'Valve position','family':'Product family','generation':'Generation','fda_approval_date':'FDA approval (this model)','implant_design':'Implant design','sizing_range':'Sizing (device → anatomy)','access_sheath':'Access / delivery sheath','anchoring':'Anchoring','inner_diameter_fr':'Inner diameter (Fr)','puncture_mechanism':'Puncture mechanism','needle_curves':'Needle / dilator curves','n_skus':'GUDID device count','fda_submission':'FDA PMA / 510(k) / HDE','catalog_numbers':'Catalog / model numbers','reprocessed':'Reprocessed (3rd-party 510(k))'}.get(k,(lambda m:(m.group(1).replace('_',' ').capitalize()+(' ('+{'mm':'mm','in':'in','cm':'cm','fr':'Fr','um':'µm','atm':'atm','gf':'gf','mhz':'MHz'}[m.group(2)]+')' if m.group(2) else '')))(re.match(r'(.*?)(?:_(mm|in|cm|fr|um|atm|gf|mhz))?$',k)))
 PS=[];PI={}
 def ps(s):
     u=(re.findall(r'https?://\S+',s) or [''])[0];t=re.sub(r'\s*;?\s*https?://\S+','',s).strip(' ;')
@@ -43,7 +43,7 @@ for r in rows:
 F=sorted({f for c in SECT.values() for s in c for f in s[1]})
 
 # Compatibility panel: ONLY labeling-stated items (existing sourced cells + sources/passSH10/compat.csv). Never inferred.
-ANCH={'TAVI valve','Mitral TEER','Tricuspid TEER','TMVR valve','TTVR valve','LAAO device'}
+ANCH={'TAVI valve','Mitral TEER','Tricuspid TEER','TMVR valve','TTVR valve','LAAO device','PVL occluder'}
 CF={'delivery_system':['delivery_system','delivery_profile'],'sheaths':['sheath_compat','access_sheath','delivery_sheath'],'access_routes':['access_routes']}
 _cc=collections.defaultdict(lambda:collections.defaultdict(list))
 for x in csv.DictReader(open(R+'sources/passSH10/compat.csv')):_cc[x['model']][x['field']].append([x['value'],ps(x['source'])])
@@ -57,7 +57,7 @@ for o in out:
 STUDY=collections.defaultdict(lambda:collections.defaultdict(list))
 for x in csv.DictReader(open(R+'sources/passSH11/study.csv')):STUDY[x['model']][x['field']].append([x['accessory'],x['quote'],x['citation'],x['url'],x['pmid'],x['doi']])
 COMPAT={m:{'label':c,'study':dict(STUDY.get(m,{}))} for m,c in COMPAT.items()}
-core={'compat':COMPAT,'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh22'}
+core={'compat':COMPAT,'rows':out,'sect':SECT,'ther':{c:THER.get(c,'Coronary') for c in SECT},'labels':{f:LAB(f) for f in F},'ps':PS,'suporder':SUPORDER,'built':datetime.date.today().isoformat(),'pass':'sh23'}
 def dump(n,o):
     s=json.dumps(o,ensure_ascii=False,separators=(',',':'));open(f'{OUT}/data/{n}','w').write(s);return s
 a=dump('core.json',core);b=dump('recalls.json',RC)
