@@ -89,6 +89,8 @@ SH={
 "Navitor Titan":("SH_Navitor",r"Titan",None,None,"TAVI valve"),
 "Trilogy":("SH_Trilogy",r"^Trilogy",None,None,"TAVI valve"),
 "Safari":("SH_SAFARI",r"^SAFARI™$",None,None,"Valve wire"),
+# sh24 (2026-11-16): SAFARI2 H74939406/407 only (US spec sheet SH-322920-AC-US); JPN, Extra Support, H74939661 excluded
+"SAFARI2":("SH_SAFARI2",r"^SAFARI2™$",None,None,"Valve wire"),
 "Confida":("SH_Confida",r"Confida",None,None,"Valve wire"),
 "Lunderquist Extra Stiff":("SH_Lunderquist",r"^Lunderquist$",r"Extra Stiff",None,"Valve wire"),
 "Amplatz Extra Stiff":("SH_Amplatz_ES",r"^Amplatz$",r"Extra Stiff",None,"Valve wire"),
