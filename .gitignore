@@ -1,1 +1,5 @@
 __pycache__/
+
+# Test screenshots (tth/tl/tui/tsticky tags) must never be committed (2026-11-18, Jeff OK).
+# Tracked PNGs already in app/ (45 sh21local-*) stay tracked; any NEW png in app/ is ignored.
+app/*.png
