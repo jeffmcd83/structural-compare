@@ -5,7 +5,7 @@ SITE_URL=${SITE_URL:-https://jeffmcd83.github.io/structural-compare/}; REMOTE=ht
 python3 build_master.py >/dev/null; sed -i "s/'pass':'[0-9a-z]*'/'pass':'$P'/" app/build.py; python3 app/build.py
 # Deploy gate: page errors / empty render / bad data / crash => stop here, nothing committed or pushed
 python3 tools/site_gate.py site "" preview/ || { echo "ABORT: deploy gate failed — nothing pushed"; exit 1; }
-git add -A; NP=$(git diff --cached --name-only --diff-filter=A | grep -E '^app/.*\.png$'); [ -n "$NP" ] && { echo "ABORT: new PNGs staged (test screenshots must not be committed):"; echo "$NP"; git reset -q; exit 1; }; git commit -qm "Pass $P"; git tag preview-pass$P; git push -q origin master preview-pass$P
+git add -A; NP=$(git diff --cached --name-only --diff-filter=A | grep -E '^app/.*\.png$' || true); [ -n "$NP" ] && { echo "ABORT: new PNGs staged (test screenshots must not be committed):"; echo "$NP"; git reset -q; exit 1; }; git commit -qm "Pass $P"; git tag preview-pass$P; git push -q origin master preview-pass$P
 git subtree split --prefix site -b g2 -q; git push -q -f origin g2:gh-pages; git branch -D g2 -q
 for i in $(seq 1 50); do curl -s "${SITE_URL:?set SITE_URL to the new GitHub Pages base URL}preview/data/core.json?x=$RANDOM" | grep -q "\"pass\":\"$P\"" && echo live && break; sleep 10; done
 python3 tools/tl.py ${SITE_URL:?set SITE_URL to the new GitHub Pages base URL}preview/ pass$P
