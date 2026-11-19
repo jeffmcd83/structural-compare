@@ -151,3 +151,12 @@ Checked / declined:
 - PASCAL T-TEER: P220003S029A–D still 404. New Edwards eIFU DOC-0592914A (2026-07, English/French, P/N 10056529005 A) has a combined MR/TR indication for "prohibitive risk" patients (not the US T-TEER indication; Federal-law symbol appears only in the shared symbol legend) → treated as Canadian labeling, not used; it gives no guide French size anyway. PASCAL RA tech-spec table (22 Fr / 7.3 mm) has no US marker → not used.
 - TRUE Dilatation nominal/RBP: K121083 (2012, Loma Vista original, 3 atm nominal / 6 atm max in bench criteria) is a predecessor configuration; K150667 says pressures are on the package label → not used. BD-110009 still 403.
 - Sentrant ID/OD: K171866 / Medtronic US page give Fr only. openFDA PMA/510(k) still last_updated 2026-11-02 → no new approvals to check.
+
+## Pass sh25 — gap fill (2026-11-19, /preview/ only, tag preview-passsh25). 4 values applied, 0 new conflicts. Backup structural-specs-verified.pre-passSH25.csv. Overall 89.4% (564/631) → 90.0% (568/631) (Transseptal access 77→86%, Steerable guide/sheath 91→97%).
+Filled (sources/passSH25/values.csv; pages re-fetched and cached in sources/passSH25/docs/):
+- VersaCross Access Solution french_sizes 8.5 Fr (2.8 mm) + length_cm 63, 81 cm sheath usable (dilator 67, 85 cm) — BSC US HCP page fp00000300 technical specifications (VersaCross Transseptal Sheath).
+- VersaCross Steerable Access Solution french_sizes 8.5 Fr (2.8 mm) + length_cm 72 cm sheath usable (dilator 95 cm) — BSC US HCP page fp00000302 technical specifications (VersaCross Steerable Sheath).
+Checked / still blank:
+- VersaCross fda_submission: component 510(k)s exist (Transseptal Sheath K183655; Steerable Sheath + Dilator K190688; RF Wire K242076; Connect dilator K220414/K233647/K241720/K251325) but no kit-level clearance and the original RF Wire clearance isn't identified → left blank rather than assembling a kit list.
+- PASCAL T-TEER: P220003S029A–D still 404.
+- openFDA PMA/510(k) last_updated 2026-11-09: decisions 2026-10-25→11-09 in scope are process/labeling supplements only (Navitor S033, SAPIEN 3 S210, EVOQUE S034, Evolut FX/FX+ S188) plus already-added Paraclose P260019; SAPIEN 3 TPV (pulmonary) out of scope. No new devices.
