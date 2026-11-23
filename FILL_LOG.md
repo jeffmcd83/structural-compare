@@ -160,3 +160,20 @@ Checked / still blank:
 - VersaCross fda_submission: component 510(k)s exist (Transseptal Sheath K183655; Steerable Sheath + Dilator K190688; RF Wire K242076; Connect dilator K220414/K233647/K241720/K251325) but no kit-level clearance and the original RF Wire clearance isn't identified → left blank rather than assembling a kit list.
 - PASCAL T-TEER: P220003S029A–D still 404.
 - openFDA PMA/510(k) last_updated 2026-11-09: decisions 2026-10-25→11-09 in scope are process/labeling supplements only (Navitor S033, SAPIEN 3 S210, EVOQUE S034, Evolut FX/FX+ S188) plus already-added Paraclose P260019; SAPIEN 3 TPV (pulmonary) out of scope. No new devices.
+
+## Pass sh26 — gap fill (2026-11-23, /preview/ only, tag preview-passsh26). 15 values applied, 0 new conflicts. Backup structural-specs-verified.pre-passSH26.csv. Overall 90.0% (568/631) → 92.4% (583/631) (Valve wire 75→83%, Large-bore sheath 91→98%, Valvuloplasty balloon 77→85%, Large-bore closure 93→97%, LAAO access sheath 86→95%; TAVI therapy 91→94%, LAAO 92→98%).
+Size-column blanks filled from exact-model US documents already accepted in earlier passes (all re-fetched 2026-11-23, text identical to the earlier caches; cached in sources/passSH26/docs/):
+- Amulet Steerable Delivery Sheath inner_diameter_mm: STRBL-14F-075 4.7 mm (0.184 in) — US IFU ARTEN600317851 Rev. C Table 2 p.2.
+- eSheath+ french_sizes 914ESP 14 F / 916ESP 16 F (sheath ID) + length_cm 36 cm — Edwards US IFU DOC-0254143A model table p.1.
+- eSheath Optima length_cm 36 cm sheath working length — Edwards US IFU DOC-0555495A Table 1 p.2.
+- WATCHMAN TruSteer french_sizes 12F ID (4.2 mm) / 17F OD (5.6 mm) + length_cm 67 cm working length — BSC US brochure SH-1659013-AA p.3 + US ordering table p.8.
+- WATCHMAN FXD Curve french_sizes 12F ID (4.2 mm) / 15F OD (5.0 mm) — BSC WATCHMAN FLX US product list p.1 (SGL US / DBL US rows).
+- Perclose ProGlide french_sizes 6F — SSED P960043/S118 p.1 ("Perclose ProGlide 6F SMC System").
+- Confida wire_diameter_in GWBC30 0.035 in — K181001 p.5.
+- Lunderquist Extra Stiff wire_diameter_in 0.035 in (p.5) + length_cm by catalog family 90/145/180/260/300 cm, LESDC/E-LESDC 260/300 cm (p.6) — K251596.
+- Amplatz Extra Stiff wire_diameter_in 0.025/0.032/0.035/0.038 in + length_cm 80/100/145/180/260/300 cm — Cook US product page spec table (21 US-listed THSF-/THSCF-…-AES SKUs; prefixed; other GUDID SKUs not covered).
+- Z-MED II diameters_mm 4–30 mm (20 sizes) + lengths_mm 20–60 mm — B. Braun IS US BAV brochure BIS06_041823 pp.2–3 (Z-MED II™ rows only, 77 of 91 GUDID SKUs).
+Checked / still blank:
+- PASCAL T-TEER: P220003S029A–D still 404 (re-checked once). TRUE BD-110009 still 403.
+- WATCHMAN TruSeal french_sizes/length: only EU sell sheets (M635TS…, OUS) give 14F / 75 cm → not used. Perclose ProStyle french_sizes: IFU/US pages give no device French size → blank.
+- openFDA PMA/510(k) last_updated still 2026-11-09 → no new decisions to check beyond sh25. Candidate for Jeff's call (not added): PASCAL Ace with Capture Clarity implant (PMA P220003/S028, approved 2026-09-23, design supplement; M-TEER) — no US IFU or GUDID record found yet. Not in scope/investigational: Amulet 360 (US IDE only).
